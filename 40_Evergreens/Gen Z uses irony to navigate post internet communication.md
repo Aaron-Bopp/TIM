@@ -14,21 +14,25 @@ sr-ease: 190
 [[Gen Z]] has a knack for internet [[communication]] unlike any other generation. They easily slide in and out of [[irony]], latch onto and quickly let go of the current trends and inside jokes, and perceive subtlety with ease.
 However, this new dialect is one created and used primarily on the internet. This shapes the way that it can be used.
 
+The internet gives access to more supporters and more detractors. This means that the average person experiences far more [[Scrutiny]] on the internet than off. 
+^[This might be the link between the [[internet]], [[Increases in scrutiny lead to increases in anxiety]], and [[There has been a decrease in mental health not an increase in mental illness]]]
+[[video_Aesop didn't know about Meta-Irony]] discusses the more negative aspects of this, and how it has lead to a rise in a more ambiguous form of [[irony]], [[meta-irony]].
 
-While this shared [[language]] may be off putting to people who are not fluent in it, it also accompanied with a level of comradery. This may lead to [[Gen Z]]'s increased aptitude for social change:
+This ambiguity has also lead to the more absurdist or "random xd" style of humor 
+^[[[video_What makes gen z humor so interesting]]]
+
+Meta-irony is used to obfuscate your true meaning, whether for humor or power.
+
+This difficult to perceive humor has lead to an level of comradery among [[Gen Z]].
+Along with the increased communication abilities of the internet this has lead to perception of greater cohesiveness and could perhaps
+lead to an increased aptitude for social change:
 [[Greater cooperation and communication has lead to the success of humans as a species]] 
-
-#TO/TEND/GRAFT 
-- [[video_Aesop didn't know about Meta-Irony]]
-- [[video_What makes gen z humor so interesting]]
-- [[Communication provides the opportunity to shape other's perceptions]]
-- [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
-- [[The internet allows niche topics to flourish]]
-
+and
+[[Communication provides the opportunity to shape other's perceptions]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Gen Z]], [[internet]], [[communication]], [[irony]]

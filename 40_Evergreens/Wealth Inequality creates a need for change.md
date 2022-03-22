@@ -4,9 +4,9 @@ edited:
 tags: created/evergreen/2021/07/29, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-07-03
-sr-interval: 121
-sr-ease: 210
+sr-due: 2022-05-19
+sr-interval: 59
+sr-ease: 190
 ---
 
 #### [[Wealth Inequality creates a need for change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,11 +15,9 @@ Studies have found that [[Wealth Inequality]] makes people generally unhappy and
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]
 - [[Anger fuels change]]
 
-#TO/EXPLORE/READ ![[Online Assignment 1#^e76760]]
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Marxism]], [[Capitalism]], [[Communism]], [[happiness]], [[social justice]], [[political strategy]]

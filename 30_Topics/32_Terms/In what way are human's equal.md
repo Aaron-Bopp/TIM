@@ -11,7 +11,6 @@ sr-ease: 230
 
 #### [[In what way are human's equal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
 > ![[books_Sapiens#^297681740]]
 > ![[books_Sapiens#^297681741]]
 
@@ -23,6 +22,7 @@ This [[natural law]] imbues so some sort of essence.
 
 - [[Oppressors invent reasoning for their oppression]]
 - [[What maintains our social order]]
+- [[What does equality even mean]]
 
 ### <hr class="footnote"/>
 

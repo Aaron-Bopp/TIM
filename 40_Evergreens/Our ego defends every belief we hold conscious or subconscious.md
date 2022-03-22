@@ -18,7 +18,7 @@ sr-ease: 130
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 23, 2022*
 
 **Topics**:: [[ego]], [[human behavior]], [[self-actualization]], [[subconscious]] 

@@ -31,7 +31,7 @@ part of:: [[Humans are a product of evolution]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Neuroscience]], [[Evolutionary Psychology]], [[human behavior]]

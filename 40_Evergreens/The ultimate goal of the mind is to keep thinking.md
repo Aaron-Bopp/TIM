@@ -11,7 +11,8 @@ sr-ease: 190
 
 #### [[The ultimate goal of the mind is to keep thinking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-otherwise we wouldn't be here: [[Humans are a product of evolution]]
+Otherwise we wouldn't be here. This must be a
+result of:: [[Humans are a product of evolution]]
 
 Leads to:
 - [[Humans are addicted to believing]]
@@ -23,7 +24,7 @@ Leads to:
 keep in mind:: [[Biological processes can only give context to behavior not predict it]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human nature]], [[conscious]], [[mind]]

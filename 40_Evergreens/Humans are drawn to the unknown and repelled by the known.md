@@ -31,7 +31,7 @@ This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowle
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT  
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[human survival]]

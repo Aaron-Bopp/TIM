@@ -17,6 +17,7 @@ explains:: [[What maintains our social order]]
 - [[Hammurabi's Code preserved hierarchy through deific justice]]
 - [[Theology preserves hierarchy through deific blessing]]
  
+> ![[books_Sapiens#^299110301]]
 
 > ![[books_Sapiens#^297681739]]
 

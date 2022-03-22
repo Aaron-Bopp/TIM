@@ -17,7 +17,7 @@ Due to different speeds at the equator's vs the pole, we should experience a [[t
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[time dilation]], [[physics]], [[general relativity]]

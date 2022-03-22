@@ -11,6 +11,7 @@ sr-ease: 190
 
 #### [[The audience's perception is more important than the artist's intention]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/WRITE 
 - [[There is a difference between thinking and creating]]
 - [[Communication provides the opportunity to shape other's perceptions]]
 - [[How to do an engaging lecture for kids and adults]]
@@ -18,7 +19,7 @@ sr-ease: 190
  
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[art]], [[perception]], [[intention]], [[media]]

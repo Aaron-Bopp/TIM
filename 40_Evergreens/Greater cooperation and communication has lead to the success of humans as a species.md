@@ -39,7 +39,7 @@ like [[Humans love to group eachother]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[group selection]], [[human evolution]], 

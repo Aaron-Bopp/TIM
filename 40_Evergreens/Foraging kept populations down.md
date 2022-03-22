@@ -14,10 +14,11 @@ sr-ease: 210
 > ![[books_Sapiens#^297301081]]
 
  - [[Foraging allowed for a diverse diet]]
- - [[foraging#Foragers were less likely to get diseases]]
+ - [[Foragers suffered less from disease]]
+ - part of:: [[Foraging was a very sustainable lifestyle]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[foraging]], [[human advancement]]

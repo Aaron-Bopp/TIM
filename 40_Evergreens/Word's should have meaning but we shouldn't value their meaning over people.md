@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/10, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 26
-sr-ease: 230
+sr-due: 2022-04-05
+sr-interval: 15
+sr-ease: 210
 ---
 
 #### [[Word's should have meaning but we shouldn't value their meaning over people]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

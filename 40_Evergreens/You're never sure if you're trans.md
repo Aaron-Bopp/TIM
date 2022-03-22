@@ -11,11 +11,10 @@ sr-ease: 290
 
 > ![[Journal#2021-5-31]]
 >
-> <cite>[[Aaron Bopp]]</cite>
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/WEED  
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[transgender]], [[self-love]], [[Queer]]

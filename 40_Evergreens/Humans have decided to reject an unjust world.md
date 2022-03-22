@@ -15,8 +15,8 @@ We have decided to flatly refuse to believe that there is no purpose to life, no
 
 That said, flat rejection leads to dismissiveness of the [[struggle]] that is required to persist in this world. To promote a better world you must also have [[empathy]] for people who are simply unable to reject the [[injustice]] they see all around them. 
 
-- answers [[What is the cognitive effect of living in an unjust world]]
-- counters [[Humans have decided to take advantage of an unjust world]]
+- answers:: [[What is the cognitive effect of living in an unjust world]]
+- counters:: [[Humans have decided to take advantage of an unjust world]]
 
 #TO/TEND/PRUNE are these links necessary? 
 - [[Evolutionary Psychology]] 
@@ -45,7 +45,7 @@ That said, flat rejection leads to dismissiveness of the [[struggle]] that is re
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[human behavior]], [[human advancement]]

@@ -22,7 +22,7 @@ some cultures have only needed [[partial script]]'s for their entire [[history]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[prehistory]], [[history]], [[language]], [[communication]], [[writing]], [[oral tradition]]

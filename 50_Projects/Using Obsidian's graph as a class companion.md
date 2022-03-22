@@ -35,7 +35,7 @@ You can see the effect of this on my [[Graph Timeline#January]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Obsidian (software)|Obsidian]], [[knowledge management]], [[learning]]

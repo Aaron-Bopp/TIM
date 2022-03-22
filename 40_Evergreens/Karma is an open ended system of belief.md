@@ -31,7 +31,7 @@ While there are many beliefs that follow from this, believing in [[karma]] does 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief systems]], [[religion]], [[human experience]]

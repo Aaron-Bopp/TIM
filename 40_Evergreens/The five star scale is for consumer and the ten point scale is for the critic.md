@@ -41,7 +41,7 @@ leads to:: [[How to review books]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[art]], [[critique]]

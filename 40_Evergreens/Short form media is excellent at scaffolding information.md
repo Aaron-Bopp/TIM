@@ -18,7 +18,7 @@ This is counterintuitive, but is shown by the [[success]] of educational content
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[scaffolding]], [[learning]], [[knowledge work]]

@@ -11,12 +11,13 @@ sr-ease: 230
 
 #### [[Living in the present moment is valuable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/WRITE 
 - [[Anxiety prevents us from living in the present]]
 	- [[Anxiety should be a tool at your disposal not an impedance to your life]] 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]]

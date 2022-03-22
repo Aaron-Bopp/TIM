@@ -19,7 +19,7 @@ results in:: [[Native Americans died in droves to European diseases]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[foraging]], [[prehistory]]

@@ -11,6 +11,8 @@ sr-ease: 190
 
 #### [[What does equality even mean]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+first:: [[In what way are human's equal]]
+
 > ![[books_The Dawn of Everything#^261572336]]
 
 [[David Graeber]] suggests that it is not equal [[material conditions]] but equal access to contribute to decisions about our [[social order]].

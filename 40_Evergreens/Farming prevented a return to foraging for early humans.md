@@ -28,7 +28,7 @@ example of:: [[When luxury becomes a necessity it is no longer a luxury]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[farming]], [[Evolution]], [[human advancement]]

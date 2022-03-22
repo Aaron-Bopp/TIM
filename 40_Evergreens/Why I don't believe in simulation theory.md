@@ -27,7 +27,7 @@ and against basic knowledge of [[Computer Science]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[philosophy]], [[physics]]

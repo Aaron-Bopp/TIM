@@ -18,7 +18,7 @@ counters:: [[Friction is a hindrance to learning]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN 
 *edited January 25, 2022*
 
 **Topics**:: [[knowledge work]], [[learning]], [[understanding]]

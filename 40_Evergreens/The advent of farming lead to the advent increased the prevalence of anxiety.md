@@ -20,7 +20,7 @@ By the simple nature of [[farming]] it requires more forethought than [[foraging
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[farming]], [[prehistory]]

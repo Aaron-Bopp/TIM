@@ -17,7 +17,7 @@ Of course there are billions of neutrinos flowing through us at any moment, but 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[physics]], [[the Big Bang]], [[neutrinos]]
