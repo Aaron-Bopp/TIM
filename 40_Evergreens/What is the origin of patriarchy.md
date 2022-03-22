@@ -11,6 +11,9 @@ sr-ease: 230
 
 #### [[What is the origin of patriarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+It is easy to acknowledge that [[Gender is a social construct]], but most find it much harder to admit that [[Sex is a social construct]].
+This is because their are real physical differences between most men and most women, but the questions is how much of our [[behavior]] is a result of those differences and how much influences those differences.
+
 The answer to this
 includes:: [[There is no direct relation between physical strength and social power]].
 

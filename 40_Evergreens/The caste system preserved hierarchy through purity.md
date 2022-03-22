@@ -4,28 +4,34 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/example
-sr-due: 2022-03-22
-sr-interval: 2
+sr-due: 2022-03-25
+sr-interval: 4
 sr-ease: 210
 ---
 
 #### [[The caste system preserved hierarchy through purity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-similarly:: [[Theology preserves hierarchy through deific blessing]]
+The [[Hinduism|Hindu]] caste system 
+works with:: [[Theology preserves hierarchy through deific blessing]]
+but adds on layer of purity to the deity ordained classes.
+This means that not only are the lowest classes lesser in the eyes of the gods, they are unclean and contagious.
+Making loss of your class possible by mere contact with lower classes is an
+example of:: [[Hierarchy enables oppression]] and [[Oppressors invent reasoning for their oppression]]
 
-> ![[books_Sapiens#^299110294]]
-
-enabled by:: [[Hierarchy enables oppression]]
-> ![[books_Sapiens#^299110307]]
-
-example of:: [[Oppressors invent reasoning for their oppression]]
-
-example of:: [[Religion promotes high social control]]
+enabled by:: [[Religion promotes high social control]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[oppression]], [[social order]], [[social hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#^299110294]]
+
+> ![[books_Sapiens#^299110307]]

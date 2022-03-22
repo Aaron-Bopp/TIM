@@ -46,7 +46,7 @@ Nevertheless it is true that
 Studying the biological influences of people's behaviors can of course give great insight into our [[behavior]] as long as we understand that 
 %% 
 
-works with:: [[How does proximate explanation lead to ultimate explanation]]
+works with:: [[Proximate explanation never substitutes for ultimate explanation in Evolution]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

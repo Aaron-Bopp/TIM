@@ -21,7 +21,7 @@ Enables:: [[What maintains our social order]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Hammurabi's code]], [[social order]], [[social hierarchy]], [[justice]]

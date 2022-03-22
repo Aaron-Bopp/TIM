@@ -18,7 +18,7 @@ This is because it is a highly active microcosm of [[Evolution]]: [[Evolution ca
 enabled by::[[Functionally integrated social groups become organisms in their own right]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[immune system]], [[Evolution]]

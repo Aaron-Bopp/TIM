@@ -13,17 +13,16 @@ sr-ease: 170
 
 This allows [[religion]] to create either very positive or very negative behaviors in groups.
 
-Spiritual beliefs can promote behavior that is positive to the group without requiring [[knowledge]] and adherence to practical reasoning. 
+Spiritual beliefs can promote [[behavior]] that is positive to the group without requiring [[knowledge]] and adherence to practical reasoning. 
 ^[[[books_Darwin's Cathedral#^294094920]]]
 
-
 > ![[books_Darwin's Cathedral#^291449835]]
-
 
 Perhaps religion allows an easier to way to pass on practices without them being questioned.
 [[Social order is built off of a shared belief in an imagined reality]]
 
 [[Moral social control promotes pro-social behavior in groups]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

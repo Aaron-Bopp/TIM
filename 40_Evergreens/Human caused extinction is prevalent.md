@@ -19,16 +19,17 @@ From our prehistoric hunting of mammoths in [[Siberia]],
 to our mass extinctions in [[Australia]] and [[America]], 
 to man-made [[climate change]],
 we are by far the most destructive force in history in zoological terms.
+#TO/DO/FIND estimate of how many species have gone extinct as a result of humans
 
 - part of:: [[Greater cooperation and communication has lead to the success of humans as a species]]
 - explained by:: [[Humans have had little time to adjust to being the top predator]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human evolution]]
+**Topics**:: [[human evolution]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
