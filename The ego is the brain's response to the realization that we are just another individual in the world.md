@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/22, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 1
+sr-due: 2022-03-26
+sr-interval: 3
 sr-ease: 230
 ---
 
 #### [[The ego is the brain's response to the realization that we are just another individual in the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-When we are child we are the center of our world. All we know is our perception, and what we are perceiving is every person we know waiting on us hand and foot.
+When we are child we are the center of our world. All we know is our [[perception]], and what we are perceiving is every person we know waiting on us hand and foot.
 You can see how when we realize that we are not the center of the universe, that can be quite a shock.
 
 - explains:: [[Our ego is our subconscious defense of our self]]

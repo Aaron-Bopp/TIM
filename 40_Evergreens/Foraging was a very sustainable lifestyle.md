@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 3
+sr-due: 2022-03-29
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -25,18 +25,21 @@ the social aspect of foraging's sustainability is also important.
 [[There is a limit to the size of a group ordered purely by personal communication]]
 and most bands of [[hunter-gatherers]] likely fell within this limit.
 This means that the [[Imagined reality]] of the tribe could be easily shared by word of mouth.
-[[Social order is built off of a shared belief in an imagined reality]], and 
-[[Moral social control promotes pro-social behavior in groups]].
+This means that [[hunter-gatherers]] stability can also be 
+explained by:: [[Social order is built off of a shared belief in an imagined reality]], and [[Moral social control promotes pro-social behavior in groups]].
 
 [[David Graeber]] would cite this as the strongest aspect of [[hunter-gatherers]] stability, as it is part of his definition of [[equality]]. 
 ^[[[What does equality even mean]]]
+
+Understanding that [[hunter-gatherers]] likely had and relied on social skills in day to day life is 
+important for:: correctly understanding [[The Indigenous Critique]] and [[Hunter-gathers were capable of mass cooperation]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[foraging]], [[human advancement]]
+**Topics**:: [[foraging]], [[human advancement]], [[hunter-gatherers]],
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

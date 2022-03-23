@@ -24,12 +24,13 @@ For me a combination of [[spaced repetition]] and [[networked thinking]] got me 
 At the very least try to not spend all your time organizing or categorizing 
 because:: [[Classifying something will almost never add value to it]]
 
-In the end,
-[[Productivity tools are often most useful in how much work they inspire you to do]].
+In the end:: [[Productivity tools are often most useful in how much work they inspire you to do]].
 If organizing or categorizing pushes you to perform meaningful work then that is not going to be a bad thing.
 The real problem comes when we over emphasize categories and start to impact our [[understanding]].
 [[The way systems work can create cognitive bias]], and if your system forces you into highly specific categorization it is going to impact your ability to make connections.
 ^[This may the root of the problem of modern day academia. [[Experts are often far too confident in the effectiveness of their theories]] because they are pushed into highly specific sub-categories in order to be relevant]
+
+part of:: [[Your second brain should be an inspirational hub of creativity]]
 
 ### <hr class="footnote"/>
 

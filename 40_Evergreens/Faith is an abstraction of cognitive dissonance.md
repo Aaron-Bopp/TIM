@@ -18,8 +18,9 @@ sr-ease: 188
 "Have faith and you will be saved." This is the thing a Christian's eternal destiny relies on, and if their [[faith]] wavers, it is no ones fault but their own. This pushes Christian's into living with this [[cognitive dissonance]] %%What is "this cognitive dissonance? %% and contributes to [[The Christian worldview is incompatible with most other worldviews]]
 
 %%
-#TO/WRITE something about how we are born into this world not knowing anything, and are repeatedly told that everything has a meaning when it doesn't unless we give it a meaning
+#TO/PONDER/IDEA something about how we are born into this world not knowing anything, and are repeatedly told that everything has a meaning when it doesn't unless we give it a meaning
 The cognitive dissonance is that there is a loving god that has created this world, but the world we live in is unjust. 
+[[The ego is the brain's response to the realization that we are just another individual in the world]]
 %%
 
 [[Faith can be a useful tool for grounding yourself]] because it answers [[The three main questions of life]], and in doing so it ignores the [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]].

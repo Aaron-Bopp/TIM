@@ -15,7 +15,7 @@ The ways to maintain control over large swaths of people is not a problem that c
 Yet it seems that bookkeeping and [[bureaucracy]] may have been the key difference that allowed for the developments of [[history]]'s first major empires.
 ^[Although, [[Hunter-gathers were capable of mass cooperation]], perhaps the *true* first empires didn't need [[bureaucracy]],
 thus we have no physical records of them. Possible
-counter:: [[Cultures without full scripts]]
+counter:: [[The Inca empire was maintained without a full script writing system]]
 includes empires]
 
 This power of [[bureaucracy]] may not just be in holding and storing [[information]], but also in providing stability. Mildness and tolerance seem far more effective at maintaining a long-term empire than [[violence]].

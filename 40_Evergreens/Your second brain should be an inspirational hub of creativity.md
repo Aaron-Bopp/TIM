@@ -19,9 +19,11 @@ One universal truth is that your [[second brain]] should not be a hindrance to c
 Structure is only helpful in that it reduces friction, but it should not be a hindrance to your creativity: [[Only organize as much as your data requires]]
 
 As you are creating thought it is important to recognize [[The fragility of nodes in a second brain]]:
-- [[Write your notes like you're planting an evergreen forest]]
-- [[Evergreen notes organize knowledge so that it can grow]]
-- [[Your second brain should be frictionless access to a curated base of knowledge]]
+- includes:: [[Write your notes like you're planting an evergreen forest]]
+- includes:: [[Evergreen notes organize knowledge so that it can grow]]
+- works with:: [[Your second brain should be frictionless access to a curated base of knowledge]]
+
+part of:: [[We learn by transforming information into understanding]]
 
 
 ### <hr class="footnote"/>

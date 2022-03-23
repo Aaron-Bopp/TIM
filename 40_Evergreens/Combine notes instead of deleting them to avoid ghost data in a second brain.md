@@ -15,6 +15,10 @@ sr-ease: 213
 
 The main benefit to combining over deleting is that any links to that note should be replaced with a similar note, but this can result in a different kind of mistake, where you may change the meaning of a note when it changes to the new note. So it may be useful to look through backlinks and see where you need to completely remove the link, remove the link but leave the text, change the link to something else or let it be merged with a new note. This is useful for dealing with [[The fragility of nodes in a second brain]]
 
+#### Counterpoint:: Let ghost data give you a clean slate
+
+Sometimes there is note where I created it a long time ago, but the [[information]] within has never really matured and conflicts other notes, but I struggle to figure out what the real meaning of the note should be because I have so many preconceived notions. At times like this it can be helpful to just delete the note, but thanks to the backlinks not being deleted, whenever I come across them I have an opportunity to remake that note with a clean slate.
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN  

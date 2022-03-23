@@ -34,7 +34,7 @@ answer to:: [[What is the cognitive effect of living in an unjust world]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED    
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[self-actualization]], [[morality]], [[Life principles]]

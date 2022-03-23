@@ -13,16 +13,15 @@ sr-ease: 230
 
 [[Yuval Noah Harari]] argues in his book [[reference_Sapiens|Sapiens]] that our [[social order]] is based of the [[Imagined reality]] that we share, thus creating an [[Imagined order]]. This leads to both the existence and malleability of [[society]].
 
-While the ability to exist in this imagined order has been there since our time as [[hunter-gatherers]],
-^[[[books_Sapiens#^297681730]]]
+While the ability to exist in this imagined order has been there since our time as [[hunter-gatherers]], [^1]
 it only came to govern our daily lives after [[The Agricultural Revolution]].
 ^[[[Hunter-gathers were capable of mass cooperation]], but we did not make this cooperation a part over our every day survival, preferring to stay in autonomous groups: [[There is a limit to the size of a group ordered purely by personal communication]]]
 
 Two solutions are proposed by Harari, [[mythology]] and [[cooperation]].
 
 > [!masonry]
->  ![[books_Sapiens#^297681731]]
->  ![[books_Sapiens#^297681732]]
+>  > ![[books_Sapiens#^297681731]]
+>  > ![[books_Sapiens#^297681732]]
 
 He then cites [[Hammurabi's code]] and [[The Founding Fathers]] as examples, 
 but I feel these more hit upon [[What is the origin of social hierarchy]]
@@ -48,3 +47,5 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 
 > ![[books_Sapiens#^297681757]]
+
+[^1]: ![[books_Sapiens#^297681730]]

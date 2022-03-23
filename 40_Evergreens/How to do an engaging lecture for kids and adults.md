@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/12, review, node/evergreen/technique
-sr-due: 2022-03-23
-sr-interval: 7
+sr-due: 2022-04-10
+sr-interval: 18
 sr-ease: 230
 ---
 
@@ -20,5 +20,5 @@ If you talk fast enough you can tell lots of adult jokes and the kids will laugh
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[communication]]
+**Topics**:: [[communication]], [[presentation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -40,7 +40,7 @@ Communication between non-human entities can include the binary data used in int
 	- in [[public speaking]]: [[How to do an engaging lecture for kids and adults]]
 	- in [[science]]: [[Math is it's own language]]
 - Historical roots
-	- [[Cultures without full scripts]]
+	- [[The Inca empire was maintained without a full script writing system]]
 
 #### ^dataviews
 

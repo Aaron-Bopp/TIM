@@ -15,7 +15,7 @@ Is writing just the symbols that represent [[language]] either partially ([[part
 
 [[Math is it's own language]], is it only [[writing]] or is it more?
 
-explains:: [[Cultures without full scripts]]
+explains:: [[The Inca empire was maintained without a full script writing system]]
 
 ### <hr class="footnote"/>
 

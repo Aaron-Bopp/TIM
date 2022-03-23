@@ -601,6 +601,8 @@ At the same time, this book is also something else: a quest to discover the righ
 ### Wicked Liberty
 #### The indigenous critique and the myth of progress
 
+^c8da22
+
 ##### ^262026842
 
 highlight_tags:: [[favorite]]   
