@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-22
-sr-interval: 1
+sr-due: 2022-03-24
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -26,7 +26,7 @@ Other possible reasons:
 - We want to change this [[social order]]?
 - The fact that it is imagined doesn't change anything about it
 
-I think that in modern times we have for the most part realized that we live in a [[Imagined order]] except perhaps for christians? It seems like this question is a lot more meaningful when contrasted with the long held belief in a "natural law" or natural order. These days we have mainly come to the conclusion that our [[social order]] is imagined, but we are still trying to figure out 
+I think that in modern times we have for the most part realized that we live in a [[Imagined order]] except perhaps for christians? It seems like this question is a lot more meaningful when contrasted with the long held belief in a "[[natural law]]" or natural order. These days we have mainly come to the conclusion that our [[social order]] is imagined, but we are still trying to figure out 
 
 ### <hr class="footnote"/>
 

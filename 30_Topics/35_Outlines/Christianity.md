@@ -27,7 +27,7 @@ WHERE contains(topics, this.file.link)
 - [[The biblical Christian God is evil and does not deserve to be worshipped]]
 	- [[Fear of hell is baked into Christianity for vulnerable believers]]
 	- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
-- [[Are Jesus' teachings anti-thetical to the modern Christian church]]
+- [[Are Jesus' teachings antithetical to the modern Christian church]]
 	- [[The church will fail if christians keep aligning themselves with hate instead of love]]
 - [[Deconstruction (Christianity)]]
 	- [[My Deconstruction journey]]

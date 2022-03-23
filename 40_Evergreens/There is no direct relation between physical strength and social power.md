@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 1
+sr-due: 2022-03-24
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -15,7 +15,7 @@ Strength and [[violence]] have always been seen as the root of [[Patriarchy]],
 but the evidence behind that [[belief]] is lacking.
 Pound for pound women are behind men, 
 %% #TO/DO/CITE %% 
-but life isn't a weight lifting competition and and woman out perform in resistance and endurance than men.
+but life isn't a weight lifting competition and woman out perform in resistance and endurance than men.
 Indeed, woman have often been the ones engaging hard physical labor such as [[farming]].
 
 There are many women that are stronger and faster than many men, 

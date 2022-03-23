@@ -2,9 +2,9 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-08-05
-sr-interval: 145
-sr-ease: 254
+sr-due: 2022-06-03
+sr-interval: 73
+sr-ease: 234
 ---
 
 #### [[The biblical Christian God is evil and does not deserve to be worshipped]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -16,20 +16,24 @@ sr-ease: 254
 
 It is hard to look at the god described in the bible and not think he is either maliciously evil, or blatantly selfish.
 
-#TO/TEND/GRAFT 
-- caveats
-    - [[You can leave the church without loosing your faith]]
-    - [[Are Jesus' teachings anti-thetical to the modern Christian church]]
-- results
-    - [[Fear of hell is baked into Christianity for vulnerable believers]]
-    - [[The Politicization of the Christian Church]]
-    - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
-    - [[The church will fail if christians keep aligning themselves with hate instead of love]]
+This is 
+part of:: [[The church will fail if christians keep aligning themselves with hate instead of love]]
+
+A caveat of this is that most [[Christianity|Christian]]'s prioritize their relationship with Jesus as their primary axis of [[belief]]. This means that [[You can leave the church without loosing your faith]]. 
+^[Whether this relationship is healthy is an important question because [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]. Can Christians break away from this behavior just by not believing in the the Old testament God? [[Are Jesus' teachings antithetical to the modern Christian church]] suggests yes]
+
+This 
+results in:: [[Fear of hell is baked into Christianity for vulnerable believers]]
+because [[Religious concepts are often too powerful for a child's mind]].
+Children are just the kind of vulnerable believers that will be affected by this.
+The moral juxtaposition of being told that a god is all loving and seeing that god's world be so unjust is [[trauma]] inducing. 
+This may be
+why:: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Christianity]], [[Conservatism]], [[Evangelicalism]]
+**Topics**:: [[Christianity]], [[religious trauma]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
