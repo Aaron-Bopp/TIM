@@ -12,12 +12,12 @@ sr-ease: 170
 #### [[Evergreen notes help us bridge the gap between knowledge and understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 There is an initial hump to understanding any concept that makes it hard to passively learn things.
-This has given people the impressions that the only way they can learn is through structured purposefully attacking the problem.
-this isn't untrue, but there are ways that we can cross that hump without doing all of the work at once.
+This has given people the impressions that the only way they can learn is through a structured and purposeful attacking of the problem.
+This isn't untrue, but there are ways that we can cross that hump without doing all of the work at once.
 
 Another problem is that we are continually falling back across the hump.
 [[Learning is not like riding a bicycle]].
-If we aren't actively working with something we are going to forget.
+If we aren't actively working with something we are going to forget it.
 This is a gift and a curse.
 
 

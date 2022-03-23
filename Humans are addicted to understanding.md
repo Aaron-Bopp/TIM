@@ -11,12 +11,17 @@ sr-ease: 230
 
 #### [[Humans are addicted to understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+- [[Humans transfer their wonder into creativity]]
+- [[Wonder motivates us to interact with the world around us]]
 
+This is why we struggle to [[Look for understanding before you look for solutions]].
+
+We so desperately want to understand something so we pretend we understand it and start jumping to solutions.
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[understanding]], [[wonder]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

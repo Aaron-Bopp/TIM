@@ -21,7 +21,7 @@ sr-ease: 230
 1. **The backlinks panel does not filter out notes that are linked to from the current note.**
 The original point of contextual backlinks was to make two way links unneeded, but to write prose that actually makes sense, forward linking with defined context is important if these two concepts are related. Once the note is forward linked, the backlink is much less important. [[contextual backlinks]] was supposed to help with this, but struggles because...
 1. **Links are often created without context.**
-This is something that will be specific to certain kinds of notes and note takers, but for me, defining a [[evergreen notes]] usually starts with a list of related notes. I have found creating these lists a the active recall portion of [[spaced repetition]], and so I do not want to go away from this habit. Unfortunately this means that most backlinks the only content provided is a list marker, which makes the context no better than the link name
+This is something that will be specific to certain kinds of notes and note takers, but for me, defining a [[evergreen notes]] usually starts with a list of related notes. I have found creating these lists a ?? of the active recall portion of [[spaced repetition]], and so I do not want to go away from this habit. Unfortunately this means that most backlinks the only content provided is a list marker, which makes the context no better than the link name
 1. **Link context is often too verbose.**
 I usually link contexts at the end or beginning of paragraphs, which means that in order to understand the context I need to read multiple sentences, or possibly even multiple paragraphs. I can define these relationships more simply, but not within the prose of the note
 
@@ -47,6 +47,22 @@ What is the goal of this? Well by formatting my notes in this way it allows me t
 ##### Challenges
 
 #TO/WRITE It is hard to craft prose in a way that works with this system. Is it worth it?
+
+For notes that are an aspect of another note
+part of
+with, in addition to
+includes, has
+from, because
+to, leads to
+
+notes that explain other notes
+example of
+similarly
+displayed by
+explained by
+explains
+
+
 
 ### <hr class="footnote"/>
 

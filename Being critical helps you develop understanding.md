@@ -11,7 +11,8 @@ sr-ease: 230
 
 #### [[Being critical helps you develop understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
+why:: [[Searching for THE answer is dangerous]]
+- [[Look for understanding before you look for solutions]]
 
 ### <hr class="footnote"/>
 

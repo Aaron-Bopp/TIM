@@ -1,5 +1,5 @@
 ---
-created: 2022-03-23T13:19:30 
+created: 2022-03-23T15:26:22 
 edited: 
 aliases:
   - null
@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 230
 ---
 
-#### [[Jordan Peterson is smart enough to realize that he is wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Learning is not like riding a bicycle]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 
 

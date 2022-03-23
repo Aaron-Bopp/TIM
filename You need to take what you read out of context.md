@@ -11,7 +11,9 @@ sr-ease: 230
 
 #### [[You need to take what you read out of context]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-answers:: [[How to read to understand]]
+This
+answers:: [[How to read to understand]],
+because::[[You need to teach yourself what you read]]
 
 If you are not deconstructing and reconstructing what the author is telling you you are losing so much potential.
 You can't just read a book an expect to make all the possible connections the first time through.
