@@ -17,6 +17,8 @@ Thanks to [[foraging]] life style [[hunter-gatherers]] didn't have to deal with 
 This later 
 results in:: [[Native Americans died in droves to European diseases]]
 
+part of:: [[Foraging was a very sustainable lifestyle]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

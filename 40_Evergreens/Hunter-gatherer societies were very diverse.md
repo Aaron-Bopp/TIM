@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/10, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 6
+sr-due: 2022-04-06
+sr-interval: 15
 sr-ease: 210
 ---
 
@@ -15,13 +15,16 @@ sr-ease: 210
 
 > ![[books_Sapiens#^297089486]]
 
-#TO/TEND/CONNECT [[books_The Dawn of Everything|The Dawn of Everything]]
-> constrast:: ![[books_Sapiens#^294248524]]
+> ![[books_Sapiens#^294248524]]
+
+- [[Foraging was a very sustainable lifestyle]]
+- [[Foraging kept populations down]] enabled this because [[There is a limit to the size of a group ordered purely by personal communication]]
+- [[Moral social control promotes pro-social behavior in groups]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[foraging]], [[social order]], [[prehistory]]
+**Topics**:: [[hunter-gatherers]], [[society]], [[prehistory]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

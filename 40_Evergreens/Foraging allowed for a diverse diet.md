@@ -13,6 +13,7 @@ sr-ease: 230
 
 #TO/DO/CITE 
 
+part of:: [[Foraging was a very sustainable lifestyle]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

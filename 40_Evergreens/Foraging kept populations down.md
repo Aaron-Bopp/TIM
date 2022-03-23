@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 4
+sr-due: 2022-03-31
+sr-interval: 9
 sr-ease: 210
 ---
 
@@ -13,9 +13,8 @@ sr-ease: 210
 
 > ![[books_Sapiens#^297301081]]
 
- - [[Foraging allowed for a diverse diet]]
- - [[Foragers suffered less from disease]]
  - part of:: [[Foraging was a very sustainable lifestyle]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

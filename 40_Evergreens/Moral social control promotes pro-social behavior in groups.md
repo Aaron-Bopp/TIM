@@ -4,15 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/13, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 2
+sr-due: 2022-03-26
+sr-interval: 4
 sr-ease: 190
 ---
 
 #### [[Moral social control promotes pro-social behavior in groups]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > ![[books_Darwin's Cathedral#^289554239]]
-
 
 > ![[books_Darwin's Cathedral#^288878740]]
 > ![[books_Darwin's Cathedral#^289554237]]
@@ -24,7 +23,6 @@ and [[reciprocal altruism]] which would predict that individuals would only act 
 
 
 
-[[Functionally integrated social groups become organisms in their own right]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -36,6 +34,5 @@ and [[reciprocal altruism]] which would predict that individuals would only act 
 #### References
 
 ![[reference_Darwin's Cathedral#citation]]
-
 
 > ![[books_Darwin's Cathedral#^291449823]]

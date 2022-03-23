@@ -17,7 +17,6 @@ from scavenger's
 to annihilator's. 
 ^[[[Human caused extinction is prevalent]]]
 While this has had obvious effects on the food chain, it may also have less obvious effects on our psyche. While we have the security and influence of a top predator, we still have the anxieties, fears, and instincts of an underdog.
-^[[[books_Sapiens#294248522q]]]
 
 ### <hr class="footnote"/>
 
@@ -26,3 +25,9 @@ While this has had obvious effects on the food chain, it may also have less obvi
 
 **Topics**:: [[human experience]], [[human evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[reference_Sapiens#citation]]
+
+> ![[books_Sapiens#294248522q]]

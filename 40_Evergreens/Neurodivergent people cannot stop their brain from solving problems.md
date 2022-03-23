@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/28, review, node/evergreen/claim
-sr-due: 2022-03-22
-sr-interval: 53
+sr-due: 2022-07-15
+sr-interval: 115
 sr-ease: 215
 ---
 
@@ -15,9 +15,9 @@ sr-ease: 215
 >
 > <cite>[[@roryreckons on Twitter|Rory McCarthy]]</cite>
 
-- [[Neurodiverse people can use their brain to their advantage]]
-- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-- [[How can parent's best help their children]] #TO/EXPLORE/RESEARCH [[scaffolding]]
+- part of:: [[Neurodiverse people can use their brain to their advantage]]
+- works with:: [[Anxiety should be a tool at your disposal not an impedance to your life]]
+- important for:: [[How can parent's best help their children]] #TO/EXPLORE/RESEARCH [[scaffolding]]
 
 ### <hr class="footnote"/>
 
