@@ -16,7 +16,7 @@ This has given people the impressions that the only way they can learn is throug
 This isn't untrue, but there are ways that we can cross that hump without doing all of the work at once.
 
 Another problem is that we are continually falling back across the hump.
-[[Learning is not like riding a bicycle]].
+[[Learning is NOT like riding a bicycle]].
 If we aren't actively working with something we are going to forget it.
 This is a gift and a curse.
 

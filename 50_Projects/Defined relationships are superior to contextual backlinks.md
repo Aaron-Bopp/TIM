@@ -62,8 +62,6 @@ displayed by
 explained by
 explains
 
-
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
