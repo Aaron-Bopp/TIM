@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Acetycholine]]</s>
+#### <s class="topic-title">[[Acetycholine]]</s>
 
 A [[Neurotransmitter]] that plays a major role in the [[parasympathetic nervous system]] for muscle contraction.
 ^[[[notes_Herbs for mental health]]]

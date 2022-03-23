@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Vishuddha Chakra]]</s>
+#### <s class="topic-title">[[Vishuddha Chakra]]</s>
 
 Situated at the base of our [[throat]], it is about affecting change in the outside world.
 

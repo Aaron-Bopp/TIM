@@ -31,7 +31,7 @@ sr-ease: 230
 - Personal speech is allowed in [[government]] institutions as long as [[government|govt]] employees are not involved
 
 
-##### MarkdownText
+#### MarkdownText
 _“[[Congress]] shall make no law respecting an establishment of [[religion]], or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the [[government]] for a redress of grievances.” – The First Amendment to the U.S. Constitution_
 
 1.  The five freedoms it protects: speech, [[religion]], press, assembly, and the right to petition the [[government]]. Together, these five guaranteed freedoms make the people of [[America|the United States]] of [[America]] the freest in the world.

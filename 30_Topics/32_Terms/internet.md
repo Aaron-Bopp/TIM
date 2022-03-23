@@ -9,7 +9,7 @@ sr-ease: 236
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[internet]]</s>
+#### <s class="topic-title">[[internet]]</s>
 
 > [!wikipedia] [internet](https://en.wikipedia.org/wiki/Internet)
 > 

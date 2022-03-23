@@ -11,7 +11,7 @@ sr-interval: 5
 sr-ease: 250
 ---
 
-##### [[notes_Metaphysics of Meditation ]]
+#### [[notes_Metaphysics of Meditation ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

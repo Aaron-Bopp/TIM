@@ -7,7 +7,7 @@ tags: created/topic/2021/11/16, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Github]]</s>
+#### <s class="topic-title">[[Github]]</s>
 
 GitHub is a provider of Internet hosting for software development and version control using Git, and offers its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project. 
 [^1]

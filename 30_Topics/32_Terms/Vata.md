@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Vata]]</s>
+#### <s class="topic-title">[[Vata]]</s>
 
 One of the three [[dosha]]s in [[Ayurveda]], Vata's qualities are dry, cold, and light.
 

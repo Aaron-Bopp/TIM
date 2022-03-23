@@ -7,7 +7,7 @@ tags: created/topic/2021/11/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[mysogyny]]</s>
+#### <s class="topic-title">[[mysogyny]]</s>
 
 hatred of women [^1]
 

@@ -10,7 +10,7 @@ sr-ease: 263
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Genetic evolution]]</s>
+#### <s class="topic-title">[[Genetic evolution]]</s>
 
 Usually synonymous to [[Evolution]], it is mainly distinguished when discussing [[Cultural Evolution]].
 While these are largely separate, they can interact through [[group selection]], where a group is promoted culturally because of a specific gene, or a gene is promoted because it is chosen in a certain group.

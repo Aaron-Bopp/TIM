@@ -7,7 +7,7 @@ tags: created/topic/2022/02/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Hostile sexism]]</s>
+#### <s class="topic-title">[[Hostile sexism]]</s>
 
 Hostile sexism reflects overtly negative evaluations and stereotypes about a gender (e.g., the ideas that [[women]] are incompetent and inferior to men).
 ^[[[Ambivalent Sexism]]]

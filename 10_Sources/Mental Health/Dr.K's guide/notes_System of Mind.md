@@ -9,7 +9,7 @@ sr-interval: 1
 sr-ease: 190
 ---
 
-##### [[notes_System of Mind ]]
+#### [[notes_System of Mind ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

@@ -7,7 +7,7 @@ tags: created/topic/2022/03/21, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[radical freedom]]</s>
+#### <s class="topic-title">[[radical freedom]]</s>
 
 > [!litcharts] [Radical Freedom, Choice, and Responsibility Theme in Existentialism Is a Humanism | LitCharts](https://www.litcharts.com/lit/existentialism-is-a-humanism/themes/radical-freedom-choice-and-responsibility)
 > 

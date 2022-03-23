@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[community]]</s>
+#### <s class="topic-title">[[community]]</s>
 
 > ![[books_The Anthropocene Reviewed#287775023q]]
 

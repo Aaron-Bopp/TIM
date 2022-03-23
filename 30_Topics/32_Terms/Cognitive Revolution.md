@@ -7,7 +7,7 @@ tags: created/topic/2022/03/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Cognitive Revolution]]</s>
+#### <s class="topic-title">[[Cognitive Revolution]]</s>
 
 Term from [[books_Sapiens|Sapiens by Yuval Noah Harari]].
 > ![[books_Sapiens#294248527q]]

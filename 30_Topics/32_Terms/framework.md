@@ -7,7 +7,7 @@ tags: created/topic/2022/03/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[framework]]</s>
+#### <s class="topic-title">[[framework]]</s>
 
 
 > [!wikipedia] [conceptual framework](https://en.wikipedia.org/wiki/Conceptual%20framework)

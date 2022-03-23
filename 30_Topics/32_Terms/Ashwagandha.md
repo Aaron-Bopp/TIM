@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Ashwagandha]]</s>
+#### <s class="topic-title">[[Ashwagandha]]</s>
 
 Also known as [[India|Indian]] ginseng, ashwagandha is an [[herb]] known for its [[stress]] relieving and relaxing properties. 
 

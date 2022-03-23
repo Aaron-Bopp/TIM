@@ -7,7 +7,7 @@ tags: created/topic/2022/02/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[dark matter]]</s>
+#### <s class="topic-title">[[dark matter]]</s>
 
 > [!wikipedia] [dark matter](https://en.wikipedia.org/wiki/Dark%20matter)
 > 

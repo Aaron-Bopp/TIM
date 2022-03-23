@@ -7,7 +7,7 @@ tags: node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Sticky concepts]]</s>
+#### <s class="topic-title">[[Sticky concepts]]</s>
 
 A sticky concept is a simple but powerful concept that sticks ideas together,
 ^[[[Sticky concepts connect disparate ideas]]]
@@ -18,7 +18,7 @@ and by not being a thing you have consistently studied but continue to think abo
 **See**:: [[Sagacious sayings]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[Sticky concepts]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Sticky concepts]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[abstraction]]
 - [[catalyst]]

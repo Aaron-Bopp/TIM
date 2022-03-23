@@ -11,7 +11,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[course_Dr. K's Guide to Mental Health]]
+#### [[course_Dr. K's Guide to Mental Health]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: https://coaching.healthygamer.gg/

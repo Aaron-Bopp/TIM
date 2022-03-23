@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Exposure Therapy]]</s>
+#### <s class="topic-title">[[Exposure Therapy]]</s>
 
 A psychological treatment that was developed to help people confront their fears. When people are fearful of something, they tend to avoid the feared objects, activities or situations.
 

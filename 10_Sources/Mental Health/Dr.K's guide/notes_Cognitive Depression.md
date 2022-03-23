@@ -9,7 +9,7 @@ sr-interval: 7
 sr-ease: 230
 ---
 
-##### [[notes_Cognitive Depression ]]
+#### [[notes_Cognitive Depression ]]
 
 **Creator**:: [[Dr. K]]
  

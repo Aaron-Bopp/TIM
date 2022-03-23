@@ -10,7 +10,7 @@ sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[epistemology]]</s>
+#### <s class="topic-title">[[epistemology]]</s>
 
 > [!wikipedia]+ [epistemology](https://en.wikipedia.org/wiki/Epistemology)
 > 

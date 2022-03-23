@@ -7,7 +7,7 @@ tags: created/topic/2021/12/04, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[cognitive bias]]</s>
+#### <s class="topic-title">[[cognitive bias]]</s>
 
 > Cognitive bias is a *systematic* error in perception due to the environment that one is embedded into. 
 ^[[[articles_Cognitive biases that lead to poorly designed products - Inverted Passion]]]

@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 230
 ---
 
-##### [[video_The Incredibly Satisfying Death of Buzzfeed]]
+#### [[video_The Incredibly Satisfying Death of Buzzfeed]]
 
 **Creator**:: [[SunnyV2]]
  

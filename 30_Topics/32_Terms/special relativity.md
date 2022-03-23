@@ -7,7 +7,7 @@ tags: created/topic/2022/03/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[special relativity]]</s>
+#### <s class="topic-title">[[special relativity]]</s>
 
 > [!wikipedia] [special relativity](https://en.wikipedia.org/wiki/Special%20relativity)
 > 

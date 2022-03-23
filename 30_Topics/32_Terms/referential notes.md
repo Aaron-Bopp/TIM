@@ -7,7 +7,7 @@ tags: created/topic/2021/12/21, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[referential notes]]</s>
+#### <s class="topic-title">[[referential notes]]</s>
 
 Notes that follow the sequence of what they are referencing, i.e. a lecture, book, video, etc.
 This would include journaling (referencing your personal experience) and observation (referencing the general experience).

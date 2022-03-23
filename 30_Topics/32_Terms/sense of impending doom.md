@@ -7,7 +7,7 @@ tags: created/topic/2022/03/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[sense of impending doom]]</s>
+#### <s class="topic-title">[[sense of impending doom]]</s>
 
 > [!wikipedia] [sense of impending doom](https://en.wikipedia.org/wiki/Sense%20of%20impending%20doom)
 > 

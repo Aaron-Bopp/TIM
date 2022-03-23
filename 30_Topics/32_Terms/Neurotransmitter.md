@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Neurotransmitter]]</s>
+#### <s class="topic-title">[[Neurotransmitter]]</s>
 
 A chemical messenger that carries, boosts, and balances signals between [[neuron]]s (also known as nerve cells) and target cells throughout the body.
 

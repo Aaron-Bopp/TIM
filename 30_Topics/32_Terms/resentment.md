@@ -5,7 +5,7 @@ tags: created/topic/2021/08/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[resentment]]</s>
+#### <s class="topic-title">[[resentment]]</s>
 
 bitter indignation at having been treated unfairly.
 

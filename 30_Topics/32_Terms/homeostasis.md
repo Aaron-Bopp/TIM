@@ -7,7 +7,7 @@ tags: created/topic/2022/03/12, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[homeostasis]]</s>
+#### <s class="topic-title">[[homeostasis]]</s>
 
 > [!wikipedia] [homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
 > 

@@ -7,7 +7,7 @@ tags: created/topic/2022/01/19, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Juggl (plugin, obsidian)]]</s>
+#### <s class="topic-title">[[Juggl (plugin, obsidian)]]</s>
 
 
 **See**::

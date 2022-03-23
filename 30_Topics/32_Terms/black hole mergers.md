@@ -7,7 +7,7 @@ tags: created/topic/2022/02/09, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[black hole mergers]]</s>
+#### <s class="topic-title">[[black hole mergers]]</s>
 
 A binary black hole (BBH) is a system consisting of two black holes in close orbit around each other. Like black holes themselves, binary black holes are often divided into stellar binary black holes, formed either as remnants of high-mass binary star systems or by dynamic processes and mutual capture; and binary supermassive black holes, believed to be a result of galactic mergers.
 

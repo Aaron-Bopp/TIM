@@ -7,7 +7,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[course_US History from 1870 ]]
+#### [[course_US History from 1870 ]]
 **Creator**:: 
  
 **Source**:: [[NWMSU]]

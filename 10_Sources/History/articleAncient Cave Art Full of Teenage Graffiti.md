@@ -21,7 +21,7 @@ sr-ease: 230
 - cave art consisted a large amount of hunting, as well as obscene art of sex organs [^2]
 - Woman produced about 20% of caveart, but spend most of their time in the pre pottery age on non-endurable objects [^3]
 
-##### MarkdownText
+#### MarkdownText
 
 Ancient Cave Art Full of Teenage Graffiti | Live Science
 
@@ -68,7 +68,7 @@ Guthrie presents his findings and more than 3,000 images in his new book, "The N
 -   Mona Lisa Was 83 Percent Happy
 
 
-##### PlainText
+#### PlainText
 
  Ancient Cave Art Full of Teenage Graffiti | Live Science
 

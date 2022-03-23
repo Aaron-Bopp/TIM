@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/20, node/source/video
 ---
 
-##### [[video_Hustle Culture is worse than you think]]
+#### [[video_Hustle Culture is worse than you think]]
 
 **Creator**:: [[struthless]]
  

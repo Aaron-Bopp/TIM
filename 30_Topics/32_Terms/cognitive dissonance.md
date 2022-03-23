@@ -5,7 +5,7 @@ tags: created/topic/2021/10/18, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[cognitive dissonance]]</s>
+#### <s class="topic-title">[[cognitive dissonance]]</s>
 
 From [wikipedia](https://en.wikipedia.org/wiki/Cognitive%20dissonance)
 

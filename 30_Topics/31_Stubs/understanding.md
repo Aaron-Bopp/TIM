@@ -8,7 +8,7 @@ tags: created/topic/2022/01/02, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[understanding]]</s>
+#### <s class="topic-title">[[understanding]]</s>
 
 > [!wikipedia] [understanding](https://en.wikipedia.org/wiki/Understanding)
 > 

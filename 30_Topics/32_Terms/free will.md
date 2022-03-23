@@ -5,7 +5,7 @@ tags: created/topic/2021/10/20, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[free will]]</s>
+#### <s class="topic-title">[[free will]]</s>
 
 > [!wikipedia] [free will](https://en.wikipedia.org/wiki/Free%20will)
 > 

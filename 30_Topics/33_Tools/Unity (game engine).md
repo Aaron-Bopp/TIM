@@ -5,10 +5,10 @@ tags: created/topic/2021/09/27, node/topic, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Unity (game engine)]]</s>
+#### <s class="topic-title">[[Unity (game engine)]]</s>
 
 
-##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicHeader(dv, this)`
+#### [[Unity (game engine)]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
 **See**:: [[programming]], [[game design]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
@@ -20,7 +20,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Unity (game engine)]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Using GitHub with Unity projects]]
 

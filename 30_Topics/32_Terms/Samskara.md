@@ -7,7 +7,7 @@ tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Samskara]]</s>
+#### <s class="topic-title">[[Samskara]]</s>
 #### <s class="topic-title">[[Samskara]]</s>
 Ball of undigested [[emotions]] and mental impressions formed due to previous life experiences, that gets triggered and causes [[suffering]] in present day.
 ^[[[notes_Vedic Psychology]]]

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/21, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[The Collector's Fallacy]]</s>
+#### <s class="topic-title">[[The Collector's Fallacy]]</s>
 
 > There’s a tendency [in all of us](https://zettelkasten.de/posts/collectors-fallacy-confession/) to gather useful stuff and feel good about it. To collect is a reward in itself...Why fallacy? Because ‘to know about something’ isn’t the same as ‘knowing something’.
 ^[["The Collector's Fallacy" ](https://zettelkasten.de/posts/collectors-fallacy/)]

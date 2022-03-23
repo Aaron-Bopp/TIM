@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Adenosine]]</s>
+#### <s class="topic-title">[[Adenosine]]</s>
 
 One of four nucleoside building blocks to [[DNA]] and [[RNA]]. Adenosine and adenosine receptors play important roles in regulating wakefulness and sleep
 

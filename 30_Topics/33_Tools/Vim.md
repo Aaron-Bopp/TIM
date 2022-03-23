@@ -6,7 +6,7 @@ tags: created/topic/2021/10/11, node/topic/tool
 
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Vim]]</s>
+#### <s class="topic-title">[[Vim]]</s>
 # [[Vim]] `$=customJS.dv_funcs.topicHeader(dv, this)`
  
 

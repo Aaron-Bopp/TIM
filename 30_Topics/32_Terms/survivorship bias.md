@@ -7,7 +7,7 @@ tags: created/topic/2022/01/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[survivorship bias]]</s>
+#### <s class="topic-title">[[survivorship bias]]</s>
 
 
 Survivorship bias or survival bias is the logical error of concentrating on the people or things that made it past some selection process and overlooking those that did not, typically because of their lack of visibility. This can lead to some false conclusions in several different ways. It is a form of [[selection bias]].

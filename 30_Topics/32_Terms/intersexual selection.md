@@ -7,7 +7,7 @@ tags: created/topic/2022/02/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[intersexual selection]]</s>
+#### <s class="topic-title">[[intersexual selection]]</s>
 
 
 

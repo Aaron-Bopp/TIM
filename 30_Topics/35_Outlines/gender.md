@@ -6,7 +6,7 @@ date modified: Saturday, September 25th 2021, 3:18:35 pm
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[gender]]</s>
+#### <s class="topic-title">[[gender]]</s>
 
 
 > The range of characteristics pertaining to, and differentiating between, femininity and masculinity. Depending on the context, these characteristics may include biological sex, sex-based social structures (i.e., gender roles), or [[gender identity]] (the personal sense of one's own gender).
@@ -27,7 +27,7 @@ WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
 **Terms**:: [[gender schema]], [[gender identity]], [[gender constancy]], [[gender consistency]], [[gender affirming care]]
-##### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[gender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Gender is a social construct]]
 - [[Every person has an experience of gender]]

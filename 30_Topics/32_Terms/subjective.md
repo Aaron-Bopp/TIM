@@ -7,7 +7,7 @@ tags: created/topic/2022/01/02, review, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[subjective]]</s>
+#### <s class="topic-title">[[subjective]]</s>
 
 > ![[books_Sapiens#^297681753]]
 

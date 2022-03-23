@@ -5,7 +5,7 @@ tags: created/topic/2021/10/10, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Masculinity]]</s>
+#### <s class="topic-title">[[Masculinity]]</s>
 
 
 Masculine traits are simply traits that appear more in men. [^1]

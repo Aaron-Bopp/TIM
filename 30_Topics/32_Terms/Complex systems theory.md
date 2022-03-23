@@ -7,7 +7,7 @@ tags: created/topic/2022/03/13, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Complex systems theory]]</s>
+#### <s class="topic-title">[[Complex systems theory]]</s>
 
 > [!wikipedia] [Complex systems theory](https://en.wikipedia.org/wiki/Complex%20system)
 > 

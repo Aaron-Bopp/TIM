@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Niyama]]</s>
+#### <s class="topic-title">[[Niyama]]</s>
 
 Personal observances; the second step in the eightfold path of [[Raja Yoga]].
 

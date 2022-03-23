@@ -10,7 +10,7 @@ sr-ease: 306
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Neuroscience]]</s>
+#### <s class="topic-title">[[Neuroscience]]</s>
 
 > [!wikipedia] [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
 > 
@@ -29,7 +29,7 @@ WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
 
-##### [[Neuroscience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Neuroscience]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 [[Humans are a product of evolution]]
 - [[Humans are primarily irrational, illogical, emotional beings]]

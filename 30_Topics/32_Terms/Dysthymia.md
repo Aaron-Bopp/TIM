@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Dysthymia]]</s>
+#### <s class="topic-title">[[Dysthymia]]</s>
 
 Persistent depressive disorder that is a more chronic [[depression]].
 

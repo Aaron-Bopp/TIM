@@ -7,7 +7,7 @@ tags: created/topic/2021/10/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[stereotype]]</s>
+#### <s class="topic-title">[[stereotype]]</s>
 
 
 A generalized belief towards a group or a member of group [^1]

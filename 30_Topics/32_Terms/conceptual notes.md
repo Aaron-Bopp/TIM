@@ -7,7 +7,7 @@ tags: created/topic/2021/11/10, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[conceptual notes]]</s>
+#### <s class="topic-title">[[conceptual notes]]</s>
 
 Notes that are focused on the idea they are describing and not the time they were taken, source they were inspired by, or context they require.
 

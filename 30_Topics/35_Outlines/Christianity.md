@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Christianity]]</s>
+#### <s class="topic-title">[[Christianity]]</s>
 
 
 **See**:: [[religion]]
@@ -20,7 +20,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Christianity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[The biblical Christian God is evil and does not deserve to be worshipped]]
 - [[The Politicization of the Christian Church]]
 - [[Evangelicalism]]

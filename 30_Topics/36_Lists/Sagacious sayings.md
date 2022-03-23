@@ -7,14 +7,14 @@ tags: node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Sagacious sayings]]</s>
+#### <s class="topic-title">[[Sagacious sayings]]</s>
 
 Sayings that have wisdom beyond their simplicity
 
 **See**:: [[Sticky concepts]], [[Life principles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[Sagacious sayings]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Sagacious sayings]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[The grass is always greener on the other side]]
 - [[Healed people heal people]]

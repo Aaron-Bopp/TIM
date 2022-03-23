@@ -9,7 +9,7 @@ sr-interval: 5
 sr-ease: 250
 ---
 
-##### [[notes_Treatment Principles for Anxiety and Depression ]]
+#### [[notes_Treatment Principles for Anxiety and Depression ]]
 
 **Creator**:: [[Dr. K]]
  

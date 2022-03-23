@@ -7,7 +7,7 @@ tags: created/topic/2021/12/08, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[nihilism]]</s>
+#### <s class="topic-title">[[nihilism]]</s>
 
 > [!wikipedia] [nihilism](https://en.wikipedia.org/wiki/Nihilism)
 > 

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Annamaya Kosha]]</s>
+#### <s class="topic-title">[[Annamaya Kosha]]</s>
 
 It is the physical layer, created by the accumulation of food over our lifetime.
 

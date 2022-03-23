@@ -9,7 +9,7 @@ sr-interval: 11
 sr-ease: 250
 ---
 
-##### [[notes_2000's General Notes ]]
+#### [[notes_2000's General Notes ]]
 
 **Creator**:: [[Aaron Bopp]]
  

@@ -7,7 +7,7 @@ tags: created/topic/2022/01/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Backlinks]]</s>
+#### <s class="topic-title">[[Backlinks]]</s>
 
 Links that are defined by being directly linked in another source.
 

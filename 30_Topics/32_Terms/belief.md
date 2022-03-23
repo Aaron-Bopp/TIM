@@ -7,7 +7,7 @@ tags: created/topic/2021/12/31, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[belief]]</s>
+#### <s class="topic-title">[[belief]]</s>
 
 - Belief is good
 	- [[Belief can motivate adaptation]]

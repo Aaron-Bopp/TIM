@@ -5,7 +5,7 @@ tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[implicit bias]]</s>
+#### <s class="topic-title">[[implicit bias]]</s>
 
 
 implicit bias [^1]

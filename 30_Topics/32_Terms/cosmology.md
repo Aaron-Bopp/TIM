@@ -10,7 +10,7 @@ sr-ease: 280
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[cosmology]]</s>
+#### <s class="topic-title">[[cosmology]]</s>
 
 > [!wikipedia] [cosmology](https://en.wikipedia.org/wiki/Cosmology)
 > 

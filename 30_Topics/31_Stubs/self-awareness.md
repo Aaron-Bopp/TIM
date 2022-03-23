@@ -10,7 +10,7 @@ sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[self-awareness]]</s>
+#### <s class="topic-title">[[self-awareness]]</s>
 
 > ![[books_Darwin's Cathedral#294293306q]]
 

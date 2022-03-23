@@ -7,7 +7,7 @@ tags: created/topic/2022/03/14, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[neuropsychology]]</s>
+#### <s class="topic-title">[[neuropsychology]]</s>
 
 > [!wikipedia] [neuropsychology](https://en.wikipedia.org/wiki/Neuropsychology)
 > 

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/07, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[structure]]</s>
+#### <s class="topic-title">[[structure]]</s>
 
 #TO/EXPLORE/READ [A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method](https://zettelkasten.de/posts/three-layers-structure-zettelkasten/)
 

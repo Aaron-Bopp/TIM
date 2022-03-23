@@ -5,7 +5,7 @@ tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[neurosis]]</s>
+#### <s class="topic-title">[[neurosis]]</s>
 
 the tendency to worry  [^1]
 

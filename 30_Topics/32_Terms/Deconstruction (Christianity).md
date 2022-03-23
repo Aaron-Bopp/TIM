@@ -5,7 +5,7 @@ tags: created/topic/2021/06/28, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Deconstruction (Christianity)]]</s>
+#### <s class="topic-title">[[Deconstruction (Christianity)]]</s>
 
 
 **See**:: [[Christianity]]

@@ -5,7 +5,7 @@ tags: created/topic/2021/10/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[stereotype threat]]</s>
+#### <s class="topic-title">[[stereotype threat]]</s>
 
 
 A [[stereotype threat]] is when a person is concerned a negative sterotype affecting their treatment in a situation. This can lead to lower performance and higher stress. There are two pyschological processes that underlie stereotype threat:

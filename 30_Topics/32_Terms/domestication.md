@@ -10,7 +10,7 @@ sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[domestication]]</s>
+#### <s class="topic-title">[[domestication]]</s>
 > [!wikipedia] [domestication](https://en.wikipedia.org/wiki/Domestication)
 > 
 > Domestication is a sustained multi-generational relationship in  which humans assume a significant degree of control over the reproduction and care of another group of organisms to secure a more predictable supply of resources from that group. 

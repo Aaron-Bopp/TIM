@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Dharma]]</s>
+#### <s class="topic-title">[[Dharma]]</s>
 
 The [[Sanskrit]] word for [[duty]] or [[responsibility]].
  ^[[[notes_Dharma]]]

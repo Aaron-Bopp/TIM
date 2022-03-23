@@ -9,7 +9,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[notes_Vedic Psychology ]]
+#### [[notes_Vedic Psychology ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

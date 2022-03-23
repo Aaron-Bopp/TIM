@@ -5,7 +5,7 @@ tags: created/topic/2021/10/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[discrimination]]</s>
+#### <s class="topic-title">[[discrimination]]</s>
 
 
 A generalized treatment towards a group or a member of group  [^1]

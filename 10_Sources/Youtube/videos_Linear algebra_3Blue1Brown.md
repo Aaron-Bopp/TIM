@@ -9,7 +9,7 @@ sr-interval: 8
 sr-ease: 250
 ---
 
-##### [[videos_Linear algebra_3Blue1Brown]]
+#### [[videos_Linear algebra_3Blue1Brown]]
 
 **Creator**:: [[3Blue1Brown]]
 

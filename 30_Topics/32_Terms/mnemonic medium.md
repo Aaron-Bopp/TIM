@@ -7,7 +7,7 @@ tags: created/topic/2021/12/22, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[mnemonic medium]]</s>
+#### <s class="topic-title">[[mnemonic medium]]</s>
 
 #TO/EXPLORE/RESEARCH [Mnemonic medium](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)
 

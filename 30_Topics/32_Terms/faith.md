@@ -5,7 +5,7 @@ tags: created/topic/2021/10/18, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[faith]]</s>
+#### <s class="topic-title">[[faith]]</s>
 
 The willpower that is needed to believe in something 
 

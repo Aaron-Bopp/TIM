@@ -7,7 +7,7 @@ tags: created/topic/2022/02/15, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[neutrinos]]</s>
+#### <s class="topic-title">[[neutrinos]]</s>
 
 > [!wikipedia] [neutrinos](https://en.wikipedia.org/wiki/Neutrino)
 > 

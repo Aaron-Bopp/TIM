@@ -8,7 +8,7 @@ aliases:
 
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Regex]]</s>
+#### <s class="topic-title">[[Regex]]</s>
 # [[Regex]] 
 
 A regular expression is a sequence of characters that specifies a search pattern. Usually such patterns are used for "find" or "find and replace" operations or input validation.   [^1]

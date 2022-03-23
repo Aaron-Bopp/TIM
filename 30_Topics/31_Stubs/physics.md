@@ -18,7 +18,7 @@ tags: created/topic/2022/02/07, node/topic/stub
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### Terms
+#### Terms
 - [[the Big Bang]]
 - [[Initial singularity]]
 - [[gravitational singularity]]

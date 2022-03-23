@@ -9,7 +9,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[notes_Vidya and Jnana ]]
+#### [[notes_Vidya and Jnana ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

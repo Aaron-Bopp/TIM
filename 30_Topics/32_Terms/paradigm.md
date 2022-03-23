@@ -7,7 +7,7 @@ tags: created/topic/2022/03/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[paradigm]]</s>
+#### <s class="topic-title">[[paradigm]]</s>
 
 > [!wikipedia] [paradigm](https://en.wikipedia.org/wiki/Paradigm)
 > 

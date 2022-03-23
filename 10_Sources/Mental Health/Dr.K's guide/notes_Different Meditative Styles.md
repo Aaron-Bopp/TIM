@@ -11,7 +11,7 @@ sr-interval: 5
 sr-ease: 250
 ---
 
-##### [[notes_Different Meditative Styles ]]
+#### [[notes_Different Meditative Styles ]]
 
 **Creator**:: [[Dr. K]]
  

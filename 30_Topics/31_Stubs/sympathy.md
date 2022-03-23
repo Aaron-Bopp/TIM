@@ -7,7 +7,7 @@ tags: created/topic/2021/10/20, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[sympathy]]</s>
+#### <s class="topic-title">[[sympathy]]</s>
 
 > [!wikipedia] [sympathy](https://en.wikipedia.org/wiki/Sympathy)
 > 

@@ -8,7 +8,7 @@ date modified: Tuesday, September 28th 2021, 9:59:34 am
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Abolition]]</s>
+#### <s class="topic-title">[[Abolition]]</s>
 
 
 This topic serves as a bridge between all forms of abolition

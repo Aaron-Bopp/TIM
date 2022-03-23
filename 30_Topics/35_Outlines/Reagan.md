@@ -5,7 +5,7 @@ tags: created/topic/2021/10/06, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Reagan]]</s>
+#### <s class="topic-title">[[Reagan]]</s>
 
 
 **See**:: [[Politics]]
@@ -18,7 +18,7 @@ FROM #node/evergreen
 WHERE contains(topics, [[Reagan]])
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Reagan]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Reagan]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - Beliefs
 	- [[supply-side economics]]

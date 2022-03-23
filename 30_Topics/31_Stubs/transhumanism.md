@@ -7,7 +7,7 @@ tags: created/topic/2021/11/18, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[transhumanism]]</s>
+#### <s class="topic-title">[[transhumanism]]</s>
 
 Transhumanism is the [[philosophy]] concerning general advocation for [[humanity]]'s potential to modify itself with [[technology]] to the point that we are beyond human.
 

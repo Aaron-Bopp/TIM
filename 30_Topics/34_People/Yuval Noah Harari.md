@@ -7,7 +7,7 @@ tags: created/topic/2022/03/19, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Yuval Noah Harari]]</s>
+#### <s class="topic-title">[[Yuval Noah Harari]]</s>
 
 
 ```dataview

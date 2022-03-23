@@ -7,7 +7,7 @@ tags: created/topic/2022/02/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Doppler Effect]]</s>
+#### <s class="topic-title">[[Doppler Effect]]</s>
 
 
 

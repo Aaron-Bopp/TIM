@@ -7,7 +7,7 @@ tags: created/topic/2021/12/06, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[knowledge graph]]</s>
+#### <s class="topic-title">[[knowledge graph]]</s>
 
 A visualization of the connections between peices of [[knowledge]], usually in a system that supports [[bi-directional links]].
 

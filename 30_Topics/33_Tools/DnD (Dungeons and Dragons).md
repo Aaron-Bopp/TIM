@@ -5,7 +5,7 @@ tags: created/topic/2021/10/18, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[DnD (Dungeons and Dragons)]]</s>
+#### <s class="topic-title">[[DnD (Dungeons and Dragons)]]</s>
 
 
 **See**:: [[role-playing]], [[TTRPG]], [[Acting]]

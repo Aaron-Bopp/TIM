@@ -8,7 +8,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[self-love]]</s>
+#### <s class="topic-title">[[self-love]]</s>
 
 - key in:: [[How to pursue the positive things in life]]
 	- because [[A repressed self creates a mistrust of self-love and self-esteem]]

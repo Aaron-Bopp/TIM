@@ -6,7 +6,7 @@ parent: [[anxiety]]
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social discomfort]]</s>
+#### <s class="topic-title">[[social discomfort]]</s>
 
 
 **See**:: [[anxiety]]
@@ -19,7 +19,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[social discomfort]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[social discomfort]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[socialization]]
 	- [[social anxiety]]
 	- [[self-hate]]

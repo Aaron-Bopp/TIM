@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[autism spectrum]]</s>
+#### <s class="topic-title">[[autism spectrum]]</s>
 
 > [!wikipedia] [autism spectrum](https://en.wikipedia.org/wiki/Autism%20spectrum)
 > 

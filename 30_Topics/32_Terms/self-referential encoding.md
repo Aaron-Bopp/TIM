@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[self-referential encoding]]</s>
+#### <s class="topic-title">[[self-referential encoding]]</s>
 
 > [!wikipedia] [self-referential encoding](https://en.wikipedia.org/wiki/Self-referential%20encoding)
 > 

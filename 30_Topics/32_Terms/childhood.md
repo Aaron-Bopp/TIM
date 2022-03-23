@@ -10,7 +10,7 @@ sr-ease: 194
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[childhood]]</s>
+#### <s class="topic-title">[[childhood]]</s>
 
 > [!wikipedia] [childhood](https://en.wikipedia.org/wiki/Child)
 > 

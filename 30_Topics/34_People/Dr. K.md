@@ -10,7 +10,7 @@ sr-ease: 269
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Dr. K]]</s>
+#### <s class="topic-title">[[Dr. K]]</s>
 
 
 ```dataview

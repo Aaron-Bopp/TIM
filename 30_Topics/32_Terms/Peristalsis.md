@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Peristalsis]]</s>
+#### <s class="topic-title">[[Peristalsis]]</s>
 
 A series of wave-like muscle contractions that move food through the digestive tract.
 

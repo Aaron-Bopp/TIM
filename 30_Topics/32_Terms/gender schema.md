@@ -5,7 +5,7 @@ tags: created/topic/2021/10/03, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[gender schema]]</s>
+#### <s class="topic-title">[[gender schema]]</s>
 
 
  schema that processes and organizes gender-linked associations [^1]

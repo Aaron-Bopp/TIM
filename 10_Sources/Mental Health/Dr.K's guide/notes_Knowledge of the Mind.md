@@ -11,7 +11,7 @@ sr-interval: 11
 sr-ease: 250
 ---
 
-##### [[notes_Knowledge of the Mind ]]
+#### [[notes_Knowledge of the Mind ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

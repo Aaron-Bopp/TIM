@@ -10,7 +10,7 @@ sr-ease: 241
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[the fundamental problem of social life]]</s>
+#### <s class="topic-title">[[the fundamental problem of social life]]</s>
 
 > ![[books_Darwin's Cathedral#^288457438]]
 

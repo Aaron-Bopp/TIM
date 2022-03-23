@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Duloxetine]]</s>
+#### <s class="topic-title">[[Duloxetine]]</s>
 
 A drug that works by dual [[serotonin]] and [[norepinephrine]] reuptake inhibition (SNRI) and is typically used to treat major depressive disorder, generalized anxiety disorder, neuropathic pain, fibromyalgia, chronic musculoskeletal pain, and stress incontinence.
 

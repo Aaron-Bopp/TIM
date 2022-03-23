@@ -9,13 +9,13 @@ tags: created/topic/2021/05/22, node/topic/term
 
 # <s class="topic-title">[[index note]]</s>
 
-##### ^blurb
+#### ^blurb
 
 In:: [[note writing]],
 an [[index note]] is the entry point for a [[Zettelkasten]], [[second brain]], or any other conception of a [[web of thought]]. It provides an organizational structure for a [[web of thought]], without having to constrict that web to a hierarchical structure.
 
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview] Related unlinked mentions

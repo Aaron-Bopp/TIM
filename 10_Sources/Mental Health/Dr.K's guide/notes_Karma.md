@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 230
 ---
 
-##### [[notes_Karma ]]
+#### [[notes_Karma ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

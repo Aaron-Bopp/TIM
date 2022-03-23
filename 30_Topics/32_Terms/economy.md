@@ -7,7 +7,7 @@ tags: created/topic/2021/10/06, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[economy]]</s>
+#### <s class="topic-title">[[economy]]</s>
 
 > [!wikipedia] [economy](https://en.wikipedia.org/wiki/Economy)
 > 

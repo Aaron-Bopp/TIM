@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[electromagnetism]]</s>
+#### <s class="topic-title">[[electromagnetism]]</s>
 
 > [!wikipedia] [electromagnetism](https://en.wikipedia.org/wiki/Electromagnetism)
 > 

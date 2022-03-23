@@ -7,7 +7,7 @@ tags: created/topic/2021/11/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[AI]]</s>
+#### <s class="topic-title">[[AI]]</s>
 
 > [!wikipedia] [AI](https://en.wikipedia.org/wiki/Artificial%20intelligence)
 > 

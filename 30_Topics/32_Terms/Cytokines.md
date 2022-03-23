@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Cytokines]]</s>
+#### <s class="topic-title">[[Cytokines]]</s>
 
 Small proteins that are crucial in controlling the growth and activity of other [[immune system]] cells and [[blood cells]].
 

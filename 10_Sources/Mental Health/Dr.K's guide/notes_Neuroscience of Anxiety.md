@@ -9,7 +9,7 @@ sr-interval: 12
 sr-ease: 250
 ---
 
-##### [[notes_Neuroscience of Anxiety ]]
+#### [[notes_Neuroscience of Anxiety ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

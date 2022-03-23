@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[memory]]</s>
+#### <s class="topic-title">[[memory]]</s>
 
 > [!wikipedia] [memory](https://en.wikipedia.org/wiki/Memory)
 > 

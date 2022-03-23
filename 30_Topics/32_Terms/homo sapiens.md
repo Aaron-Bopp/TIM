@@ -7,7 +7,7 @@ tags: created/topic/2022/03/04, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[homo sapiens]]</s>
+#### <s class="topic-title">[[homo sapiens]]</s>
 
 homo = man  
 sapien = wise

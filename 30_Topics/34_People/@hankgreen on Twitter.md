@@ -8,7 +8,7 @@ tags:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[@hankgreen on Twitter]]</s>
+#### <s class="topic-title">[[@hankgreen on Twitter]]</s>
 
 
 ```dataview

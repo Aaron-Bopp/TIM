@@ -7,7 +7,7 @@ tags: created/topic/2021/11/09, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[friction]]</s>
+#### <s class="topic-title">[[friction]]</s>
 
 Friction increases the energy required to continue doing something
 

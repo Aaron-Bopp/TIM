@@ -7,7 +7,7 @@ tags: created/topic/2022/03/20, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[equality]]</s>
+#### <s class="topic-title">[[equality]]</s>
 
 > [!wikipedia] [equality](https://en.wikipedia.org/wiki/Political%20egalitarianism)
 > 

@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[subconscious]]</s>
+#### <s class="topic-title">[[subconscious]]</s>
 
 The **subconscious** is that part of [[conscious|consciousness]] that is not currently in focal awareness
 

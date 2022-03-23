@@ -10,7 +10,7 @@ sr-ease: 270
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[behavior]]</s>
+#### <s class="topic-title">[[behavior]]</s>
 
 > [!wikipedia] [behavior](https://en.wikipedia.org/wiki/Behavior)
 > 

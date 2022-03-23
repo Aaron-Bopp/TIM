@@ -12,7 +12,7 @@ sr-interval: 7
 sr-ease: 250
 ---
 
-##### [[notes_OS_Deadlock]]
+#### [[notes_OS_Deadlock]]
 
 **Creator**:: [[Nathan Eloe]]
 

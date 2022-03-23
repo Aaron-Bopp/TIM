@@ -5,7 +5,7 @@ tags: created/topic/2021/10/03, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[sociobiology]]</s>
+#### <s class="topic-title">[[sociobiology]]</s>
 
 the application of [[Evolution|evolutionary]] theory ([[natural selection]]) to social [[behavior]] 
 ^[[[lecture_Behavioral Evolution]]]

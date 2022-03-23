@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/11, node/source/videos
 ---
 
-##### [[video_Line Goes Up]]
+#### [[video_Line Goes Up]]
 **Creator**:: [[Folding Ideas]]
  
 **Source**:: [Line Goes Up – The Problem With NFTs - YouTube](https://www.youtube.com/watch?v=YQ_xWvX1n9g)

@@ -6,7 +6,7 @@ date modified: Monday, October 4th 2021, 12:40:55 am
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social anxiety]]</s>
+#### <s class="topic-title">[[social anxiety]]</s>
 
  A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
 
@@ -20,7 +20,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - Symptoms
 	- lack of [[self-worth]]

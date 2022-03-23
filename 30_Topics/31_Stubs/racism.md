@@ -6,7 +6,7 @@ tags: created/topic/2021/07/30, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[racism]]</s>
+#### <s class="topic-title">[[racism]]</s>
 
 > [!wikipedia] [racism](https://en.wikipedia.org/wiki/Racism)
 > 

@@ -5,7 +5,7 @@ tags: created/topic/2021/10/19, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Spaced Repetition (plugin)]]</s>
+#### <s class="topic-title">[[Spaced Repetition (plugin)]]</s>
 
 Show plugin:: [open](obsidian://show-plugin?id=obsidian-spaced-repetition)
 

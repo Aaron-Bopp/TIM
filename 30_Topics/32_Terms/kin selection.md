@@ -7,7 +7,7 @@ tags: created/topic/2021/12/02, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[kin selection]]</s>
+#### <s class="topic-title">[[kin selection]]</s>
 
 > [!wikipedia] [kin selection](https://en.wikipedia.org/wiki/Kin%20selection)
 > 

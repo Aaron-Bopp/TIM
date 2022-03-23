@@ -5,7 +5,7 @@ tags: created/topic/2021/10/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[j-hat]]</s>
+#### <s class="topic-title">[[j-hat]]</s>
 
 
 y axis basic vector unit [^1]

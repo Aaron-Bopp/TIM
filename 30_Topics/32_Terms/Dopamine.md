@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Dopamine]]</s>
+#### <s class="topic-title">[[Dopamine]]</s>
 
 [[Neurotransmitter]] that plays a role in [[pleasure]], [[motivation]], and [[learning]].
 

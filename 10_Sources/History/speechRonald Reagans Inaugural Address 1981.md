@@ -25,7 +25,7 @@ sr-ease: 230
 - I am told that tens of thousands of prayer meetings are being held on this day, and for that I am deeply grateful. We are a nation under God, and I believe God intended for us to be free. It would be fitting and good, I think, if on each Inauguration Day in future years it should be declared a day of prayer.
 
 
-##### MarkdownText
+#### MarkdownText
 The Avalon Project : First Inaugural Address of [[Reagan|Ronald Reagan]]
 
 > ## Excerpt
@@ -38,7 +38,7 @@ First Inaugural Address of [[Reagan|Ronald Reagan]]
 
 
 
-##### TUESDAY, JANUARY 20, 1981
+#### TUESDAY, JANUARY 20, 1981
 
 Senator Hatfield, Mr. Chief Justice, Mr. President, Vice President Bush, Vice President Mondale, Senator Baker, Speaker O'Neill, Reverend Moomaw, and my fellow citizens: To a few of us here today, this is a solemn and most momentous occasion; and yet, in the history of our Nation, it is a commonplace occurrence. The orderly transfer of authority as called for in the [Constitution](https://avalon.law.yale.edu/18th_century/usconst.asp) routinely takes place as it has for almost two centuries and few of us stop to think how unique we really are. In the eyes of many in the world, this every-4-year ceremony we accept as normal is nothing less than a miracle.
 
@@ -119,7 +119,7 @@ The crisis we are facing today does not require of us the kind of sacrifice that
 And, after all, why shouldn't we believe that? We are [[America|Americans]]. God bless you, and thank you.
 
 
-##### PlainText
+#### PlainText
  The Avalon Project : First Inaugural Address of [[Reagan|Ronald Reagan]]
 
 > ## Excerpt
@@ -132,7 +132,7 @@ First Inaugural Address of [[Reagan|Ronald Reagan]]
 
 
 
-##### TUESDAY, JANUARY 20, 1981
+#### TUESDAY, JANUARY 20, 1981
 
 Senator Hatfield, Mr. Chief Justice, Mr. President, Vice President Bush, Vice President Mondale, Senator Baker, Speaker O'Neill, Reverend Moomaw, and my fellow citizens: To a few of us here today, this is a solemn and most momentous occasion; and yet, in the history of our Nation, it is a commonplace occurrence. The orderly transfer of authority as called for in the [Constitution](https://avalon.law.yale.edu/18th_century/usconst.asp) routinely takes place as it has for almost two centuries and few of us stop to think how unique we really are. In the eyes of many in the world, this every-4-year ceremony we accept as normal is nothing less than a miracle.
 

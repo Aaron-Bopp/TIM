@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Jnana]]</s>
+#### <s class="topic-title">[[Jnana]]</s>
 
 It is a [[subjective]] [[understanding]] of a concept that arises as a result of [[experience]] of contemplation, and ultimately leads to change.
 

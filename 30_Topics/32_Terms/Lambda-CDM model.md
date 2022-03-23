@@ -7,7 +7,7 @@ tags: created/topic/2022/03/12, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Lambda-CDM model]]</s>
+#### <s class="topic-title">[[Lambda-CDM model]]</s>
 
 > [!wikipedia] [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM%20model)
 > 

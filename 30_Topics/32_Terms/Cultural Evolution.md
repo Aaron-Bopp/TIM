@@ -10,7 +10,7 @@ sr-ease: 234
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Cultural Evolution]]</s>
+#### <s class="topic-title">[[Cultural Evolution]]</s>
 
 > [!wikipedia] [Cultural Evolution](https://en.wikipedia.org/wiki/Cultural%20evolution)
 > 

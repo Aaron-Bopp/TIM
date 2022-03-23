@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Psychodynamic Therapy]]</s>
+#### <s class="topic-title">[[Psychodynamic Therapy]]</s>
 
 The psychological interpretation of mental and emotional processes. Rooted in traditional [[psychoanalysis]], it draws from object relations, [[ego psychology]], and [[self psychology]]
 

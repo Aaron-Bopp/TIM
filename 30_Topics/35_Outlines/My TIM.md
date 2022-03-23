@@ -8,14 +8,14 @@ tags: created/topic/2021/06/07, node/topic/outline
 
 # <s class="topic-title">[[My TIM]]</s>
 
-##### ^blurb
+#### ^blurb
 
 Since March 2021 I have become very interested in the [[knowledge management]] concept of a [[web of thought]] so intricate that it creates a [[second brain]]. In this quest I realized that my real purpose was to create a *Totally Integrated Machine*, where the purpose is not just to reflect my first brain, but to augment it.
 
 **See**:: [[second brain]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### Outline
+#### Outline
 
 - Where do we start?
 	- [[Nodes in the second brain are an abstraction of our first brain]]
@@ -48,7 +48,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 		- [[spaced repetition]]
 		- [[AI]]
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview]+ Related unlinked mentions

@@ -10,7 +10,7 @@ sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[justified belief]]</s>
+#### <s class="topic-title">[[justified belief]]</s>
 
 In [[epistemology]], a [[belief]] is justified if one has good reason for holding it.
 

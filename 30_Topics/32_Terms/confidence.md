@@ -10,7 +10,7 @@ sr-ease: 219
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[confidence]]</s>
+#### <s class="topic-title">[[confidence]]</s>
 
 [[Confidence is a feedback loop]],
 those without it may fail or not try because they lack it and those with it may succeed because they have it whether or not it is warranted.

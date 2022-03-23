@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Dosha]]</s>
+#### <s class="topic-title">[[Dosha]]</s>
 
 A central term in [[Ayurveda]], which refers to the three humors, the balance of which promotes [[health]] in the [[mind-body complex]].
 

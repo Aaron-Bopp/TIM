@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[existential nihilism]]</s>
+#### <s class="topic-title">[[existential nihilism]]</s>
 
 > [!wikipedia] [existential nihilism](https://en.wikipedia.org/wiki/Existential%20nihilism)
 > 

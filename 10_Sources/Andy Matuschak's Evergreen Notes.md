@@ -8,7 +8,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[Andy Matuschak's Evergreen Notes]]
+#### [[Andy Matuschak's Evergreen Notes]]
 
 **Creator**:: [[Andy Matuschak]]
 

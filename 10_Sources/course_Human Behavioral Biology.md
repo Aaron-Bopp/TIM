@@ -9,7 +9,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[course_Human Behavioral Biology]]
+#### [[course_Human Behavioral Biology]]
 **Creator**:: 
  
 **Source**:: 

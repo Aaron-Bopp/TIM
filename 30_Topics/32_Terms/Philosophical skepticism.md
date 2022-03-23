@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Philosophical skepticism]]</s>
+#### <s class="topic-title">[[Philosophical skepticism]]</s>
 
 > [!wikipedia] [Philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical%20skepticism)
 > 

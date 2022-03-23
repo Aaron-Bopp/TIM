@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[cis]]</s>
+#### <s class="topic-title">[[cis]]</s>
 
 a person who identifies with gender they were assigned at birth
 

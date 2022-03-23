@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/03/11, node/source/video
 ---
 
-##### [[video_A brief history of quantom mechanics]]
+#### [[video_A brief history of quantom mechanics]]
 
 **Creator**:: [[Sean Carrol]]
  

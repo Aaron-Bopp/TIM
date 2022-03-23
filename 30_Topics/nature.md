@@ -7,7 +7,7 @@ tags: created/topic/2022/02/15, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[nature]]</s>
+#### <s class="topic-title">[[nature]]</s>
 
 > [!wikipedia] [nature](https://en.wikipedia.org/wiki/Nature)
 > 

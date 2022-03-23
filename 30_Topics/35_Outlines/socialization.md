@@ -8,7 +8,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[socialization]]</s>
+#### <s class="topic-title">[[socialization]]</s>
 
  the ways in which society conveys to the individual its expectations for their behavior
 Social fitness is a big part of [[human survival]] and [[human advancement]]
@@ -32,7 +32,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[socialization]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[socialization]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[inter-personal communication]]
 - [[social anxiety]]

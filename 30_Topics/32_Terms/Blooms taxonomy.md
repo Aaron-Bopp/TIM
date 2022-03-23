@@ -7,7 +7,7 @@ tags: created/topic/2022/03/05, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Blooms taxonomy]]</s>
+#### <s class="topic-title">[[Blooms taxonomy]]</s>
 
 ![[Pasted image 20220305150235.png]] ^19cbc1
 

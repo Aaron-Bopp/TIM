@@ -7,7 +7,7 @@ tags: created/topic/2021/10/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[neuroticism]]</s>
+#### <s class="topic-title">[[neuroticism]]</s>
 
 sometimes defined as a tendency for quick arousal when stimulated and slow relaxation from arousal, especially with regard to negative emotional arousal.
 

@@ -11,7 +11,7 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-##### [[notes_Science of Meditation ]]
+#### [[notes_Science of Meditation ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

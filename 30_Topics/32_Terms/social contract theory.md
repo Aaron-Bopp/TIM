@@ -7,7 +7,7 @@ tags: created/topic/2022/03/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social contract theory]]</s>
+#### <s class="topic-title">[[social contract theory]]</s>
 
 > [!wikipedia] [social contract theory](https://en.wikipedia.org/wiki/Social%20contract)
 > 

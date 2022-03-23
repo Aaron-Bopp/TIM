@@ -7,7 +7,7 @@ tags: created/topic/2022/03/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Imagined order]]</s>
+#### <s class="topic-title">[[Imagined order]]</s>
 
 
 > ![[books_Sapiens#^297681744]]

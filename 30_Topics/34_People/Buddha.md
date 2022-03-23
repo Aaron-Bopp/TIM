@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Buddha]]</s>
+#### <s class="topic-title">[[Buddha]]</s>
 
  
 

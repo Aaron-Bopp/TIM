@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Surya Namaskar]]</s>
+#### <s class="topic-title">[[Surya Namaskar]]</s>
 
 A particular sequence of [[asanas]] (postures) that purifies the [[body]].
 

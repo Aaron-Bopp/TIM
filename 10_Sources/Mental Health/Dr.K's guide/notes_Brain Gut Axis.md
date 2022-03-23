@@ -9,7 +9,7 @@ sr-interval: 12
 sr-ease: 250
 ---
 
-##### [[notes_Brain Gut Axis ]]
+#### [[notes_Brain Gut Axis ]]
 
 **Creator**:: [[Dr. K]]
  

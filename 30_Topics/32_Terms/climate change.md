@@ -10,7 +10,7 @@ sr-ease: 237
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[climate change]]</s>
+#### <s class="topic-title">[[climate change]]</s>
 
 > [!wikipedia] [climate change](https://en.wikipedia.org/wiki/Climate%20change)
 > 

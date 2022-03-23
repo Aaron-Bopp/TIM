@@ -11,7 +11,7 @@ sr-interval: 11
 sr-ease: 250
 ---
 
-##### MarkdownText
+#### MarkdownText
 
 June 21, 2011 — As high earners earn more, and lower or modest-income people earn less or see their incomes sit flat, the losers in the equation increasingly feel less happy and more inclined to believe that others are unfair and untrustworthy, according to a new University of Virginia-led study. ^fed754
 
@@ -35,7 +35,7 @@ June 21, 2011 — As high earners earn more, and lower or modest-income people e
 
   Overall, however, [[America|Americans]] are relatively happy, Oishi said. Compared to people in other developed nations – Germany, France, Japan and Korea, [[America|Americans]] are happier with a more positive outlook.
 
-##### PlainText
+#### PlainText
 
 June 21, 2011 — As high earners earn more, and lower or modest-income people earn less or see their incomes sit flat, the losers in the equation increasingly feel less happy and more inclined to believe that others are unfair and untrustworthy, according to a new University of Virginia-led study.
 

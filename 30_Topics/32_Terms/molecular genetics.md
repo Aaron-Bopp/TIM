@@ -7,7 +7,7 @@ tags: created/topic/2022/03/13, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[molecular genetics]]</s>
+#### <s class="topic-title">[[molecular genetics]]</s>
 
 > [!wikipedia] [molecular genetics](https://en.wikipedia.org/wiki/Molecular%20genetics)
 > 

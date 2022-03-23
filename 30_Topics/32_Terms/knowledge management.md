@@ -15,7 +15,7 @@ sr-ease: 185
 
 # <s class="topic-title">[[knowledge management]]</s>
 
-##### ^blurb
+#### ^blurb
 
 Knowledge management or personal knowledge management is an area of thought commonly associated
 with:: [[networked thinking]], [[web of thought|webs of thought]], [[Zettelkasten]], [[second brain]], [[evergreen notes]],
@@ -31,7 +31,7 @@ Those engaging in [[knowledge management]] are usually asking the questions, "Wh
 
 Knowledge management is seen as a major concern for [[knowledge work]].
 
-##### Outline
+#### Outline
 
 - Core ideas
 	- [[Choosing a note writing system is choosing a system for thought]]
@@ -63,7 +63,7 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 - Historical predecessors
 	- [[Sumerians invented writing to store large amounts of data]]
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview]+ Related unlinked mentions
@@ -82,7 +82,7 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 
 %% DO NOT EDIT ABOVE %%
 
-##### Discussion
+#### Discussion
 
 [[My TIM]] discusses my system in more detail.
 [[Evergreen notes]] and [[second brain]] are two popular paradigms that I take inspiration from, but within the knowledge management community many other systems are used, see [[note writing]].

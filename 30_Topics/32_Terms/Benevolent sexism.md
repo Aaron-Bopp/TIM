@@ -7,7 +7,7 @@ tags: created/topic/2022/02/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Benevolent sexism]]</s>
+#### <s class="topic-title">[[Benevolent sexism]]</s>
 
 Benevolent sexism represents evaluations of [[gender]] that may appear subjectively positive (subjective to the person who is evaluating), but are actually damaging to people and gender equality more broadly (e.g., the ideas that women need to be protected by men).
 ^[[[Ambivalent Sexism]]]

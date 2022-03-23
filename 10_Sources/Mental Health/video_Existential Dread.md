@@ -21,13 +21,13 @@ sr-ease: 250
 ### [Existential Dread](https://www.youtube.com/watch?v=UUC8qF5iDag)
 - [[Neuroscience]]
 
-##### Chemicals that cause the brain to focus
+#### Chemicals that cause the brain to focus
 - When under stress people are unable to focus on things other than the stressors ^wrht21
 	- Adrenaline hits in seconds and lasts for minutes
 	- Cortisol hits within the hour and last for 4-24 hours
 		- Basically keeps you on guard so that you're easier to wake from sleep, more aware, etc.
 	- These we formed for physical forms of stress (tigers) but now effect us even for mental stressors 
-##### Our brains design
+#### Our brains design
 - our brains are not designed for correcting the dissonance between thoughts and conclusions ^7qn6tt
 	- our brains are designed to make certainty out of uncertainty/find reasons for illogical decisions
 		- if given too many options the brain will make choices that we cannot immediately understand the reasons for
@@ -46,7 +46,7 @@ sr-ease: 250
 - Difference between anxious thoughts vs a feeling of existential dread
 	- Your feelings can manifest as thoughts
 	- Feeling alone in the world can come from people fundamentally not understanding you at an early age
-##### The way the mind works 
+#### The way the mind works 
 - Mamos -> emotional mind
 	- happens within 0-1s and then stores the emotional state
 	- Examples
@@ -61,7 +61,7 @@ sr-ease: 250
 	- examples
 		- "just try it"
 		- "experience new things"
-##### Competence comes from empathic mirroring
+#### Competence comes from empathic mirroring
 - [[confidence]] problems come from when [[parents]] can't mirror the child's emotional needs ^d7aec9
 	- [[Attachment Theory]]
 

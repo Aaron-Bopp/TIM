@@ -9,7 +9,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[@roryreckons on Twitter]]</s>
+#### <s class="topic-title">[[@roryreckons on Twitter]]</s>
 
 ```dataview
 TABLE 

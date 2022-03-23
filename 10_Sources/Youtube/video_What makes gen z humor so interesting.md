@@ -9,7 +9,7 @@ sr-interval: 6
 sr-ease: 250
 ---
 
-##### [[video_What makes gen z humor so interesting]]
+#### [[video_What makes gen z humor so interesting]]
 **Creator**:: [[oliSUNvia]]
  
 **Source**:: [what makes gen z humor so interesting? - YouTube](https://www.youtube.com/watch?v=a1LyTThf7V0)

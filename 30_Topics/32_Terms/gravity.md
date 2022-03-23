@@ -7,7 +7,7 @@ tags: created/topic/2022/02/09, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[gravity]]</s>
+#### <s class="topic-title">[[gravity]]</s>
 
 Gravity (from Latin  gravitas 'weight'), or gravitation, is a natural phenomenon by which all things with [[mass]] or [[energy]]—including planets, stars, galaxies, and even light—are attracted to (or gravitate toward) one another.  On [[Earth]], gravity gives weight to physical objects, and the Moon's gravity causes the tides of the oceans. The gravitational attraction of the original gaseous matter present in the Universe caused it to begin coalescing and forming stars and caused the stars to group together into galaxies, so gravity is responsible for many of the large-scale structures in the Universe. Gravity has an [[infinite]] range, although its effects become weaker as objects get farther away.
 

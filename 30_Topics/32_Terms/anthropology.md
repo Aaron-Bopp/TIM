@@ -7,7 +7,7 @@ tags: created/topic/2022/03/19, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[anthropology]]</s>
+#### <s class="topic-title">[[anthropology]]</s>
 
 > [!wikipedia] [anthropology](https://en.wikipedia.org/wiki/Anthropology)
 > 

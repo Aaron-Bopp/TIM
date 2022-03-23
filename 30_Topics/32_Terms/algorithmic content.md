@@ -5,7 +5,7 @@ tags: created/topic/2021/10/17, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[algorithmic content]]</s>
+#### <s class="topic-title">[[algorithmic content]]</s>
 
 
 Content that is pushed by an algorithm into the consumer's view. [^1]

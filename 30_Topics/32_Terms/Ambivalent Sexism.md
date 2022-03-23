@@ -7,7 +7,7 @@ tags: created/topic/2022/02/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Ambivalent Sexism]]</s>
+#### <s class="topic-title">[[Ambivalent Sexism]]</s>
 
 > [!wikipedia] [Ambivalent Sexism](https://en.wikipedia.org/wiki/Ambivalent%20sexism)
 > 

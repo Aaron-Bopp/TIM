@@ -7,7 +7,7 @@ tags: created/topic/2022/03/18, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[existential crisis]]</s>
+#### <s class="topic-title">[[existential crisis]]</s>
 
 > [!wikipedia] [existential crisis](https://en.wikipedia.org/wiki/Existential%20crisis)
 > 

@@ -9,7 +9,7 @@ sr-interval: 10
 sr-ease: 250
 ---
 
-##### [[notes_Solutions to Anxiety ]]
+#### [[notes_Solutions to Anxiety ]]
 
 **Creator**:: [[Dr. K]]
  

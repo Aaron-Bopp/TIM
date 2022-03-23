@@ -10,7 +10,7 @@ sr-ease: 274
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Big Bang cosmology]]</s>
+#### <s class="topic-title">[[Big Bang cosmology]]</s>
 
 A subset of [[cosmology]] centered around our best theory of the beginning of the [[universe]], [[the Big Bang]].
 

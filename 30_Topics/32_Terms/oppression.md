@@ -7,7 +7,7 @@ tags: created/topic/2022/03/19, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[oppression]]</s>
+#### <s class="topic-title">[[oppression]]</s>
 
 > [!wikipedia] [oppression](https://en.wikipedia.org/wiki/Oppression)
 > 

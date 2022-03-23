@@ -7,7 +7,7 @@ tags: created/topic/2022/03/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[egalitarianism]]</s>
+#### <s class="topic-title">[[egalitarianism]]</s>
 
 > [!wikipedia] [egalitarianism](https://en.wikipedia.org/wiki/Egalitarianism)
 > 

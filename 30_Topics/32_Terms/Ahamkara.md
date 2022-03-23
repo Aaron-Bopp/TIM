@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Ahamkara]]</s>
+#### <s class="topic-title">[[Ahamkara]]</s>
 
 The "I" feeling, or the sense of [[self]] (not the true self), commonly translated as the [[ego]].
 

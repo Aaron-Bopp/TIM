@@ -10,7 +10,7 @@ sr-ease: 239
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Autism]]</s>
+#### <s class="topic-title">[[Autism]]</s>
 
 > [!wikipedia] [Autism](https://en.wikipedia.org/wiki/Autism)
 > 

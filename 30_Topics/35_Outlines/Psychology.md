@@ -6,7 +6,7 @@ tags: created/topic/2021/08/12, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Psychology]]</s>
+#### <s class="topic-title">[[Psychology]]</s>
 
 > [!wikipedia] [Psychology](https://en.wikipedia.org/wiki/Psychology)
 > 
@@ -30,7 +30,7 @@ WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
 
-##### [[Psychology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Psychology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 Includes:: [[Evolutionary Psychology]], [[human behavior]]
 

@@ -7,7 +7,7 @@ tags: created/topic/2022/03/13, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[emergence]]</s>
+#### <s class="topic-title">[[emergence]]</s>
 
  ![[images!xkcd_435.png]]
 > [!wikipedia] [emergence](https://en.wikipedia.org/wiki/Emergence)
@@ -23,7 +23,7 @@ tags: created/topic/2022/03/13, node/topic/stub
 **See**:: [[Sticky concepts]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview]+ Related unlinked mentions
@@ -42,7 +42,7 @@ tags: created/topic/2022/03/13, node/topic/stub
 
 %% DO NOT EDIT ABOVE %%
 
-##### Discussion
+#### Discussion
 
  
 > ![[books_The Fabric of Reality#^287471892]]

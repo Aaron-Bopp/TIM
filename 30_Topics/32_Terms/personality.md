@@ -5,7 +5,7 @@ tags: created/topic/2021/10/18, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[personality]]</s>
+#### <s class="topic-title">[[personality]]</s>
 
 
  The combination of outward characteristics or qualities that form an individual's distinctive character. As a opposed to inward characteristics which make up you [[identity]]

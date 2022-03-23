@@ -9,7 +9,7 @@ sr-interval: 4
 sr-ease: 230
 ---
 
-##### [[notes_Panchakosha Theory ]]
+#### [[notes_Panchakosha Theory ]]
 
 **Creator**:: [[Dr. K]]
  

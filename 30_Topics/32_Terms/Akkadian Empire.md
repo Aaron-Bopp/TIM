@@ -7,7 +7,7 @@ tags: created/topic/2022/03/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Akkadian Empire]]</s>
+#### <s class="topic-title">[[Akkadian Empire]]</s>
 
 > [!wikipedia] [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian%20Empire)
 > 

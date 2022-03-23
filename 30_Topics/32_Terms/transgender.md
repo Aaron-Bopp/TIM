@@ -8,7 +8,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[transgender]]</s>
+#### <s class="topic-title">[[transgender]]</s>
 
 
 **See**:: [[Queer]], [[gender]]
@@ -21,7 +21,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[transgender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[transgender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[You're never sure if you're trans]]
 - [[You can discover your transness at any point in life]]
 - ![[gender#gender customJS dv_funcs topicOutlineHeader dv this]]

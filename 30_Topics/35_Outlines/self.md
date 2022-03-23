@@ -8,7 +8,7 @@ date modified: Monday, October 4th 2021, 9:58:06 pm
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[self]]</s>
+#### <s class="topic-title">[[self]]</s>
 
 Human's own conception of their [[self]] is dependent on many things including their [[childhood]], [[socialization]], and their [[perception]] of the world.
 
@@ -33,7 +33,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[self]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Identity is your understanding of yourself vs your interaction with the world]]
 - There are two modes of viewing yourself, [[self-perception]] and [[self-image]]
 	- [[self-perception]]

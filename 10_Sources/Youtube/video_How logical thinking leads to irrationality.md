@@ -9,7 +9,7 @@ sr-interval: 5
 sr-ease: 250
 ---
 
-##### [[video_How logical thinking leads to irrationality]]
+#### [[video_How logical thinking leads to irrationality]]
 **Creator**::  [[Dr. K]]
 
 **Source**:: [How Logical Thinking Actually Leads to Irrationality - YouTube](https://www.youtube.com/watch?v=ByYUd6DESQk)

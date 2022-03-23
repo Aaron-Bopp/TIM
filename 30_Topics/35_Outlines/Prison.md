@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Prison]]</s>
+#### <s class="topic-title">[[Prison]]</s>
 
 
 This topic serves as a bride between [[Prison abolition]] and the [[prison-industrial complex]].
@@ -22,7 +22,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Prison]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[prison-industrial complex]]
 - [[Prison abolition]]
 

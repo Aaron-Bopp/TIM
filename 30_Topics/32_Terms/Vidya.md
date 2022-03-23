@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Vidya]]</s>
+#### <s class="topic-title">[[Vidya]]</s>
 
 It is [[objective]] information that can be transmitted from one person to another, but does not directly lead to [[change]].
 

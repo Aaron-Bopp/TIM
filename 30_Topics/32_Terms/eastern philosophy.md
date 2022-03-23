@@ -11,7 +11,7 @@ sr-ease: 234
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[eastern philosophy]]</s>
+#### <s class="topic-title">[[eastern philosophy]]</s>
 
 > [!wikipedia] [eastern philosophy](https://en.wikipedia.org/wiki/Eastern%20philosophy)
 > 

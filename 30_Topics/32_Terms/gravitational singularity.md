@@ -7,7 +7,7 @@ tags: created/topic/2022/02/08, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[gravitational singularity]]</s>
+#### <s class="topic-title">[[gravitational singularity]]</s>
 
 A condition in which gravity is so intense that [[spacetime]] itself breaks down catastrophically.  As such, a singularity is by definition no longer part of the regular spacetime and cannot be determined by "where" or "when".
 

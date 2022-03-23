@@ -10,7 +10,7 @@ aliases:
 
 # <s class="topic-title">[[note writing]]</s>
 
-##### ^blurb
+#### ^blurb
 
 In:: [[knowledge management]], 
 note writing is purposeful act of storing information for future use. The medium of the storage isn't entirely irrelevant, but the methodology is much more influential. The type of notes you can write can roughly be divided 
@@ -21,7 +21,7 @@ This does not cover all type of [[writing]], but aims to cover the bulk of writi
 
 This note is a synthesis of note writing techniques used in systems like [[Zettelkasten]], [[evergreen notes]], and the general style of note writing enabled by [[knowledge management]] tools such as [[Obsidian (software)|Obsidian]], [[Roam Research (software)|Roam Research]], and others.
 
-##### Outline
+#### Outline
 
 - [[Philosophy]] of note writing - why do we care about how we write notes?
 	- [[Choosing a note writing system is choosing a system for thought]]
@@ -43,7 +43,7 @@ This note is a synthesis of note writing techniques used in systems like [[Zette
 - Historical influences
 	- [[Niklas Luhmann]] - [[Zettelkasten]]
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview]+ Related unlinked mentions
@@ -62,6 +62,6 @@ This note is a synthesis of note writing techniques used in systems like [[Zette
 
 %% DO NOT EDIT ABOVE %%
 
-##### Discussion
+#### Discussion
 
 [Note making explained | Note making | Library | University of Leeds](https://library.leeds.ac.uk/info/1401/academic_skills/85/note_making)

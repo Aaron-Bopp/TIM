@@ -7,7 +7,7 @@ tags: created/topic/2022/03/05, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[existentialism]]</s>
+#### <s class="topic-title">[[existentialism]]</s>
 
 A [[philosophy]] built around our collective feeling of [[existential dread]] and it's origin's.
 

@@ -7,7 +7,7 @@ tags: created/topic/2022/03/05, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[game theory]]</s>
+#### <s class="topic-title">[[game theory]]</s>
 
 > [!wikipedia] [game theory](https://en.wikipedia.org/wiki/Game%20theory)
 > 

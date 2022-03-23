@@ -6,7 +6,7 @@ date modified: Monday, October 4th 2021, 12:06:19 am
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[religious trauma]]</s>
+#### <s class="topic-title">[[religious trauma]]</s>
 
 
 **See**:: [[trauma]] 
@@ -19,7 +19,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[religious trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[religious trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Religious concepts are often too powerful for a child's mind]]
 	- [[We carry our childhood wounds into adulthood]]

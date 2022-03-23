@@ -5,7 +5,7 @@ tags: created/topic/2021/07/21, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Wealth Inequality]]</s>
+#### <s class="topic-title">[[Wealth Inequality]]</s>
 
 
 **See**:: [[Capitalism]], [[Marxism]], [[Communism]]
@@ -18,7 +18,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Wealth Inequality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Wealth Inequality]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Wealth Inequality creates a need for change]]
 
 ### <hr class="dataviews"/>

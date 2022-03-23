@@ -9,7 +9,7 @@ sr-interval: 3
 sr-ease: 250
 ---
 
-##### [[video_The Sixth Dimension]]
+#### [[video_The Sixth Dimension]]
 **Creator**:: [[Sixty Symbols]]
  
 **Source**:: [The Sixth Dimension - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=O4eXU8VHM2g)

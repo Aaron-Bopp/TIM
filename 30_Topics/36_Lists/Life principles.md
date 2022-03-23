@@ -7,7 +7,7 @@ tags: created/topic/2021/12/26, node/topic/list
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Life principles]]</s>
+#### <s class="topic-title">[[Life principles]]</s>
 
 > principle, a fundamental truth or proposition that serves as the foundation for a [[belief systems|system of belief]] or behavior or for a chain of reasoning.
 
@@ -21,7 +21,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Life principles]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Life principles]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[The injustice of endurance]]
 - [[Stupid rules are made to be broken]]

@@ -10,7 +10,7 @@ sr-ease: 230
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[market-based economy]]</s>
+#### <s class="topic-title">[[market-based economy]]</s>
 
 > [!wikipedia] [market-based economy](https://en.wikipedia.org/wiki/Market%20economy)
 > 

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/31, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social hierarchy]]</s>
+#### <s class="topic-title">[[social hierarchy]]</s>
 
 > [!wikipedia] [social stratification](https://en.wikipedia.org/wiki/Social%20stratification)
 > 

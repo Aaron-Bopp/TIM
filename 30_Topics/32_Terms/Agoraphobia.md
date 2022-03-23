@@ -7,7 +7,7 @@ tags: created/topic/2021/10/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Agoraphobia]]</s>
+#### <s class="topic-title">[[Agoraphobia]]</s>
 
 A type of [[anxiety]] disorder in which you fear and avoid places or situations that might cause you to panic and make you feel trapped, helpless or embarrassed.
 

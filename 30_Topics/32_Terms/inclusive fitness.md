@@ -7,7 +7,7 @@ tags: created/topic/2022/03/13, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[inclusive fitness]]</s>
+#### <s class="topic-title">[[inclusive fitness]]</s>
 
 > [!wikipedia] [inclusive fitness](https://en.wikipedia.org/wiki/Inclusive%20fitness)
 > 

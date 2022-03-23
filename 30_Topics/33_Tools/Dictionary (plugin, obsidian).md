@@ -7,7 +7,7 @@ tags: created/topic/2021/11/04, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Dictionary (plugin, obsidian)]]</s>
+#### <s class="topic-title">[[Dictionary (plugin, obsidian)]]</s>
 
 Hub:: [obsidian-dictionary-plugin - Obsidian Publish](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-dictionary-plugin) 
 

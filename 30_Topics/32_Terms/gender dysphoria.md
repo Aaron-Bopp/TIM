@@ -5,7 +5,7 @@ tags: created/topic/2021/07/21, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[gender dysphoria]]</s>
+#### <s class="topic-title">[[gender dysphoria]]</s>
 
 
 A marked incongruence between the individual's expressed or experienced gender and that which was assigned to the person at birth... which causes clinically significant distress or impairment in social, occupational, or other important areas of functioning

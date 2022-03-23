@@ -7,7 +7,7 @@ tags: created/topic/2022/03/21, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[negative utilitarianism]]</s>
+#### <s class="topic-title">[[negative utilitarianism]]</s>
 
 > [!wikipedia] [negative utilitarianism](https://en.wikipedia.org/wiki/Negative%20utilitarianism)
 > 

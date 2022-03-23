@@ -10,7 +10,7 @@ sr-ease: 270
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[sexual selection]]</s>
+#### <s class="topic-title">[[sexual selection]]</s>
 
 > [!wikipedia] [sexual selection](https://en.wikipedia.org/wiki/Sexual%20selection)
 > 

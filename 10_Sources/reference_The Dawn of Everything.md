@@ -6,12 +6,12 @@ aliases:
 tags: created/source/2022/03/20, node/source/notes
 ---
 
-##### [[reference_The Dawn of Everything]]
+#### [[reference_The Dawn of Everything]]
 **Creator**:: [[David Graeber]], [[David Wengrow]]
  
 **Source**:: [[books_The Dawn of Everything]]
 
-##### ^citation
+#### ^citation
 Graeber, D., Wengrow, D. (2021) *The Dawn of Everything: A New History of Humanity*
 
-##### ^blurb
+#### ^blurb

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Biopsy]]</s>
+#### <s class="topic-title">[[Biopsy]]</s>
 
 A sample of tissue taken from the [[body]] in order to examine it more closely.
 

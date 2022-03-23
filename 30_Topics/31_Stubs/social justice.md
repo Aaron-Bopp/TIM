@@ -8,7 +8,7 @@ sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social justice]]</s>
+#### <s class="topic-title">[[social justice]]</s>
 
 > [!wikipedia] [social justice](https://en.wikipedia.org/wiki/Social%20justice)
 > 

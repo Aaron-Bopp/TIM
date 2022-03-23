@@ -7,7 +7,7 @@ tags: created/topic/2022/03/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[The Agricultural Revolution]]</s>
+#### <s class="topic-title">[[The Agricultural Revolution]]</s>
 
 A widely used term for the transition from [[foraging]] to [[farming]] as the dominant mode of human life.
 

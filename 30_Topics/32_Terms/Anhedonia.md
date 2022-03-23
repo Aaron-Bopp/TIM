@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Anhedonia]]</s>
+#### <s class="topic-title">[[Anhedonia]]</s>
 
 The inability to feel pleasure. People with anhedonia are unable to enjoy activities that are normally "fun."
 

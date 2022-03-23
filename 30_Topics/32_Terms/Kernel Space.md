@@ -5,7 +5,7 @@ tags: created/topic/2021/10/13, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Kernel Space]]</s>
+#### <s class="topic-title">[[Kernel Space]]</s>
 
 
 memory locations the kernel and other processes (that have no restrictions in access to hardware, instructions or memory locations) execute from [^1]

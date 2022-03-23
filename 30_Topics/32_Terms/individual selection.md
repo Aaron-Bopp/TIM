@@ -7,7 +7,7 @@ tags: created/topic/2022/02/10, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[individual selection]]</s>
+#### <s class="topic-title">[[individual selection]]</s>
 
 > [!wikipedia] [individual selection](https://en.wikipedia.org/wiki/Ecological%20selection)
 > 

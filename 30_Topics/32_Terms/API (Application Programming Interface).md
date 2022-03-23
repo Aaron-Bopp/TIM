@@ -7,7 +7,7 @@ tags: created/topic/2021/11/08, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[API (Application Programming Interface)]]</s>
+#### <s class="topic-title">[[API (Application Programming Interface)]]</s>
 
 Define a stable interface that allows access to a hidden entity through *defined methods*, *legal input*, and *return values*
 

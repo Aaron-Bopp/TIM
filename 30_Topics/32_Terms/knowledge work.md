@@ -10,7 +10,7 @@ sr-ease: 198
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[knowledge work]]</s>
+#### <s class="topic-title">[[knowledge work]]</s>
 
 
 > [!wikipedia] [knowledge work](https://en.wikipedia.org/wiki/Knowledge%20worker)

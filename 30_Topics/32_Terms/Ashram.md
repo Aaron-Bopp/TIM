@@ -7,7 +7,7 @@ tags: created/topic/2022/01/03, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Ashram]]</s>
+#### <s class="topic-title">[[Ashram]]</s>
 
 The four stages of life 
 ^[[[notes_Karma]]]

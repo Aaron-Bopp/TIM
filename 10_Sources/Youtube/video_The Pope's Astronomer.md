@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/13, node/source/videos
 ---
 
-##### [[video_The Pope's Astronomer]]
+#### [[video_The Pope's Astronomer]]
 **Creator**:: [[Sixty Symbols]]
  
 **Source**:: [The Pope's Astronomer - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=Z0DAKaR16cY)

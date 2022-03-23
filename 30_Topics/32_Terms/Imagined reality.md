@@ -10,7 +10,7 @@ sr-ease: 222
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Imagined reality]]</s>
+#### <s class="topic-title">[[Imagined reality]]</s>
 
 > ![[books_Sapiens#294248537q]]
 

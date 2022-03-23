@@ -7,7 +7,7 @@ tags: created/topic/2021/12/08, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Frank Herbert]]</s>
+#### <s class="topic-title">[[Frank Herbert]]</s>
 
 
 **See**::

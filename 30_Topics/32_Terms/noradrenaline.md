@@ -7,7 +7,7 @@ tags: created/topic/2022/02/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[noradrenaline]]</s>
+#### <s class="topic-title">[[noradrenaline]]</s>
 
 
 Counterpart of [[norepinephrine]], the [[Neurotransmitter]] of the [[sympathetic nervous system]] secreted by the [[adrenal]] glands. In stressful situations, it is involved in the body's the [[fight-or-flight response]].

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/12, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[paulbricman.com]]</s>
+#### <s class="topic-title">[[paulbricman.com]]</s>
 
 
 **See**:: 
@@ -20,7 +20,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[paulbricman.com]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[paulbricman.com]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 

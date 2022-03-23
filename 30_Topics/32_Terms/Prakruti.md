@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Prakruti]]</s>
+#### <s class="topic-title">[[Prakruti]]</s>
 
 The natural [[Dosha|doshic]] balance, determined at birth.
 

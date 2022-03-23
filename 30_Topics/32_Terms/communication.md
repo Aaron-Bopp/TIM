@@ -12,7 +12,7 @@ sr-ease: 232
 
 # <s class="topic-title">[[communication]]</s>
 
-##### ^blurb
+#### ^blurb
 
 Communication is anything that conveys meaning to another entity.
 In human [[society]] this normally takes place in a shared [[language]] such as [[English]], [[ASL]], or through other mediums such as the [[internet]], [[non-verbal communication]], or social cues.
@@ -29,7 +29,7 @@ Communication between non-human entities can include the binary data used in int
 > Communication can be realized visually (through images and written language), through auditory, tactile/haptic (e.g. Braille or other physical means), olfactory, electromagnetic, or biochemical means (or any combination thereof). Human communication is unique for its extensive use of abstract [[language]].
 > 
 
-##### Outline
+#### Outline
 
 - How do human's use communication?
 	- [[Communication provides the opportunity to shape other's perceptions]]
@@ -42,7 +42,7 @@ Communication between non-human entities can include the binary data used in int
 - Historical roots
 	- [[Cultures without full scripts]]
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview]+ Related unlinked notes
@@ -61,7 +61,7 @@ Communication between non-human entities can include the binary data used in int
 
 %% DO NOT EDIT ABOVE %%
 
-##### Discussion
+#### Discussion
 
 > [!wikipedia] [communication](https://en.wikipedia.org/wiki/Communication)
 > #### Defining communication

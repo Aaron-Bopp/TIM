@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/14, node/source/videos
 ---
 
-##### [[video_Problems with gas stovetops - weak, dirty and dangerous]]
+#### [[video_Problems with gas stovetops - weak, dirty and dangerous]]
 **Creator**:: [[Adam Ragusea]]
  
 **Source**:: [Problems with gas stovetops | weak, dirty and dangerous - YouTube](https://www.youtube.com/watch?v=CcAJ3_-Hou8&t=648s)

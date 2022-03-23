@@ -7,7 +7,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Hinduism]]</s>
+#### <s class="topic-title">[[Hinduism]]</s>
 
 > [!wikipedia] [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 > 

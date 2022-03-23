@@ -9,7 +9,7 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-##### [[notes_Working with Samskaras ]]
+#### [[notes_Working with Samskaras ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

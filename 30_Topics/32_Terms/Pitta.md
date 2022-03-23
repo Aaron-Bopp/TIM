@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Pitta]]</s>
+#### <s class="topic-title">[[Pitta]]</s>
 
 One of the three [[dosha]]s in [[Ayurveda]], Pitta's qualities are wet, hot, and light.
 

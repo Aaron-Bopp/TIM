@@ -10,7 +10,7 @@ sr-ease: 248
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Africa]]</s>
+#### <s class="topic-title">[[Africa]]</s>
 
 > [!wikipedia] [Africa](https://en.wikipedia.org/wiki/Africa)
 > 

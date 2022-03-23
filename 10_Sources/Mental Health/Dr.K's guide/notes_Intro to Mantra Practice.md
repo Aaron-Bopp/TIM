@@ -9,7 +9,7 @@ sr-interval: 8
 sr-ease: 250
 ---
 
-##### [[notes_Intro to Mantra Practice ]]
+#### [[notes_Intro to Mantra Practice ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

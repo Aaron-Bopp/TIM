@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Anahata Chakra]]</s>
+#### <s class="topic-title">[[Anahata Chakra]]</s>
 
 Situated at our [[solar plexus]] or the middle of our upper back, it is the heart [[Chakra]], which governs [[compassion]] and [[empathy]].
 

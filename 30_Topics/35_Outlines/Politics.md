@@ -5,7 +5,7 @@ tags: created/topic/2021/10/06, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Politics]]</s>
+#### <s class="topic-title">[[Politics]]</s>
 
 
 **See**:: 
@@ -19,7 +19,7 @@ FROM #node/evergreen
 WHERE contains(topics, this.file.link) and !contains(this.file.outlinks, file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Politics]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Politics]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Civil Rights]]
 - [[racism]]

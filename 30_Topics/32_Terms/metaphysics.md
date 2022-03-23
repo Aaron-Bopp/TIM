@@ -10,7 +10,7 @@ sr-ease: 259
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[metaphysics]]</s>
+#### <s class="topic-title">[[metaphysics]]</s>
 
 > [!wikipedia] [metaphysics](https://en.wikipedia.org/wiki/Metaphysics)
 > 

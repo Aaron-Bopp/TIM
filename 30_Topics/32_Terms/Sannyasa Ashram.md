@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Sannyasa Ashram]]</s>
+#### <s class="topic-title">[[Sannyasa Ashram]]</s>
 
 The fourth of the four stages of life according to the [[Hinduism|Hindu]] tradition, the Sannyasa [[Ashram]] involves devoting yourself to self-understanding and enlightenment.
 

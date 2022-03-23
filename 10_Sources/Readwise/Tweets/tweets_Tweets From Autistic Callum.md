@@ -17,8 +17,7 @@ sr-ease: 230
 ---
 # Tweets From Autistic Callum
 
-**Related**:: 
-*`=this.highlight_tags`*
+**Covers**:: 
 
 **Source**:: [Tweets From Autistic Callum](https://twitter.com/AutisticCallum_)
 
@@ -27,82 +26,26 @@ sr-ease: 230
 # Highlights
 ##### ^252089900
 
-Yikes .autism  
+highlight_tags:: [[autism]], [[favorite]]   
+Goto: https://twitter.com/AutisticCallum_/status/1462813568689229825  
 
+Yikes  
 
 ###### ^252089900q
 
-> Years of autistic masking means that I often lose my identity when in the presence of others. I’m so used to mirroring and cultivating endearing responses that I don’t know how to feel and express something that’s wholly authentic and not remotely contrived or performative. 1/ 
-  [^252089900]
+Years of autistic masking means that I often lose my identity when in the presence of others. I’m so used to mirroring and cultivating endearing responses that I don’t know how to feel and express something that’s wholly authentic and not remotely contrived or performative. 1/ 
 
-[^252089900]: https://twitter.com/AutisticCallum_/status/1462813568689229825
+^252089900
 
 ##### ^255551227
 
-  
-%%
-highlight_tags:: [[autism]]
-%%
+highlight_tags:: [[autism]]   
+Goto: https://twitter.com/AutisticCallum_/status/1466800128958910466  
 
 ###### ^255551227q
 
-> Ways to unmask: 
-> ![](https://pbs.twimg.com/media/FFse8RVXIAMVlbw.jpg) 
-  [^255551227]
+Ways to unmask: 
+![](https://pbs.twimg.com/media/FFse8RVXIAMVlbw.jpg) 
 
-[^255551227]: https://twitter.com/AutisticCallum_/status/1466800128958910466
-
----
-created: 2021-12-04
-edited:
-aliases:
-  - "Tweets From Autistic Callum"
-  - "Tweets From Autistic Callum by @AutisticCallum_ on Twitter"
-  - "@AutisticCallum_ on Twitter"
-tags: created/source/2021/12/04, node/source/tweets
-type: 
-  - tweets
-deliveredBy: 
-  - "readwise"
-  - "twitter"
-sr-due: 2021-12-04
-sr-interval: 2
-sr-ease: 230
----
-# Tweets From Autistic Callum
-
-**Covers**:: 
-*`=this.highlight_tags`*
-
-**Source**:: [Tweets From Autistic Callum](https://twitter.com/AutisticCallum_)
-
-**Creator**:: [[@AutisticCallum_ on Twitter]]
-
-# Highlights
-##### ^252089900
-
-Yikes .autism  
-%%
-highlight_tags:: [[favorite]]
-%%
-
-###### ^252089900q
-
-> Years of autistic masking means that I often lose my identity when in the presence of others. I’m so used to mirroring and cultivating endearing responses that I don’t know how to feel and express something that’s wholly authentic and not remotely contrived or performative. 1/ 
-  [^252089900]
-
-[^252089900]: https://twitter.com/AutisticCallum_/status/1462813568689229825
-
-
-%%
-highlight_tags:: [[autism]]
-%%
-
-###### ^255551227q
-
-> Ways to unmask: 
-> ![](https://pbs.twimg.com/media/FFse8RVXIAMVlbw.jpg) 
-  [^255551227]
-
-[^255551227]: https://twitter.com/AutisticCallum_/status/1466800128958910466
+^255551227
 

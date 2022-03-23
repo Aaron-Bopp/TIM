@@ -7,7 +7,7 @@ tags: created/topic/2022/02/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[borderline personality disorder]]</s>
+#### <s class="topic-title">[[borderline personality disorder]]</s>
 
 > [!wikipedia] [borderline personality disorder](https://en.wikipedia.org/wiki/Borderline%20personality%20disorder)
 > 

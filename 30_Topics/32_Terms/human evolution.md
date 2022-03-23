@@ -41,27 +41,27 @@ We will never fully understand what our relationship was to them, but understand
 
 #### The many keys to human evolution
 
-##### Larger brains 
+#### Larger brains 
 
 This is why [[Cracking bones and eating the marrow may have been human's first niche]] and [[Cooking allowed prehistoric humans to spend less energy on digesting]] are important, as they allowed for us to develop larger brains. 
 
-##### Increased communication skills
+#### Increased communication skills
 
 Human's mastery of [[language]] is key to our abilities to understand each other. Our language is supple enough to transmit an unlimited amount of information from battle plans to gossip. #TO/DO/CITE 
 
-##### Social cooperation
+#### Social cooperation
 
 Our ability to communicate subjective matter's like emotions and feelings allows us to understand eachother socially unlike any other species. This increases our ability to trust and also our ability to know when not to trust.
 ^[[[books_Sapiens#294248528q]]]
 
-##### [[Symbolism]]
+#### [[Symbolism]]
 
 [[Communication]] continues to lead the way as we start to construct symbols to more easily to transfer [[information]] to new generations. 
 ^[[[books_Sapiens#294248530q]]]
 
 [[Social order is built off of a shared belief in an imagined reality]]
 
-##### [[Social control]]
+#### [[Social control]]
 
 > ![[books_Sapiens#294248529q]]
 

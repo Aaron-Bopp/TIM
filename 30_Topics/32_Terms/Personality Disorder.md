@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Personality Disorder]]</s>
+#### <s class="topic-title">[[Personality Disorder]]</s>
 
 A group of [[mental health]] conditions that are characterized by inflexible and unhealthy patterns of thinking, feeling, and behaving.
 

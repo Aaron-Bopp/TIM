@@ -7,7 +7,7 @@ tags: created/topic/2022/01/02, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[knowledge]]</s>
+#### <s class="topic-title">[[knowledge]]</s>
 
 Has been separated into two types by [[Yogi]]s
 ^[[[notes_Vidya and Jnana]]]

@@ -7,7 +7,7 @@ tags: created/topic/2022/02/10, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Adelphic polyandry]]</s>
+#### <s class="topic-title">[[Adelphic polyandry]]</s>
 
 > [!wikipedia] [Adelphic polyandry](https://en.wikipedia.org/wiki/Polyandry)
 > 

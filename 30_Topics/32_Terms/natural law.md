@@ -7,7 +7,7 @@ tags: created/topic/2022/03/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[natural law]]</s>
+#### <s class="topic-title">[[natural law]]</s>
 
 > [!wikipedia] [natural law](https://en.wikipedia.org/wiki/Natural%20law)
 > 

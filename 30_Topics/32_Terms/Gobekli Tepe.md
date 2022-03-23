@@ -10,7 +10,7 @@ sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Gobekli Tepe]]</s>
+#### <s class="topic-title">[[Gobekli Tepe]]</s>
 Göbekli Tepe
 > [!wikipedia] [Gobekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli%20Tepe)
 > 

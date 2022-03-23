@@ -31,7 +31,7 @@ sr-ease: 230
 ---
 
 
-##### MarkdownText
+#### MarkdownText
 
 [[Reagan|Ronald Reagan]]: Impact and Legacy | Miller Center
 
@@ -52,7 +52,7 @@ Scholars offer a variety of explanations for why [[the Cold War]] ended as it di
 It is an open question whether [[Reagan]]'s accomplishments occurred because of his [[philosophy]] or despite it—or both. [[Reagan]] was an effective communicator of conservative ideas, but he was also an enormously practical politician who was committed to [[success]]. The welfare bill that was the signal achievement of [[Reagan]]'s second term as governor of California, the [[reform]] that salvaged Social Security for a generation during his first term as President, and the tax overhaul of his second presidential term were bipartisan compromises, defying "liberal" or "conservative" labels. In the tradition of American populists, [[Reagan]] ran for office as an outsider who was determined to restore traditional values. In fact, he was a master politician who expanded the reach of his party at home and pursued his vision of a nuclear-free world abroad. He casts a long shadow.
 
 
-##### PlainText
+#### PlainText
  [[Reagan|Ronald Reagan]]: Impact and Legacy | Miller Center
 
 > ## Excerpt

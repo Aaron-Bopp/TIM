@@ -9,7 +9,7 @@ sr-interval: 8
 sr-ease: 250
 ---
 
-##### [[notes_The Nature of Mind ]]
+#### [[notes_The Nature of Mind ]]
 
 **Creator**:: [[Dr. K]]
  

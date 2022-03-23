@@ -26,7 +26,7 @@ sr-ease: 230
 - Republicans consider the establishment of a pro-growth tax code a moral imperative.
 - The President and the [[Democratic]] party have dismantled [[America|Americans]]' system of healthcare.
 
-##### MarkdownText
+#### MarkdownText
 Excerpts from the [[Republican]] Party Platform, 2016 (Note: The entire platform may be accessed here: <https://www.gop.com/the-2016-[[republican]]-party-platform/>
 
 July 18, 2016

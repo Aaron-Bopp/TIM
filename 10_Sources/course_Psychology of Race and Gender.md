@@ -9,7 +9,7 @@ sr-interval: 7
 sr-ease: 250
 ---
 
-##### [[course_Psychology of Race and Gender ]]
+#### [[course_Psychology of Race and Gender ]]
 
  **Creator**:: 
  

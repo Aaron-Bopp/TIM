@@ -8,7 +8,7 @@ tags: created/topic/2021/06/17, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[empathy]]</s>
+#### <s class="topic-title">[[empathy]]</s>
 
 Empathy is the capacity to understand or feel what another person is experiencing from within their frame of reference
 ^[https://en.wikipedia.org/wiki/Empathy]

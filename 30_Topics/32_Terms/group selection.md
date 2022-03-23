@@ -17,14 +17,14 @@ Group selection takes place when a trait is passed on because the trait that an 
 **See**:: [[natural selection]], [[inclusive fitness]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### Application
+#### Application
 
 In [[books_Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
 The first of these is that not every group is an adaptive unit; If there is not competition between groups, there is not a driving force for [[group selection]] to take advantage of. 
 The second is that groups must be defined for any given trait relative to the context that trait is meaningful in. He claims that every other theory of group selection (one's that rely on [[kin selection]] or [[game theory]]) can be explained using [[group selection]] if you follow these rules. 
 ^e8dce2
 
-##### Influence
+#### Influence
 
 [[Group selection]] is can be a very powerful force through it's reinforcement of [[reciprocal altruism]]. When group develops strong levels of cooperation while they are separated from the wider group 
 ^[much as [[homo sapiens]] was separated from [[Homo erectus]] and [[Homo neanderthalis]] in eastern [[Africa]] 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
@@ -34,7 +34,7 @@ it allows them to out compete that group when they are recombined. In the same s
 Group selection can be a weak force in genetic [[evolution]], but is often the strongest force when it comes to [[Cultural Evolution]].
 This makes discussions around group selection veer much more towards [[Psychology]] than [[Biology]], but [[Biology]] very much has a part to play in discussions of [[group selection]] and [[Cultural Evolution]]. 
 
-##### History
+#### History
 
 The history of group selection is an interesting one, but our modern conception reflects ideas that have been around since the hypothesis of [[natural selection]].
 

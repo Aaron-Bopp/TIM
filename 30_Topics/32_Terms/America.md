@@ -8,7 +8,7 @@ sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[America]]</s>
+#### <s class="topic-title">[[America]]</s>
 
 > [!wikipedia] [America](https://en.wikipedia.org/wiki/United%20States)
 > 
@@ -34,7 +34,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[America]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[America]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 
 

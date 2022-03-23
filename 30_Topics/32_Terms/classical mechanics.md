@@ -7,7 +7,7 @@ tags: created/topic/2022/03/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[classical mechanics]]</s>
+#### <s class="topic-title">[[classical mechanics]]</s>
 
 > [!wikipedia] [classical mechanics](https://en.wikipedia.org/wiki/Classical%20mechanics)
 > 

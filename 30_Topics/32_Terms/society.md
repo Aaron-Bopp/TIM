@@ -7,7 +7,7 @@ tags: created/topic/2021/10/23, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[society]]</s>
+#### <s class="topic-title">[[society]]</s>
 
 In one sense 
 an extended social group having a distinctive cultural and economic organization

@@ -11,7 +11,7 @@ sr-interval: 8
 sr-ease: 250
 ---
 
-##### [[notes_History of Meditation ]]
+#### [[notes_History of Meditation ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

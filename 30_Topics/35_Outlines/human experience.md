@@ -8,7 +8,7 @@ sr-ease: 205
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[human experience]]</s>
+#### <s class="topic-title">[[human experience]]</s>
 
 Experiences 
 consisting of: [[conscious|Consciousness]], [[existence]], [[perception]], [[learning]],
@@ -29,7 +29,7 @@ The source of the wondering that leads to the pondering of [[The three main ques
 >
 > <cite> [[John Green]] </cite>
 
-##### Outline
+#### Outline
 
 includes:: [[human survival]], [[human advancement]]
 - How do we know we exist?
@@ -53,7 +53,7 @@ includes:: [[human survival]], [[human advancement]]
 	- then [[Politics]] and [[democracy]]
 - 
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview]+ Related unlinked notes
@@ -73,7 +73,7 @@ includes:: [[human survival]], [[human advancement]]
 
 %% DO NOT EDIT ABOVE %%
 
-##### Maps
+#### Maps
 
 ![[ayy-lmao-odysseus-scylla-charybdis-1024x590.jpg]]
 ^[<http://www.visakanv.com/blog/ayy-lmao/>]

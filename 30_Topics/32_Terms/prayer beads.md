@@ -7,7 +7,7 @@ tags: created/topic/2021/12/31, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[prayer beads]]</s>
+#### <s class="topic-title">[[prayer beads]]</s>
 
 Has a variable amount of beads based on [[purpose]], and has a guru bead which helps to mark the use of prayer beads in [[Japa Meditation]]
 

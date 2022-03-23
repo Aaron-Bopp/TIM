@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Kundalini Yoga]]</s>
+#### <s class="topic-title">[[Kundalini Yoga]]</s>
 
 A system of [[Yoga]] that focuses on [[meditation]] on the [[Chakra]]s in order to develop particular faculties.
  

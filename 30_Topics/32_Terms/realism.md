@@ -5,7 +5,7 @@ tags: created/topic/2021/10/18, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[realism]]</s>
+#### <s class="topic-title">[[realism]]</s>
 
 
 the quality or fact of representing a person or thing in a way that is accurate and true to life. [^1]

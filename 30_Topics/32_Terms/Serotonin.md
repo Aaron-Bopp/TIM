@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Serotonin]]</s>
+#### <s class="topic-title">[[Serotonin]]</s>
 
 A [[Neurotransmitter]] and [[hormone]]. [[Serotonin]] produced in the brain helps regulate your attention, behavior, and body temperature. Other nerve cells in the body, primarily in your intestines, also produce serotonin which plays a role in regulating the [[digestive process]], [[blood flow]], and [[breathing]].
 

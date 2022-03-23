@@ -5,7 +5,7 @@ tags: created/topic/2021/10/15, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Computer Science]]</s>
+#### <s class="topic-title">[[Computer Science]]</s>
 
 ![['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]
 
@@ -21,7 +21,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[Computer Science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Computer Science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[Operating Systems]]
 	- [[Monolithic vs Micro Kernels]]

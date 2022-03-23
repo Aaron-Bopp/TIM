@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/14, node/source/videos
 ---
 
-##### [[video_Superluminal (faster than light) speeds]]
+#### [[video_Superluminal (faster than light) speeds]]
 **Creator**:: [[Sixty Symbols]]
  
 **Source**:: [Superluminal Speeds (faster than light) - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=IsEDigUHsOQ)

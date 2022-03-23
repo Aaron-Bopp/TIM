@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/18, node/source/video
 ---
 
-##### [[video_Bo Burnham vs. Jeff Bezos]]
+#### [[video_Bo Burnham vs. Jeff Bezos]]
 
 **Creator**:: [[CJ The X]]
  

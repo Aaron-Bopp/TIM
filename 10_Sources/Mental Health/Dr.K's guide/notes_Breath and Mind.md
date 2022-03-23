@@ -9,7 +9,7 @@ sr-interval: 9
 sr-ease: 250
 ---
 
-##### [[notes_Breath and Mind ]]
+#### [[notes_Breath and Mind ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

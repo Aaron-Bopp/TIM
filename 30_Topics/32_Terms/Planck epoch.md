@@ -10,7 +10,7 @@ sr-ease: 256
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Planck epoch]]</s>
+#### <s class="topic-title">[[Planck epoch]]</s>
 
 > [!wikipedia] [Planck epoch](https://en.wikipedia.org/wiki/Chronology%20of%20the%20universe)
 > 

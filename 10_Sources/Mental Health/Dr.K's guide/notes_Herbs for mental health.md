@@ -9,7 +9,7 @@ sr-interval: 17
 sr-ease: 250
 ---
 
-##### [[notes_Herbs for mental health]]
+#### [[notes_Herbs for mental health]]
 
 **Creator**:: [[Dr. K]]
  

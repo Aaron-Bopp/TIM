@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/15, node/source/videos
 ---
 
-##### [[video_From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]
+#### [[video_From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]
 
 **Creator**:: [[Guy Consolmagno]]
  

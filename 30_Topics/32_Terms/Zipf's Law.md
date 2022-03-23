@@ -7,7 +7,7 @@ tags: created/topic/2022/02/14, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Zipf's Law]]</s>
+#### <s class="topic-title">[[Zipf's Law]]</s>
 
 > [!wikipedia] [Zipf's Law](https://en.wikipedia.org/wiki/Zipf's%20law)
 > 

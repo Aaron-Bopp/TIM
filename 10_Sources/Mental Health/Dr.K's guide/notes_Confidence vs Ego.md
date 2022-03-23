@@ -9,7 +9,7 @@ sr-interval: 10
 sr-ease: 250
 ---
 
-##### [[notes_Confidence vs Ego ]]
+#### [[notes_Confidence vs Ego ]]
 **Creator**:: [[Dr. K]]
  
 **Source**:: [[course_Dr. K's Guide to Mental Health]]

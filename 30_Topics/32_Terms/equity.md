@@ -7,7 +7,7 @@ tags: created/topic/2022/03/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[equity]]</s>
+#### <s class="topic-title">[[equity]]</s>
 
 
 > [!wikipedia] [social equity](https://en.wikipedia.org/wiki/Social%20equity)

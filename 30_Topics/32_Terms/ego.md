@@ -7,7 +7,7 @@ tags: created/topic/2022/01/01, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[ego]]</s>
+#### <s class="topic-title">[[ego]]</s>
 
 From the [[Sanskrit]], [[Ahamkara]] - The sense of "I" or sense of [[self]] that we take on and articulate.
 

@@ -7,7 +7,7 @@ tags: created/topic/2022/03/21, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[prosocial behavior]]</s>
+#### <s class="topic-title">[[prosocial behavior]]</s>
 
 > [!wikipedia] [prosocial behavior](https://en.wikipedia.org/wiki/Prosocial%20behavior)
 > 

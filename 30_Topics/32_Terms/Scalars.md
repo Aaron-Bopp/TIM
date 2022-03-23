@@ -5,7 +5,7 @@ tags: created/topic/2021/10/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Scalars]]</s>
+#### <s class="topic-title">[[Scalars]]</s>
 
 
 numbers used to scale vectors. [^1]

@@ -8,7 +8,7 @@ sr-ease: 234
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[self-perception]]</s>
+#### <s class="topic-title">[[self-perception]]</s>
 
 [[Self-perception]] is the way that you view yourself externally, and it may be instep or out of step with the way you view yourself internally, or your [[self-image]]. This [[perception]] may be based in reality, but it is often influenced by societal pressures, [[inter-personal communication]], [[gender schema]], or [[body dysmorphia]]
 

@@ -8,7 +8,7 @@ tags: created/topic/2021/12/28, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[newsletter.eleanorkonik.com]]</s>
+#### <s class="topic-title">[[newsletter.eleanorkonik.com]]</s>
 
 
 ```dataview

@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Yantra]]</s>
+#### <s class="topic-title">[[Yantra]]</s>
 
 They are symbols of power, that when meditated on allow the meditator to harness a particular kind of [[spirituality|spiritual]] energy.
 

@@ -7,7 +7,7 @@ tags: created/topic/2021/11/06, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[TERFS]]</s>
+#### <s class="topic-title">[[TERFS]]</s>
 
 [[transgender|Trans]] Exclusionary Radical [[Feminism|feminist]]
 

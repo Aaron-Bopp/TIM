@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Tachycardia]]</s>
+#### <s class="topic-title">[[Tachycardia]]</s>
 
 Increased [[heart rate]] over 100 beats per minute
 

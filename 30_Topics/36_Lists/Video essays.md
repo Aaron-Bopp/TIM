@@ -16,7 +16,7 @@ TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-##### [[Video essays]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Video essays]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - 2 watches
 	- essay:: [Bo Burnham vs. Jeff Bezos](https://www.youtube.com/watch?v=UvYcunuF3Eo) 

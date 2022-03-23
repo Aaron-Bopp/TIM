@@ -8,7 +8,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[SSRI]]</s>
+#### <s class="topic-title">[[SSRI]]</s>
 
 [[Drugs]] that specifically inhibit only serotonin reuptake in the synaptic cleft (thus boosting the serotonin signal) and are typically used as antidepressants and anti-anxiety medications.
 

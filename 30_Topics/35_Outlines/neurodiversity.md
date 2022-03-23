@@ -8,7 +8,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[neurodiversity]]</s>
+#### <s class="topic-title">[[neurodiversity]]</s>
 
 
  differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
@@ -26,7 +26,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[neurodiversity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[neurodiversity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[ADHD]]
 	- Symptoms
 		- [[Rejection Sensitivity]]

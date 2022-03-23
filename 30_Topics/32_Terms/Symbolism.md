@@ -7,7 +7,7 @@ tags: created/topic/2022/03/14, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Symbolism]]</s>
+#### <s class="topic-title">[[Symbolism]]</s>
 
 > [!wikipedia] [Symbolism](https://en.wikipedia.org/wiki/Symbolism%20(arts))
 > 

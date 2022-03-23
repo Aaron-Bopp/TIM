@@ -10,7 +10,7 @@ sr-ease: 204
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social control]]</s>
+#### <s class="topic-title">[[social control]]</s>
 
 > [!wikipedia] [social control](https://en.wikipedia.org/wiki/Social%20control)
 > 

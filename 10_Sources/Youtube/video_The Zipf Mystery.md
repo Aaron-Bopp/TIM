@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/14, node/source/videos
 ---
 
-##### [[video_The Zipf Mystery]]
+#### [[video_The Zipf Mystery]]
 
 **Creator**:: [[Vsauce]]
  

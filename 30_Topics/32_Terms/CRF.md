@@ -8,7 +8,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[CRF]]</s>
+#### <s class="topic-title">[[CRF]]</s>
 
 It is a releasing [[hormone]], its main function is the stimulation of the [[pituitary]] synthesis
 

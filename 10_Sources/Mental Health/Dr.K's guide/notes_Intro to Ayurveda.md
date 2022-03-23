@@ -9,7 +9,7 @@ sr-interval: 12
 sr-ease: 250
 ---
 
-##### [[notes_Intro to Ayurveda ]]
+#### [[notes_Intro to Ayurveda ]]
 
 **Creator**:: [[Dr. K]]
  

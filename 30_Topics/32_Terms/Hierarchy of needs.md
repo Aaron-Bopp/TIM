@@ -6,7 +6,7 @@ tags: created/topic/2021/10/23, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Hierarchy of needs]]</s>
+#### <s class="topic-title">[[Hierarchy of needs]]</s>
 
 > [!wikipedia] [Hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's%20hierarchy%20of%20needs)
 > 

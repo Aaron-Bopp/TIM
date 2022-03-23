@@ -7,7 +7,7 @@ tags: created/topic/2022/03/12, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Homo erectus]]</s>
+#### <s class="topic-title">[[Homo erectus]]</s>
 
 > [!wikipedia] [Homo erectus](https://en.wikipedia.org/wiki/Homo%20erectus)
 > 

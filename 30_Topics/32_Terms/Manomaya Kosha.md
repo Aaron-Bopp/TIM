@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Manomaya Kosha]]</s>
+#### <s class="topic-title">[[Manomaya Kosha]]</s>
 
 The part of our mind where we [[experience]] and store our [[emotions]].
 

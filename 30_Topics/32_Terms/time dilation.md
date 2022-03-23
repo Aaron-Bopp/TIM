@@ -7,7 +7,7 @@ tags: created/topic/2022/02/20, node/topic/stub
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[time dilation]]</s>
+#### <s class="topic-title">[[time dilation]]</s>
 
 > [!wikipedia] [time dilation](https://en.wikipedia.org/wiki/Time%20dilation)
 > 

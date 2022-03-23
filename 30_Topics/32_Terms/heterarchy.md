@@ -7,7 +7,7 @@ tags: created/topic/2021/12/14, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[heterarchy]]</s>
+#### <s class="topic-title">[[heterarchy]]</s>
 
 > [!wikipedia] [Heterarchy - Wikipedia](https://en.wikipedia.org/wiki/Heterarchy)
 > 

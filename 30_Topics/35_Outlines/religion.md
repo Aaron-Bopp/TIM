@@ -8,7 +8,7 @@ aliases:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[religion]]</s>
+#### <s class="topic-title">[[religion]]</s>
 
 
 **See**:: [[205 Index]]
@@ -21,7 +21,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-##### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[religion]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[Christianity]]
 - [[Buddhism]]
 - [[Hinduism]]

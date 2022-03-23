@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Shuddhi]]</s>
+#### <s class="topic-title">[[Shuddhi]]</s>
 
 A practice that aims to cleanse a part of our [[self]], such as the [[body]], [[energy]], or [[mind]].
 

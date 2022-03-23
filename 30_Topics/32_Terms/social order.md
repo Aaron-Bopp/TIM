@@ -7,7 +7,7 @@ tags: created/topic/2022/02/20, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[social order]]</s>
+#### <s class="topic-title">[[social order]]</s>
 
 > [!wikipedia] [social order](https://en.wikipedia.org/wiki/Social%20order)
 > 

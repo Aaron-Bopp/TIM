@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/14, node/source/videos
 ---
 
-##### [[video_It’s Time To Break Up With Our Gas Stoves]]
+#### [[video_It’s Time To Break Up With Our Gas Stoves]]
 **Creator**:: [[Climate Town]]
  
 **Source**:: [It’s Time To Break Up With Our Gas Stoves | Climate Town - YouTube](https://www.youtube.com/watch?v=hX2aZUav-54&t=328s)

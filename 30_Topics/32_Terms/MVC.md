@@ -7,7 +7,7 @@ tags: created/topic/2021/12/02, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[MVC]]</s>
+#### <s class="topic-title">[[MVC]]</s>
 An architecture level pattern that gives advice on how to structure an application
 ^[[[notes_WebDev FA21]]]
 

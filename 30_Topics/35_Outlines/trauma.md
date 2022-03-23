@@ -7,7 +7,7 @@ tags: created/topic/2021/06/12, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[trauma]]</s>
+#### <s class="topic-title">[[trauma]]</s>
 
 
 **See**:: [[mental health]]
@@ -22,7 +22,7 @@ WHERE contains(topics, this.file.link)
 %% DO NOT EDIT ABOVE %%
 **Outlined**:: `$=customJS.dv_funcs.outlinedIn(dv, this)`
 
-##### [[trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[trauma]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - [[childhood]]
 - ![[religious trauma#religious trauma customJS dv_funcs topicOutlineHeader dv this]]

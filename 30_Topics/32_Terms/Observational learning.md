@@ -5,7 +5,7 @@ tags: created/topic/2021/10/11, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Observational learning]]</s>
+#### <s class="topic-title">[[Observational learning]]</s>
 
 
 Children can anticipate consequences of actions they have never performed [^1] 

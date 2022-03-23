@@ -9,7 +9,7 @@ sr-interval: 2
 sr-ease: 246
 ---
 
-##### [[lecture_Molecular Genetics]]
+#### [[lecture_Molecular Genetics]]
 **Creator**:: [[Robert Salpolsky]]
  
 **Source**:: [[course_Human Behavioral Biology]]

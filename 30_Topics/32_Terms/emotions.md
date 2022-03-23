@@ -8,7 +8,7 @@ tags: created/topic/2021/11/24, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[emotions]]</s>
+#### <s class="topic-title">[[emotions]]</s>
 
 > [!wikipedia] [emotions](https://en.wikipedia.org/wiki/Emotion)
 > 

@@ -12,7 +12,7 @@ sr-interval: 9
 sr-ease: 250
 ---
 
-##### [[notes_OS_IPC and signals]]
+#### [[notes_OS_IPC and signals]]
 
 **Creator**:: [[Nathan Eloe]]
 

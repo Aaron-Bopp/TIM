@@ -8,16 +8,16 @@ tags: created/topic/2021/05/22, node/topic/moc
 
 # <s class="topic-title">[[second brain]]</s>
 
-##### ^blurb
+#### ^blurb
 
 In:: [[knowledge management]], 
 a second brain is a system of [[information]] storage that compliments, supplements, and extends the abilities of our first brain, using a combination of [[note writing]], [[networked thinking]], and [[technology]].
 
 **See**:: [[My TIM]], [[Zettelkasten]], [[note writing]], [[AI]]
 
-##### Outline
+#### Outline
 
-##### ^dataviews
+#### ^dataviews
 
 %% DO NOT EDIT BELOW %%
 > [!dataview] Related unlinked mentions

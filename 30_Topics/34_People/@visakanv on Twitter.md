@@ -7,7 +7,7 @@ tags: created/topic/2021/11/02, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[@visakanv on Twitter]]</s>
+#### <s class="topic-title">[[@visakanv on Twitter]]</s>
 
 
 ```dataview

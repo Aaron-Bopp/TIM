@@ -7,7 +7,7 @@ tags: created/topic/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-##### <s class="topic-title">[[Hatha Yoga]]</s>
+#### <s class="topic-title">[[Hatha Yoga]]</s>
 
 A hybrid tradition of [[Yoga]] that focuses on attaining [[enlightenment]] by purifying the [[body]] and [[mind]] through [[asanas]] (physical postures) and [[pranayama]] (breath control).
 
