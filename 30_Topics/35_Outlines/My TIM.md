@@ -42,7 +42,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 	- Don't overburden yourself
 		- [[Only organize as much as your data requires]]
-		- [[Prioritize organization over categorization]]
+		- [[Prioritize understanding over organization or categorization]]
 		- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 	- Augment your brain power
 		- [[spaced repetition]]

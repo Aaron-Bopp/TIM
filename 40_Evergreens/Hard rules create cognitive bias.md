@@ -19,7 +19,7 @@ sr-ease: 153
 - [[Hard boundaries reduce opportunities for creativity]]
 - [[The way systems work can create cognitive bias]] #TO/TEND/GRAFT 
 	- [[Better tools allow us to be less disciplined and more productive]]
-	- [[Prioritize organization over categorization]]
+	- [[Prioritize understanding over organization or categorization]]
 - [[Stupid rules are made to be broken]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[Friction is a hindrance to learning]]

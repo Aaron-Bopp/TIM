@@ -30,7 +30,7 @@ with a [[web of thought]] being one of the primary ones. This makes sharing and 
 ##### Counter:: Intuitive does not mean easy or approachable
 
 Because [[Andy Matuschak's Evergreen Notes]] are such a pure web of [[web of thought]], it is often very difficult to find the things that you are looking for as an outside viewers. Even for your own notes, the [[heterarchy|heterarchical]] structure of a [[web of thought]] may not be right for everyone.
-Thankfully [[Organization systems are not mutually exclusive]], and many people have employed systems to help overlay [[hierarchy]] on top of a [[web of thought]], without loosing value: [[Prioritize organization over categorization]]
+Thankfully [[Organization systems are not mutually exclusive]], and many people have employed systems to help overlay [[hierarchy]] on top of a [[web of thought]], without loosing value: [[Prioritize understanding over organization or categorization]]
 
 ### <hr class="footnote"/>
 

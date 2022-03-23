@@ -16,19 +16,13 @@ sr-ease: 170
 We will believe there are ghosts in our house before we investigate a leaky beam. We will think that nobody at the party really likes us when we keep getting invited back. We will tell our children that only god can explain our existence when science has given us more answers than you could ever learn in one lifetime.
 
 This leads us to both remain in [[cognitive dissonance]], and to pursue [[knowledge]].
-#TO/TEND/DEOBFUSCATE  [[Humans transfer their wonder into creativity]]
 [[Faith is an abstraction of cognitive dissonance]]
 
-#TO/TEND/GRAFT 
-- [[Humans long to know what to do]]
-	- [[Humans are a product of evolution]]
-	- [[Humans try really hard to avoid understanding their mistakes]]
-	- [[The materialistic view of religions examines why humans invented and clung to religion]]
-	- [[Belief pulls you forward into life]]
-- [[Our ego is our subconscious defense of our self]]
-	- [[We value our biggest insecurities because they protect us from the biggest threats]]
-	- [[Rationalizations are defense-mechanisms against strong emotions]]
+- result of:: [[Belief can motivate adaptation]]
+- explained by:: [[Humans transfer their wonder into creativity]]
+- part of:: [[Humans long to know what to do]]
 
+#TO/PONDER/IDEA Does this extend to [[emotions]] as well? are we drawn to avoid what we know about ourselves? is the a manifestation of the neurological mechanisms behind [[dissociation]]?
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

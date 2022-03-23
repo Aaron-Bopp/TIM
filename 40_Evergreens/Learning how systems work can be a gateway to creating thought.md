@@ -36,7 +36,7 @@ For more:: [[Communities are knowledge graphs]]
 
 Learning systems can help create thought, but it does so by [[influence|influencing]] thought. This means that if a system is pointing you in the wrong direction it will negatively impact your ability to create and learn. 
 ^[[[The way systems work can create cognitive bias]]]
-This is why you should [[Prioritize organization over categorization]]. 
+This is why you should [[Prioritize understanding over organization or categorization]]. 
 
 Here are some thoughts that may guide how you decide on and create your system with creating hard rules: 
 - [[Write your notes with a system not within a system]]

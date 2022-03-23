@@ -4,13 +4,18 @@ edited:
 tags: created/topic/2021/08/13, node/topic/term
 aliases:
   - autistic 
-sr-due: 2022-03-19
-sr-interval: 2
+sr-due: 2022-03-30
+sr-interval: 8
 sr-ease: 239
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Autism]]</s>
+
+In:: [[neurodiversity]],
+autism is part of a spectrum of behavior, or the [[autism spectrum]].
+While currently defined as a [[mental illness]] in the [[DSM]]-V, understanding of autism is currently growing, and many people advocate against support for finding a "cure" for autism, 
+and instead support educating and changing [[society]] to better support autistic people.
 
 > [!wikipedia] [Autism](https://en.wikipedia.org/wiki/Autism)
 > 

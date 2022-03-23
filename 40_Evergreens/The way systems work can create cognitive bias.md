@@ -13,7 +13,7 @@ sr-ease: 176
 
 #TO/PONDER/IDEA #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them
 - In [[knowledge work]] #TO/TEND/GRAFT 
-	- [[Prioritize organization over categorization]]
+	- [[Prioritize understanding over organization or categorization]]
 	- [[Only organize as much as your data requires]]
 	- [[Learning how systems work can be a gateway to creating thought]]
 	- [[Hard rules create cognitive bias]]

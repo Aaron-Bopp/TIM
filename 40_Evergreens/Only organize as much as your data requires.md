@@ -11,12 +11,10 @@ sr-ease: 161
 
 #### [[Only organize as much as your data requires]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+part of:: [[Prioritize understanding over organization or categorization]]
+
 [[Organization systems are not mutually exclusive]], so don't confine yourself to one.
-When you start to feel [[friction]], trust that feeling: [[Friction is a hindrance to learning]]
-
-Over-organization will just lead to incorrect categorization: [[Prioritize organization over categorization]]
-
-- [[How I outlined my brain (literally just use all of the organization techniques at once)]]
+When you start to feel [[friction]], trust that feeling. [[Friction is a hindrance to learning]] and whatever you are trying to organize might not have enough context to be meaningfully organized into
 
 #TO/PONDER/IDEA Cutter classification
 
@@ -25,5 +23,5 @@ Over-organization will just lead to incorrect categorization: [[Prioritize organ
 **Status**:: #EVER/SEED 
 *edited January 23, 2022*
 
-**Topics**:: [[organization]], [[structure]], [[second brain]], [[knowledge management]]
+**Topics**:: [[organization]], [[structure]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

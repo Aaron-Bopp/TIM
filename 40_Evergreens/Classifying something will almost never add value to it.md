@@ -18,7 +18,7 @@ This is something I've run up to time and time again in [[note writing]], as you
 Perhaps this is best represented by my repeated changing of the names of my tags. I do think [[Names matter because they effect people's perception and understanding]], but they don't matter THAT much.
 
 - part of:: [[Only organize as much as your data requires]]
-- leads to:: [[Prioritize organization over categorization]]
+- leads to:: [[Prioritize understanding over organization or categorization]]
 
 ### <hr class="footnote"/>
 

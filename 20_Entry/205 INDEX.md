@@ -2,7 +2,7 @@
 /
 ```
 # Content Areas
-While we should [[Prioritize organization over categorization]], I think that it may be good to try and periodically categorize your work for the purpose of review and reflection. Additionally, I think this is a helpful overview for people who are viewing my [[second brain]].  These are general enough that are easy to keep up to date, and since they are just layed over a flat structure, they don't impose too many barriers to thought.
+While we should [[Prioritize understanding over organization or categorization]], I think that it may be good to try and periodically categorize your work for the purpose of review and reflection. Additionally, I think this is a helpful overview for people who are viewing my [[second brain]].  These are general enough that are easy to keep up to date, and since they are just layed over a flat structure, they don't impose too many barriers to thought.
 
 ![[Content Areas]]
 

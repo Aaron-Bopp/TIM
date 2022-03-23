@@ -21,10 +21,16 @@ You can see how when we realize that we are not the center of the universe, that
 Definitely vibes with this
 ![[Our ego is our subconscious defense of our self#^2cbdf3]]
 
+Not only is this a shock, this fact is in complete dissonance with our understanding of the world.
+[[Children make wide assumptions about the world]] shows that our [[childhood]] brains can be very powerful in the shaping of our psyche. 
+Perhaps this shock is the origin of our capacity and aptitude for handling [[cognitive dissonance]]?
+If so this
+answers:: [[Why do humans have such a high capacity for cognitive dissonance]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[ego]], [[self]], [[identity]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

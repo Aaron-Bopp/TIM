@@ -41,7 +41,7 @@ A good first step is, [[Only organize as much as your data requires]]. If you do
 - [[heterarchy]]
 
 - [[How I outlined my brain (literally just use all of the organization techniques at once)]] #TO/TEND/GRAFT 
-- [[Prioritize organization over categorization]]
+- [[Prioritize understanding over organization or categorization]]
 - [[Use Obsidian tags as temporal classifiers]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]

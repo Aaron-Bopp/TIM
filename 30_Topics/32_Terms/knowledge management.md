@@ -41,7 +41,7 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 	- [[Note storage is important because it defines how you access and retain knowledge]]
 		- Plain text or [[markdown]] are common solutions do to their simplicity and extensibility
 			- [[Basic tools for working with plaintext]]
-	- [[Prioritize organization over categorization]]
+	- [[Prioritize understanding over organization or categorization]]
 		- [[Only organize as much as your data requires]]
 		- [[Only categorize as much as your data requires]]
 		- [[Webs of thought provide heterarchical structure]]

@@ -22,8 +22,8 @@ sr-ease: 270
 
 This is fundamentally a survival system: [[Human's have an inability to admit that they are wrong]], but it is overactive because [[Our brain will do anything it can to protect itself]]
 
-#TO/PONDER/IDEA 
-[[Humans are primarily irrational, illogical, emotional beings]], is the [[ego]] just a amalgamation of our [[cognitive dissonance]]? and [[Is cognitive dissonance the reason for harmful behaviors]]?
+Possibly
+explained by:: [[The ego is the brain's response to the realization that we are just another individual in the world]].
 
 - [[Meditation is a practice to gain control over your thoughts]]
 
