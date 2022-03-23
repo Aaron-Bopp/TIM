@@ -11,6 +11,16 @@ sr-ease: 170
 
 #### [[Evergreen notes help us bridge the gap between knowledge and understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+There is an initial hump to understanding any concept that makes it hard to passively learn things.
+This has given people the impressions that the only way they can learn is through structured purposefully attacking the problem.
+this isn't untrue, but there are ways that we can cross that hump without doing all of the work at once.
+
+Another problem is that we are continually falling back across the hump.
+[[Learning is not like riding a bicycle]].
+If we aren't actively working with something we are going to forget.
+This is a gift and a curse.
+
+
 - [[notes_Vidya and Jnana]]
 - [[We learn by transforming information into understanding]]
 - [[Writing is a catalyst of understanding]]
