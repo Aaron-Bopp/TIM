@@ -11,23 +11,23 @@ sr-ease: 170
 
 #### [[Anxiety stems from a lack of confidence for the future]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+We know two things about our brains,
+[[Confidence comes when you are more capable of handling diverse outcomes]] and [[Your anxiety is telling you everything that could go wrong, not what will go wrong]].
+You can see how this could be a problem when you have the second and not the first. 
+You don't have [[confidence]] that you will be able to handle *anything* going wrong and yet your [[anxiety]] is telling you that **everything** that could go wrong
+
 This is 
 how:: [[Anxiety prevents us from living in the present]]
 and 
 why:: [[Confidence is a feedback loop]]
 
-#TO/TEND/GRAFT 
-- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
-- [[A secure identity is the best defense against social anxiety]]
-
-Inversely:: [[Confidence comes when you are more capable of handling diverse outcomes]]
-
-[[Anxiety is a defense-mechanism of the brain]], and because [[Humans are a product of evolution]] that means it is [[adaptation|adaptive]].
-This means [[Existential dread]] can be seen as a long term [[group selection]] enforced trait.
+With this is mind it is easy to see 
+why:: [[A secure identity is the best defense against social anxiety]].
+If you have a secure [[identity]] it means you understand who you are and how you want people to view you. Even if you don't have confidence in your ability to handle bad [[human interaction|social interaction]], you at least know that it isn't going to be detrimental to your [[self-image]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[confidence]]

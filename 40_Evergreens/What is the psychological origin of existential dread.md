@@ -24,6 +24,9 @@ Having a [[sense of impending doom]] is a recognized symptom of medications like
 
 - works with:: [[You don't want to jump off the cliff you're just afraid of falling]]
 
+[[Anxiety is a defense-mechanism of the brain]], and because [[Humans are a product of evolution]] that means it is [[adaptation|adaptive]].
+This means [[Existential dread]] can be seen as a long term [[group selection]] enforced trait.
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

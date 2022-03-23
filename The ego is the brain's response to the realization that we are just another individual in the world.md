@@ -1,0 +1,30 @@
+---
+created: 2022-03-22T22:06:08 
+edited: 
+aliases:
+  - null
+tags: created/evergreen/2022/03/22, review, node/evergreen/claim
+sr-due: 2022-03-22
+sr-interval: 1
+sr-ease: 230
+---
+
+#### [[The ego is the brain's response to the realization that we are just another individual in the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+When we are child we are the center of our world. All we know is our perception, and what we are perceiving is every person we know waiting on us hand and foot.
+You can see how when we realize that we are not the center of the universe, that can be quite a shock.
+
+- explains:: [[Our ego is our subconscious defense of our self]]
+- part of:: [[Our brain will do anything it can to protect itself]]
+- works with:: [[Our brain actively inhibits us from processing repressed emotions]]
+
+Definitely vibes with this
+![[Our ego is our subconscious defense of our self#^2cbdf3]]
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/SPROUT
+*edited `=this.file.mtime`*
+
+**Topics**:: <% tp.file.cursor(1) %>
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*

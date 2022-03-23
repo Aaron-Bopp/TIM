@@ -16,6 +16,8 @@ sr-ease: 270
 > 
 > <cite>[[Dr. K]]</cite>
 
+^2cbdf3
+
 [[Rationalizations are defense-mechanisms against strong emotions]], and our [[ego]] is the amalgamation of those [[defense-mechanisms]], ready to activate at anytime. If the trigger is strong enough, we can completely dissolve into our ego, lose connection to our true [[self]], and fallback to whatever [[coping-mechanisms]] we have developed without a chance to intercept and change them.
 
 This is fundamentally a survival system: [[Human's have an inability to admit that they are wrong]], but it is overactive because [[Our brain will do anything it can to protect itself]]

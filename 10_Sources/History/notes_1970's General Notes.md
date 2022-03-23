@@ -1,10 +1,4 @@
 ---
-sr-due: 2022-02-22
-sr-interval: 11
-sr-ease: 250
----
-
----
 created: 2021-04-30
 edited: 
 tags: created/source/2021/04/30, node/source/notes
@@ -47,7 +41,7 @@ sr-ease: 230
           - War must end immediately
           - stand up to [[government|govt]] is most important responsibility
      - John Carry
-          - Spoke to the pointlessness of the Vietnam War
+          - Spoke to the pointlessness of the [[Vietnam War]]
           - Painted a picture of violence done by american soldiers
                - brought a lot of hate from other people in the military who claimed it was extreme cases
      - The pentagon Papers
