@@ -4,20 +4,22 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
+sr-due: 2022-03-24
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[Being critical helps you develop understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 why:: [[Searching for THE answer is dangerous]]
 - [[Look for understanding before you look for solutions]]
+- contrasts:: [[Constantly working on yourself is a form a self-hatred]]
+	- the trick is to be reasonably [[objective]] about your [[introspection]], not overly critical
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[understanding]], [[critique]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

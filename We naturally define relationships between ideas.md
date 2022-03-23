@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
+sr-due: 2022-03-24
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 #### [[We naturally define relationships between ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,5 +20,5 @@ answers:: [[What is the origin of social hierarchy]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[social hierarchy]], [[organization]], [[categorization]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

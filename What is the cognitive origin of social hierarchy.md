@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -16,6 +16,8 @@ Monkey like female monkey cause feel good
 monkey like one monkey more than other monkey
 monkey tries to make themself more attractive to better monkey
 monkey puts self over other monkey however know how
+
+[[We naturally define relationships between ideas]]
 
 ### <hr class="footnote"/>
 
