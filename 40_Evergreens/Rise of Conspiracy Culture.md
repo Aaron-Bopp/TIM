@@ -11,6 +11,8 @@ sr-ease: 248
 
 #### [[Rise of Conspiracy Culture]] `$=customJS.dv_funcs.topicHeader(dv, this)`
 
+part of:: [[Rise of Modern Conservatism]]
+
 - [[Q justifies conservatives discontent]]
 - [[Humans are primarily irrational, illogical, emotional beings]]
 - [[The internet allows niche topics to flourish]]

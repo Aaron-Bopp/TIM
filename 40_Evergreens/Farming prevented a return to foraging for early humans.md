@@ -4,27 +4,29 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 3
+sr-due: 2022-03-30
+sr-interval: 7
 sr-ease: 230
 ---
 
 #### [[Farming prevented a return to foraging for early humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many of the aspects that made [[foraging]] successful and stable for so long ended up being it's downfall.
-[[Foraging kept populations down]] because lower populations were all that were sustainable, and these lower populations kept foraging stable. 
-While [[Hunter-gathers were capable of mass cooperation]] like in the case of [[Gobekli Tepe]], this was not the everyday way of life. 
-[[Foraging allowed for a diverse diet]], and for a general ease of life by keeping groups separated into small enough groups that they could feed and govern themselves.
+[[Foraging was a very sustainable lifestyle]], but
+many of the aspects that made [[foraging]] successful and stable for so long ended up being it's downfall.
+It doesn't matter that foragers worked less or had better diets,
+[[Farming outcompeted foraging by allowing for higher populations]].
 
-The advent of farming was not a stroke of genius by any one human, it was a coincidence of one species taking advantage of another, making this a
+This is the
 result of:: [[Farming domesticated humans]].
+The advent of farming was not a stroke of genius by any one human, it was a coincidence of one species taking advantage of another.
+The changes that [[farming]] allowed happened slowly enough that we did not realize what we were losing until it was gone.
 
-While humans were the ones manually spreading, planting, and harvesting wheat, it's effect on [[society]] was out of any individuals control.
-[[Farming outcompeted foraging by allowing for higher populations]], meaning that over generations farming became an unavoidable way of life.
-Just as [[foraging]] was stable because of low populations, once farming allowed for higher populations there was no turning back.
+While [[Hunter-gathers were capable of mass cooperation]] like in the case of [[Gobekli Tepe]], this was not the everyday way of life. 
+[[Human settlement allowed for social order to rapidly evolve]] and soon people could no longer remember the [[Imagined order]] of [[foraging]].
+Said another way, once farming allowed for higher populations than could be supported by [[foraging]], it seemed the only option was to continue [[farming]].
 
 This is an
-example of:: [[When luxury becomes a necessity it is no longer a luxury]]
+example of:: [[When luxury becomes a necessity it is no longer a luxury]].
 
 ### <hr class="footnote"/>
 
@@ -35,6 +37,7 @@ example of:: [[When luxury becomes a necessity it is no longer a luxury]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
+
 ![[reference_Sapiens#citation]]
 
 > ![[books_Sapiens#^297301085]]
