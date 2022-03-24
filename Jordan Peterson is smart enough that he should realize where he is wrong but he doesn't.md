@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -19,11 +19,12 @@ Peterson is smart enough to recognize the logical fallacies that undermine what 
 but because he believes so strongly that the world works a certain way
 he is unable to recognize the fallacies that require or come from that [[worldview]].
 
+example of:: [[Searching for THE answer is dangerous]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[logic]], [[introspection]], [[Psychology]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

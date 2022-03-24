@@ -7,8 +7,8 @@ aliases:
   - personal knowledge management
   - knowledge management system
 tags: created/topic/2021/07/21, node/topic/outline
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 185
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,11 +18,11 @@ sr-ease: 185
 #### ^blurb
 
 Knowledge management or personal knowledge management is an area of thought commonly associated
-with:: [[networked thinking]], [[web of thought|webs of thought]], [[Zettelkasten]], [[second brain]], [[evergreen notes]],
-and many other systems of [[note writing]].
+with:: [[networked thinking]], [[web of thought|webs of thought]], [[Zettelkasten]], [[second brain]], [[evergreen notes]], and many other systems of [[note writing]].
 
-Not yet widely recognized in [[science]] or academia,
+Not yet widely recognized in [[science]] or [[academia]],
 the term knowledge management became more widely used during [[COVID-19]] lockdowns in 2020. #TO/DO/CITE 
+Knowledge management does draw from many other areas such as [[library science]].
 
 Knowledge management is usually seen as a part of the tools that allow for [[bi-directional links]], templating, and use of a [[knowledge graph]], although these are not required as long as the software provides functionality beyond writing and reading text.
 Examples of these tools would be [[Obsidian (software)|Obsidian]], [[Roam Research (software)|Roam Research]], [[Evernote]], [[Notion]], and others.
@@ -45,9 +45,6 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 		- [[Only organize as much as your data requires]]
 		- [[Only categorize as much as your data requires]]
 		- [[Webs of thought provide heterarchical structure]]
-	- [[Note taking is a spectrum from purely reproductive to purely productive]]
-		- [[What are the differences between evergreen notes and conceptual notes]]
-		- [[Write your notes with a system not within a system]]
 	- Technologies role
 		- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 		- [[Using spaced repetition for your conceptual notes]]
@@ -87,7 +84,7 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 [[My TIM]] discusses my system in more detail.
 [[Evergreen notes]] and [[second brain]] are two popular paradigms that I take inspiration from, but within the knowledge management community many other systems are used, see [[note writing]].
 
-[[Productivity]] and [[learning]] are two major concerns of people engaging in knowledge work, which associates it with other subjects in those spaces such as todo or productivity apps, [[spaced repetition]], [[Blooms taxonomy]] and more.
+[[Productivity]] and [[learning]] are two major concerns of people engaging in [[knowledge work]], which associates it with other subjects in those spaces such as todo or productivity apps, [[spaced repetition]], [[Blooms taxonomy]] and more.
 
 [second brain, wiki, note-taking apps boom overview + visualising .md links? : opensource](https://www.reddit.com/r/opensource/comments/gsxeys/second_brain_wiki_notetaking_apps_boom_overview/)
 

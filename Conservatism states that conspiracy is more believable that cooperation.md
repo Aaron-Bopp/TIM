@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-28
+sr-interval: 5
 sr-ease: 230
 ---
 
 #### [[Conservatism states that conspiracy is more believable that cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- shown in:: [[McCarthyism is an attack on totalitarianism not communism]]
-- shown in:: [[Q justifies conservatives discontent]]
+- displayed in:: [[McCarthyism is an attack on totalitarianism not communism]]
+- displayed in:: [[Q justifies conservatives discontent]]
 
 part of:: [[Rise of Conspiracy Culture]]
 

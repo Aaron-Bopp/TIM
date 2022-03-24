@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -20,7 +20,7 @@ sr-ease: 230
 			- [[Communication provides the opportunity to shape other's perceptions]]
 			- [[Religion promotes high social control]]
 - enabled by:: [[Cultural evolution is not confined to the slow process of genetic evolution]]
-- [[What is the link between evolution and social behavior]]
+- ties into:: [[What is the link between evolution and social behavior]]
 
 ### <hr class="footnote"/>
 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - webs of thought
 tags: created/topic/2022/03/22, node/topic/stub
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 203
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

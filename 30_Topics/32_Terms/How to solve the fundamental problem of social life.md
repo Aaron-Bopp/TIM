@@ -2,15 +2,15 @@
 created: 2022-03-13T12:27:41 
 edited: 
 aliases:
-  - null
-tags: created/topic/2022/03/13, review, node/topic/term
+  - the fundamental problem of social life
+tags: created/evergreen/2022/03/13, review, node/evergreen/discussion
 sr-due: 2022-03-23
 sr-interval: 7
 sr-ease: 241
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[the fundamental problem of social life]]</s>
+#### <s class="topic-title">[[How to solve the fundamental problem of social life]]</s>
 
 > ![[books_Darwin's Cathedral#^288457438]]
 

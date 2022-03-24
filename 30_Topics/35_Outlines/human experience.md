@@ -2,8 +2,8 @@
 created: 2021-09-29
 edited: 
 tags: created/topic/2021/09/29, node/topic/moc
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 205
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -11,8 +11,8 @@ sr-ease: 205
 #### <s class="topic-title">[[human experience]]</s>
 
 Experiences 
-consisting of: [[conscious|Consciousness]], [[existence]], [[perception]], [[learning]],
-and so much more.
+consisting of: [[conscious|Consciousness]], [[existence]], [[perception]], and [[learning]]
+in humans
 
 The idea of what living is like.
 

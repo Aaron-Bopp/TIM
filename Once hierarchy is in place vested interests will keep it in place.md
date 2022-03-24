@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-23
-sr-interval: 1
+sr-due: 2022-03-25
+sr-interval: 2
 sr-ease: 230
 ---
 
@@ -25,7 +25,7 @@ Over time people will start to benefit more and more from the hierarchy and even
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social hierarchy]], [[social order]], 
+**Topics**:: [[social hierarchy]], [[social order]], [[exploitation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

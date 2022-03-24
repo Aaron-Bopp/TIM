@@ -34,6 +34,7 @@ The effects are
 
 Example:: Me watching [[video_A brief history of quantom mechanics]]
 Example:: Me learning about [[The history of meditation is a mixture of science and spirituality]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING

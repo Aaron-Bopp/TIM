@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-23
-sr-interval: 3
-sr-ease: 230
+sr-due: 2022-03-25
+sr-interval: 2
+sr-ease: 210
 ---
 
 #### [[In what way are human's equal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -26,7 +26,7 @@ This [[natural law]] imbues so some sort of essence.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[equality]], [[natural law]]

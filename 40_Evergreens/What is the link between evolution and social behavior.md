@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/question
-sr-due: 2022-03-23
-sr-interval: 2
+sr-due: 2022-03-27
+sr-interval: 4
 sr-ease: 190
 ---
 
@@ -15,7 +15,7 @@ sr-ease: 190
 
 > ![[books_Darwin's Cathedral#^298212067]]
 
- [[the fundamental problem of social life]]
+ [[How to solve the fundamental problem of social life]]
  
 > ![[books_Darwin's Cathedral#^295076111]]
 

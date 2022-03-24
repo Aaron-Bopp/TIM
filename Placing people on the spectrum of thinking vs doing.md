@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/technique
-sr-due: 2022-03-23
-sr-interval: 1
-sr-ease: 230
+sr-due: 2022-03-25
+sr-interval: 2
+sr-ease: 210
 ---
 
 #### [[Placing people on the spectrum of thinking vs doing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -14,9 +14,11 @@ sr-ease: 230
 ![[Journal#^0fb209]]
 
 People who can only think when writing are closer to thinking than doing but not by much.
+
 ![[Writing is a catalyst of understanding#^ddee69]]
 
 Theoretical scientists are really far on the thinking side
+
 ![[Journal#^652eba]]
 
 Craftsmen and artists are often pretty far on the doer side but it can vary
@@ -33,5 +35,5 @@ When thinkers do are the doing because of thinking or are they doing in addition
 **Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[thinking]], [[doing]], [[action]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
