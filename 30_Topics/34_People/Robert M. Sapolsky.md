@@ -7,7 +7,7 @@ tags: created/topic/2022/01/30, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[Robert Salpolsky]]</s> 
+#### <s class="topic-title">[[Robert M. Sapolsky]]</s> 
 
 [Robert Sapolsky - Wikipedia](https://en.wikipedia.org/wiki/Robert_Sapolsky)
 

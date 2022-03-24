@@ -10,7 +10,7 @@ sr-ease: 246
 ---
 
 #### [[lecture_Molecular Genetics]]
-**Creator**:: [[Robert Salpolsky]]
+**Creator**:: [[Robert M. Sapolsky]]
  
 **Source**:: [[course_Human Behavioral Biology]]
 

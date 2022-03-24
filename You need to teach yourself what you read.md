@@ -12,7 +12,7 @@ sr-ease: 210
 #### [[You need to teach yourself what you read]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This
-answers:: [[How to read to understand]],
+answers:: [[How to understand what you read]],
 in addition to:: [[You need to remember what you read]]
 
 To understand and to remember is to learn, but the book is not teaching you, the author is not teaching you, [[spaced repetition]] is not teaching, you are teaching yourself. You need to be working with the content in order to understand.

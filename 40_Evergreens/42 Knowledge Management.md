@@ -34,4 +34,4 @@
 		- [[Organization systems are not mutually exclusive]]
 		- [[Use colors to create visual outlines]]
 		- [[Better tools allow us to be less disciplined and more productive]]
-		- [[How to read to understand]]
+		- [[How to understand what you read]]

@@ -14,7 +14,9 @@ sr-ease: 190
 > When you think in categories, you underestimate how different two facts are when they fall in the same category. When you think in categories, you overestimate how different they are when there happens to be a boundary in between them. And when you pay attention to categorical boundaries, you don't see big pictures. Now, what our goal in this class is going to be is think about this big, complex issue of the biology of behavior without falling into thinking in categories.
 > ^[[[course_Human Behavioral Biology]]]
 >
-> <cite>[[Robert Salpolsky]]</cite>
+> <cite>[[Robert M. Sapolsky]]</cite>
+
+^962fba
 
 Especially when starting [[knowledge management|personal knowledge management]], you want to steer away from over-categorization. [[Only categorize as much as your data requires]], which when you start means not at all. Then your first kind of categorization should not be about the kind of information it should be about the type. For more on this see [[Use Obsidian tags as temporal classifiers]].
 

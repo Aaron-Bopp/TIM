@@ -16,7 +16,7 @@ sr-ease: 230
 - the "how does this work"'s
 - and fluff
 
-- part of:: [[How to read to understand]]
+- part of:: [[How to understand what you read]]
 
 ### <hr class="footnote"/>
 

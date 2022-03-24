@@ -12,7 +12,7 @@ sr-ease: 230
 #### [[You need to take what you read out of context]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This
-answers:: [[How to read to understand]],
+answers:: [[How to understand what you read]],
 in addition to::[[You need to teach yourself what you read]]
 
 If you are not deconstructing and reconstructing what the author is telling you you are losing so much potential.

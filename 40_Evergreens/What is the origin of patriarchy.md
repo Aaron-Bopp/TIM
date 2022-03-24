@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-23
-sr-interval: 3
-sr-ease: 230
+sr-due: 2022-03-27
+sr-interval: 4
+sr-ease: 210
 ---
 
 #### [[What is the origin of patriarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,18 +17,17 @@ This is because their are real physical differences between most men and most wo
 The answer to this
 includes:: [[There is no direct relation between physical strength and social power]].
 
-- [[Patriarchy convinces young men that they can and should be oppressors]]
-- [[What would a world without gender look like]]
+- from:: [[Gender has historically been non-binary]]
 - [[Every person has an experience of gender]]
-- [[Biology supports the validity of trans people]]
-- [[Gender has historically been non-binary]]
+- explains:: [[Patriarchy convinces young men that they can and should be oppressors]]
+- [[What would a world without gender look like]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Patriarchy]], [[gender]], 
+**Topics**:: [[Patriarchy]], [[gender]], [[social hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

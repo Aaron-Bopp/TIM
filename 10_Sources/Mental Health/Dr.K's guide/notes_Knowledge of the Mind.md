@@ -36,7 +36,7 @@ sr-ease: 250
 - [[Yogi]]s believe all [[knowledge]] comes from within
 	- When we study the lightbulb going off is us discovering that knowledge in our [[mind]] 
 		- is this just connection of neurons? [[Nodes in the second brain are an abstraction of our first brain]]
-	- [[How to read to understand]]
+	- [[How to understand what you read]]
 		-  we need to read and study at a time when our [[conscious]] is calm
 	- [[Evergreen notes organize knowledge so that it can grow]]
 	- [[What is the difference between creation and recreation]]

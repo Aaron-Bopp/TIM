@@ -10,7 +10,7 @@ tags: created/topic/2021/06/07, node/topic/outline
 
 #### ^blurb
 
-Since March 2021 I have become very interested in the [[knowledge management]] concept of a [[web of thought]] so intricate that it creates a [[second brain]]. In this quest I realized that my real purpose was to create a *Totally Integrated Machine*, where the purpose is not just to reflect my first brain, but to augment it.
+Since March 2021 I have become very interested in the [[knowledge management]] concept of a [[web of thought]] so intricate that it creates a [[second brain]]. In this quest I realized that my real purpose was to create a *[[TIM|Totally Integrated Machine]]*, where the purpose is not just to reflect my first brain, but to augment it.
 
 **See**:: [[second brain]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
@@ -36,6 +36,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 		- [[my TO(DO) and EVER(GREEN) structure]]
 	- Write all the time
 		- [[When in doubt, write what you think]]
+		- 
 	- Make everything accessible
 		- [[Note structures should help curate knowledge]]
 		- [[Organization systems are not mutually exclusive]]		

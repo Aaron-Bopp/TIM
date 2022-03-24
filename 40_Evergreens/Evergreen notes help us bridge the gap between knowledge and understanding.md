@@ -28,7 +28,7 @@ This is a gift and a curse.
 
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
-- [[How to read to understand]]
+- [[How to understand what you read]]
 - [[The joy of learning is contagious]]
 
 ### <hr class="footnote"/>

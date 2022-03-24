@@ -24,7 +24,7 @@ This is also very helpful when reading books. For fiction I use different colors
 - Orange: Outside information or verifiable information
 - Magenta: Personally interesting me
 > ![[articles_General Principles#270306743q]]
-[[How to read to understand]]
+[[How to understand what you read]]
 
 When using a [[knowledge graph]], brightness can be used to do this. Coloring the nodes that you find most valuable brighter will draw your eyes to those areas, and emphasize the growing areas of though: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]] #TO/TEND/CONCEPTUALIZE 
 ### <hr class="footnote"/>

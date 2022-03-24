@@ -12,7 +12,7 @@ sr-ease: 210
 #### [[You need to remember what you read]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This
-answers:: [[How to read to understand]]
+answers:: [[How to understand what you read]]
 
 A large part of [[understanding]] is remembering. If you can remember past [[knowledge]] you can build upon it and develop a deep understanding of what you read.
 %% of any subject you put your mind to. %%
