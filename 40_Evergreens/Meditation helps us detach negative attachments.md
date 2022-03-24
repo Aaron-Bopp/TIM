@@ -4,9 +4,9 @@ edited: 2022-01-25
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-03-24
-sr-interval: 21
-sr-ease: 130
+sr-due: 2022-05-13
+sr-interval: 50
+sr-ease: 150
 ---
 
 #### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -21,23 +21,29 @@ which are both manifestations of our [[ego]].
 We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and directly accessing our [[unconscious]].
 ^[[[Meditation is a practice to gain control over your thoughts]]]
 
-See the [[unconscious]] [[mind]] preventing our [[conscious]] mind from accessing those memories directly
-by constantly putting up thoughts to prevent them from sinking in.
- %%#TO/PROGRAM figcaption%%
+> [!caption right]
+> 
+> ![[Pasted image 20211231162422.png]]
+> 
+> Once the mind is calm, these thoughts can make their way through
+> ^[[[notes_Intro to Mantra Practice]]]
+>  ![[Pasted image 20211231162555.png]]
 
-![[Pasted image 20211231162422.png]]
-^[[[notes_Intro to Mantra Practice]]]
+This isn't an easy process, as the [[ego]] ([[Ahamkara]]) will be trying it's hardest to protect it's current state by creating and uneasy and defensive emotional state ([[Manas]]).
 
-Once the mind is calm, these thoughts can make their way through
+It does this by drawing up stored [[emotions]] ([[Samskara]])
+from the [[unconscious]] [[mind]] ([[Citta]])
+that prevent our [[conscious]] mind ([[Buddhi]]) 
+from [[understanding]] what is going on.
+^[[[notes_Vedic Psychology]]]
 
-![[Pasted image 20211231162555.png]]
+If we can calm our emotional state using [[therapy]] or [[meditation]] we can access and heal those negative [[Samskara]]. 
 
-This isn't an easy process, as the [[ego]] will be trying it's hardest to protect it's current state.
 This process requires introspection and [[observation]] of your [[mind-body complex]] and it's processes.
 The goal of this process is to better understand the [[self]] that was formed in early [[childhood]], and to recover from childhood wounds that are still affecting us: 
 [[We carry our childhood wounds into adulthood]]
 
-[[Mental health is a reaction to one's environment]] so your surroundings can impede this process. [[Raja Yoga]] and practicing [[Shuddhi]] will help you avoid this 
+[[Mental health is a reaction to one's environment]] so your surroundings can impede this process. [[Raja Yoga]] and [[Shuddhi]] will help you avoid this 
 ^[[[notes_How to achieve]]]
 
 Remember, [[Our brain will do anything it can to protect itself]]
@@ -45,7 +51,7 @@ and [[Working through trauma can involve of a lot of letting go]],
 so it is important to understand
 [[How to process repressed emotions]]
 
-In constrast to this process, often times [[A conversion experience can help us reshape our sense of self]]
+In contrast to this process, often times [[A conversion experience can help us reshape our sense of self]]
  
 
 ### <hr class="footnote"/>

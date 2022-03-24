@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/12, review, node/evergreen/claim
-sr-due: 2022-03-24
-sr-interval: 27
+sr-due: 2022-05-02
+sr-interval: 39
 sr-ease: 135
 ---
 
@@ -18,7 +18,7 @@ Having many entry point allows you to be less worried about what [[information]]
 Having something in your [[second brain]] means that it is integrated with powerful systems of recall and [[memory]] like [[spaced repetition]].
 Think of it like having backups incase one system falls through.
 
-#TO/PONDER/IDEA #TO/WRITE #TO/TEND/CREATE 
+#TO/PONDER/IDEA #TO/WRITE #TO/TEND/GRAFT 
 - [[Write your notes with a system not within a system]]
 - [[Write your notes like you're planting an evergreen forest]]
 - [[Your second brain should be an inspirational hub of creativity]]

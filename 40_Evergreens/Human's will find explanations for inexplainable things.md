@@ -5,8 +5,8 @@ tags: created/evergreen/2021/06/16, review, node/evergreen/behavior
 aliases:
   - humans finding explanations for inexplainable things
   - explain unexplainable things
-sr-due: 2022-03-24
-sr-interval: 46
+sr-due: 2022-07-08
+sr-interval: 106
 sr-ease: 230
 ---
 
@@ -25,7 +25,10 @@ What comes from this?
 - [[Faith is an abstraction of cognitive dissonance]]
 - [[Children make wide assumptions about the world]]
 
-The reason that this trait is so fundamental to so many behaviors is because [[Humans are a product of evolution]]. This is a very selectable trait and so the things it leads to become wide spread. Combined with the similar trait [[Human's have an inability to admit that they are wrong]], this forms the basis for [[Humans are primarily irrational, illogical, emotional beings]].
+The reason that this trait is so fundamental to so many behaviors is because this is
+part of:: [[Humans are a product of evolution]].
+This is a very selectable trait and so the things it leads to become wide spread. Combined with the similar trait [[Human's have an inability to admit that they are wrong]], this 
+explains:: [[Humans are primarily irrational, illogical, emotional beings]].
 
 This also leads some of the more harmful human behaviors.
 - [[Whiteness was created to marginalize people of color]]
@@ -38,7 +41,7 @@ For more see: [[What is the cognitive effect of living in an unjust world|What i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human behavior]], [[human advancement]], [[human survival]]
