@@ -13,9 +13,15 @@ sr-ease: 190
 
 You need a good [[teacher]], [[commitment]], and a little bit of [[belief]]. 
 
-It will also be much easier if you have a strong [[community]] or [[Sangha]] around you.
+The key is to focus on the action not the goal.
+The benefits of [[meditation]] will come but slowly and only if you keep up with it.
+Don't set an abstract goal or focus on the outcomes.
+[[You can't control what happens]], so just focus on what you can control, your actions.
+^[[[notes_How to achieve]]]
+
+If this doesn't sound easy this is why a strong [[community]] or [[Sangha]] around you.
 ^[[[Communities are support systems]]]
-#TO/PONDER/IDEA [[notes_How to achieve]]
+A [[Sangha]] can prompt you to practice, help you learn the principles of [[meditation]] and help you through your struggles.
 
 It may take you a while to perceive the effects of [[meditation]], but over time it will improve your life:
 [[Meditation improves mental, physical, and emotional health]]
@@ -24,7 +30,7 @@ and it will shape your view of the world.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited January 18, 2022*
 
 **Topics**:: [[meditation]], [[self-improvement]]

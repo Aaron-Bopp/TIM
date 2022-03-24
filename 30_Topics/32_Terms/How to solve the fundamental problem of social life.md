@@ -4,9 +4,9 @@ edited:
 aliases:
   - the fundamental problem of social life
 tags: created/evergreen/2022/03/13, review, node/evergreen/discussion
-sr-due: 2022-03-23
-sr-interval: 7
-sr-ease: 241
+sr-due: 2022-03-27
+sr-interval: 4
+sr-ease: 221
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

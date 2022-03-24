@@ -1,13 +1,3 @@
-I engage in two major kinds of [[writing]]
-1. Writing to enable idea generation
-2. Writing to clarify understanding
-
-[[writing]] is good [[friction]], pushing myself to write out my thoughts makes me organize them and put them out linearly. This means I have to examine and understand the nature of links between different thoughts.
-
-Writing also enables idea generation by effectively letting you "know" more things. Often when I write stuff down in my notes I already have a pretty good idea of what I think of them, but that I idea might fade. Writing it down, especially (and possibly only) in [[evergreen notes]] lets that idea grow over time.
-
-This is why there is a difference between [[spaced repetition]] and [[incremental writing]] for me, even though I write during both.
-[[incremental writing]] is to push me to write to clarify understanding, and [[spaced repetition]] is to help me write for idea generation.
 
 > [!tiktok wm-sm] Egg corns
 > 
@@ -35,12 +25,11 @@ resources for implementing [[Dewey Decimal System]] https://www.librarything.com
 
 self-blame and social deficiency
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjrjZh1Nris?start=5742" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> ![[tweets_Tweets From 🐸 Frog Time 🐸#261542754q]]
 
 #TO/TEND/MULCH 
 One manifestation of this defense mechanisms is: [[Avoidance IS the most-efficient way of dealing with emotion]]. Many people will find that they are only able to verbalize [[emotions]] that they have processed on their own first.
 
-#TO/EXPLORE/RESEARCH etymology of conscience
+#TO/EXPLORE/RESEARCH [[etymology]] of conscience
 > If you say that you cannot do something in good [[conscience]] you mean that you cannot do it because you think it is wrong. 
 ^[[In good conscience/in all conscience definition and meaning | Collins English Dictionary](https://www.collinsdictionary.com/us/dictionary/english/in-good-conscience-in-all-conscience)]
 
@@ -52,15 +41,6 @@ What is the value of open ended tasks? specifically [[my TO(DO) and EVER(GREEN) 
 they are like sticky notes if you stumble back across them and a search key if you want to find them
 
 
-[[conceptual notes]] help you get the full extent of your brain power #TO/PONDER/IDEA maybe when only combined with good systems [[Friction is a hindrance to learning]]
-
-
-[[Term notes]] can be narrowed down to a short definition, but topic notes cannot. You can go back to a source of truth for a theory or word, but not a topic. That isn't to say that the definitions or terms will never change, but that we are searching to define them. Topics cannot be defined because they hold so many definitions and are capturing a breadth of content. [[topic notes]] are useful in their lack of edges, while [[Term notes]] are useful only inside thier edges.
-
-## notes [[articles_My moral code - Inverted Passion]]
-What is [[morality]]? is based on our actions, is it objective, is it even ponderable, can we comprehend it?
-Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think this is an impossible task #TO/PONDER/SOCIETY 
-
 
 #TO/PROGRAM [How to add a note shortcut to the homescreen on Android - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/how-to-add-a-note-shortcut-to-the-homescreen-on-android/20889)
 
@@ -68,9 +48,3 @@ Some believe ![[articles_My moral code - Inverted Passion#^0160c9]] but I think 
 #TO/PROGRAM [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-[[dataview]]-workflow/15536)
 
 #TO/EXPLORE/READ good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
-
-[[Your anxiety knows your insecurities better than you do]]: #TO/EXPLORE/RESEARCH
-- [[Hierarchy of needs]] 
-	- If you are in a bad situation you can't advance past that state but you don't lose those higher needs 
-- [[arbitrage]]
-
