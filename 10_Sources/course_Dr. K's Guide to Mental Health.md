@@ -18,6 +18,9 @@ sr-ease: 250
 
 **Covers**:: [[anxiety]], [[meditation]], [[depression]],[[Ayurveda]], [[Yoga]]
 
+#### Course review
+I would give this course 3/5 stars, you should only take it if you are very interested in it. If you buy all three modules [[Dr. K]] does end up repeating himself quite a bit, and the anxiety and depression modules have to split their time between Western [[medicine]] and [[Ayurveda]] so they don't get as in depth. The meditation module is by far the best. The history and discussion of Yoga and Buddhism are very interesting, and the meditation videos also seem really valuable. This module does spend a lot of time on life advice, which I find valuable but mileage may vary. I would either get this course for free through his coaching program, or if you already enjoy his Youtube videos and want to have much more condensed version.
+
 #### Meditation techniques
 - [[Japa Meditation]]
 - [[Activating Ajna Chakra]]
