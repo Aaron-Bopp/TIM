@@ -19,25 +19,48 @@ and instead support educating and changing [[society]] to better support autisti
 
 > [!wikipedia] [Autism](https://en.wikipedia.org/wiki/Autism)
 > 
-> Kanner autism, or classic autism, is a neurodevelopmental disorder characterized by challenges with [[social communication]], and by restricted and repetitive behaviors. It is now considered part of the wider autism spectrum. The term 'autism' was historically used to refer specifically to Kanner autism, which is the convention used in this entry, but it is now more commonly used for the spectrum at large. 
+> Kanner Autism is a neurodevelopmental disorder characterized by challenges with [[social communication]], and by restricted and repetitive behaviors. It is now considered part of the wider [[autism spectrum]].
+> 
+
+> [!wikipedia]- When does autism present
 > 
 > Parents often notice signs of autism during the first three years of their child's life. These signs often develop gradually, though some autistic children experience regression in their [[communication]] and social skills after reaching developmental milestones at a normal pace. 
 > 
+
+> [!wikipedia]- What does autism effect
+> 
 > Autism affects information processing in the brain and how nerve cells and their synapses connect and organize; how this occurs is not well understood. The Diagnostic and Statistical Manual of Mental Disorders ([[DSM]]-5) combines forms of the condition, including high functioning autism (HFA), which was formerly known as Asperger syndrome, and pervasive developmental disorder not otherwise specified (PDD-NOS) into the diagnosis of [[autism spectrum]] disorder ASD. 
+> 
+
+> [!wikipedia]- Interventions and aids
 > 
 > Several interventions have been shown to reduce symptoms and improve the ability of autistic people to function and participate independently in the community. Behavioral, psychological, education, and/or skill-building interventions may be used to assist autistic people to learn life skills necessary for living independently, as well as other social, communication, and language skills. Therapy also aims to reduce challenging behaviors and build upon strengths. 
 > 
 > An autistic [[culture]] has developed, with some individuals seeking a cure and others believing autism should be accepted as a difference to be accommodated instead of cured.
 >
 
-
 **See**:: [[neurodiversity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mOtlF0ywH_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
