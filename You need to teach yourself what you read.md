@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-24
+sr-due: 2022-03-25
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #### [[You need to teach yourself what you read]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,6 +15,7 @@ This
 answers:: [[How to understand what you read]],
 in addition to:: [[You need to remember what you read]]
 
+#TO/TEND/WEED 
 To understand and to remember is to learn, but the book is not teaching you, the author is not teaching you, [[spaced repetition]] is not teaching, you are teaching yourself. You need to be working with the content in order to understand.
 ^[Thankfully, unlike school, you want to be there, otherwise you wouldn't be reading the book]
 %%

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/22, review, node/evergreen/claim
-sr-due: 2022-03-24
-sr-interval: 1
+sr-due: 2022-03-26
+sr-interval: 2
 sr-ease: 190
 ---
 
@@ -17,6 +17,9 @@ sr-ease: 190
 
 this is 
 why:: [[Being critical helps you develop understanding]] is so important
+
+both 
+why:: [[Faith can be a useful tool for grounding yourself]] and [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 
 ### <hr class="footnote"/>
 

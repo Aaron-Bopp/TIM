@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-24
-sr-interval: 13
+sr-due: 2022-04-26
+sr-interval: 33
 sr-ease: 230
 ---
 
 #### [[Biological processes can only give context to behavior not predict it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many people believe existence to be a deterministic process. One action leads to the next, and really our choices are little more than predictable to results of our environment.
+Many people believe existence to be a deterministic process. One action leads to the next, and really our choices are little more than predictable results of our environment.
 If only we could properly observe and understand the intricacies of our [[brain]], then 
 we could predict our [[behavior]].
 
@@ -46,11 +46,10 @@ Nevertheless it is true that
 Studying the biological influences of people's behaviors can of course give great insight into our [[behavior]] as long as we understand that 
 %% 
 
-works with:: [[Proximate explanation never substitutes for ultimate explanation in Evolution]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[behavior]], [[Evolutionary Psychology]]
+**Topics**:: [[human behavior]], [[Evolutionary Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

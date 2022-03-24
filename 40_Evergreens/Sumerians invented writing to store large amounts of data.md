@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-24
-sr-interval: 4
-sr-ease: 210
+sr-due: 2022-04-19
+sr-interval: 26
+sr-ease: 230
 ---
 
 #### [[Sumerians invented writing to store large amounts of data]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

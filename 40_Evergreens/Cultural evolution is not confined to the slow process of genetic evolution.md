@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-24
-sr-interval: 8
+sr-due: 2022-04-11
+sr-interval: 18
 sr-ease: 210
 ---
 
@@ -15,23 +15,22 @@ sr-ease: 210
 > 
 > <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]] </cite>
 
-Through [[Cultural Evolution]] we can look at modern [[behavior]] and [[human interaction]] through the lens of [[Evolution]]. 
-[[Most problems cannot be significantly understood through a single framework|While this is just another framework for us to use]], 
+Through [[Cultural Evolution]] we can look at [[human behavior]] through the lens of [[Evolution]]. 
+While this is just another [[Most problems cannot be significantly understood through a single framework|framework for us to use]], 
 it can provide accurate prediction and help us to understand the complex problems of group dynamics from on a worldwide and historical scale.
 
 It is easy to see how much faster [[Cultural Evolution]] can move when we look at it's fundamental unit of change, the cultural mutation.
 > ![[books_Darwin's Cathedral#293875896q]]
 
-Compared to the generational unit of change of [[genetic evolution]], [[belief]] can be passed almost instantaneously, and are even the basis of our [[social order]]:
-[[Social order is built off of a shared belief in an imagined reality]]
+Compared to the generational unit of change of [[genetic evolution]], [[belief]] can be passed almost instantaneously, which
+leads to:: [[Social order is built off of a shared belief in an imagined reality]]
 
-#TO/TEND/MULCH 
-This is integral to the development of the [[social order]]:
-[[Greater cooperation and communication has lead to the success of humans as a species]]
+This is
+part of:: [[Greater cooperation and communication has lead to the success of humans as a species]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human behavior]], [[social order]], [[Cultural Evolution]], [[Evolution]]
