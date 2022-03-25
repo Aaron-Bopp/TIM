@@ -7,8 +7,8 @@ aliases:
   - personal knowledge management
   - knowledge management system
 tags: created/topic/2021/07/21, node/topic/outline
-sr-due: 2022-03-25
-sr-interval: 2
+sr-due: 2022-03-29
+sr-interval: 4
 sr-ease: 185
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -27,7 +27,7 @@ Knowledge management does draw from many other areas such as [[library science]]
 Knowledge management is usually seen as a part of the tools that allow for [[bi-directional links]], templating, and use of a [[knowledge graph]], although these are not required as long as the software provides functionality beyond writing and reading text.
 Examples of these tools would be [[Obsidian (software)|Obsidian]], [[Roam Research (software)|Roam Research]], [[Evernote]], [[Notion]], and others.
 
-Those engaging in [[knowledge management]] are usually asking the questions, "What are the best apps for note taking?", "How do we learn more effectively?", "What is the best way store and access what we know?", and "How can technology be leveraged to assist in learning?"
+Those engaging in [[knowledge management]] are usually asking the questions, "What are the best apps for note taking?", "How do we learn more effectively?", "What is the best way store to and access what we know?", and "How can technology be leveraged to assist in learning?"
 
 Knowledge management is seen as a major concern for [[knowledge work]].
 
@@ -39,7 +39,7 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 	- [[Concepts are the fundamental unit of knowledge]]
 - Implementation and system design
 	- [[Note storage is important because it defines how you access and retain knowledge]]
-		- Plain text or [[markdown]] are common solutions do to their simplicity and extensibility
+		- Plain text or [[markdown]] are common solutions due to their simplicity and extensibility
 			- [[Basic tools for working with plaintext]]
 	- [[Prioritize understanding over organization or categorization]]
 		- [[Only organize as much as your data requires]]
@@ -49,9 +49,11 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 		- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 		- [[Using spaced repetition for your conceptual notes]]
 		- [[Readwise Export for Obsidian - Templates and Process]]
+	- [[note writing]]
 - Emotional design
 	- [[A second brain should be an extension of your thought]]
 	- [[Communities are knowledge graphs]]
+	- [[Your second brain should be frictionless access to a curated base of knowledge]]
 - Other considerations
 	- [[Defined relationships are superior to contextual backlinks]]
 	- [[Make your inbox into an entry point by integrating it with your second brain]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/11, review, node/topic/stub
-sr-due: 2022-03-25
-sr-interval: 9
+sr-due: 2022-04-16
+sr-interval: 22
 sr-ease: 219
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -29,15 +29,24 @@ those without it may fail or not try because they lack it and those with it may 
 > The concept of self-confidence is commonly defined as self-assurance in one's personal judgment, ability, power, etc. One's self-confidence increases as a result of experiences of having satisfactorily completed particular activities. 
 >
 
-**See**:: [[self-improvement]]
+**See**:: [[self-improvement]], [[self-concept]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

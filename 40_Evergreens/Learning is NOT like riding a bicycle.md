@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/saying
-sr-due: 2022-03-25
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-26
+sr-interval: 1
+sr-ease: 210
 ---
 
 #### [[Learning is NOT like riding a bicycle]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -4,14 +4,12 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/10, review, node/evergreen/claim
-sr-due: 2022-03-25
-sr-interval: 22
+sr-due: 2022-05-10
+sr-interval: 46
 sr-ease: 210
 ---
 
 #### [[Experts are often far too confident in the effectiveness of their theories]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
-
-> ![[books_Sapiens#^299110287]]
 
 Many would say that [[Evolution]] is the greatest idea ever invented,
 due to the many complex systems it has described.
@@ -42,3 +40,8 @@ Perhaps an acceptance that [[We are confined to the tools of our time]] will hel
 
 **Topics**:: [[human nature]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### Examples
+
+In [[economics]]::
+> ![[books_Sapiens#^299110287]]

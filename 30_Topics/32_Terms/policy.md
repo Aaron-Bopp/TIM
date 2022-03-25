@@ -4,13 +4,15 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/24, node/topic/term
-sr-due: 2022-03-25
-sr-interval: 1
+sr-due: 2022-03-31
+sr-interval: 6
 sr-ease: 230
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[policy]]</s>
+
+Policy is the purview of [[Politics]], the side product of [[political strategy]], and the playtoy of [[political science]]
 
 > [!wikipedia] [policy](https://en.wikipedia.org/wiki/Policy)
 > 

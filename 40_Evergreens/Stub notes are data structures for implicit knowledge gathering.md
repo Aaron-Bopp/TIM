@@ -11,7 +11,7 @@ sr-ease: 223
 
 #### [[Stub notes are data structures for implicit knowledge gathering]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-For me, making a stub note is just making a small [[observation]] that something could be interesting. 
+For me, making a [[stub notes|stub note]] is just making a small [[observation]] that something could be interesting. 
 I may not look at that stub for months or years, 
 but when I do I can see the day the note was created,
 where the note has been linked,

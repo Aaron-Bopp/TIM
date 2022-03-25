@@ -4,8 +4,8 @@ edited:
 aliases:
   - webs of thought
 tags: created/topic/2022/03/22, node/topic/stub
-sr-due: 2022-03-25
-sr-interval: 2
+sr-due: 2022-03-29
+sr-interval: 4
 sr-ease: 203
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,6 +19,9 @@ More broadly this can refer to how the [[human brain]] stores and processes [[me
 ##### Outline
 
 see:: [[knowledge management]], [[My TIM]], [[note writing]]
+
+- [[Densely linked webs of thought provide intuitive access to knowledge]]
+- [[Webs of thought provide heterarchical structure]]
 
 ##### ^dataviews
 

@@ -2,8 +2,8 @@
 created: 2021-09-29
 edited: 
 tags: created/topic/2021/09/29, node/topic/moc
-sr-due: 2022-03-25
-sr-interval: 2
+sr-due: 2022-03-29
+sr-interval: 4
 sr-ease: 205
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

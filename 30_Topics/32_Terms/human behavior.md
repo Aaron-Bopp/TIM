@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/01/15, node/topic/outline
-sr-due: 2022-03-25
+sr-due: 2022-03-26
 sr-interval: 1
-sr-ease: 189
+sr-ease: 169
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -27,3 +27,21 @@ sr-ease: 189
 **See**:: [[human interaction]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%

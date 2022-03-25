@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-25
-sr-interval: 4
+sr-due: 2022-04-04
+sr-interval: 10
 sr-ease: 230
 ---
 
@@ -18,7 +18,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[Sagacious sayings]]

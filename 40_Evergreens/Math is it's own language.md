@@ -4,15 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-25
-sr-interval: 4
+sr-due: 2022-04-05
+sr-interval: 11
 sr-ease: 230
 ---
 
 #### [[Math is it's own language]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is true both in the fact that math is a [[partial script]],
-^[[[books_Sapiens#^299110286]]]
 and also
 because:: [[Language shapes our intuition]]
 and math shapes the way we think.
@@ -22,7 +21,8 @@ Most mathematicians will tell you that the reason you drill practice problems is
 This is also likely why so many people struggle with math. They should be approaching it as language course, but they expect it to be immediately accessible and applicable.
 
 Inversely:: [[Experts are often far too confident in the effectiveness of their theories]].
-It seems that specialty leads to overconfidence and lack of oversight (due to nobody but the in-group being able to understand you) and this aspect of math is actually dangerous.
+Just because nobody can understand you or your subject, doesn't mean that they are less intelligent that you.
+This seems to be a problem ran into much more by [[Computer Science|Computer Scientists]] than mathematicians though.
 
 ### <hr class="footnote"/>
 

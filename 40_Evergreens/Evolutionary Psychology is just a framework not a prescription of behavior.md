@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/03, review, node/evergreen/claim
-sr-due: 2022-03-25
-sr-interval: 8
+sr-due: 2022-04-12
+sr-interval: 18
 sr-ease: 210
 ---
 
@@ -38,10 +38,6 @@ while the  difference in our [[DNA]] is small,
 the [[brain]] is incredibly adaptive,
 which means our examination of [[human origins]] is most helpful as
 a starting point.
-
-We can observe:: [[Complex emotions are imperfect understandings of primal urges]]
-in the light of
-[[Biological processes can only give context to behavior not predict it]]
 
 #TO/EXPLORE/RESEARCH a more thorough understanding of the argument against [[Evolutionary Psychology]]
 ### <hr class="footnote"/>

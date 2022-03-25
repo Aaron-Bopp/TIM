@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/02/07, review, node/topic/term
-sr-due: 2022-03-25
-sr-interval: 9
+sr-due: 2022-04-18
+sr-interval: 24
 sr-ease: 264
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,12 +21,21 @@ sr-ease: 264
 **See**:: [[the Big Bang]], [[physics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%
