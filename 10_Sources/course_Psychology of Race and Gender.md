@@ -17,9 +17,6 @@ sr-ease: 250
 
 **Covers**:: [[Psychology]], [[gender]], [[race]]
 
-- Table mates
-	- Kas Brady
-	- Lydia Martin
 
 # Week 2
 
