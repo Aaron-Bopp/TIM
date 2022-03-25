@@ -303,3 +303,180 @@ the hypothalamus consists of a bunch of different nuclei, each receiving a uniqu
 
 ^301731168
 
+# New highlights added March 25, 2022 at 1:11 PM
+##### ^302856288
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=652  
+
+###### ^302856288q
+
+In one study subjects in a brain scanner played a Ms. Pac-Man–from–hell video game where they were pursued in a maze by a dot; if caught, they’d be shocked.11 When people were evading the dot, the amygdala was silent. However, its activity increased as the dot approached; the stronger the shocks, the farther away the dot would be when first activating the amygdala, the stronger the activation, and the larger the self-reported feeling of panic. 
+
+^302856288
+
+##### ^302856289
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=659  
+
+###### ^302856289q
+
+the human amygdala preferentially responds to fear-evoking stimuli, even stimuli so fleeting as to be below conscious detection. 
+
+^302856289
+
+##### ^302856290
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=661  
+
+###### ^302856290q
+
+In PTSD sufferers the amygdala is overreactive to mildly fearful stimuli and is slow in calming down after being activated. 
+
+^302856290
+
+##### ^302856291
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=662  
+
+###### ^302856291q
+
+the amygdala expands in size with long-term PTSD. 
+
+^302856291
+
+##### ^302856292
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=676  
+
+###### ^302856292q
+
+Stable rankings activated parts of the frontal cortex that we’ll soon consider. Instability activated the frontal cortex plus the amygdala. Being unsure of your place is unsettling. 
+
+^302856292
+
+##### ^302856293
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=685  
+
+###### ^302856293q
+
+The core of innate fear (aka a phobia) is that you don’t have to learn by trial and error that something is aversive. For example, a rat born in a lab, who has interacted only with other rats and grad students, instinctually fears and avoids the smell of cats. 
+
+^302856293
+
+##### ^302856309
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=688  
+
+###### ^302856309q
+
+The dichotomy between innate and learned fear is actually a bit fuzzy. ... Instead of inevitable fear, we show “prepared learning”—learning to be afraid of snakes and spiders more readily than of pandas or beagles. 
+
+^302856309
+
+##### ^302856296
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=695  
+
+###### ^302856296q
+
+The evolutionarily ancient central amygdala plays a key role in innate fears. Surrounding it is the basolateral amygdala (BLA), which is more recently evolved and somewhat resembles the fancy, modern cortex. It’s the BLA that learns fear and then sends the news to the central amygdala. 
+
+^302856296
+
+##### ^302856310
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=702  
+
+###### ^302856310q
+
+with repeated coupling of the tone (the conditioned stimulus) with the shock (the unconditioned one), fear conditioning occurs—the ... At first, activation of those neurons is irrelevant to the central amygdala ... with repeated coupling of tone with shock, there is remapping and those BLA neurons acquire the means to activate the central amygdala.* BLA neurons that respond to the tone only once conditioning has occurred would also have responded if conditioning instead had been to a light. In other words, these neurons respond to the meaning of the stimulus, rather than to its specific modality. 
+
+^302856310
+
+##### ^302856300
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=715  
+
+###### ^302856300q
+
+conditioning increases levels of “growth factors,” which prompt the growth of new connections between BLA and central amygdala neurons; 
+
+^302856300
+
+##### ^302856301
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=722  
+
+###### ^302856301q
+
+Where do these “Ohhh, the tone isn’t scary anymore” neurons get inputs from? The frontal cortex. When we stop fearing something, it isn’t because some amygdaloid neurons have lost their excitability. We don’t passively forget that something is scary. We actively learn that it isn’t anymore.* 
+
+^302856301
+
+##### ^302856302
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=727  
+
+###### ^302856302q
+
+Research shows that rejecting an offer is an emotional decision, triggered by anger at a lousy offer and the desire to punish. The more the amygdala activation in the second player after an offer, the more likely the rejection. 
+
+^302856302
+
+##### ^302856311
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=734  
+
+###### ^302856311q
+
+the amygdala injects implicit distrust and vigilance into social decision making. ... “The generosity in the trust game of our BLA-damaged subjects might be considered pathological altruism, in the sense that inborn altruistic behaviors have not, due to BLA damage, been un-learned through negative social experience.” 
+
+^302856311
+
+##### ^302856305
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=744  
+
+###### ^302856305q
+
+some BLA neurons that respond in that circumstance also respond when the severity of something aversive is shifting—these neurons are paying attention to change, independent of direction. For them, “the amount of reward is changing” and “the amount of punishment is changing” are the same. 
+
+^302856305
+
+##### ^302856306
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=747  
+
+###### ^302856306q
+
+the amygdala isn’t about the pleasure of experiencing pleasure. It’s about the uncertain, unsettled yearning for a potential pleasure, the anxiety and fear and anger that the reward may be smaller than anticipated, or may not even happen. 
+
+^302856306
+
+##### ^302856307
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=17890  
+
+###### ^302856307q
+
+Is the amygdala solely the keyboard (with fear memories stored elsewhere), or is it the hard drive as well? 
+
+^302856307
+

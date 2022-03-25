@@ -4,20 +4,17 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/11, review, node/topic/stub
-sr-due: 2022-03-24
-sr-interval: 1
+sr-due: 2022-03-28
+sr-interval: 3
 sr-ease: 206
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[domestication]]</s>
 
-
-
-
 > [!wikipedia] [domestication](https://en.wikipedia.org/wiki/Domestication)
 > 
-> Domestication is a sustained multi-generational relationship in  which humans assume a significant degree of control over the reproduction and care of another group of organisms such as plants or animals to secure a more predictable supply of resources from that group. 
+> Domestication is a sustained multi-generational relationship in which humans assume a significant degree of control over the reproduction and care of another group of organisms such as plants or animals to secure a more predictable supply of resources from that group. 
 > 
 > The domestication of plants began at least 12,000 years ago with cereals in the [[Middle East]], and the bottle gourd in [[Asia]]. [[Agriculture]] developed in at least 11 different centres around the world, domesticating different crops and animals.
 
@@ -29,10 +26,7 @@ sr-ease: 206
 > 
 >
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-### How did  selective hunting lead to domestication of animals?
+### How did selective hunting lead to domestication of animals?
 
 While some species like dogs lend themselves easily to domestication, other animals likely needed more time and attention to domesticate.
 This likely involved a combined process of intentional and unintentional selection by early humans.

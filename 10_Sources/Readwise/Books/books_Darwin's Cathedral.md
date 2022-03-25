@@ -1572,3 +1572,72 @@ None of them had the slightest authority over the others. Nor was any moral pres
 
 ^301114706
 
+# New highlights added March 25, 2022 at 1:11 PM
+##### ^302856334
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1501  
+
+###### ^302856334q
+
+Organisms do not maintain themselves and respond in just the right way to the challenges of their environment by chance. Mechanisms are required that are often awesome in their sophistication when sufficiently understood. 
+
+^302856334
+
+##### ^302856335
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1506  
+
+###### ^302856335q
+
+There are countless ways to be nonadaptively complex and only a few ways to be adaptively complex. 
+
+^302856335
+
+##### ^302856336
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1515  
+
+###### ^302856336q
+
+Evolutionary science often heads in this direction, but its core is a detailed understanding of organisms in relation to their environments. The foundation of this knowledge was provided by eighteenth- and nineteenth-century naturalists, most of whom believed that they were studying God’s handiwork. 
+
+^302856336
+
+##### ^302856337
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1538  
+
+###### ^302856337q
+
+The early Reformation was marked by many efforts to reform the Catholic Church from within, in addition to Luther’s more daring break. At the time, it was difficult for individuals to predict whether their position would be regarded as an acceptable internal reform or a heresy worthy of banishment or death. 
+
+^302856337
+
+##### ^302856338
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1549  
+
+###### ^302856338q
+
+Anabaptists were far more radical than either Luther or the French reformers. To be labeled an Anabaptist was to be accused of treason, punishable by death. 
+
+^302856338
+
+##### ^302856339
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1551  
+
+Calvinism was founded on a grudge. A result of a small maladptation in the larger species, allowing for a new branch to take prominence  
+
+###### ^302856339q
+
+Calvin himself had written a treatise against the Anabaptists. Stung as much by the poor scholarship of the accusation as by its implications, Calvin wrote a book describing the foundations of his religious faith that became his greatest work, The Institutes of the Christian Religion. 
+
+^302856339
+

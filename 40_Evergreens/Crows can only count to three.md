@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/example/fun
-sr-due: 2022-03-25
-sr-interval: 2
+sr-due: 2022-03-31
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -18,5 +18,5 @@ source:: [IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide | by 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[math]]
+**Topics**:: [[math]], [[crows]], [[animals]], [[cognition]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

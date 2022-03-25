@@ -4,9 +4,9 @@ edited:
 tags: created/evergreen/2021/09/27, review, node/evergreen/technique 
 aliases:
   - null
-sr-due: 2022-03-25
-sr-interval: 103
-sr-ease: 270
+sr-due: 2023-04-17
+sr-interval: 388
+sr-ease: 290
 ---
 
 #### [[Using GitHub with Unity projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,7 +17,7 @@ sr-ease: 270
 	1. Edit -> Project Settings -> Editor =>
 		1. Version control = Visible Meta Files
 		2. Asset Serialization = Force text
-3. Githubs unity.gitignore assumes it is at the root of the directory. If your project is in a subfolder, makes sure the correct folders are ignored
+3. [[Github]]'s `unity.gitignore` assumes it is at the root of the directory. If your project is in a subfolder, makes sure the correct folders are ignored
 
 ### <hr class="footnote"/>
 
