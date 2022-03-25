@@ -3,7 +3,10 @@ created: 2022-01-02T11:51:51
 edited: 
 aliases:
   - null
-tags: created/topic/2022/01/02, node/topic/stub
+tags: created/topic/2022/01/02, node/topic/term
+sr-due: 2022-03-27
+sr-interval: 2
+sr-ease: 244
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -11,12 +14,12 @@ tags: created/topic/2022/01/02, node/topic/stub
 
 > [!wikipedia] [knowledge](https://en.wikipedia.org/wiki/Knowledge)
 > 
-> Knowledge is a familiarity or awareness, of someone or something, such as facts (descriptive knowledge), skills (procedural knowledge), or objects (acquaintance knowledge) contributing to ones understanding. By most accounts, knowledge can be acquired in many different ways and from many sources, including but not limited to [[perception]], [[reason]], [[memory]], [[testimony]], [[scientific inquiry]], [[education]], and [[practice]]. The philosophical study of knowledge is called [[epistemology]].
+> In:: [[epistemology]],
+> knowledge is a familiarity, awareness, or [[understanding]] of someone or something, which might include facts ([[propositional knowledge]], knowing-that), skills ([[procedural knowledge]], knowing-how), or objects ([[acquaintance knowledge]], knowing-about). 
 > 
-
-> [!wikipedia]- Philosophical basis of knowledge
+> All three senses of "knowing" can be seen in our ordinary use of the word.
 > 
-> The term "knowledge" can refer to a theoretical or practical understanding of a subject. It can be implicit (as with practical skill or expertise) or explicit (as with the theoretical understanding of a subject); formal or informal; systematic or particular. The philosopher Plato argued that there was a distinction between knowledge and true belief in the Theaetetus, leading many to attribute to him a definition of knowledge as "justified true belief". The difficulties with this definition raised by the Gettier problem have been the subject of extensive debate in epistemology for more than half a century.
+> Knowledge can be acquired in many different ways and from many sources, including but not limited to [[perception]], [[reason]], [[memory]], [[testimony]], [[scientific inquiry]], [[education]], and [[practice]]. 
 >
 
 ##### ^dataviews
@@ -44,3 +47,7 @@ Has been separated into two types by [[Yogi]]s
 - [[Vidya]] == [[information]], [[objective]], transmissible
 - [[Jnana]] == [[understanding]], [[subjective]], non-transmissible 
 
+> [!wikipedia]- Knowledge as [[justified belief]]
+> 
+> The term "knowledge" can refer to a theoretical or practical understanding of a subject. It can be implicit (as with practical skill or expertise) or explicit (as with the theoretical understanding of a subject); formal or informal; systematic or particular. The philosopher Plato argued that there was a distinction between knowledge and true [[belief]] in the Theaetetus, leading many to attribute to him a definition of knowledge as "justified true belief". The difficulties with this definition raised by the Gettier problem have been the subject of extensive debate in epistemology for more than half a century.
+>

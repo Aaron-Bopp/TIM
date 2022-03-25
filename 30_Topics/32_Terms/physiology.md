@@ -3,7 +3,7 @@ created: 2022-01-06T00:21:19
 edited: 
 aliases:
   - physiological
-tags: created/topic/2022/01/06, node/topic/stub
+tags: created/topic/2022/01/06, node/topic/term
 sr-due: 2022-03-27
 sr-interval: 4
 sr-ease: 276

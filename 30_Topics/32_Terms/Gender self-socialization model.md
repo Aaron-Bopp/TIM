@@ -1,7 +1,7 @@
 ---
 created: 2021-10-19
 edited: 
-tags: created/topic/2021/10/19, node/topic/stub
+tags: created/topic/2021/10/19, node/topic/term
 aliases:
   - gender self-socialization
 ---

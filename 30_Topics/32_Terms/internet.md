@@ -1,7 +1,7 @@
 ---
 created: 2021-08-01
 edited: 
-tags: created/topic/2021/08/01, node/topic/stub
+tags: created/topic/2021/08/01, node/topic/term
 aliases:
 sr-due: 2022-04-01
 sr-interval: 9

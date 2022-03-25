@@ -3,7 +3,7 @@ created: 2021-11-09
 edited: 
 aliases:
   - frictionless
-tags: created/topic/2021/11/09, node/topic/stub
+tags: created/topic/2021/11/09, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

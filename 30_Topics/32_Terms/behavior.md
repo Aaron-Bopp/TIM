@@ -3,7 +3,7 @@ created: 2021-12-30
 edited: 
 aliases:
   - null
-tags: created/topic/2022/03/11, node/topic/stub
+tags: created/topic/2022/03/11, node/topic/term
 sr-due: 2022-03-30
 sr-interval: 13
 sr-ease: 270

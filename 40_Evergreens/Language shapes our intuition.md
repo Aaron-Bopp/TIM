@@ -20,6 +20,8 @@ sr-ease: 230
 - explains:: [[Names matter because they effect people's perception and understanding]]
 - similarly:: [[Writing is a catalyst of understanding]]
 
+> ![[books_Behave#^301593493]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

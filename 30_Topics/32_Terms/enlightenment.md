@@ -1,7 +1,7 @@
 ---
 created: 2021-07-05
 edited: 
-tags: created/topic/2021/07/05, node/topic/stub
+tags: created/topic/2021/07/05, node/topic/term
 aliases:
 - enlightened
 - Self-Realization

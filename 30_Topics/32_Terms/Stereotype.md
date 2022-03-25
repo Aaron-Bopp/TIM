@@ -3,7 +3,7 @@ created: 2021-10-17
 edited: 
 aliases:
   - stereotyped
-tags: created/topic/2021/10/17, node/topic/stub
+tags: created/topic/2021/10/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

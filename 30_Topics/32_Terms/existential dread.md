@@ -1,7 +1,7 @@
 ---
 created: 2021-10-18
 edited: 
-tags: created/topic/2021/10/18, review, node/topic/stub
+tags: created/topic/2021/10/18, review, node/topic/term
 sr-due: 2022-04-09
 sr-interval: 15
 sr-ease: 186

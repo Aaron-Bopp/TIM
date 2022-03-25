@@ -1,10 +1,9 @@
 ---
 created: 2021-06-27
 edited: 
-tags: created/topic/2021/06/27, node/topic/moc
+tags: created/topic/2021/06/27, node/topic/outline
 aliases:
   - note taking
-
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

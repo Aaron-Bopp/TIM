@@ -16,23 +16,21 @@ tags: created/topic/2021/08/12, node/topic/outline
 > While psychological knowledge is often applied to the assessment and treatment of [[mental health]] problems, it is also directed towards understanding and solving problems in several spheres of human activity. By many accounts, psychology ultimately aims to benefit [[society]]. Many psychologists are involved in some kind of therapeutic role, practicing in clinical, counseling, or school settings. Other psychologists conduct scientific research on a wide range of topics related to mental processes and behavior. Typically the latter group of psychologists work in academic settings (e.g., universities, medical schools, hospitals). Another group of psychologists is employed in industrial and organizational settings. Yet others are involved in work on human development, aging, sports, health, forensics, and the media.
 >
 
-**See**:: [[human experience]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%
-
-#### [[Psychology]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-
-Includes:: [[Evolutionary Psychology]], [[human behavior]]
-
-### <hr class="dataviews"/>
-
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

@@ -4,7 +4,7 @@ edited:
 aliases:
   - eastern system
   - eastern
-tags: created/topic/2021/07/03, node/topic/stub
+tags: created/topic/2021/07/03, node/topic/term
 sr-due: 2022-04-01
 sr-interval: 10
 sr-ease: 234
