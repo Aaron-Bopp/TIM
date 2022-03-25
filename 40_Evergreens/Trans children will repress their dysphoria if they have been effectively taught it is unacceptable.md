@@ -34,5 +34,5 @@ Without early acceptance and especially with the onset of puberty, this repressi
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[transgender]], [[childhood]]
+**Topics**:: [[Transgender people]], [[childhood]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -35,7 +35,7 @@ WHERE contains(topics, this.file.link)
 	- [[Any experience of gender is acceptable]]
 - [[Biology supports the validity of trans people]]
 	- [[Biology supports the validity of trans people]]
-- [[transgender]]
+- [[Transgender people]]
 	- [[gender dysphoria]]
 		- [[Gender Dysphoria is based in a intrinsic wrongness of self]]
 		- [[Self-hatred is born out of dissonance between self-image and self-perception]]

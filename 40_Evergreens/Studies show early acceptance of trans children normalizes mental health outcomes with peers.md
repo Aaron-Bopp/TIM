@@ -11,7 +11,7 @@ sr-ease: 194
 
 #### [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The authors state that their research supports the presence of three *trajectories* of [[gender identity]] development in their [[transgender]] sample. 
+The authors state that their research supports the presence of three *trajectories* of [[gender identity]] development in their [[Transgender people]] sample. 
 ^[[[Sansfacon et al. (2020) - I Knew That I Wasn't Cis 1.pdf]] ]
 1. Trajectory A: these children realize dissonance in their [[gender]] early on and are able to process and verbalize it with their parents, and then receive support. 
 1. Trajectory B: these children notice differences early on, but either due to them struggling to understand them, looking for support and being rebuffed, or repressing these feelings, do not fully understand these differences until puberty makes them more prominent.
@@ -22,5 +22,5 @@ The authors state that their research supports the presence of three *trajectori
 **Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[transgender]], [[community]]
+**Topics**:: [[gender]], [[Transgender people]], [[community]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

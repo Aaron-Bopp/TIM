@@ -11,7 +11,7 @@ sr-ease: 170
 
 #### [[Gender is both an intrinsic experience and a necessary expression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Gender]] sets expectations for how we exist in the world, and it influences how we shape our habits to fit our society. We shape our mannerisms, behaviors, [[communication]], and expectations to [[conscious|consciously]] [^1] and [[subconscious|subconsciously]] [^2] fit our [[gender]] into our [[gender schema]], [[gender identity]], and [[social order]]. While this is true for [[cis]] people, [^3] they are not as aware of this experience or expression of gender as [[transgender|trans]] people. 
+[[Gender]] sets expectations for how we exist in the world, and it influences how we shape our habits to fit our society. We shape our mannerisms, behaviors, [[communication]], and expectations to [[conscious|consciously]] [^1] and [[subconscious|subconsciously]] [^2] fit our [[gender]] into our [[gender schema]], [[gender identity]], and [[social order]]. While this is true for [[cis]] people, [^3] they are not as aware of this experience or expression of gender as [[Transgender people|trans]] people. 
 
 [^1]: [[Our understanding of gender begins at a very early age]]  
 [^2]: [[Gender segregation increases gendered play]]

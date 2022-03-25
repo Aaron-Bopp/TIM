@@ -26,7 +26,7 @@ sr-ease: 230
 # Highlights
 ##### ^261101576
 
-highlight_tags:: [[transgender]]   
+highlight_tags:: [[Transgender people]]   
 Goto: https://twitter.com/beeragon/status/1473662617860329479  
 
 ###### ^261101576q

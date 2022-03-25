@@ -26,7 +26,7 @@ sr-ease: 230
 # Highlights
 ##### ^263032316
 
-highlight_tags:: [[transgender]]   
+highlight_tags:: [[Transgender people]]   
 Goto: https://twitter.com/im_just_laur/status/1475497855691460610  
 
 ###### ^263032316q

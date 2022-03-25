@@ -23,6 +23,6 @@ because [[Trans children will repress their dysphoria if they have been effectiv
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[transgender]], [[self-actualization]], [[human experience]], [[coming out]]
+**Topics**:: [[Transgender people]], [[self-actualization]], [[human experience]], [[coming out]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

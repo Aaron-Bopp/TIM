@@ -22,5 +22,5 @@ Presentation is what we show to the world, it is our hair, style, the way we wal
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[transgender]], [[Queer]], [[self-actualization]]
+**Topics**:: [[gender]], [[Transgender people]], [[Queer]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -58,7 +58,7 @@
 | [[gender dysphoria]] | 4 |
 | [[gender]] | 14 |
 | [[Queer]] | 3 |
-| [[transgender]] | 10 |
+| [[Transgender people]] | 10 |
 | [[Christianity]] | 21 |
 | [[Evangelicalism]] | 8 |
 | [[atheism]] | 1 |

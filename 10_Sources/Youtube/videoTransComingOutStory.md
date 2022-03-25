@@ -24,7 +24,7 @@ sr-ease: 270
 
 # Notes
 
-- What's like to be [[transgender]]
+- What's like to be [[Transgender people]]
 	- whole life, identity come apart and come back together as you
 - Audrey Lord wrote a book called Zami: and new speeling of my name
 	- Biomythography - a blend of facts, history and philosophy 

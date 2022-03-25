@@ -51,7 +51,7 @@ The reason you can't pinpoint your [[anxiety]] is that
 and [[Our brain actively inhibits us from processing repressed emotions]]
 %%
 
-For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] [[transgender|trans]] children will often have lots of untraceable anxiety. 
+For example, because [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] [[Transgender people|trans]] children will often have lots of untraceable anxiety. 
 
 ##### Cause:: false view of reality
 

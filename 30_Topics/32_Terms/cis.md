@@ -11,7 +11,7 @@ aliases:
 
 a person who identifies with gender they were assigned at birth
 
-**See**:: [[gender]], [[transgender]]
+**See**:: [[gender]], [[Transgender people]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

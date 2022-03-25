@@ -4,11 +4,11 @@ edited:
 tags: created/topic/2021/08/15, node/topic/outline
 aliases:
 - trans
-- transness
+- transgender
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[transgender]]</s>
+#### <s class="topic-title">[[Transgender people]]</s>
 
 
 **See**:: [[Queer]], [[gender]]
@@ -21,7 +21,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-#### [[transgender]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### [[Transgender people]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 - [[You're never sure if you're trans]]
 - [[You can discover your transness at any point in life]]
 - ![[gender#gender customJS dv_funcs topicOutlineHeader dv this]]

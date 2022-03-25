@@ -17,7 +17,7 @@ Hatred for yourself is born when you are unhappy with something in your life. Fu
 
 [[Presentation is the realization of our self-perception and identity is the realization of our self-image]] 
 
-This is very common among [[transgender]] people because as their authentic [[self-image]] is rebuffed they fall back to stereotypical or examples for how they should present. This is why [[transgender|trans]]-masc people being hyper feminine while in the closet, and [[transgender|trans]]-fem people being hyper-masculine while in the closet is fairly common. They were never presenting as their true selves, so they fixated on the most extreme form of their "correct" [[gender]] presentation instead.
+This is very common among [[Transgender people]] people because as their authentic [[self-image]] is rebuffed they fall back to stereotypical or examples for how they should present. This is why [[Transgender people|trans]]-masc people being hyper feminine while in the closet, and [[Transgender people|trans]]-fem people being hyper-masculine while in the closet is fairly common. They were never presenting as their true selves, so they fixated on the most extreme form of their "correct" [[gender]] presentation instead.
 This is an example of the [[Gender self-socialization model]] and 
 why:: [[Self-repression is the most natural response for trans people in strongly gendered environments]]
 

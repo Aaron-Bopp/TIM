@@ -18,7 +18,7 @@
 		- [[Any experience of gender is acceptable]]
 		- [[Gender is both an intrinsic experience and a necessary expression]]
 		- [[Our understanding of gender begins at a very early age]]
-		- [[transgender]]
+		- [[Transgender people]]
 			- [[Biology supports the validity of trans people]]
 			- [[You're never sure if you're trans]]
 			- [[You can discover your transness at any point in life]]

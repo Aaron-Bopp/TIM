@@ -11,7 +11,7 @@ sr-ease: 213
 
 [[Our authority figures curate and reinforce what we are allowed to imitate]], and in [[childhood]] our most prominent authority figures are our [[parents]]. If our parents model [[emotional invalidation]] or invalidate us, we will learn this [[behavior]].
 
-This can be especially dangerous for [[neurodiversity|neurodiverse]] and [[transgender|trans]] children because [[Our brain will do anything it can to protect itself]]. These two populations are especially at risk because of the power of their [[brain]]s and the seriousness of their [[cognitive dissonance]]. 
+This can be especially dangerous for [[neurodiversity|neurodiverse]] and [[Transgender people|trans]] children because [[Our brain will do anything it can to protect itself]]. These two populations are especially at risk because of the power of their [[brain]]s and the seriousness of their [[cognitive dissonance]]. 
 ^[
 For neurodivergent kids this lies more in
 [[Neurodivergent people cannot stop their brain from solving problems]] 

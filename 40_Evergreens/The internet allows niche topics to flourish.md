@@ -16,7 +16,7 @@ The [[internet]] has allowed for people with niche interests to connect like nev
 #TO/EXPLORE/RESEARCH connection to [[alt-right pipeline]] [[People are radicalized when they are convinced that change is out of their control]]
 %%
 
-This fact has both good and bad consequences. While anonymous boards like 4chan have allowed for the spread of unsavory and sometimes despicable content, many people have also had access to life saving information like the [[transgender]] community. [[Communities are support systems]], and the [[internet]] allows for you too gain support from a much wider breadth of people. 
+This fact has both good and bad consequences. While anonymous boards like 4chan have allowed for the spread of unsavory and sometimes despicable content, many people have also had access to life saving information like the [[Transgender people]] community. [[Communities are support systems]], and the [[internet]] allows for you too gain support from a much wider breadth of people. 
 
 %% 
 #TO/PONDER/SOCIETY the internet [[community]] is a widespread, disconnected [[parasocial]] one%%

@@ -15,7 +15,7 @@ sr-ease: 252
 > 
 > <cite>[[1 What is Gender]]</cite> 
 
-[[Gender is a social construct]], explores how [[socialization]] creates and reinforces the [[gender binary]], but our pre-natal and [[hormone|hormonal]] environment are the scientific basis of our gender. This is the reason why [[Our understanding of gender begins at a very early age]] and supports the validity of [[transgender]] children and that [[You can discover your transness at any point in life]] 
+[[Gender is a social construct]], explores how [[socialization]] creates and reinforces the [[gender binary]], but our pre-natal and [[hormone|hormonal]] environment are the scientific basis of our gender. This is the reason why [[Our understanding of gender begins at a very early age]] and supports the validity of [[Transgender people]] children and that [[You can discover your transness at any point in life]] 
 
 If your assigned gender does not match your true gender your body will produce biological warnings of [[depression]], [[depersonalization]], [[derealization]], [[dissociation]], and obviously [[gender dysphoria]], but studies have shown that early social acceptance can bring these signs to near zero #TO/DO/CITE 
 

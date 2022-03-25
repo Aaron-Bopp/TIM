@@ -19,12 +19,12 @@ This is
 part of:: [[Gender is a social construct]] 
 and
 works with:: [[Biology supports the validity of trans people]]
-to justify the existence of [[transgender|trans]] people to anybody.
+to justify the existence of [[Transgender people|trans]] people to anybody.
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[transgender]],
+**Topics**:: [[gender]], [[Transgender people]],
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

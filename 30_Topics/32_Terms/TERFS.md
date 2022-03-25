@@ -9,7 +9,7 @@ tags: created/topic/2021/11/06, node/topic/term
 
 #### <s class="topic-title">[[TERFS]]</s>
 
-[[transgender|Trans]] Exclusionary Radical [[Feminism|feminist]]
+[[Transgender people|Trans]] Exclusionary Radical [[Feminism|feminist]]
 
 **See**:: [[gender]], [[marginalization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
