@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/11/24, review, node/evergreen/question, 
-sr-due: 2022-03-26
-sr-interval: 23
+sr-due: 2022-04-09
+sr-interval: 14
 sr-ease: 130
 ---
 
@@ -15,6 +15,7 @@ Is this one of the main mechanisms behind why humans have chosen to cause harm t
 
 It is probably more likely that there are many different sources for harmful behaviors.
 
+- similarly:: [[Does cognitive dissonance increase your capacity for endurance]]
 - follows:: [[What is the cognitive effect of living in an unjust world]]
 	- [[Humans have decided to take advantage of an unjust world]]
 - same mechanism:: [[Faith is an abstraction of cognitive dissonance]]

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 9
-sr-ease: 210
+sr-due: 2022-04-01
+sr-interval: 6
+sr-ease: 190
 ---
 
 #### [[Social order is built off of a shared belief in an imagined reality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

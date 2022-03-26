@@ -68,4 +68,12 @@ and [[Greater cooperation and communication has lead to the success of humans as
 Finally this leads him to start directly connecting these ideas to [[religion]], through the idea that [[Belief can motivate adaptation]] and [[Religion promotes high social control]]
 
 ### Chapter 2
-Wilson first reviews his reasons for approaching the subject of [[religion]], pointing out the not so obvious connections to [[Evolution]] that people in the social sciences have made. For this reasons he is going to turn and look at religion from their perspective first.
+Wilson first reviews his reasons for approaching the subject of [[religion]], pointing out the not so obvious connections to [[Evolution]] that people in the [[social sciences]] have made. For this reasons he is going to turn and look at religion from their perspective first.
+
+He first covers the [[rational choice theory]] of [[religion]].
+A theory that states [[Religion is a rational bid for supernatural reward]].
+Wilson quickly points on that this view is non-adaptive due to it not delivering on this bid and that is does not solve [[How to solve the fundamental problem of social life|the fundamental problem of social life]].
+
+Wilson then dives into the history of [[functionalism]], how [[Emile Durkheim]] studied religion through it, and how  and why it has been left behind by rational choice theorists.
+
+[[What is the origin of religion]]
