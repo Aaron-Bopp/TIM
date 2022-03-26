@@ -38,6 +38,13 @@ This is important in the way that hierarchies are maintained:
 ^[[[books_Sapiens#^299110301]]]
 [[What is the origin of social hierarchy]]
 
+[[David Sloan Wilson]] backs this up in his book [[books_Darwin's Cathedral|Darwin's Cathedral]], citing mutual vigilance and social control as the way we achieve [[social order]].
+^[[[books_Darwin's Cathedral#^295490297]]]
+
+This also makes this 
+part of:: [[What is the origin of religion]]
+as [[Religion promotes high social control]]
+
 ##### Why is it important to know this?
 
 This

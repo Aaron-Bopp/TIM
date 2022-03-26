@@ -24,7 +24,7 @@ This
 
 > ![[books_Darwin's Cathedral#^295490304]]
 
-Instead [[emile ]]
+Instead [[Emile Durkheim]] proposes that [[Religion creates social order through group membership and prescribed behavior]]
 
 ##### ^dataviews
 

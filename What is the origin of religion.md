@@ -13,7 +13,13 @@ Durkheim's main argument was that these theories were not adaptive enough to be 
 result of:: [[Humans are a product of evolution]]
 
 Durkheim states that 
-broadly [[religious belief]] itself is not adaptive due to the way it misrepresents the world
+broadly [[religious belief]] itself is not adaptive due to the way it misrepresents the world but that [[Religion creates social order through group membership and prescribed behavior]].
+
+
+> ![[books_Darwin's Cathedral#^295490295]]
+
+- [[Moral social control promotes pro-social behavior in groups]]
+- [[Religion promotes high social control]]
 
 ### <hr class="footnote"/>
 
