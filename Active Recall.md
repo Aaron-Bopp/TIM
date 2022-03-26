@@ -2,18 +2,39 @@
 created: 2022-03-26T10:17:40 
 edited: 
 aliases:
-  - testing 
-tags: created/topic/2022/03/26, node/topic/term
+  - testing effect
+tags: created/topic/2022/03/26, node/topic/term/task
+sr-due: 2022-03-29
+sr-interval: 3
+sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Active Recall]]</s>
 
+In:: [[spaced repetition]],
+this is the act of recalling the answer to a question posed on a flashcard.
+
+In:: [[knowledge management]],
+the is the act of recalling information by connecting it to another piece of [[information]].
 
 > [!wikipedia] [Testing effect](https://en.wikipedia.org/wiki/Testing%20effect)
 > 
-> The testing effect (also known as retrieval practice, active recall, practice testing, or test-enhanced learning)  suggests long-term memory is increased when some of the learning period is devoted to retrieving information from memory. It is different from more general practice effect, defined in the APA Dictionary of Psychology as "any change or improvement that results from practice or repetition of task items or activities."Cognitive psychologists are working with educators to look at how to take advantage of tests—not as an assessment tool, but as a teaching tools  as testing prior knowledge is more beneficial for learning when compared to reading or passively studying material, even more so when the test is more challenging for memory.
+> The testing effect (also known as retrieval practice, active recall, practice testing, or test-enhanced learning)  suggests [[long-term memory]] is increased when some of the learning period is devoted to retrieving [[information]] from [[memory]]. It is different from more general [[practice effect]].
+> 
+
+> [!wikipedia] [Recall (memory)](https://en.wikipedia.org/wiki/Recall%20(memory))
+> 
+> Recall in memory  refers to the mental process of retrieval of [[information]] from the past. Along with encoding and storage, it is one of the three core processes of [[memory]]. 
 >
+
+> [!wikipedia] [Free recall](https://en.wikipedia.org/wiki/Free%20recall)
+> 
+> Free recall is a common task in the psychological study of [[memory]].  In this task, participants study a list of items on each trial, and then are prompted to recall the items in any order.  
+> 
+
+
+
 
 
 ##### ^dataviews

@@ -1,4 +1,7 @@
 <% tp.file.include("[[META]]") %> created/topic/<% tp.date.now("YYYY/MM/DD") %>, node/topic/term
+sr-due: <% tp.date.now("YYYY-MM-DD") %>
+sr-interval: 2
+sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

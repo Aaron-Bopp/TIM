@@ -5,8 +5,8 @@ aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world
 tags: created/evergreen/2021/10/18, review, node/evergreen/question
-sr-due: 2022-03-26
-sr-interval: 27
+sr-due: 2022-05-13
+sr-interval: 48
 sr-ease: 177
 ---
 
@@ -35,8 +35,10 @@ Possible Answers:
 %%
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different 
+%%
 - [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
     - This assumes that people will act rationally and want to reduce their own [[suffering]], but that isn't always the case: [[Sadness is enlightenment and happiness is delusion]] 
+%%
 %%I don't think this is the answer. Doing good feels more effective than reducing harm, but trying to do good and failing can increase harm. What is the logical end of these beliefs?%%
 
 We know that [[Humans are primarily irrational, illogical, emotional beings]] and we must keep that in mind when we are striving for [[society|societal]] change and [[self-actualization|personal]] change.
