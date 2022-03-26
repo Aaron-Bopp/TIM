@@ -22,6 +22,10 @@ How something is named effects people's [[perception]] of it.
 - [[American's are scared of the word communism not it's meaning]]
  
 
+> ![[books_Behave#^301731327]]
+
+> ![[books_Behave#^301731147]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

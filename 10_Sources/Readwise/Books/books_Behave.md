@@ -97,7 +97,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=380
 
 ###### ^301731327q
 
-Words pack power and these definitions are laden with values, ... (a) “competition”—your lab team races the Cambridge group to a discovery ... (b) “competition”—playing pickup soccer ... (c) “competition”—your child’s teacher announces a prize for the best outlining-your-fingers Thanksgiving turkey drawing ... principal); (d) “competition”—whose deity is more worth killing for? 
+Words pack power and these definitions are laden with values, ... (a) “competition”—your lab team races the Cambridge group to a discovery ... (b) “competition”—playing pickup soccer ... (c) “competition”—your child’s teacher announces a prize for the best outlining-your-fingers Thanksgiving turkey drawing ... (d) “competition”—whose deity is more worth killing for? 
 
 ^301731327
 

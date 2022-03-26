@@ -29,11 +29,12 @@ sr-ease: 230
 
 Goto: https://fs.blog/feynman-learning-technique?__readwiseLocation=0%2F1%2F0%2F1%2F0%2F0%2F3%2F1%3A0%2C0%2F1%2F0%2F1%2F0%2F0%2F3%2F1%3A30#:~:text=The%20Feynman%20Learning%20Technique  
 
-#TO/EXPLORE/READ  
 
 ###### ^262106239q
 
 The Feynman Learning Technique 
 
 ^262106239
+
+
 

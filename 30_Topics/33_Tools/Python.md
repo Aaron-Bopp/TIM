@@ -25,3 +25,4 @@ WHERE contains(topics, this.file.link)
 ## Getting started
 
  - [How to Read a Text file In Python Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/) 
+ - [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
