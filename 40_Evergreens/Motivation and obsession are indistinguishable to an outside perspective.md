@@ -15,10 +15,11 @@ What is the inner feeling behind [[motivation]]? What is the inner feeling behin
 
 Similarly to [[Our brain actively inhibits us from processing repressed emotions]], our [[brain]] has some level of control over what we are thinking about: [[Neurodivergent people cannot stop their brain from solving problems]]
 
-Pushing yourself is something that is unique to humans.
-%% - #TO/TEND/MULCH contrasts:: [[Humans are a product of evolution]] %%
-- [[The most reliable path to success is repeatedly trying to succeed]]
-- [[Right kinds of thoughts lead to right kinds of actions]]
+#TO/EXPLORE/RESEARCH are they also indistinguishable from an internal perspective? i.e. [[Dopamine]]
+
+- explains:: [[The most reliable path to success is repeatedly trying to succeed]]
+- part of:: [[Right kinds of thoughts lead to right kinds of actions]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

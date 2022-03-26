@@ -23,7 +23,15 @@ the contrast here[[Sadness is enlightenment and happiness is delusion]] and here
 #TO/PONDER/RELATIONSHIP
 - [[Purpose is derived from within, duty is derived from without]]
 - [[Right kinds of thoughts lead to right kinds of actions]]
-- 
+
+ 
+> too many people are living their lives with dead eyes, as an ordeal, an obligation
+what the world "needs" is people who have come alive, who are joyful, who love living
+everything else is downstream of that
+> ^[[[tweets_Tweets From Visa Is Doing Final Edits ✍🏾📖#^255253491]]]
+> 
+> <cite>[[@visakanv on Twitter|visakanv]]</cite>
+
 
 ### <hr class="footnote"/>
 

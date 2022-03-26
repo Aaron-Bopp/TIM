@@ -91,8 +91,6 @@ Goto: https://twitter.com/visakanv/status/1013801783741669381
 
 Goto: https://twitter.com/visakanv/status/1466496066044366850  
 
-[[happiness is enlightenment and sadness is delusion]] #TO/TEND/CONNECT  
-
 ###### ^255253491q
 
 @shiraeis Emerson called it almost 200 years ago

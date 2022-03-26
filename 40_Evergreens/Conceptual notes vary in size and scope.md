@@ -23,6 +23,7 @@ sr-ease: 130
 The size of a concept grows and shrinks with our [[understanding]] of it, available [[information]], and the detail of note covering it. You will have [[conceptual notes]] that partially or completely encompass other notes, but serve as overview or outlines of that note and related others. Those larger scope notes are most valuable as entry points for yourself and for notes that are distantly related. The smaller scoped notes are excellent for expanding your understanding, and gradually linking in closely related notes. 
 
 > [!example]
+> 
 > [[Humans are primarily irrational, illogical, emotional beings]] is much broader in scope than [[Human's have an inability to admit that they are wrong]] and [[Human's will find explanations for inexplainable things]] and completely overlaps them in content. Yet all three exist. The two smaller notes are all for more granular understanding of of the larger concept 
 > ^[this mainly comes through [[bi-directional links|backlinks]] as the notes themselves do not have much content of their own]
 > and the larger note allows itself to be a launch point for understanding and relating these concepts.  

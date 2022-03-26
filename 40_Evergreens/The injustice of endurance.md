@@ -3,7 +3,7 @@ created: 2021-07-29
 edited: 
 tags: created/evergreen/2021/07/29, review, node/evergreen/principle 
 aliases:
-  - null
+  - An expectation of endurance is abuse
 sr-due: 2022-07-26
 sr-interval: 143
 sr-ease: 230

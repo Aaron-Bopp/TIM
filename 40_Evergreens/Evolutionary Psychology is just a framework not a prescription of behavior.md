@@ -23,13 +23,14 @@ and properly contrast this [[framework]] with others,
 we can attempt to use our [[understanding]] of [[human evolution]] effectively.
 
 > [!example]
-[[Humans have had little time to adjust to being the top predator]] means that 
-[[Our brains are built around survival]], but our environments practically guarantee it. 
-This [[cognitive dissonance]] leads to phenomena like [[existential dread]],
-conclusions like:: [[Most anxiety isn't irrational it's just overcompensation]]
-and 
-provides the mechanism behind::
-[[We carry our childhood wounds into adulthood]]
+> 
+> [[Humans have had little time to adjust to being the top predator]] means that 
+> [[Our brains are built around survival]], but our environments practically guarantee it. 
+> This [[cognitive dissonance]] leads to phenomena like [[existential dread]],
+> conclusions like:: [[Most anxiety isn't irrational it's just overcompensation]]
+> and 
+> provides the mechanism behind::
+> [[We carry our childhood wounds into adulthood]]
 
 #TO/TEND/MULCH 
 [[Our biology has not significantly changed for thousands of years]] means that we are still dealing with minds or ancient [[hunter-gatherers]].

@@ -18,8 +18,6 @@ Your personality type will change over your life, it may even change on what kin
 In [[Ayurveda]] there is the concept of [[Dosha]] which is a genetically determined [[personality]] type is both physical and mental. Both [[Enneagram]] and [[Dosha]] have a concept of what happens to the [[personality]] when stressed, although [[Ayurveda]] pushes the [[mind-body complex]] much more and actually links certain [[disease]]s to your [[Dosha]]
 ^[[[notes_Intro to Ayurveda]]]
 
-#TO/PONDER/IDEA #TO/EXPLORE/WATCH  [3 Motivation Styles determined by Personality - YouTube](https://www.youtube.com/watch?v=tRWX21lW_bU) 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
