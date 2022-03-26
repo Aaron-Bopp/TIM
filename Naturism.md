@@ -12,7 +12,7 @@ sr-ease: 231
 
 #### <s class="topic-title">[[Naturism]]</s>
 
-A kind of [[religion|religious]] [[belief]], similar to [[Animism]] but instead arguing that religious beliefs derive from nature rather than dreaming.
+A kind of [[religion|religious]] [[belief]], similar to [[Animism]] but instead arguing that religious beliefs derive from observation of nature rather than dreaming.
 
 More broadly thought of as [[nature worship]]
 

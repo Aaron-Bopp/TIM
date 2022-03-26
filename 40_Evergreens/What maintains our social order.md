@@ -13,7 +13,7 @@ sr-ease: 210
 
 from:: [[What is the cognitive origin of our social order]]
 
-##### [[belief]]
+#####  shared [[belief]]
 
 If we believe that the foundation of our [[social order]] is an [[Imagined order]] based off our shared [[Imagined reality]], then we must believe that there is a connection between our shared [[belief]] and the maintenance of our [[material conditions]].
 [[Yuval Noah Harari]] believes our belief in myths is this connection and that losing these beliefs would shake and change our [[social order]].

@@ -11,11 +11,12 @@ tags: created/evergreen/2022/03/26, review, node/evergreen/claim
 
 > ![[books_Darwin's Cathedral#^298292965]]
 
+explains:: [[Evolution can create systems capable of natural selection]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[emergence]], [[complexity]], [[Complex systems theory]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

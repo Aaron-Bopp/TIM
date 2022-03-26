@@ -20,6 +20,13 @@ the selection takes place in the environment not in the genome.
 This could be seen as an 
 example of:: [[molecular genetics]] and [[Experts are often far too confident in the effectiveness of their theories]]
 
+
+> ![[books_Darwin's Cathedral#^297089498]]
+
+
+> ![[books_Darwin's Cathedral#^298292972]]
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

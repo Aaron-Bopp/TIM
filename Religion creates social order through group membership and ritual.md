@@ -6,11 +6,11 @@ aliases:
 tags: created/evergreen/2022/03/26, review, node/evergreen/claim
 ---
 
-#### [[Religion creates social order through group membership and prescribed behavior]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Religion creates social order through group membership and ritual]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-explained by:: [[Symbolism increases human's capacity for cooperation]]
-
-explains:: [[Religion promotes high social control]]
+- part of:: [[What maintains our social order]]
+- explained by:: [[Symbolism increases human's capacity for cooperation]]
+- explains:: [[Religion promotes high social control]]
 
 This was proposed by [[Emile Durkheim]] as a [[functionalism|functionalist]] explanation for [[religious belief]].
 Religion would support beliefs and practices in line with the sacred 

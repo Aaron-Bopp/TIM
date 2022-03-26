@@ -14,17 +14,18 @@ sr-ease: 231
 
 In:: [[functionalism]],
 religious belief is meaningfully different that other kinds of [[belief]].
-This 
 
 
 > ![[books_Darwin's Cathedral#^295428840]]
+
+> ![[books_Darwin's Cathedral#^298292999]]
 
 
 > ![[books_Darwin's Cathedral#^295490284]]
 
 > ![[books_Darwin's Cathedral#^295490304]]
 
-Instead [[Emile Durkheim]] proposes that [[Religion creates social order through group membership and prescribed behavior]]
+Instead [[Emile Durkheim]] proposes that [[Religion creates social order through group membership and ritual]]
 
 ##### ^dataviews
 

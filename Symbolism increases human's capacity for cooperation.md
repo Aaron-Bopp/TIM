@@ -8,15 +8,19 @@ tags: created/evergreen/2022/03/26, review, node/evergreen/claim
 
 #### [[Symbolism increases human's capacity for cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+part of:: [[What is the cognitive origin of our social order]] 
+similarly:: [[Social order is built off of a shared belief in an imagined reality]]
 
 > ![[books_Darwin's Cathedral#^295490288]]
 
+[[What is the link between evolution and social behavior]]
 > ![[books_Darwin's Cathedral#^295490290]]
 
+leads to:: [[Greater cooperation and communication has lead to the success of humans as a species]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[Symbolism]], [[cooperation]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

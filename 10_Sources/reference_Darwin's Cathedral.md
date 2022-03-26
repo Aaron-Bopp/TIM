@@ -82,7 +82,7 @@ A theory that states [[Religion is a rational bid for supernatural reward]].
 Wilson quickly points on that this view is non-adaptive due to it not delivering on this bid and that is does not solve [[How to solve the fundamental problem of social life|the fundamental problem of social life]].
 
 Wilson then dives into the history of [[functionalism]], how [[Emile Durkheim]] studied religion through it, and how and why it has been left behind by rational choice theorists.
-The functionalist view of [[What is the origin of religion]] pushes back against previous spiritual explanations of [[religious belief]] such as [[Animism]] and [[Naturism]] in favor of [[Religion creates social order through group membership and prescribed behavior]].
+The functionalist view of [[What is the origin of religion]] pushes back against previous spiritual explanations of [[religious belief]] such as [[Animism]] and [[Naturism]] in favor of [[Religion creates social order through group membership and ritual]].
 
 Rational choice theorists such as [[Rodney Stark]] [[E. E. Evans-Pritchard]] and dismiss Durkheim more wholly: 
 
@@ -104,5 +104,13 @@ Wilson connects the dissonance between individualism and holism back to [[Proxim
 > ![[books_Darwin's Cathedral#^297089495]]
 
 
+> ![[books_Darwin's Cathedral#^298292999]]
 
+> ![[books_Darwin's Cathedral#^297089497]]
 
+[[Group selection]] allows for us to translate the concepts of [[Holism]] onto [[human behavior]] through the lense of [[Cultural Evolution]].
+
+This is no simple task, as testing adaptation hypothesis is more difficult in [[Psychology]] and [[anthropology]] than [[biology]]. But just like how biologists must compare and contrast proximate explanations and ultimate explanations for [[natural selection]], we must do the same for [[group selection]].
+
+[[Complex interaction can arise from simple properties]]
+[[Natural selection is a designing agent]]
