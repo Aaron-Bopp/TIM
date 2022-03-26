@@ -30,7 +30,7 @@ sr-ease: 250
 	- [[peace]] vs [[suffering]] not [[happiness]] vs [[sadness]]
 - [[Buddha]]'s journey realized that [[humanity]] is entitled to two things [[Dukkha]] and death
 	- [[Buddhism is the study of happiness through detachment]]
-- [[suffering]] comes from our attachment to our expectations
+- [[suffering]] comes from our [[emotional attachment|attachment]] to our expectations
 - as we grow up we learn to detach our worth from those who are around us
 	- [[success]] can come with [[suffering]] if you are attached to expectations
 		- example bridezilla

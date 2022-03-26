@@ -225,7 +225,7 @@ Goto: https://twitter.com/roryreckons/status/1454709034737561602
 ###### ^244104982q
 
 😩
-Understanding one of the reasons body doubling might work. We need emotional attachment to feel safe. 
+Understanding one of the reasons body doubling might work. We need [[emotional attachment]] to feel safe. 
 
 ^244104982
 

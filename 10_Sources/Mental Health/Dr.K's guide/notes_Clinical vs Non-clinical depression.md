@@ -39,8 +39,8 @@ sr-ease: 270
 		- [[Ketamine]] shuts of our [[Default Mode Network (DMN)]] within hours
 			- when the [[Ketamine]] wears off it gets turned off again
 		- [[meditation]] also shuts down the [[Default Mode Network (DMN)]]
-	- [[Vairagya]] is [[detachment]] and similar to shutting off the [[Default Mode Network (DMN)]]
-		- people can again happiness this way because they can take a step back and realize the scale of their problems
+	- [[Vairagya]] is [[emotional detachment]] and similar to shutting off the [[Default Mode Network (DMN)]]
+		- people can again [[happiness]] this way because they can take a step back and realize the scale of their problems
 			- [[Buddhism is the study of happiness through detachment]]
 	
 - [[Congruent Depression]] defined by [[Dr. K]]

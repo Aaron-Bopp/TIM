@@ -18,7 +18,7 @@ The [[Association Cortices]] are what make the attachments that we use to surviv
 but they do that by lodging [[emotions]] in our [[subconscious]] called [[Samskara]].
 If those attachments are left unchecked it can lead to very bad things 
 ^[[[We carry our childhood wounds into adulthood]]]
-but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [[detachment]] from those [[emotions]].
+but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [[emotional detachment]] from those [[emotions]].
 
 [[Meditation helps us detach negative attachments]]
 

@@ -35,7 +35,7 @@ sr-ease: 250
 	- [[Consciousness is our capacity to introspect]]
 - In [[CBT]]
 	- [[Thought Fusion]] is the self combined with the thoughts
-	- [[Though Diffusion]] is [[detachment]] from your thoughts like [[Vairagya]]
+	- [[Though Diffusion]] is [[emotional detachment]] from your thoughts like [[Vairagya]]
 - [[Flow State]] is about getting as far away from the distractions of the [[mind]] and achieve pure focus
 - [[Dhyana]] is pure [[conscious]] without mental activity
 

@@ -11,8 +11,10 @@ sr-ease: 130
 
 #### [[Does cognitive dissonance increase your capacity for endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER 
+#TO/EXPLORE/RESEARCH 
 It feels like the people who are under the most pressure are often the ones who can put up with the most. This might be more related to the [[Hierarchy of needs]] than [[cognitive dissonance]]
+
+[[know]]
 - [[The injustice of endurance]]
 - [[Faith is an abstraction of cognitive dissonance]] #TO/TEND/GRAFT 
 	- [[Non-faith issues have been co-opted to keep people in the Christian church]]

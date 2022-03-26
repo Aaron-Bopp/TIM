@@ -15,7 +15,7 @@ sr-ease: 250
 
 June 21, 2011 — As high earners earn more, and lower or modest-income people earn less or see their incomes sit flat, the losers in the equation increasingly feel less happy and more inclined to believe that others are unfair and untrustworthy, according to a new University of Virginia-led study. ^fed754
 
-  "Essentially, [[America|Americans]] are less happy during periods of greater income inequality," said psychologist Shigehiro Oishi of U.Va.'s [**College of Arts & Sciences**](http://artsandsciences.virginia.edu/home/index.html), lead author of a new study examining the effects of income disparity on happiness. "People are happier when there is more economic equality."
+  "Essentially, [[America|Americans]] are less happy during periods of greater income inequality," said psychologist Shigehiro Oishi of U.Va.'s [**College of Arts & Sciences**](http://artsandsciences.virginia.edu/home/index.html), lead author of a new study examining the effects of income disparity on [[happiness]]. "People are happier when there is more economic equality."
 
 **Listen to the UVA Today Radio Show report on this story by Fariss Samarrai: 
 

@@ -63,7 +63,7 @@
 | [[Evangelicalism]] | 8 |
 | [[atheism]] | 1 |
 | [[faith]] | 9 |
-| [[attachment]] | 1 |
+| [[emotional attachment]] | 1 |
 | [[human behavior]] | 21 |
 | [[programming]] | 4 |
 | [[note writing]] | 27 |
@@ -78,7 +78,7 @@
 | [[behavior]] | 1 |
 | [[Buddhism]] | 4 |
 | [[happiness]] | 3 |
-| [[detachment]] | 1 |
+| [[emotional detachment]] | 1 |
 | [[progress]] | 3 |
 | [[Imagined reality]] | 1 |
 | [[economics]] | 1 |

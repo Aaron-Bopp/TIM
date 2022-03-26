@@ -39,7 +39,7 @@ It may be something small, it may be something massive, or they may just get bor
 #TO/TEND/GRAFT ideas of [[karma]] and [[Dharma]] and [[Ashram]]
 - [[Purpose is derived from within, duty is derived from without]]
 %% #TO/TEND/MULCH 
-For people that have become to aware of [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]], the only may be [[detachment]] from the [[suffering]] of the world: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]%%
+For people that have become to aware of [[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]], the only may be [[emotional detachment]] from the [[suffering]] of the world: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]%%
 
 [[Knowledge of an unjust world is painful]], but [[Accepting responsibility is not only about your actions]]: [[Be the change you want to see in the world]]
 

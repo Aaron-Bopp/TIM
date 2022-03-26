@@ -27,7 +27,7 @@ These anxieties swerve into overcompensation usually when it involves social sit
 or simply a warped sense of reality. 
 ^[Anxiety can be the [[manifestation]] of the [[cognitive dissonance]] that warps your [[perception]]: [[Human's will find explanations for inexplainable things]]]
 
-We can attack anxiety by gaining [[detachment]], because [[Attachment fuels anxiety]], 
+We can attack anxiety by gaining [[emotional detachment]], because [[Attachment fuels anxiety]], 
 or we can do so by gaining [[confidence]]:
 [[Confidence comes when you are more capable of handling diverse outcomes]]
 

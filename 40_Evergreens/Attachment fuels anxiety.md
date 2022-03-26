@@ -12,7 +12,7 @@ sr-ease: 190
 #### [[Attachment fuels anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 [[The ultimate goal of the mind is to keep thinking]],
-so [[attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
+so [[emotional attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
 If you are attached to some event in the future, 
 your [[brain]] will take advantage of that.
 ^[[[notes_Learned Anxiety]]]
@@ -33,7 +33,7 @@ but
 If you can gain perspective and [[objectivity]] over your anxiety, 
 you can prevent the negative effects of
 [[Anxiety tries to make us assume the worst]].
-This is why [[detachment]] is so powerful for reducing [[anxiety]],
+This is why [[emotional detachment]] is so powerful for reducing [[anxiety]],
 it allows you to gain both of these things and break off your brain's connection to it's food source.
 ^[[[notes_Learned Anxiety]]]
 
@@ -42,5 +42,5 @@ it allows you to gain both of these things and break off your brain's connection
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[anxiety]], [[attachment]]
+**Topics**:: [[anxiety]], [[emotional attachment]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
