@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/11, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 10
+sr-due: 2022-04-21
+sr-interval: 26
 sr-ease: 230
 ---
 
@@ -22,5 +22,5 @@ sr-ease: 230
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[knowledge work]]
+**Topics**:: [[knowledge work]], [[writing]], [[memory]], [[understanding]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

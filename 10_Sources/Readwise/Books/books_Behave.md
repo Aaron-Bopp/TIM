@@ -480,3 +480,15 @@ Is the amygdala solely the keyboard (with fear memories stored elsewhere), or is
 
 ^302856307
 
+# New highlights added March 26, 2022 at 3:21 PM
+##### ^303014370
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=755  
+
+###### ^303014370q
+
+the amygdala, specifically the BLA, gets projections from all the sensory systems. 
+
+^303014370
+

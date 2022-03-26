@@ -13,6 +13,8 @@ sr-ease: 230
 
 One answer:: [[The ego is the brain's response to the realization that we are just another individual in the world]]
 
+leads to:: 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

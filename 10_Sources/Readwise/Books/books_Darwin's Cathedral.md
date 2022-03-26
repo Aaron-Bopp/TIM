@@ -1641,3 +1641,26 @@ Calvin himself had written a treatise against the Anabaptists. Stung as much by 
 
 ^302856339
 
+# New highlights added March 26, 2022 at 3:21 PM
+##### ^303348912
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1012  
+
+###### ^303348912q
+
+Durkheim felt that the symbolic badge of group membership and the aura of sacredness surrounding prescribed behaviors were required for clans to exist as functioning groups. 
+
+^303348912
+
+##### ^303348913
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1056  
+
+###### ^303348913q
+
+Victor Turner ([1969] 1995) analyzed religious ritual in terms of two key concepts: communitas and structure. Structure is the system of roles related to age, sex, and status that people in a community occupy. Communitas is a conception of the community as an egalitarian unit in which all members, from highest to lowest, have a moral claim. The purpose of structure is to implement the spirit of communitas. 
+
+^303348913
+

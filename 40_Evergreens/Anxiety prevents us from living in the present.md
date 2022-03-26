@@ -24,7 +24,7 @@ The common thread here is that we are not in control of our thoughts. [[Meditati
 
 We can often find it very easy to live in the future, but [[Living in the present moment is valuable]].
 
-If you anxiety is feeling debilitating, just know that this is a problem as old as corn fields: [[The advent of farming lead to the advent increased the prevalence of anxiety]]
+If you anxiety is feeling debilitating, just know that this is a problem as old as corn fields: [[The advent of farming lead to increased prevalence of anxiety]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

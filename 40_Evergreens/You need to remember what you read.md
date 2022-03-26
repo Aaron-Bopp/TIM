@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 2
-sr-ease: 210
+sr-due: 2022-04-07
+sr-interval: 12
+sr-ease: 230
 ---
 
 #### [[You need to remember what you read]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,7 +15,6 @@ This
 answers:: [[How to understand what you read]]
 
 A large part of [[understanding]] is remembering. If you can remember past [[knowledge]] you can build upon it and develop a deep understanding of what you read.
-%% of any subject you put your mind to. %%
 Luckily there are countless strategy's for remembering.
 
 #TO/WRITE about how to implement [[spaced repetition]] and [[Active Recall]]
@@ -26,7 +25,7 @@ This is why:: [[You need to teach yourself what you read]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[reading]], [[understanding]], [[memory]]

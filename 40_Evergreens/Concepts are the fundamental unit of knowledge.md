@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/26, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 28
+sr-due: 2022-05-12
+sr-interval: 47
 sr-ease: 170
 ---
 
@@ -20,12 +20,10 @@ This is what makes [[conceptual notes]] so powerful:
 [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 
 #TO/PONDER [[Dan Alloso]] said that paragraphs are the fundamental unit of writing
-- [[What are the differences between evergreen notes and conceptual notes]]
-- [[Note taking is a spectrum from purely reproductive to purely productive]]
-- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
-- [[Writing is a catalyst of understanding]]
-- [[Evergreen notes organize knowledge so that it can grow]]
-- [[What is language's fundamental unit]]
+- [[How to understand what you read]]
+	- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
+	- [[Evergreen notes organize knowledge so that it can grow]]
+- [[We naturally define relationships between ideas]]
 
 ### <hr class="footnote"/>
 
