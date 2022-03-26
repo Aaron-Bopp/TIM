@@ -1,27 +1,20 @@
 ---
 created: 2021-10-15
 edited: 
-tags: created/topic/2021/10/15, node/topic/term
+tags: created/topic/2021/10/15, node/topic/outline
+sr-due: 2022-03-29
+sr-interval: 3
+sr-ease: 262
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Computer Science]]</s>
 
-![['A difficult task is one that is easy to screw up even if you know what you're doing' - Nathan Eloe]]
+> [!wikipedia] [Computer Science](https://en.wikipedia.org/wiki/Computer%20science)
+> 
+>  **Computer Science** is the study of algorithmic processes, computational machines and computation itself. As a discipline, computer science spans a range of topics from theoretical studies of algorithms, computation and information to the practical issues of implementing computational systems in hardware and software.
 
-**Computer Science** is the study of algorithmic processes, computational machines and computation itself. As a discipline, computer science spans a range of topics from theoretical studies of algorithms, computation and information to the practical issues of implementing computational systems in hardware and software.[^1] 
-
-**See**:: 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
-#### [[Computer Science]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
+#### Outline
 
 - [[Operating Systems]]
 	- [[Monolithic vs Micro Kernels]]
@@ -38,8 +31,21 @@ WHERE contains(topics, this.file.link)
 		- [[Regex]]
 		- [[C (programming language)]]
 
-### <hr class="dataviews"/>
+##### ^dataviews
 
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-[^1]:  [Wikipedia](https://en.wikipedia.org/wiki/Computer%20science)
+%% DO NOT EDIT ABOVE %%

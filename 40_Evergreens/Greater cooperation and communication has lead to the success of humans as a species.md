@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 5
+sr-due: 2022-04-08
+sr-interval: 13
 sr-ease: 210
 ---
 
@@ -25,8 +25,8 @@ to slowly overtake and outcompete every of other species of human.
 In [[books_Sapiens|Sapiens by Yuval Noah Harari]], this take over by [[homo sapiens]] is termed the [[Cognitive Revolution]] where our increased ability for cooperation, [[language]], and thought allowed us to outcompete our contemporary humans.
 
 Our increased cognitive abilities allowed us to create an [[imagined reality]] that allowed us to cooperate and adapt at a faster rate.
-^[[[books_Sapiens#294248541q]]]
 This was the very beginning of our [[social order]] that would evolve for the next 300,000 years.
+^[This is explored much more in [[What is the cognitive origin of our social order]]]
 
 This may seem inconsequential to modern day humans, but the very same biological mechanisms that allowed us to overtake prehistoric humans are still effecting us today,
 ^[[[Our biology has not significantly changed for thousands of years]]]
@@ -50,6 +50,8 @@ like [[Humans love to group eachother]].
 ![[reference_Sapiens#citation]]
 
 > ![[books_Sapiens#^294248540]]
+
+> ![[books_Sapiens#294248541q]]
 
 ![[reference_Darwin's Cathedral#citation]]
 > ![[books_Darwin's Cathedral#291449823q]]

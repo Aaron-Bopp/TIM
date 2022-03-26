@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 21
+sr-due: 2022-04-22
+sr-interval: 27
 sr-ease: 130
 ---
 
@@ -17,6 +17,7 @@ The reason that certain [[meditation]] styles work for different people lies in 
 If your [[limbic system]] is failing to regulate your [[emotions]], [[meditation]] can help your [[Frontal Lobe|Frontal Lobes]] to gain [[control]].
 ^[[[notes_Science of Meditation]]]
 
+#TO/TEND/PRUNE 
 [[Complex emotions are imperfect understandings of primal urges]]. 
 We still carry many of the mechanisms that make it so [[Our brains are built around survival]].
 This is where the physical aspects of [[meditation]] come in.
@@ -33,7 +34,7 @@ Next:: [[How to develop a meditation practice]]
 
 ### <hr class="footnote"/> 
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[emotions]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/17, node/topic/term
-sr-due: 2022-03-26
-sr-interval: 3
+sr-due: 2022-04-04
+sr-interval: 9
 sr-ease: 254
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +16,10 @@ sr-ease: 254
 > 
 > Memory is the faculty of the brain by which data or [[information]] is encoded, stored, and retrieved when needed. It is the retention of information over time for the purpose of influencing future action. If past events could not be remembered, it would be impossible for [[language]], [[relationships]], or personal [[identity]] to develop. 
 > 
-> Memory is often understood as an informational processing system with explicit and implicit functioning that is made up of a sensory processor, short-term (or working) memory, and long-term memory. 
+> Memory is often understood as an informational processing system with explicit and implicit functioning that is made up of a sensory processor, [[short-term memory]] (or [[working memory]]), and [[long-term memory]]. 
+
+In:: [[knowledge work]],
+memory is a major limitation and tool, and the study of how to improve and enhance memory is explored through [[spaced repetition]], [[Active Recall]], [[Blooms taxonomy]], and much more.
 
 > [!wikipedia]- How memory works neurologically
 > 
@@ -31,15 +34,21 @@ sr-ease: 254
 > Memory is not a perfect processor, and is affected by many factors. The ways by which information is encoded, stored, and retrieved can all be corrupted. Pain, for example, has been identified as a physical condition that impairs memory, and has been noted in animal models as well as chronic pain patients. The amount of attention given new stimuli can diminish the amount of information that becomes encoded for storage. Also, the storage process can become corrupted by physical damage to areas of the brain that are associated with memory storage, such as the hippocampus. Finally, the retrieval of information from long-term memory can be disrupted because of decay within long-term memory. Normal functioning, decay over time, and brain damage all affect the accuracy and capacity of the memory.
 >
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%
