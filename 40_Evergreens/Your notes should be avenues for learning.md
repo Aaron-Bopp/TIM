@@ -4,15 +4,15 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/25, review, node/evergreen/claim
-sr-due: 2022-03-27
-sr-interval: 2
-sr-ease: 230
+sr-due: 2022-03-28
+sr-interval: 1
+sr-ease: 210
 ---
 
 #### [[Your notes should be avenues for learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE example of using [[Wikipedia (plugin, obsidian)]] and topic notes as a way of learning
-#TO/PONDER/IDEA how tagging [[source notes]] will resurface them years down the line
+- #TO/WRITE example of using [[Wikipedia (plugin, obsidian)]] and topic notes as a way of learning
+- #TO/PONDER/IDEA how tagging [[source notes]] will resurface them years down the line
 
 ### <hr class="footnote"/>
 

@@ -51,5 +51,5 @@ remember:: [[Worldviews should not make life seem easy and simple]].
 **Status**:: #EVER/GREEN 
 *edited January 23, 2022*
 
-**Topics**:: [[Yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human interaction]]
+**Topics**:: [[Yoga]], [[self-improvement]], [[mental health]], [[philosophy]], [[human behavior]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

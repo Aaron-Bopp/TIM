@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/25, review, node/evergreen/qu
-sr-due: 2022-03-27
-sr-interval: 2
+sr-due: 2022-04-02
+sr-interval: 6
 sr-ease: 230
 ---
 
@@ -14,6 +14,8 @@ sr-ease: 230
 - part of:: [[A totally integrated machine should be infinitely scalable]]
 
 How do we test this theory?
+How do we define [[scalability]]?
+
 
 
 ### <hr class="footnote"/>

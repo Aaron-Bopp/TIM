@@ -38,6 +38,8 @@ Ways to alter our environment:
 - [[Sometimes we can't grow until we change our environment]]
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]
 
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT 

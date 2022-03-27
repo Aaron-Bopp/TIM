@@ -49,7 +49,7 @@ Some of the insights include,
 
 This leads into the major topic of the next section, [[Greater cooperation and communication has lead to the success of humans as a species]].
 
-*The Tree of Knowledge* defines and describes the [[Cognitive Revolution]] and it's basis in our [[language]] and how it enables us to understand [[human interaction]] and transmit [[information]] through symbols in ways that no other language can. This leads to Harari's discussion of our [[Imagined reality]].
+*The Tree of Knowledge* defines and describes the [[Cognitive Revolution]] and it's basis in our [[language]] and how it enables us to understand [[human behavior]] and transmit [[information]] through symbols in ways that no other language can. This leads to Harari's discussion of our [[Imagined reality]].
 A spin off of these ideas is [[Social order is built off of a shared belief in an imagined reality]] and Harari also touched on [[Cultural evolution is not confined to the slow process of genetic evolution]].
 
 As Harari gets into the weeds of our evolved [[Biology]] and prehistoric behavior he makes note that [[Biological processes can only give context to behavior not predict it]]. This will be important in the next section (and especially as we relate these topics to [[Evolutionary Psychology]]).

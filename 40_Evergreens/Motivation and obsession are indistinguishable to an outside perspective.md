@@ -25,5 +25,5 @@ Similarly to [[Our brain actively inhibits us from processing repressed emotions
 **Status**:: #EVER/SEED 
 *edited January 23, 2022*
 
-**Topics**:: [[motivation]], [[human interaction]], [[obsession]]
+**Topics**:: [[motivation]], [[human behavior]], [[obsession]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

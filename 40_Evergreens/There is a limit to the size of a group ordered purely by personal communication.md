@@ -29,5 +29,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[inter-personal communication]], [[human interaction]], [[social order]], [[social behavior]]
+**Topics**:: [[inter-personal communication]], [[human behavior]], [[social order]], [[social behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

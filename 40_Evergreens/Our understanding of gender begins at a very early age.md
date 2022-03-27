@@ -11,7 +11,7 @@ sr-ease: 250
 
 #### [[Our understanding of gender begins at a very early age]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Gender is a social construct]], so our [[understanding]] of [[gender]] grows just as quickly as our [[understanding]] of [[human interaction]].
+[[Gender is a social construct]], so our [[understanding]] of [[gender]] grows just as quickly as our [[understanding]] of [[human behavior]].
 Children can tell the difference between male and female faces between birth and three months and develop a [[gender identity]] around 18 months to two years and [[gender constancy]] develops around 3-4. 
 
 Our [[parents]] play a huge role in this because [[Our authority figures curate and reinforce what we are allowed to imitate]]. They are the ones that start and feed [[Social Learning Theory|social learning]] and [[Gender self-socialization model|gender self-socialization]]

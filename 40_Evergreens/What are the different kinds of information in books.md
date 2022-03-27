@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-27
-sr-interval: 6
-sr-ease: 230
+sr-due: 2022-03-30
+sr-interval: 3
+sr-ease: 210
 ---
 
 #### [[What are the different kinds of information in books]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

@@ -21,7 +21,7 @@ This is
 part of:: [[There has been a decrease in mental health not an increase in mental illness]]
 and how [[society]] and medical professionals have reacted to it.
 
-We also know that things like, [[exercise]], [[human interaction|socializing]], and [[meditation]],
+We also know that things like, [[exercise]], [[human behavior|socializing]], and [[meditation]],
 ^[[[Meditation improves mental, physical, and emotional health]], [[Yoga is a wholistic philosophy of self-improvement]]]
 all holistically improve your [[mental health]].
 

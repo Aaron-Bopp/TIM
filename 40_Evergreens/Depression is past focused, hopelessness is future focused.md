@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/18, review, node/evergreen/claim
-sr-due: 2022-03-27
-sr-interval: 22
+sr-due: 2022-05-04
+sr-interval: 38
 sr-ease: 170
 ---
 
@@ -23,5 +23,5 @@ sr-ease: 170
 **Status**:: #EVER/SEED 
 *edited January 19, 2022*
 
-**Topics**:: [[depression]], [[hopelessness]]
+**Topics**:: [[depression]], [[hopelessness]], [[human advancement]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

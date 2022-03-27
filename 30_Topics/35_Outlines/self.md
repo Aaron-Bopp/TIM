@@ -4,8 +4,8 @@ edited:
 tags: created/topic/2021/07/21, node/topic/outline
 aliases:
   - null
-sr-due: 2022-03-26
-sr-interval: 1
+sr-due: 2022-03-30
+sr-interval: 3
 sr-ease: 202
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -25,23 +25,31 @@ Human's own conception of their [[self]] is dependent on many things including t
 
 - What makes up the self?
 	- [[Consciousness is our capacity to introspect]]
-	- [[ego]]
+	- [[ego]] or the feeling of "I"
 		- [[The ego is the brain's response to the realization that we are just another individual in the world]]
 		- [[Our ego is our subconscious defense of our self]]
 		- [[Our ego defends every belief we hold conscious or subconscious]]
 		- [[belief]]
 			- [[A conversion experience can help us reshape our sense of self]]
-	- [[Identity]]
+	- [[Identity]] or the want to be
 		- [[Identity is your understanding of yourself vs your interaction with the world]]
 		- [[A repressed self creates a mistrust of self-love and self-esteem]]
-		- [[self-esteem]]
-		- [[self-concept]]
-		- [[self-perception]]
+		- [[self-esteem]] is often intentional belief in in one's identity
+		- [[self-actualization]] is how we form 
+			- [[enlightenment]]
+			- [[self-hate]]
+			- [[self-love]]
+	- [[self-concept]] the understanding of our interaction with the world
 		- [[self-image]]
-	- [[self-actualization]]
-		- [[enlightenment]]
-		- [[self-hate]]
-		- [[self-love]]
+		- [[self-perception]]
+	- [[belief]] and [[worldview]] our [[perception]] or our environment
+	- [[socialization]]
+		- [[gender]]
+		- [[race]]
+- How do we form our understanding of self?
+	- [[Humans are primarily irrational, illogical, emotional beings]]
+	- [[Belief reinforces your worldview]]
+	- [[Religion creates social order through group membership and ritual]]
 - Different views on the self
 	- In [[Vedic Psychology]], the [[mind]] is made up of our [[emotions]], intellect, [[ego]], [[memory]] and [[unconscious]]
 		- [[Consciousness is the fundamental unit of existence]]

@@ -30,5 +30,5 @@ and so they aren't prepared to accept other ways of thinking.
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[inter-personal communication]], [[human interaction]], [[persuasion]]
+**Topics**:: [[inter-personal communication]], [[human behavior]], [[persuasion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

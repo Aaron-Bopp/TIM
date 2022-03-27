@@ -18,7 +18,7 @@ sr-ease: 203
 - [[Organization systems are not mutually exclusive]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
 - [[Communities are knowledge graphs]]
-- #TO/PONDER/IDEA relations to the [[internet]], [[human interaction]]
+- #TO/PONDER/IDEA relations to the [[internet]], [[human behavior]]
 	- [[Social media creates a false sense of unbreakable, expansive, and influential communities]]
 	- [[The internet allows niche topics to flourish]]
 

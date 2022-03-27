@@ -15,7 +15,7 @@ A system of [[Yoga]] that focuses on [[meditation]] on the [[Chakra]]s in order 
 - [[Swadhisthana Chakra]] if you struggle to connect with people
 - [[Manipura Chakra]] if you are struggling to digest the world
 - [[Anahata Chakra]] - if you are struggling to have [[compassion]] and [[empathy]]
-- [[Vishuddha Chakra]] - if you are struggling to affect change on the world ([[inter-personal communication]], [[human interaction]])
+- [[Vishuddha Chakra]] - if you are struggling to affect change on the world ([[inter-personal communication]], [[human behavior]])
 - [[Ajna Chakra]] - if you are struggling with intuition and understanding people
 - [[Sahasrara Chakra]] - this is the final step that you achieve when you achieve [[enlightenment]]
 ^[[[notes_Different Meditative Styles]]]

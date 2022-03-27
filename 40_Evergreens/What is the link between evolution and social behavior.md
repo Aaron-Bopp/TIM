@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/question
-sr-due: 2022-03-27
-sr-interval: 4
+sr-due: 2022-04-06
+sr-interval: 10
 sr-ease: 190
 ---
 
@@ -34,7 +34,7 @@ as we can now see [[social control]] as a trait that [[Genetic evolution]] can s
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolution]], [[group selection]], [[social control]]

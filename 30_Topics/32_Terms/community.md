@@ -11,7 +11,7 @@ aliases:
 
 > ![[books_The Anthropocene Reviewed#287775023q]]
 
-**See**:: [[human interaction]], [[inter-personal communication]], [[Sangha]]
+**See**:: [[human behavior]], [[inter-personal communication]], [[Sangha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

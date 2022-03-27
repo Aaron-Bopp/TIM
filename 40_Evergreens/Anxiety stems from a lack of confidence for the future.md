@@ -23,7 +23,7 @@ why:: [[Confidence is a feedback loop]]
 
 With this is mind it is easy to see 
 why:: [[A secure identity is the best defense against social anxiety]].
-If you have a secure [[identity]] it means you understand who you are and how you want people to view you. Even if you don't have confidence in your ability to handle bad [[human interaction|social interaction]], you at least know that it isn't going to be detrimental to your [[self-image]].
+If you have a secure [[identity]] it means you understand who you are and how you want people to view you. Even if you don't have confidence in your ability to handle bad [[human behavior|social interaction]], you at least know that it isn't going to be detrimental to your [[self-image]].
 
 ### <hr class="footnote"/>
 

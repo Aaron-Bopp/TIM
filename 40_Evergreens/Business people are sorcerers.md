@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/16, review, node/evergreen/qoute
-sr-due: 2022-03-27
-sr-interval: 7
+sr-due: 2022-04-14
+sr-interval: 18
 sr-ease: 230
 ---
 
@@ -20,5 +20,5 @@ sr-ease: 230
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Imagined reality]], [[economics]]
+**Topics**:: [[Imagined reality]], [[economics]], [[society]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

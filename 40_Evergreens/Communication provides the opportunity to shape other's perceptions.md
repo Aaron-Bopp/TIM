@@ -22,5 +22,5 @@ Shaping perceptions allows you to shape people's [[behavior]].
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[communication]], [[perception]], [[human interaction]]
+**Topics**:: [[communication]], [[perception]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

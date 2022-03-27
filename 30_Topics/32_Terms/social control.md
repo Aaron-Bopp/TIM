@@ -29,7 +29,7 @@ We can see the path here for the [[adaptation]] and [[Evolution]] of social cont
 #### Example:: social control in [[hunter-gatherers]]
 > ![[books_Darwin's Cathedral#293875904q]]
 
-**See**:: [[religion]], [[human interaction]]
+**See**:: [[religion]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

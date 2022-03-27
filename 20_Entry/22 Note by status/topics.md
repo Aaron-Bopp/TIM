@@ -93,7 +93,7 @@
 | [[social inequality]] | 3 |
 | [[communication]] | 7 |
 | [[perception]] | 2 |
-| [[human interaction]] | 7 |
+| [[human behavior]] | 7 |
 | [[community]] | 4 |
 | [[activism. Civil Rights]] | 1 |
 | [[Neuroscience]] | 7 |

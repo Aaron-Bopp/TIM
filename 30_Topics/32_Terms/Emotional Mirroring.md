@@ -11,7 +11,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 It can be as simple as repeating back and validating the patient's emotional state. The first step is to identify the emotional state based on what the patient is saying, and by the nonverbal cues that the patient is showing (facial expressions, gestures, and mannerisms).
 
-**See**:: [[emotions]], [[human interaction]], [[inter-personal communication]]
+**See**:: [[emotions]], [[human behavior]], [[inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

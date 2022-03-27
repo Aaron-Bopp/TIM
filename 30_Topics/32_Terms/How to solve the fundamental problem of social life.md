@@ -4,13 +4,13 @@ edited:
 aliases:
   - the fundamental problem of social life
 tags: created/evergreen/2022/03/13, review, node/evergreen/discussion
-sr-due: 2022-03-27
-sr-interval: 4
+sr-due: 2022-04-07
+sr-interval: 11
 sr-ease: 221
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[How to solve the fundamental problem of social life]]</s>
+#### [[How to solve the fundamental problem of social life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > ![[books_Darwin's Cathedral#^288457438]]
 
@@ -35,7 +35,7 @@ and finally that
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolution]], [[group selection]], [[natural selection]], 

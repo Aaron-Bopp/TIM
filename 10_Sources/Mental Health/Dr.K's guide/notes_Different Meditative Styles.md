@@ -49,7 +49,7 @@ sr-ease: 250
 	- [[Swadhisthana Chakra]] if you struggle to connect with people
 	- [[Manipura Chakra]] Agni (digestive fire) how we intake and process our [[perception]]s
 	- [[Anahata Chakra]] - if you are [[struggle|struggling]] to have [[compassion]] and [[empathy]]
-	- [[Vishuddha Chakra]] - if you want to affect change on the world ([[inter-personal communication]], [[human interaction]])
+	- [[Vishuddha Chakra]] - if you want to affect change on the world ([[inter-personal communication]], [[human behavior]])
 	- [[Ajna Chakra]] - third eye, if you are struggling with intuition and understanding people
 	- [[Sahasrara Chakra]] - this is the final step that you achieve when you achieve [[enlightenment]]
 - There isn't a ton of evidence for [[Chakra]], but these practices may strengthen certain parts of our behavior 

@@ -20,7 +20,7 @@ The genes that are stored on the chromosomes are physically inseparable from eac
 > [[Lynn Margulis]] invented the first unified theory of eukaryogenesis (the way in which [[eukaryotic]] cells formed from [[prokaryotic]] cells) 
 > for more:: [Lynn Margulis and the endosymbiont hypothesis: 50 years later | Molecular Biology of the Cell](https://www.molbiolcell.org/doi/10.1091/mbc.e16-07-0509)
 
-In [[human interaction]], this is seen as [[Moral social control promotes pro-social behavior in groups]] in [[Religion promotes high social control]].
+In [[human behavior]], this is seen as [[Moral social control promotes pro-social behavior in groups]] in [[Religion promotes high social control]].
 
 ### <hr class="footnote"/>
 

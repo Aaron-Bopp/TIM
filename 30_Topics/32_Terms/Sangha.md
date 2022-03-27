@@ -12,7 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 It refers to your [[community]], or orbit, consisting of the people who you spend the most time with.
 ^[[[notes_How to achieve#Surround yourself with a community that will motivate you]]]
 
-**See**:: [[meditation]], [[human interaction]], [[inter-personal communication]]
+**See**:: [[meditation]], [[human behavior]], [[inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 #### <s class="topic-title">[[Frontal Lobe]]</s>
 
-The most anterior (front) part of the [[brain]]. It extends from the area behind the forehead back to the precentral gyrus. As a whole, the frontal lobe is responsible for higher cognitive functions such as [[memory]], [[emotions]], impulse control, [[problem solving]], [[human interaction|social interaction]], and motor function.
+The most anterior (front) part of the [[brain]]. It extends from the area behind the forehead back to the precentral gyrus. As a whole, the frontal lobe is responsible for higher cognitive functions such as [[memory]], [[emotions]], impulse control, [[problem solving]], [[human behavior|social interaction]], and motor function.
 
 Part of your brain responsible for [[maturity]], [[impulse]] control, & [[executive function]]
 
