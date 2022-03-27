@@ -17,6 +17,6 @@ sr-ease: 290
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Transgender people]], [[self-love]], [[Queer]]
+**Topics**:: [[Transgender people]], [[self-love]], [[Queer people]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

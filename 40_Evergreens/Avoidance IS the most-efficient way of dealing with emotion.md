@@ -21,7 +21,7 @@ it is going to deal with those emotions as quickly as possible, but this does no
 This is because avoidance can be almost immediate, and is an instinctual response.
 After [[fear]], avoidance is the first response that we learn as children, and if better [[coping-mechanisms]] are not learned can become our only [[coping-mechanisms]] later in life.
 ^[[[Our brain actively inhibits us from processing repressed emotions]]]
-Avoidance can be enforced by the [[subconscious]] without our [[conscious]] [[knowledge]] or [[consent]],
+Avoidance can be enforced by the [[subconscious]] without our [[consciousness|conscious]] [[knowledge]] or [[consent]],
 and if your [[subconscious]] has learned how to completely tune out [[emotions]], it will start to use it at will.
 This can lead to a person feeling disconnected and out of control of their emotions, unable to feel certain emotions, or entirely [[dissociation|disassociated]].
 

@@ -19,12 +19,12 @@ sr-ease: 300
 
 This is an important part about accepting yourself as [[Transgender people]] and because [[Gender is a social construct]] and [[Biology supports the validity of trans people]].
 
-This beautiful because of it allows for such a [[diverse]] [[queer]] [[community]].
+This beautiful because of it allows for such a [[diverse]] [[Queer community]].
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[gender]], [[Queer]], [[Transgender people]]
+**Topics**:: [[gender]], [[Queer people]], [[Transgender people]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

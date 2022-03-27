@@ -16,12 +16,12 @@ Functionalism is a [[paradigm]] that looks for the relations and uses of parts i
 
 Functionalism is mainly useful in systems where there is some sort of selection at work that creates an environment where more useful parts are prioritized over less useful parts.
 
-[[David Sloan Wilson]] stressed this in [[reference_Darwin's Cathedral]], where he contrasted the general view of functionalism in the [[social sciences]] with it's view in [[Evolutionary Biology]].
+[[David Sloan Wilson]] stressed this in [[Darwin's Cathedral by David Sloan Wilson]], where he contrasted the general view of functionalism in the [[social sciences]] with it's view in [[Evolutionary Biology]].
 [[Natural selection]] is a strong biological force, that makes functionalism an applicable paradigm for understanding [[adaptation]]. Understanding how selection promotes traits can help us predict the function of traits in animals.
 ^[[[Proximate explanation never substitutes for ultimate explanation in Evolution]]]
 The problem comes when we try to apply this to [[social behavior]] and especially [[human behavior]], as the impacts of [[natural selection]] are much less clear.
 Wilson solves this through a revised understanding of [[group selection]], and stresses how powerful a force this is in [[Cultural Evolution]]. 
-^[[[Cultural evolution is not confined to the slow process of genetic evolution]]]
+^[[[Cultural evolution is not confined to the slow process of genetic evolution]]] ^7e0ca9
 
 This view of functionalism may better be understood in the [[social sciences]] by applying a philosophical understanding of [[Holism]].
 

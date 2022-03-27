@@ -6,7 +6,7 @@ aliases:
 tags: created/source/2022/02/27, node/source/notes
 ---
 
-#### [[reference_Darwin's Cathedral]]
+#### [[Darwin's Cathedral by David Sloan Wilson]]
 
 **Creator**:: [[David Sloan Wilson]]
  
@@ -79,7 +79,7 @@ Wilson first reviews his reasons for approaching the subject of [[religion]], po
 
 He first covers the [[rational choice theory]] of [[religion]].
 A theory that states [[Religion is a rational bid for supernatural reward]].
-Wilson quickly points on that this view is non-adaptive due to it not delivering on this bid and that is does not solve [[How to solve the fundamental problem of social life|the fundamental problem of social life]].
+Wilson quickly points on that this view is non-adaptive due to it not delivering on this bid and that it does not solve [[How to solve the fundamental problem of social life|the fundamental problem of social life]].
 
 Wilson then dives into the history of [[functionalism]], how [[Emile Durkheim]] studied religion through it, and how and why it has been left behind by rational choice theorists.
 The functionalist view of [[What is the origin of religion]] pushes back against previous spiritual explanations of [[religious belief]] such as [[Animism]] and [[Naturism]] in favor of [[Religion creates social order through group membership and ritual]].
@@ -101,16 +101,22 @@ Opposite of [[Holism]] is [[methodological individualism]], a view in the social
 
 Wilson connects the dissonance between individualism and holism back to [[Proximate explanation never substitutes for ultimate explanation in Evolution]].
 
-> ![[books_Darwin's Cathedral#^297089495]]
+[[Group selection]] allows for us to translate the concepts of [[Holism]] and [[functionalism]] onto [[human behavior]] through the lense of [[Cultural Evolution]].
 
-
-> ![[books_Darwin's Cathedral#^298292999]]
-
-> ![[books_Darwin's Cathedral#^297089497]]
-
-[[Group selection]] allows for us to translate the concepts of [[Holism]] onto [[human behavior]] through the lense of [[Cultural Evolution]].
+![[functionalism#^7e0ca9]]
 
 This is no simple task, as testing adaptation hypothesis is more difficult in [[Psychology]] and [[anthropology]] than [[biology]]. But just like how biologists must compare and contrast proximate explanations and ultimate explanations for [[natural selection]], we must do the same for [[group selection]].
 
-[[Complex interaction can arise from simple properties]]
-[[Natural selection is a designing agent]]
+Now that basic understanding of functionalism is out of the way,
+Wilson starts to dig deep into how natural selection has been missed as part of [[human behavior]].
+
+His argument boils down to:
+- [[Natural selection is a designing agent]]
+- [[Complex interaction can arise from simple properties]]
+- [[Intentionality is not separate from functionality]]
+
+[[Human behavior is selective]]
+with the caveat that is hard that this selection is not always conscious or that the selector may not be aware of all conditions
+[[Why is it hard to understand how our environment effects us]]
+
+This leads him back to [[rational choice theory]], and how it's statement that [[religion]] is a byproduct is weak.

@@ -32,7 +32,7 @@ This lines up with his belief that [[Moral social control promotes pro-social be
 
 #### References 
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^291449824]]
 

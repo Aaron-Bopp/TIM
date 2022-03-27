@@ -15,7 +15,7 @@ tags: created/topic/2021/12/29, node/topic/term
 - [[Pranamaya Kosha]] - [[energy]]
 - [[Manomaya Kosha]] - [[emotions]]
 - [[Vijnanamaya Kosha]] - intellect
-- [[Anandamaya Kosha]] - [[conscious|consciousness]]
+- [[Anandamaya Kosha]] - [[consciousness]]
 
 **See**:: [[Yoga]], [[Vedic Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

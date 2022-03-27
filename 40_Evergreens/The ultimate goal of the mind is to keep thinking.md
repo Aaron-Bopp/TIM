@@ -28,5 +28,5 @@ keep in mind:: [[Biological processes can only give context to behavior not pred
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human nature]], [[conscious]], [[mind]]
+**Topics**:: [[human nature]], [[consciousness]], [[mind]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

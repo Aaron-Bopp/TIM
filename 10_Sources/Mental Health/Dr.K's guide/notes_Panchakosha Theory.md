@@ -56,7 +56,7 @@ prev::[[notes_the Nature of Self]]
 			- reading
 			- [[philosophy]]
 		- [[Anandamaya Kosha]] - soul, [[divinity|divine]], humanness that is apart from the other parts
-			- [[conscious|consciousness]]? [[self]]?
+			- [[consciousness]]? [[self]]?
 			- [[purpose]]
 			- meaning
 			- [[meditation]]

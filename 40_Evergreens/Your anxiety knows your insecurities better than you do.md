@@ -37,7 +37,7 @@ If your [[identity]] is severely repressed, you will be interacting with the wor
 This can be a massive source of [[anxiety]] because you do not understand the sources of the feelings well enough to predict when and understand why they come up.
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]],
 and in this case your anxiety will push you to go over every possibility, 
-because your [[conscious]] [[mind]] doesn't know which things to prioritize.
+because your [[consciousness|conscious]] [[mind]] doesn't know which things to prioritize.
 
 %% #TO/TEND/MULCH 
 This naturally leads to a variety of problems,

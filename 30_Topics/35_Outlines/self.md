@@ -16,7 +16,7 @@ Human's own conception of their [[self]] is dependent on many things including t
 
 > [!wikipedia] [self](https://en.wikipedia.org/wiki/Self)
 > 
-> The self is an individual person as the object of its own reflective [[conscious|consciousness]]. Since the self is a reference by a subject to the same subject, this reference is necessarily subjective. The sense of having a self—or selfhood—should, however, not be confused with subjectivity itself. Ostensibly, this sense is directed outward from the subject to refer inward, back to its "self" (or itself). 
+> The self is an individual person as the object of its own reflective [[consciousness]]. Since the self is a reference by a subject to the same subject, this reference is necessarily subjective. The sense of having a self—or selfhood—should, however, not be confused with subjectivity itself. Ostensibly, this sense is directed outward from the subject to refer inward, back to its "self" (or itself). 
 > 
 > Although [[subjective]] experience is central to selfhood, the privacy of this [[experience]] is only one of many problems in the [[Philosophy]] of self and scientific study of consciousness.
 >

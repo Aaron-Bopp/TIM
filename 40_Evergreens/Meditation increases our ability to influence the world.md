@@ -32,7 +32,7 @@ and more easily recognize what they need to do to succeed.
 
 [[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger conscious]] it helps us to [[manifestation|manifest]] our will upon the world.
 
-[[conscious|Consciousness]] is a skill and [[enlightenment]] is the goal
+[[consciousness]] is a skill and [[enlightenment]] is the goal
 
 This is [[Tantra]], [[manifestation]] of our will into the world.
 

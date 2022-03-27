@@ -2,6 +2,9 @@
 created: 2021-06-24
 edited: 
 tags: created/topic/2021/06/24, node/topic/term
+sr-due: 2022-03-29
+sr-interval: 2
+sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -25,5 +28,3 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]:[mindfullness](https://en.wikipedia.org/wiki/Mindfulness%20(disambiguation))
- 

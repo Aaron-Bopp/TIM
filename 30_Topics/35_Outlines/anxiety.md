@@ -17,7 +17,7 @@ Your body's natural response to stress. It's a feeling of fear or apprehension a
  ![[Cognitive Anxiety]]
  ![[Physiologic Anxiety]]
  
-**See**:: [[mental health]], [[mental illness]], [[self]], [[mindfulness]], [[conscious]]
+**See**:: [[mental health]], [[mental illness]], [[self]], [[mindfulness]], [[consciousness|conscious]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

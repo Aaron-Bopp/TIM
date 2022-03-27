@@ -32,6 +32,6 @@ In [[human behavior]], this is seen as [[Moral social control promotes pro-socia
 
 #### References
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^288936970]]

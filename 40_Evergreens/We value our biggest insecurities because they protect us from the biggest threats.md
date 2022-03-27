@@ -23,7 +23,7 @@ This is why things like bullying, our parents invalidation, and especially [[chi
 which includes setting up the [[ego]] as a [[defense-mechanisms|defense-mechanism]].
 ^[[[Our ego is our subconscious defense of our self]]]
 Over time, we start to value that protection because we have so much stored up [[fear]] for those situations. 
-This valuing is often not [[conscious]], or the threat cannot be named easily, both because of the same process of [[rationalizations|rationalization]]:
+This valuing is often not [[consciousness|conscious]], or the threat cannot be named easily, both because of the same process of [[rationalizations|rationalization]]:
 [[Rationalizations are defense-mechanisms against strong emotions]]
 
 [[An unfulfilled need for validation results in a fear of rejection]], and when we decide that that fear is protecting us, we refuse to accept further [[validation]]: [[A secure identity is the best defense against social anxiety]]

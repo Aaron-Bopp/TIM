@@ -16,7 +16,7 @@ sr-ease: 170
 Ancient [[Yoga|Yogic]] tradition offers an alternative to traditional [[Western philosophy|western]] creation myths such as [[Christianity]]'s. Instead of an all-powerful, all-knowing 
 ^[and frankly problematic [[The biblical Christian God is evil and does not deserve to be worshipped]]]
 god,
-the [[universe]] was formed from an [[infinite]] sea of [[conscious|consciousness]] called [[Brahman]].
+the [[universe]] was formed from an [[infinite]] sea of [[consciousness]] called [[Brahman]].
 
 This sea coalesced to become [[energy]] which coalesced to become [[matter]].
 ^[[[notes_Metaphysics of Meditation]]]
@@ -28,10 +28,10 @@ and is surprisingly similar to the modern theory of [[the Big Bang]].
 > <cite>[[Renee Descartes]]</cite>
 
 %% 
-#TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[conscious|consciousness]] is the only thing we can guarantee. Yet our [[conscious]] is limited by our [[mind-body complex]].
+#TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[consciousness]] is the only thing we can guarantee. Yet our [[consciousness|conscious]] is limited by our [[mind-body complex]].
 %%
 [[Consciousness is our capacity to introspect]],
-as you become less trapped in your mind, you become more [[conscious]]:
+as you become less trapped in your mind, you become more [[consciousness|conscious]]:
 [[Meditation is a practice to develop a stronger conscious]]
 
 ##### Counter:: Time is the fundamental unit of existence
@@ -44,5 +44,5 @@ For those who focus on increasing their [[karma]], they are focused on the work,
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[conscious]], [[self]], [[enlightenment]], [[human experience]], [[transhumanism]]
+**Topics**:: [[consciousness]], [[self]], [[enlightenment]], [[human experience]], [[transhumanism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

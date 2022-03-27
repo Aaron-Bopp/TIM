@@ -37,7 +37,7 @@ sr-ease: 250
 	- When we study the lightbulb going off is us discovering that knowledge in our [[mind]] 
 		- is this just connection of neurons? [[Nodes in the second brain are an abstraction of our first brain]]
 	- [[How to understand what you read]]
-		-  we need to read and study at a time when our [[conscious]] is calm
+		-  we need to read and study at a time when our [[consciousness|conscious]] is calm
 	- [[Evergreen notes organize knowledge so that it can grow]]
 	- [[What is the difference between creation and recreation]]
 	- [[We learn by transforming information into understanding]]
@@ -58,4 +58,4 @@ sr-ease: 250
 	- [[Kapha]] slower to start but once they get into they can go for a very long time
 	- [[Pitta]] can study for long period but needs break at the end of the day
 	- [[Vata]] brief periods with breaks
-- [[knowledge]] is called from our [[unconscious]] to our [[conscious]] [[mind]]
+- [[knowledge]] is called from our [[unconscious]] to our [[consciousness|conscious]] [[mind]]

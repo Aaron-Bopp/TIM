@@ -35,7 +35,7 @@ but [[Right kinds of thoughts lead to right kinds of actions]].
 	1. [[asanas]] [[Yoga]] postures
 	4. [[Pranayama]] breath practices
 	5. [[Pratyahara]] restrain impulses
-- Goals for improving your [[conscious|consciousness]]  
+- Goals for improving your [[consciousness]]  
 	1. [[Dharana]] focusing
 	7. [[Dhyana]] state of [[meditation]]
 	8. [[Samadhi]] state of temporary [[enlightenment]]

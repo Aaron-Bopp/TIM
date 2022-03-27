@@ -11,7 +11,7 @@ sr-ease: 205
 #### <s class="topic-title">[[human experience]]</s>
 
 Experiences 
-consisting of: [[conscious|Consciousness]], [[existence]], [[perception]], and [[learning]]
+consisting of: [[consciousness]], [[existence]], [[perception]], and [[learning]]
 in humans
 
 The idea of what living is like.
@@ -34,7 +34,7 @@ The source of the wondering that leads to the pondering of [[The three main ques
 includes:: [[human survival]], [[human advancement]]
 - How do we know we exist?
 	- [[Consciousness is our capacity to introspect]]
-	- What is the origin of [[conscious|consciousness]]
+	- What is the origin of [[consciousness]]
 		- [[Humans are a product of evolution]]
 			- [[Wonder motivates us to interact with the world around us]]
 			- [[Humans are addicted to believing]]

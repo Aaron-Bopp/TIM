@@ -19,7 +19,7 @@ sr-ease: 230
 
 **Covers**:: 
 
-**Source**:: [[reference_Darwin's Cathedral]]
+**Source**:: [[Darwin's Cathedral by David Sloan Wilson]]
 
 **Creator**:: [[David Sloan Wilson]]
 

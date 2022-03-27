@@ -24,7 +24,7 @@ sr-ease: 236
 
 #### References
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^295428840]]
 

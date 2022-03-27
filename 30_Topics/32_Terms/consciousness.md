@@ -3,7 +3,7 @@ created: 2021-07-05
 edited: 
 tags: created/topic/2021/07/05, node/topic/term
 aliases:
-- consciousness
+- conscious
 - consciously
 sr-due: 2022-04-01
 sr-interval: 5
@@ -11,7 +11,7 @@ sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[conscious]]</s> 
+#### <s class="topic-title">[[consciousness]]</s> 
 
 Consciousness is:
 - the sense that you are living

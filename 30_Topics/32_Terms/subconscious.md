@@ -9,9 +9,9 @@ aliases:
 
 #### <s class="topic-title">[[subconscious]]</s>
 
-The **subconscious** is that part of [[conscious|consciousness]] that is not currently in focal awareness
+The **subconscious** is that part of [[consciousness]] that is not currently in focal awareness
 
-**See**:: [[conscious]], [[ego]]
+**See**:: [[consciousness|conscious]], [[ego]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

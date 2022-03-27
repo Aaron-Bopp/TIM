@@ -35,3 +35,9 @@ part of:: [[Greater cooperation and communication has lead to the success of hum
 
 **Topics**:: [[human behavior]], [[social order]], [[Cultural Evolution]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
+
+> ![[books_Darwin's Cathedral#^298292986]]

@@ -29,6 +29,6 @@ It does not matter if the thing you are believing in is true; as long as it moti
 
 #### References
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#294094918q]]

@@ -11,11 +11,9 @@ sr-ease: 249
 
 #### [[Natural selection is a designing agent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-
 > ![[books_Darwin's Cathedral#^297089499]]
 
-> ![[books_Darwin's Cathedral#^297089502]]
-
+[[Natural selection can be seen within generations]]
 
 ### <hr class="footnote"/>
 
@@ -24,3 +22,9 @@ sr-ease: 249
 
 **Topics**:: [[natural selection]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
+
+> ![[books_Darwin's Cathedral#^298293000]]

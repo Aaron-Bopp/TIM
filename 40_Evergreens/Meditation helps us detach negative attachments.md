@@ -33,7 +33,7 @@ This isn't an easy process, as the [[ego]] ([[Ahamkara]]) will be trying it's ha
 
 It does this by drawing up stored [[emotions]] ([[Samskara]])
 from the [[unconscious]] [[mind]] ([[Citta]])
-that prevent our [[conscious]] mind ([[Buddhi]]) 
+that prevent our [[consciousness|conscious]] mind ([[Buddhi]]) 
 from [[understanding]] what is going on.
 ^[[[notes_Vedic Psychology]]]
 

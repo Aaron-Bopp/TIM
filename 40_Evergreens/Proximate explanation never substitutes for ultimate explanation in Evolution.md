@@ -37,7 +37,7 @@ example of:: [[molecular genetics]] and [[Experts are often far too confident in
 
 #### References
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^297089496]]
 

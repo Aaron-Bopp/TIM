@@ -44,7 +44,7 @@ An example of this is the ritual around electing a King in [[Gabon]] (1868)
 
 #### References
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^295490287]]
 

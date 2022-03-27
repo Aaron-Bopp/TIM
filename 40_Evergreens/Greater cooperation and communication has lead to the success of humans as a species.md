@@ -53,5 +53,5 @@ like [[Humans love to group eachother]].
 
 > ![[books_Sapiens#294248541q]]
 
-![[reference_Darwin's Cathedral#citation]]
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 > ![[books_Darwin's Cathedral#291449823q]]

@@ -26,7 +26,7 @@ and if your anxiety is being consistently triggered by something that is worth l
 [[Triggers are stored interactions that lead to strong emotional responses]],
 and
 [[Your anxiety knows your insecurities better than you do]].
-That [[anxiety]] might be aware of something that [[conscious]] you is not.
+That [[anxiety]] might be aware of something that [[consciousness|conscious]] you is not.
 
 At the end of the day, the same [[feedback loop]] that fuels [[anxiety]] can be used to fuel [[confidence]]:
 [[Confidence is a feedback loop]]

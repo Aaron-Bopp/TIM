@@ -24,7 +24,7 @@ What is [[Humans love to group eachother|humans love for grouping eachother]] ot
 
 What is [[The brain is powerful enough to create supernatural experiences]] but a function of [[Belief can motivate adaptation]]?
 
-We are more complex than any other animal. We have developed a [[conscious|consciousness]] that is the essence of what makes us human, but our inexplicable instincts are still at play,
+We are more complex than any other animal. We have developed a [[consciousness]] that is the essence of what makes us human, but our inexplicable instincts are still at play,
 leading to:: [[Human's will find explanations for inexplainable things]]
 
 part of:: [[Humans are a product of evolution]]

@@ -22,7 +22,7 @@ sr-ease: 250
 - [[Brahman]]
 
 ## Notes
-- [[Yogi]]s believed that everything came from a sea of formless [[conscious|consciousness]] called [[Brahman]]
+- [[Yogi]]s believed that everything came from a sea of formless [[consciousness]] called [[Brahman]]
 	- [[Consciousness is the fundamental unit of existence]]
 	- when [[Brahman]] coalesces to become [[energy]] and energy coalesces to become [[matter]]
 	- [[Karma is based in the law of cause and effect]] through the conservation of matter

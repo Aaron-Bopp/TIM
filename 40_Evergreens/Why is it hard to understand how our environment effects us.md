@@ -44,3 +44,9 @@ I think that in modern times we have for the most part realized that we live in 
 ![[reference_Sapiens#citation]]
 
 > ![[books_Sapiens#^297681749]]
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
+
+> ![[books_Darwin's Cathedral#^298292985]]
+
+> ![[books_Darwin's Cathedral#^298292987]]

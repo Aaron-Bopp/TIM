@@ -11,15 +11,15 @@ sr-ease: 230
 
 #### [[Consciousness is our capacity to introspect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Many people think that [[conscious|consciousness]] is intrinsic to [[humanity]],
+Many people think that [[consciousness]] is intrinsic to [[humanity]],
 but while humans are the only ones to achieve it,
-[[conscious|consciousness]] is variable within our species,
+[[consciousness]] is variable within our species,
 just like our capacity to introspect.
 
-The [[Yogi|Yogis]] observed that we can only [[perception|perceive]] things that are separate from us, so because we can perceive our own thought, our [[conscious|consciousness]] must be separate from the [[mind]].
+The [[Yogi|Yogis]] observed that we can only [[perception|perceive]] things that are separate from us, so because we can perceive our own thought, our [[consciousness]] must be separate from the [[mind]].
 ^[[[notes_The Nature of Mind]]]
-This would mean that if something is impairing our ability to observe our own thoughts we are less [[conscious]], 
-and if we are able to more easily observe our thoughts we are more [[conscious]].
+This would mean that if something is impairing our ability to observe our own thoughts we are less [[consciousness|conscious]], 
+and if we are able to more easily observe our thoughts we are more [[consciousness|conscious]].
 
 This is no new idea, and is the basis of much [[eastern philosophy]].
 ^[

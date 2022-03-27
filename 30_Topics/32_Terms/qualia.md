@@ -12,7 +12,7 @@ tags: created/topic/2022/03/25, node/topic/term
 > [!wikipedia] [qualia](https://en.wikipedia.org/wiki/Qualia)
 > 
 > In:: [[philosophy]] of [[mind]],
-> qualia are defined as individual instances of [[subjective]], [[conscious]] experience. The term qualia derives from the Latin meaning "of what sort" or "of what kind" in a specific instance, such as "what it is like to taste a specific apple — this particular apple now".
+> qualia are defined as individual instances of [[subjective]], [[consciousness|conscious]] experience. The term qualia derives from the Latin meaning "of what sort" or "of what kind" in a specific instance, such as "what it is like to taste a specific apple — this particular apple now".
 > Examples of qualia include the perceived sensation of pain of a headache, the taste of wine, as well as the redness of an evening sky.
 > 
 > As qualitative characters of sensation, qualia stand in contrast to propositional attitudes, where the focus is on beliefs about experience rather than what it is directly like to be experiencing.

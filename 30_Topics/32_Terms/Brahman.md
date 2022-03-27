@@ -9,7 +9,7 @@ tags: created/topic/2021/12/29, node/topic/term
 
 #### <s class="topic-title">[[Brahman]]</s> 
 
-The sea of formless [[conscious|consciousness]], also known as cosmic consciousness, as described in the [[Yoga|Yogic]] system.
+The sea of formless [[consciousness]], also known as cosmic consciousness, as described in the [[Yoga|Yogic]] system.
 ^[[[notes_Metaphysics of Meditation]]]
 
 **See**:: [[human experience]]

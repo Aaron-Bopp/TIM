@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/20, node/topic/term
+sr-due: 2022-03-29
+sr-interval: 2
+sr-ease: 241
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -11,7 +14,7 @@ tags: created/topic/2022/03/20, node/topic/term
 
 > [!wikipedia] [ethics](https://en.wikipedia.org/wiki/Ethics)
 > 
-> Ethics or moral [[philosophy]] is a branch of philosophy that "involves systematizing, defending, and recommending concepts of right and wrong behavior". The field of ethics, along with aesthetics, concerns matters of value; these fields comprise the branch of philosophy called axiology.
+> Ethics or moral [[philosophy]] is a branch of philosophy that "involves systematizing, defending, and recommending concepts of right and wrong [[behavior]]". The field of ethics, along with aesthetics, concerns matters of value; these fields comprise the branch of philosophy called axiology.
 > 
 > Ethics seeks to resolve questions of human [[morality]] by defining concepts such as good and evil, right and wrong, virtue and vice, [[justice]] and crime. As a field of intellectual inquiry, moral philosophy is related to the fields of moral psychology, descriptive ethics, and value theory.
 > 
@@ -23,15 +26,21 @@ tags: created/topic/2022/03/20, node/topic/term
 >
 
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

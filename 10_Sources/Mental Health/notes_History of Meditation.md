@@ -28,7 +28,7 @@ sr-ease: 250
 	- [[Tantra]] for anything to manifest we need direction and fuel
 		- [[mantra]], [[Yantra]], [[Yajna]] are both, and form the basis of [[Yoga]]
 		- ![[Pasted image 20211229224350.png]]
-- [[Yoga]] we are connected to an [[infinite]] [[conscious|consciousness]] called [[Brahman]]
+- [[Yoga]] we are connected to an [[infinite]] [[consciousness]] called [[Brahman]]
 	- ways to connect with the [[infinite]]
 		- [[Bhakti Yoga]] religious path
 		- [[Karma Yoga]] purification through good deeds
@@ -41,7 +41,7 @@ sr-ease: 250
 		- purely through perfecting mind and body you can achieve [[enlightenment]]
 	- [[Kundalini Yoga]]
 		- all about balancing our 7 [[Chakra|chakras]]
-	- [[Kriya Yoga]] goal is to purify your [[conscious|consciousness]]
+	- [[Kriya Yoga]] goal is to purify your [[consciousness]]
 - [[Buddhism]] many of [[Buddha]]'s teachers practiced [[Raja Yoga]]
 	- denominations of [[Buddhism]] 
 		- [[Theravada Buddhism]] more traditional from [[Buddha]]'s literal words

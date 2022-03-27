@@ -18,7 +18,7 @@ When Lily talks about the distraught she faced while in the closet,
 I think that is an example of 
 [[Self-hatred is born out of dissonance between self-image and self-perception]]. 
 Part of the reason that coming out is such a big deal is because we live in such a strongly gendered [[society]]. 
-This makes [[coming out]] more than it needs to be because there is a strong likelihood of backlash, which leads to [[Queer]] people repressing themselves,
+This makes [[coming out]] more than it needs to be because there is a strong likelihood of backlash, which leads to [[Queer people]] repressing themselves,
 ^[[[Self-repression is the most natural response for trans people in strongly gendered environments]].]
 which only makes being in the closet worse.
 
@@ -40,5 +40,5 @@ you don't need to be able to see yourself in everything, but everybody should be
 **Status**:: #EVER/GREEN 
 *edited January 19, 2022*
 
-**Topics**:: [[coming out]], [[Queer]], [[gender]], [[self-actualization]]
+**Topics**:: [[coming out]], [[Queer people]], [[gender]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -27,7 +27,7 @@ In the end, [[A secure identity is the best defense against social anxiety]].
 #TO/TEND/MULCH 
 Those who think they have a weak [[self]] have either realized that they do not have a sense of [[self]] outside of how other's treat them, or that they do not reveal their inner sense of [[self]] to other people.
 
-However, [[self]] is more than just an objective viewing of our actions. [[self]] is also impacted by the physical reactions that our bodies go through. If we feel a certain way during an interaction that will impact our [[self]], either through a [[conscious]] viewing and reflection on that feeling, or a [[subconscious]] reaction to either avoid or pursue that feeling again. [[Mental health is a reaction to one's environment]]%%
+However, [[self]] is more than just an objective viewing of our actions. [[self]] is also impacted by the physical reactions that our bodies go through. If we feel a certain way during an interaction that will impact our [[self]], either through a [[consciousness|conscious]] viewing and reflection on that feeling, or a [[subconscious]] reaction to either avoid or pursue that feeling again. [[Mental health is a reaction to one's environment]]%%
 
 #TO/TEND/PRUNE One of these notes
 This concept relates the different concepts of identity and presentation: [[Presentation is the realization of our self-perception and identity is the realization of our self-image]]

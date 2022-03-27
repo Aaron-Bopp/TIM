@@ -22,7 +22,7 @@ so it follows that
 
 In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understanding how these layers work together was key for how the [[Yogi|Yogis]] developed and refined [[meditation]].
 ^[[[The history of meditation is a mixture of science and spirituality]]]
-These five layers of the [[brain]] interact to create [[conscious|consciousness]].
+These five layers of the [[brain]] interact to create [[consciousness]].
 This allows us to process information from our [[Indriya|sensory organs]] and [[unconscious]], and to observe the intellectual [[mind]] and [[ego]].
 Because [[Mental health is a reaction to one's environment]], a practice that improves our awareness of our internal environment is going to be very impactful:
 [[Meditation helps us gain awareness through detachment]]

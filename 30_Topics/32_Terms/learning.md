@@ -15,7 +15,7 @@ tags: created/topic/2022/01/02, node/topic/outline
 > 
 > Human learning starts at birth (it might even start before in terms of an embryo's need for both interaction with, and freedom within its environment within the womb.) and continues until death as a consequence of ongoing interactions between people and their environment. 
 > 
-> For example, learning may occur as a result of habituation, or classical conditioning, operant conditioning or as a result of more complex activities such as play, seen only in relatively intelligent animals. Learning may occur consciously or without [[conscious]] awareness. Learning that an aversive event can't be avoided or escaped may result in a condition called learned helplessness. 
+> For example, learning may occur as a result of habituation, or classical conditioning, operant conditioning or as a result of more complex activities such as play, seen only in relatively intelligent animals. Learning may occur consciously or without [[consciousness|conscious]] awareness. Learning that an aversive event can't be avoided or escaped may result in a condition called learned helplessness. 
 > 
 > There is evidence for human behavioral learning prenatally, in which habituation has been observed as early as 32 weeks into gestation, indicating that the [[central nervous system]] is sufficiently developed and primed for learning and memory to occur very early on in development. 
 > 

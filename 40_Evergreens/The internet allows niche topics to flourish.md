@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[The internet allows niche topics to flourish]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-The [[internet]] has allowed for people with niche interests to connect like never before. It has also allowed for nerd culture to be brought into the mainstream, people to engage more easily with the [[Queer]] [[community]], and for social outcasts to find a sounding board for their ideas. [[Communities are knowledge graphs]], and the communities with the loudest proponents often have the most [[influence]] in online spaces.
+The [[internet]] has allowed for people with niche interests to connect like never before. It has also allowed for nerd culture to be brought into the mainstream, people to engage more easily with the [[Queer community]], and for social outcasts to find a sounding board for their ideas. [[Communities are knowledge graphs]], and the communities with the loudest proponents often have the most [[influence]] in online spaces.
 %%
 #TO/EXPLORE/RESEARCH connection to [[alt-right pipeline]] [[People are radicalized when they are convinced that change is out of their control]]
 %%

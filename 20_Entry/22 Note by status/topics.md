@@ -99,7 +99,7 @@
 | [[Neuroscience]] | 7 |
 | [[conceptual notes]] | 3 |
 | [[evergreen notes]] | 9 |
-| [[conscious]] | 2 |
+| [[consciousness|conscious]] | 2 |
 | [[enlightenment]] | 1 |
 | [[humanity]] | 3 |
 | [[human evolution#The many keys to human evolution]] | 1 |
