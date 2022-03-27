@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/26, review, node/evergreen/claim
+sr-due: 2022-03-27
+sr-interval: 1
+sr-ease: 211
 ---
 
 #### [[Religion creates social order through group membership and ritual]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,7 +22,7 @@ and spurn ones related with the profane
 ^[**profane** - corrupt morally or by intemperance or sensuality]
 and would in this way create the group cohesiveness needed for [[social order]].
 
-> ![[^^durkheim felt that the symbolic badge of group membership
+> ![[books_Darwin's Cathedral#^303348912]]
 
 
 > ![[books_Darwin's Cathedral#^295490296]]
@@ -36,7 +39,7 @@ An example of this is the ritual around electing a King in [[Gabon]] (1868)
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[religion]], [[social behavior]], [[social order]], [[ritual]], [[social control]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

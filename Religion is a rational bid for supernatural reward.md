@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/26, review, node/evergreen/claim
+sr-due: 2022-03-28
+sr-interval: 2
+sr-ease: 225
 ---
 
 #### [[Religion is a rational bid for supernatural reward]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -15,20 +18,19 @@ part of:: [[rational choice theory]]
 
 [[David Sloan Wilson]] points out in [[books_Darwin's Cathedral|Darwin's Cathedral]] that this view of religion is not adaptive.
 
-
 > ![[books_Darwin's Cathedral#^295428836]]
-
 
 > ![[books_Darwin's Cathedral#^295428837]]
 
 The counterpoint to this is that the bid is not *actually* for a material reward 
 ^[Believers view it as such, but we have no way to verify if they receive this reward]
-but rather an exchange in favor of the psychological benefit of [[belief]].
+but rather an exchange in favor of the adaptational benefit of [[belief]]:
+[[Belief can motivate adaptation]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[rational choice theory]], [[belief]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

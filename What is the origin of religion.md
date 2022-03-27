@@ -3,7 +3,10 @@ created: 2022-03-26T13:12:51
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/26, review, node/evergreen/claim
+tags: created/evergreen/2022/03/26, review, node/evergreen/question
+sr-due: 2022-03-28
+sr-interval: 2
+sr-ease: 204
 ---
 
 #### [[What is the origin of religion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -35,5 +38,5 @@ answers:
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[belief]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

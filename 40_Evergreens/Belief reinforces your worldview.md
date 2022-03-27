@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/22, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 2
-sr-ease: 190
+sr-due: 2022-03-27
+sr-interval: 1
+sr-ease: 170
 ---
 
 #### [[Belief reinforces your worldview]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

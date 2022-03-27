@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/26, review, node/evergreen/question
+sr-due: 2022-03-30
+sr-interval: 4
+sr-ease: 282
 ---
 
 #### [[Did hunter-gatherers lead better lives than us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

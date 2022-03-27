@@ -2,6 +2,9 @@
 created: 2021-06-12
 edited: 
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
+sr-due: 2022-03-29
+sr-interval: 3
+sr-ease: 244
 ---
 
 #### [[Knowledge of an unjust world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

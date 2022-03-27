@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/example/fun
-sr-due: 2022-03-26
-sr-interval: 3
+sr-due: 2022-04-03
+sr-interval: 8
 sr-ease: 250
 ---
 
@@ -15,7 +15,7 @@ sr-ease: 250
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Language]], [[english]], [[etymology]]

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 2
-sr-ease: 210
+sr-due: 2022-03-27
+sr-interval: 1
+sr-ease: 190
 ---
 
 #### [[Emotions are how our brain stores thought processes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

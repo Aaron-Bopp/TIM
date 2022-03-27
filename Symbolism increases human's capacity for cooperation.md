@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/26, review, node/evergreen/claim
+sr-due: 2022-03-27
+sr-interval: 1
+sr-ease: 198
 ---
 
 #### [[Symbolism increases human's capacity for cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

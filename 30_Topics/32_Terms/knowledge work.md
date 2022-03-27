@@ -12,7 +12,6 @@ sr-ease: 198
 
 #### <s class="topic-title">[[knowledge work]]</s>
 
-
 > [!wikipedia] [knowledge work](https://en.wikipedia.org/wiki/Knowledge%20worker)
 > 
 > Knowledge workers are workers whose main [[capital]] is [[knowledge]]. Examples include programmers, physicians, pharmacists, architects, engineers, scientists, design thinkers, public accountants, lawyers, editors, and academics, whose job is to "think for a living".
@@ -21,7 +20,9 @@ sr-ease: 198
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

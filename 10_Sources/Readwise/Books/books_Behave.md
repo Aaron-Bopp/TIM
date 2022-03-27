@@ -492,3 +492,15 @@ the amygdala, specifically the BLA, gets projections from all the sensory system
 
 ^303014370
 
+# New highlights added March 26, 2022 at 10:49 PM
+##### ^303474533
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=760  
+
+###### ^303474533q
+
+some sensory information entering the brain takes a shortcut, bypassing the cortex and going directly to the amygdala. ... the shortcut projections form stronger, more excitable synapses in the BLA than do the ones from the sensory cortex; emotional arousal enhances fear conditioning through this pathway. 
+
+^303474533
+

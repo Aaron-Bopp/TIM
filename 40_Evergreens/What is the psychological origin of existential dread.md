@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/18, review, node/evergreen/claim
-sr-due: 2022-03-26
-sr-interval: 6
-sr-ease: 230
+sr-due: 2022-03-29
+sr-interval: 3
+sr-ease: 210
 ---
 
 #### [[What is the psychological origin of existential dread]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
