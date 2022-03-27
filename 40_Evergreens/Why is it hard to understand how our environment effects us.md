@@ -9,14 +9,17 @@ sr-interval: 4
 sr-ease: 190
 ---
 
-#### [[Why is it hard to understand how social order effects us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Why is it hard to understand how our environment effects us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Why can't we realize that we live in an [[imagined order]]?
 
 This is a question posed in [[reference_Sapiens|Sapiens by Yuval Noah Harari]], that closely 
 ties into:: [[What is the cognitive origin of our social order]]
+and plays a 
+part of:: [[Do we have free will]]
+
+Harari's answer is:
 ![[reference_Sapiens#^dd0325]]
-[[inter-subjective]]
 
 Other possible reasons:
 - We are indoctrinated

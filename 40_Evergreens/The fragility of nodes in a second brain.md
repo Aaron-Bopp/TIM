@@ -21,12 +21,11 @@ In [[My TIM]] I have created a classification structure and one of it's purposes
 
 [[Source notes]] are the most fragile because we interact with them the least. New studies come out, new books are published, the tide of public opinion turns and suddenly your source is no longer relevant. Sources become obsolete over time, but the [[knowledge]] we glean from them grows over time, which is why we place it in [[evergreen notes]].
 
-[[topic notes|Topics]] rarely become irrelevant but can easily become clutter. Any simple idea can have large affects on the world, but that does not mean they will all have large effects in our mind specifically, that is why I subcategorize them into [[stub notes|stubs]] (there to provide the possibility of connection), [[Term notes|terms]] (there to provide easy access to their definition), and outlines (there to provide a structure). Stub's and terms can be filtered out or be included in outlines until they become important enough on to be on their own.
-%% #TO/PONDER/IDEA  divide when big from [[articles_General Principles]]%%
+[[topic notes|Topics]] rarely become irrelevant but can easily become clutter. Any simple idea can have large affects on the world, but that does not mean they will all have large effects in our mind specifically. I treat [[topic notes]] like Wikipedia pages. Meaning they should be the most stable, [[objective]] [[understanding]] of the subject I can muster. This allows for easy access to my [[knowledge]] on the subject as well as a place to define terms and organize [[evergreen notes]].
 
-[[evergreen notes|Evergreens]] are the quintessential conceptual [^2] node of the second brain. They are interlinked with each other and apply to many topics. Each one provides context and receives context from others, but can still stand on their own. Evergreens may need to be pruned, but they rarely need to be felled. These are the least fragile and the most powerful nodes, which is why they are our focus: [[Evergreen notes organize knowledge so that it can grow]]
-
-[^2]: [[Conceptual note is a better term than atomic note]]
+[[evergreen notes|Evergreens]] are the [[conceptual notes|concepts]] that our brain's latch onto.
+^[[[Nodes in the second brain are an abstraction of our first brain]]]
+Each one provides context and receives context from others, but can still stand on their own. [[Evergreen notes organize knowledge so that it can grow]] and thus are the most free form.
 
 There are more subcategorizations that provide clarification on what a node will do:
 

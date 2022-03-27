@@ -50,7 +50,7 @@ as [[Religion promotes high social control]]
 This
 answers:: [[How do we effect change in society]]
 
-works with:: [[Why is it hard to understand how social order effects us]]
+works with:: [[Why is it hard to understand how our environment effects us]]
 
 ### <hr class="footnote"/>
 

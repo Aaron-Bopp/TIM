@@ -4,22 +4,34 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/22, review, node/evergreen/claim
-sr-due: 2022-03-27
-sr-interval: 1
+sr-due: 2022-03-29
+sr-interval: 2
 sr-ease: 170
 ---
 
 #### [[Belief reinforces your worldview]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- results in:: [[Belief pulls you forward into life]]
-- results in:: [[Sadness is enlightenment and happiness is delusion]]
-- explains:: [[Jordan Peterson is smart enough that he should realize where he is wrong but he doesn't]]
+Depending on your worldview this
+results in:: [[Belief pulls you forward into life]] or [[Sadness is enlightenment and happiness is delusion]].
+We can believe that there is no hope or we can believe that there isn't.
 
-this is 
-why:: [[Being critical helps you develop understanding]] is so important
+This is 
+part of:: [[Belief can motivate adaptation]].
+If something breaks your [[worldview]] you need to adapt your understanding around it.
 
+This is 
+why:: [[Being critical helps you develop understanding]] is so important.
+If you aren't being critical of your [[worldview]] it is going to block you from fully [[understanding]] how the world works.
+Even when we feel like we have a good theory for how the world works,
+[[Experts are often far too confident in the effectiveness of their theories]].
+This
+explains:: [[Jordan Peterson is smart enough that he should realize where he is wrong but he doesn't]],
+even though [[Jordan Peterson]]'s understanding of [[Psychology]] is good, his underlying beliefs are warping his [[worldview]].
+
+We can see this in [[Christianity]] as well and it is 
 both 
-why:: [[Faith can be a useful tool for grounding yourself]] and [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
+why:: [[Faith can be a useful tool for grounding yourself]] and [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].
+[[Christianity]] inspires a strong [[belief]] and thus makes it hard for Christians to question their worldview.
 
 ### <hr class="footnote"/>
 

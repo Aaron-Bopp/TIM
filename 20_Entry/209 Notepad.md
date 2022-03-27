@@ -1,4 +1,4 @@
-
+#TO/DO/READ [Frontiers | “No Way Out Except From External Intervention”: First-Hand Accounts of Autistic Inertia | Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.631596/full)
 > [!tiktok wm-sm] Egg corns
 > 
 > ![[egg corns.mp4|left]]
