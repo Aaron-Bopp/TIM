@@ -5,6 +5,9 @@ aliases:
   - Diagnostic and Statistical Manual of Mental Disorders
   - Diagnostic and Statistical Manual of Mental Disorders (DSM)
 tags: created/topic/2021/12/29, node/topic/term
+sr-due: 2022-03-29
+sr-interval: 2
+sr-ease: 248
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -16,7 +19,9 @@ The handbook used by health care professionals in the United States and much of 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

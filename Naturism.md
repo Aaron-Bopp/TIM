@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/26, node/topic/term
-sr-due: 2022-03-26
-sr-interval: 2
+sr-due: 2022-04-02
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -34,3 +34,5 @@ More broadly thought of as [[nature worship]]
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion

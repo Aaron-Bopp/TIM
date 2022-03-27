@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/24, node/topic/term
-sr-due: 2022-03-27
-sr-interval: 3
+sr-due: 2022-04-06
+sr-interval: 10
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,6 +19,12 @@ Most of Politics involves political strategy, but not all of political strategy 
 Politics involves the actions that politicians make, and political strategy involves the reasoning they use to make those decisions.
 
 [[Policy]] also does not fully capture political strategy as much of a politicians job involves just getting to the point of making policy.
+
+
+> [!wikipedia] [political behavior](https://en.wikipedia.org/wiki/Theories%20of%20political%20behavior)
+> 
+> Theories of political behavior, as an aspect of political science, attempt to quantify and explain the influences that define a person's political views, ideology, and levels of political participation. Political behavior is the subset of human behavior that involves politics and power. Theorists who have had an influence on this field include Karl Deutsch and Theodor Adorno.
+>
 
 ##### ^dataviews
 

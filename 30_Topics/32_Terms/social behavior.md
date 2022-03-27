@@ -12,7 +12,7 @@ sr-ease: 208
 
 #### <s class="topic-title">[[social behavior]]</s>
 
-Interaction between of organisms that forms a [[inter-personal relationships]]
+Interaction between of organisms that forms a [[interpersonal relationships]]
 For [[social behavior]] specifically in humans see [[human behavior]].
 Behavior is in the moment, relationship is over time.
 

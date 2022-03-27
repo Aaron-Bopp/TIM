@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/26, node/topic/term
-sr-due: 2022-03-26
-sr-interval: 2
+sr-due: 2022-04-03
+sr-interval: 7
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,17 +13,9 @@ sr-ease: 231
 #### <s class="topic-title">[[religious belief]]</s>
 
 In:: [[functionalism]],
-religious belief is meaningfully different that other kinds of [[belief]].
+religious belief is meaningfully different that other kinds of [[belief]] as it has a less clear function for [[human survival]].
 
-
-> ![[books_Darwin's Cathedral#^295428840]]
-
-> ![[books_Darwin's Cathedral#^298292999]]
-
-
-> ![[books_Darwin's Cathedral#^295490284]]
-
-> ![[books_Darwin's Cathedral#^295490304]]
+example of:: [[Belief can motivate dysfunction]]
 
 Instead [[Emile Durkheim]] proposes that [[Religion creates social order through group membership and ritual]]
 
@@ -45,3 +37,9 @@ Instead [[Emile Durkheim]] proposes that [[Religion creates social order through
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+> ![[books_Darwin's Cathedral#^295490284]]
+
+> ![[books_Darwin's Cathedral#^295490304]]

@@ -4,8 +4,8 @@ edited:
 aliases:
   - holism in science
 tags: created/topic/2022/03/26, node/topic/term
-sr-due: 2022-03-26
-sr-interval: 2
+sr-due: 2022-04-02
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,9 +14,9 @@ sr-ease: 231
 
 > [!wikipedia] [holism in science](https://en.wikipedia.org/wiki/Holism%20in%20science)
 > 
-> Holism in science, and holistic science, is an approach to research that emphasizes the study of complex systems. Systems are approached as coherent wholes whose component parts are best understood in context and in relation to one another and to the whole. 
+> [[Holism]] in science is an approach to research that emphasizes the study of [[Complex systems theory|complex systems]]. Systems are approached as coherent wholes whose component parts are best understood in context and in relation to one another and to the whole. 
 > 
-> This practice is in contrast to a purely analytic tradition (sometimes called reductionism) which aims to gain [[understanding]] of systems by dividing them into smaller composing elements and gaining understanding of the system through understanding their elemental properties. The holism-reductionism dichotomy is often evident in conflicting interpretations of experimental findings and in setting priorities for future research.
+> This practice is in contrast to a purely analytic tradition (sometimes called [[reductionism]]) which aims to gain [[understanding]] of systems by dividing them into smaller composing elements and gaining understanding of the system through understanding their elemental properties. The holism-reductionism dichotomy is often evident in conflicting interpretations of experimental findings and in setting priorities for future research.
 >
 
 In contrast to:: [[methodological individualism]]

@@ -5,8 +5,8 @@ tags: created/topic/2021/07/05, node/topic/term
 aliases:
 - consciousness
 - consciously
-sr-due: 2022-03-27
-sr-interval: 2
+sr-due: 2022-04-01
+sr-interval: 5
 sr-ease: 225
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

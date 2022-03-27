@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/10, review, node/topic/outline
-sr-due: 2022-03-27
-sr-interval: 4
+sr-due: 2022-04-07
+sr-interval: 11
 sr-ease: 216
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -70,12 +70,21 @@ Once these key traits were in place, adaptation and evolution would no longer be
 In turn study of [[human behavior]] past this point stratifies into everything that is known today, but most immediately leads to:
 - [[foraging]]
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

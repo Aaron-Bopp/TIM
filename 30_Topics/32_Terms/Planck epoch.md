@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/05, review, node/topic/term
-sr-due: 2022-03-27
-sr-interval: 11
+sr-due: 2022-04-26
+sr-interval: 30
 sr-ease: 256
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,8 +19,7 @@ sr-ease: 256
 > The earliest stages of the universe's existence are estimated as taking place 13.8 billion years ago, with an uncertainty of around 21 million years at the 68% confidence level.
 >
 
-
-**See**:: [[the Big Bang]]
+**See**:: [[the Big Bang]], [[inflation theory]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

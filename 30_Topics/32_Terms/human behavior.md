@@ -4,22 +4,22 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/01/15, node/topic/outline
-sr-due: 2022-03-26
-sr-interval: 1
+sr-due: 2022-03-30
+sr-interval: 3
 sr-ease: 169
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[human behavior]]</s>
 
-Human's are capable of [[social behavior]] thanks to our sense of [[self]], our ability for [[communication]], and our ability to form [[inter-personal relationships]].
+Human's are capable of [[social behavior]] thanks to our sense of [[self]], our ability for [[communication]], and our ability to form [[interpersonal relationships]].
 Our behavior has an impact on our [[human experience]] and the experience of those who interact with us.
 
-Over time our social behavior manifests into a [[social order]], which can then manifest itself and impact our behavior.
+Over time our social behavior manifests into a [[social order]], which can then influence and impact our behavior.
 
 Broadly, human behavior has the goal of either [[human survival]] (in the short term) or [[human advancement]] (in the long term).
 
-The influences on human behavior are many and the study of these influences takes up a large part of [[Neuroscience]], [[sociology]], [[anthropology]], [[Psychology]] and play a significant part in every other science.
+The influences on human behavior are many and the study of these influences takes up a large part of [[Neuroscience]], [[sociology]], [[anthropology]], [[Psychology]], [[Politics]] and play a significant part in every other science.
 
 > [!wikipedia] [human behavior](https://en.wikipedia.org/wiki/Human%20behavior)
 > 

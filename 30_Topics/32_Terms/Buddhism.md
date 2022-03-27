@@ -4,8 +4,8 @@ edited:
 aliases:
   - Buddhist
 tags: created/topic/2021/07/05, node/topic/term
-sr-due: 2022-03-27
-sr-interval: 2
+sr-due: 2022-03-31
+sr-interval: 4
 sr-ease: 232
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,7 +20,7 @@ sr-ease: 232
 > 
 > Most Buddhist traditions emphasize transcending the individual self through the attainment of [[Nirvana]] ending the cycle of death and rebirth. 
 > Buddhist schools vary in their interpretation of the path to [[liberation]], the relative importance and canonicity assigned to the various Buddhist texts, and their specific teachings and practices.
-> Widely observed practices include meditation, observance of moral precepts, monasticism, taking refuge in the Buddha, the [[Dharma]] and the [[Sangha]], and the cultivation of the Paramitas (perfections, or virtues).
+> Widely observed practices include [[meditation]], observance of moral precepts, monasticism, taking refuge in the Buddha, the [[Dharma]] and the [[Sangha]], and the cultivation of the Paramitas (perfections, or virtues).
 
 > [!wikipedia]- Types of Buddhism
 > 

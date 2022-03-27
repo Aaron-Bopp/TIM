@@ -4,15 +4,15 @@ edited:
 aliases:
   - physiological
 tags: created/topic/2022/01/06, node/topic/term
-sr-due: 2022-03-27
-sr-interval: 4
+sr-due: 2022-04-08
+sr-interval: 12
 sr-ease: 276
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[physiology]]</s>
 
-the branch of [[Biology]] that deals with the normal functions of living organisms and their parts.
+The branch of [[Biology]] that deals with the normal functions of living organisms and their parts.
 
 > [!wikipedia] [physiology](https://en.wikipedia.org/wiki/Physiology)
 > 
@@ -23,6 +23,21 @@ the branch of [[Biology]] that deals with the normal functions of living organis
 > Central to physiological functioning are biophysical and biochemical processes, [[homeostasis|homeostatic]] control mechanisms, and communication between cells. Physiological state is the condition of normal function, while pathological state refers to abnormal conditions, including human diseases.
 > 
 
+##### ^dataviews
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%
