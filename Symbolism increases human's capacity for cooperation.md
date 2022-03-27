@@ -11,7 +11,7 @@ sr-ease: 198
 
 #### [[Symbolism increases human's capacity for cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-part of:: [[What is the cognitive origin of our social order]] 
+part of:: [[What enables widespread social order]] 
 similarly:: [[Social order is built off of a shared belief in an imagined reality]]
 
 > ![[books_Darwin's Cathedral#^295490288]]

@@ -23,7 +23,7 @@ That gut feeling is a symbolization of past thought.
 
 That trigger is a symbolization of all your past fears
 
-[[What is the cognitive origin of our social order]]
+[[What enables widespread social order]]
 
 ### <hr class="footnote"/>
 

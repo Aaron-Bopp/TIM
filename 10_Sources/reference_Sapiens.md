@@ -89,7 +89,7 @@ Harari then starts to discuss the effect that farming had on the human psyche.
 Harari credits this increase in anxiety to the advent of his next major concept, [[Imagined order]].
 ^[[[books_Sapiens#^297681726]]]
 
-First Harari asks, [[What is the cognitive origin of our social order]],
+First Harari asks, [[What enables widespread social order]],
 then [[What maintains our social order]],
 in order to arrive to
 the main question of this section is:

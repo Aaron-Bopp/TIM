@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-27
-sr-interval: 6
+sr-due: 2022-04-12
+sr-interval: 16
 sr-ease: 230
 ---
 
@@ -18,9 +18,10 @@ sr-ease: 230
 
 > ![[books_Sapiens#^297301077]]
 
-
+- part of:: [[What is the link between evolution and social behavior]]
 - This is why [[Religion promotes high social control]] is so important.
 	- [[Moral social control promotes pro-social behavior in groups]]
+	- [[Symbolism increases human's capacity for cooperation]]
 - enables:: [[Foraging was a very sustainable lifestyle]]
 
 ### <hr class="footnote"/>
@@ -28,5 +29,5 @@ sr-ease: 230
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[inter-personal communication]], [[human interaction]], [[social order]]
+**Topics**:: [[inter-personal communication]], [[human interaction]], [[social order]], [[social behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

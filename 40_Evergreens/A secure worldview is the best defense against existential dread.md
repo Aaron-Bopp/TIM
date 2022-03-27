@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-27
-sr-interval: 7
+sr-due: 2022-04-23
+sr-interval: 27
 sr-ease: 190
 ---
 
@@ -19,7 +19,7 @@ sr-ease: 190
 #TO/TEND/GRAFT 
 - [[Belief pulls you forward into life]]
 - [[Faith can be a useful tool for grounding yourself]]
-- [[Faith is an abstraction of cognitive dissonance]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

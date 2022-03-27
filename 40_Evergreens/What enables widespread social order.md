@@ -4,14 +4,17 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-04-01
-sr-interval: 9
-sr-ease: 230
+sr-due: 2022-04-02
+sr-interval: 6
+sr-ease: 210
 ---
 
-#### [[What is the cognitive origin of our social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What enables widespread social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-from:: [[What is the link between evolution and social behavior]]
+[[Social order]] is a phenomena that springs up naturally out of [[social behavior]].
+
+- from:: [[What is the link between evolution and social behavior]]
+- involves:: [[What is the origin of social hierarchy]]
 
 [[Yuval Noah Harari]] argues in his book [[reference_Sapiens|Sapiens]] that our [[social order]] is based of the [[Imagined reality]] that we share, thus creating an [[Imagined order]]. This leads to both the existence and malleability of [[society]].
 

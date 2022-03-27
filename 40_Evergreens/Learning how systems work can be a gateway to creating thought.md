@@ -42,7 +42,7 @@ Here are some thoughts that may guide how you decide on and create your system w
 - [[Write your notes with a system not within a system]]
 - [[Note structures should help curate knowledge]]
 - [[Friction is a hindrance to learning]]
-- [[The fragility of nodes in a second brain]]
+- [[The fragility of information in knowledge management]]
 
 
 ### <hr class="footnote"/>

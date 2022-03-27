@@ -23,7 +23,7 @@ In our first brain there is no such thing as "fragility" there is only [[learnin
 [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
 The easiest way that we can surpass the first brain is *permanency.* Data can sit for 20 years on a hard drive and still be accessible, but unlike in our first brain, data will not grow over time:
-[[The fragility of nodes in a second brain]]
+[[The fragility of information in knowledge management]]
 
 Much of [[knowledge management]] is centered around how to handle these problems: [[A healthy second brain requires a surplus of entry points]]
 

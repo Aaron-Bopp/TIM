@@ -26,7 +26,7 @@ Many a [[knowledge management|PKM]] guru has warned against [[The Collector's Fa
 
 There is a difference between collecting something because it is __useful__ and collecting something __to use it.__ As you refine your [[knowledge management|knowledge management system]] you will find what are the hard rules and what are the soft rules around what should be collected into your vault: [[The more mistakes you've fixed the more bad decisions you can afford]].
 
-Without the knowledge of [[The fragility of nodes in a second brain|which notes introduce fragility]] into your [[second brain]], you can easily become overwhelmed. Here are some guidelines to collect thought without generating [[friction]]:
+Without the knowledge of [[The fragility of information in knowledge management|which notes introduce fragility]] into your [[second brain]], you can easily become overwhelmed. Here are some guidelines to collect thought without generating [[friction]]:
 - [[Curate source notes and definitions in your second brain to avoid junk text]]
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]. 
 - [[Prioritize understanding over organization or categorization]]

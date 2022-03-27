@@ -14,7 +14,7 @@ sr-ease: 190
 Why can't we realize that we live in an [[imagined order]]?
 
 This is a question posed in [[reference_Sapiens|Sapiens by Yuval Noah Harari]], that closely 
-ties into:: [[What is the cognitive origin of our social order]]
+ties into:: [[What enables widespread social order]]
 and plays a 
 part of:: [[Do we have free will]]
 

@@ -7,7 +7,7 @@ tags: created/topic/2021/10/18, node/topic/outline
 
 #### <s class="topic-title">[[faith]]</s>
 
-The willpower that is needed to believe in something 
+The willpower that is needed to believe in something and let it shape your [[worldview]].
 
 > [!wikipedia] [faith](https://en.wikipedia.org/wiki/Faith)
 > 

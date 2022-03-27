@@ -30,4 +30,8 @@ If our goal is [[equality]] or [[equity]], we need to ask
 **Topics**:: [[social progress]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+#### References
+
+![[reference_Sapiens#citation]]
+
 > ![[books_Sapiens#^297681755]]

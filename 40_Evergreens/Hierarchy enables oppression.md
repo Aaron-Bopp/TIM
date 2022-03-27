@@ -17,7 +17,7 @@ Hierarchy may not necessitate [[oppression]], but once it is in place various gr
 how:: [[Oppressors invent reasoning for their oppression]]
 
 - part of:: [[What is the origin of social hierarchy]]
-- part of:: [[What is the cognitive origin of our social order]]
+- part of:: [[What enables widespread social order]]
 - part of:: [[What is the origin of patriarchy]]
 
 ### <hr class="footnote"/>

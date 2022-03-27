@@ -11,7 +11,7 @@ sr-ease: 210
 
 #### [[What maintains our social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-from:: [[What is the cognitive origin of our social order]]
+from:: [[What enables widespread social order]]
 
 #####  shared [[belief]]
 
