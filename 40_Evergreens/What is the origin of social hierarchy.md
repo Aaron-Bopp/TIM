@@ -15,7 +15,8 @@ sr-ease: 190
 - explains:: [[What maintains our social order]]
 
 Answering this 
-includes:: [[What is the cognitive origin of social hierarchy]]
+includes:: [[What is the cognitive origin of social hierarchy]].
+There is something in human brains that understands [[hierarchy]] and sees it as right or wrong.
 
 Answers:
 - It was just coincidence [[Once hierarchy is in place vested interests will keep it in place]]
@@ -31,7 +32,7 @@ but they know that the order is only real as long as we collectively believe it 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social hierarchy]], [[social order]]
+**Topics**:: [[social hierarchy]], [[social order]], [[history]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

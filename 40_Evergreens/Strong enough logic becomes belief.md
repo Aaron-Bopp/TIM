@@ -14,6 +14,7 @@ sr-ease: 150
 #TO/PONDER/IDEA 
 You can get so caught up in complex logic, that you can no longer see the full problem, and merely believe that your logic up to that point is true. 
 %%
+#TO/TEND/MULCH 
 Who?
 - Scientists 
 - [[Dr. K]]

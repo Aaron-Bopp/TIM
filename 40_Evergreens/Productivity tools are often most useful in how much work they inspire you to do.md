@@ -13,18 +13,16 @@ sr-ease: 230
 
 If one tool actually inspires you to the work and another won't, that is the better tool for you, no matter the relative "efficiency" of the tools.
 This does need a caveat that this doesn't mean you should just seek out tools that require more work so you feel more productive, but
-I think the fact is that for the most part people are not relying on the increase of productivity between one tool or another, they are debating whether they will do the work or not.
+most people are not relying on the increase of [[productivity]] between one tool or another, they are debating whether they will do the work or not.
 
 This is not just a matter of laziness either. 
 I didn't take notes at all in school or college not because I was lazy or didn't want to learn about my subjects, but because it felt more useful to store things in my brain.
 It wasn't until I found [[evergreen notes]] that I realized what a boon [[writing]] could be
 and felt like the notes I was making were *actually useful*.
-This is an 
-example of:: [[Learning how systems work can be a gateway to creating thought]]
+^[This is an 
+example of:: [[Learning how systems work can be a gateway to creating thought]]]
 
-#TO/TEND/GRAFT 
-- [[Classifying something will almost never add value to it]]
-- [[Good friction causes the brain to engage]]
+part of:: [[Good friction causes the brain to engage]] and [[Your second brain should be an inspirational hub of creativity]]
 
 ### <hr class="footnote"/>
 

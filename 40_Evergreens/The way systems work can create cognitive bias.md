@@ -3,7 +3,7 @@ created: 2021-12-12
 edited: 
 aliases:
   - null
-tags: created/evergreen/2021/12/12, review, node/evergreen/claim
+tags: created/evergreen/2021/12/12, review, node/evergreen/outline
 sr-due: 2022-05-14
 sr-interval: 62
 sr-ease: 176
@@ -11,14 +11,13 @@ sr-ease: 176
 
 #### [[The way systems work can create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/PONDER/IDEA #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them
-- In [[knowledge work]] #TO/TEND/GRAFT 
+%% #TO/PONDER/IDEA #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them %%
+- [[Hard rules create cognitive bias]]
+- In [[knowledge work]]
 	- [[Prioritize understanding over organization or categorization]]
-	- [[Only organize as much as your data requires]]
 	- [[Learning how systems work can be a gateway to creating thought]]
-	- [[Hard rules create cognitive bias]]
 	- [[Hard boundaries reduce opportunities for creativity]]
-- In the [[human experience]] #TO/TEND/GRAFT 
+- In the [[human experience]] 
 	- [[Stereotypes are social constructs]]
 		- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 	 - [[Race is a social construct]]
@@ -32,12 +31,14 @@ sr-ease: 176
 - in [[socialization]] #TO/TEND/GRAFT 
 	- [[Mass media promotes the spread of inaccurate information]]
 	- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
-- [[Use philosophies as far they are useful and nothing more]]
+- How to combat this?
+	- [[Worldviews should be open ended and adaptive]]
+	- [[Use philosophies as far they are useful and nothing more]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human advancement]], [[social construct]], [[inequity]], [[social justice]]
+**Topics**:: [[human advancement]], [[social construct]], [[inequity]], [[social justice]], [[cognitive bias]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

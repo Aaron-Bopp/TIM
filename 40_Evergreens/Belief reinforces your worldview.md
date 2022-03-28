@@ -3,7 +3,7 @@ created: 2022-03-22T17:30:26
 edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/22, review, node/evergreen/claim
+tags: created/evergreen/2022/03/22, review, node/evergreen/behavior
 sr-due: 2022-03-29
 sr-interval: 2
 sr-ease: 170
@@ -24,15 +24,12 @@ why:: [[Being critical helps you develop understanding]] is so important.
 If you aren't being critical of your [[worldview]] it is going to block you from fully [[understanding]] how the world works.
 Even when we feel like we have a good theory for how the world works,
 [[Experts are often far too confident in the effectiveness of their theories]].
-This
+^[This
 explains:: [[Jordan Peterson is smart enough that he should realize where he is wrong but he doesn't]],
-even though [[Jordan Peterson]]'s understanding of [[Psychology]] is good, his underlying beliefs are warping his [[worldview]].
+even though [[Jordan Peterson]]'s understanding of [[Psychology]] is good, his underlying beliefs are warping his [[worldview]].]
 
-We can see this in [[Christianity]] as well and it is 
-both 
-why:: [[Faith can be a useful tool for grounding yourself]] and [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]].
-[[Christianity]] inspires a strong [[belief]] and thus makes it hard for Christians to question their worldview.
-
+This 
+explains:: [[What are the blindspots of the Christian worldview|the blindspots in the Christian worldview]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

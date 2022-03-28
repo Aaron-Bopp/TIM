@@ -16,7 +16,6 @@ sr-ease: 190
 Even [[morality]] can be seen as a product of this [[Imagined order]].
 ^[[[books_The Dawn of Everything#^258309233]]]
 
-%% #TO/TEND/MULCH [[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]].  %%
 
 This is heavily interwoven with [[religion]], as [[religion]] is often the [[language]] through which we understand this [[imagined reality]].
 However, [[Strong enough logic becomes belief]] and thus
