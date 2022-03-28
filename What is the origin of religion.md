@@ -20,12 +20,19 @@ broadly [[religious belief]] itself is not adaptive due to the way it misreprese
 
 This separates the origin of religion from the origin of [[belief]]. This distinction is important in modern times as religious people often associate lack of [[religious belief]] as [[nihilism]], but [[belief]] in atheists can be just as strong
 
-answers:
+In [[Darwin's Cathedral by David Sloan Wilson]], [[religion]] is discussed through the lense of [[Evolution]], and Wilson lays out these explanations for religion.
+
+Religion as adaptive:
+- A group-level adaptation [[Religion creates social order through group membership and ritual]]
+- An individual level adaptation [[Religion is a rational bid for supernatural reward]]
+- A cultural parasite that takes advantage of humans
+
+Religion as non-adaptive
 - as a [[spandrel]] of [[Belief can motivate adaptation]]
-	- Religious belief based of observation such as [[Animism]] and [[Naturism]] would be in this bucket. They viewed the complexity of the world and assumed their must be a designing agent. They weren't wrong: [[Natural selection is a designing agent]]
-- [[Religion creates social order through group membership and ritual]]
-- [[Religion is a rational bid for supernatural reward]]
-- 
+- Religious belief based of observation such as [[Animism]] and [[Naturism]] that is no longer adaptive in a modern environment.
+	- They viewed the complexity of the world and assumed their must be a designing agent. They weren't wrong: [[Natural selection is a designing agent]]
+
+
 %% [[Atheists don't believe that god doesn't exist they believe in a different source of truth]] %%
 
 > ![[books_Darwin's Cathedral#^295490295]]

@@ -30,3 +30,5 @@ explained by:: [[Moral social control promotes pro-social behavior in groups]]
 
 **Topics**:: [[belief]], [[religion]], [[social control]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+> ![[books_Darwin's Cathedral#^298292991]]

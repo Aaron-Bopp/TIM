@@ -35,12 +35,13 @@ we can attempt to use our [[understanding]] of [[human evolution]] effectively.
 #TO/TEND/MULCH 
 [[Our biology has not significantly changed for thousands of years]] means that we are still dealing with minds or ancient [[hunter-gatherers]].
 Of course, 
-while the  difference in our [[DNA]] is small,
+while the difference in our [[DNA]] is small,
 the [[brain]] is incredibly adaptive,
 which means our examination of [[human origins]] is most helpful as
 a starting point.
 
 #TO/EXPLORE/RESEARCH a more thorough understanding of the argument against [[Evolutionary Psychology]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -48,3 +49,9 @@ a starting point.
 
 **Topics**:: [[Evolutionary Psychology]], [[human behavior]], [[social order]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References 
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
+
+> ![[books_Darwin's Cathedral#^298292995]]

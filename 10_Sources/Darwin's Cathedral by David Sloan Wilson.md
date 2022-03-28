@@ -119,4 +119,7 @@ His argument boils down to:
 with the caveat that is hard that this selection is not always conscious or that the selector may not be aware of all conditions
 [[Why is it hard to understand how our environment effects us]]
 
-This leads him back to [[rational choice theory]], and how it's statement that [[religion]] is a byproduct is weak.
+This leads him back to [[rational choice theory]], and how it's statement that [[religion]] is a byproduct is weak, and proposes how it could be included.
+
+
+> ![[books_Darwin's Cathedral#^298292989]]

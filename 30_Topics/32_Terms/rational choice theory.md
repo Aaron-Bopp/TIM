@@ -32,6 +32,10 @@ sr-ease: 250
 
 [[Religion is a rational bid for supernatural reward]]
 
+
+> ![[books_Darwin's Cathedral#^298292990]]
+
+
 ##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
@@ -50,3 +54,5 @@ sr-ease: 250
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+> ![[books_Darwin's Cathedral#^298292994]]

@@ -20,7 +20,9 @@ The five layers of the [[mind]]
 - [[Buddhi]] - intellect
 - [[Ahamkara]] - [[ego]]
 - [[Samskara]] - memory
-- [[Citta]] - [[unconscious]]
+- [[Citta]] - [[unconscious]]  
+
+^f8cf69
 
 **See**:: [[meditation]], [[Panchakosha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

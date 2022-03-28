@@ -72,3 +72,5 @@ This view of functionalism may better be understood in the [[social sciences]] b
 > ![[books_Darwin's Cathedral#^297089497]]
 
 > ![[books_Darwin's Cathedral#^298292999]]
+
+> ![[books_Darwin's Cathedral#^298292993]]
