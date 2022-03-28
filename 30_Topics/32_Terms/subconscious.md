@@ -9,10 +9,15 @@ aliases:
 
 #### <s class="topic-title">[[subconscious]]</s>
 
-The **subconscious** is that part of [[consciousness]] that is not currently in focal awareness
+Usually synonymous for the [[unconscious|unconscious mind]], this is possibly distinguished 
+in:: [[Vedic Psychology]]
+as the [[Ahamkara]] or [[ego]] where 
+the **subconscious** would be that part of [[consciousness]] that is not currently in focal awareness
 
-**See**:: [[consciousness|conscious]], [[ego]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+[[Sigmund Freud]] abandoned this term for [[unconscious]].
+^[[subconscious](https://en.wikipedia.org/wiki/Subconscious)]
+
+
 
 %% DO NOT EDIT BELOW %%
 #### Related 

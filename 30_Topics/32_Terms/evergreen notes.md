@@ -5,12 +5,16 @@ tags: created/topic/2021/05/29, node/topic/term
 aliases:
   - evergreens
   - evergreen note
+sr-due: 2022-03-30
+sr-interval: 2
+sr-ease: 205
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[evergreen notes]]</s>
 
-> _Evergreen notes_ are written and organized to evolve, contribute, and accumulate over time, across projects.[^1]
+> _Evergreen notes_ are written and organized to evolve, contribute, and accumulate over time, across projects.
+^[https://notes.andymatuschak.org/Evergreen_notes]
 > 
 > <cite>[[Andy Matuschak]]</cite>
 
@@ -26,4 +30,3 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: https://notes.andymatuschak.org/Evergreen_notes

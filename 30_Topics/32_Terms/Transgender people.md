@@ -5,6 +5,9 @@ tags: created/topic/2021/08/15, node/topic/term
 aliases:
 - trans
 - transgender
+sr-due: 2022-04-04
+sr-interval: 7
+sr-ease: 242
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

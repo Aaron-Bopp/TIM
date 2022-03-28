@@ -37,7 +37,7 @@ sr-ease: 250
 	- [[Yogi|Yogis]] focused on their own thoughts
 		- the [[subjective]] information we have about ourselves is better than the [[objective]] observations of others
 	- Less complex
-- Parts of the [[mind]] [[Manas Padha]]
+- ### Parts of the [[mind]]  ^684d3e
 	- [[Manas]] - where we experience [[emotions]]
 		- reflexive, automatic, likes and dislikes
 	- [[Buddhi]] - intellect

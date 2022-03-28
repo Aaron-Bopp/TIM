@@ -23,7 +23,7 @@ These models are not useless, and can be good scaffolding to help us understand 
 
 ##### 5-layer model - [[Vedic Psychology]]
 
-![[Vedic Psychology#^f8cf69]]
+![[notes_Vedic Psychology#^684d3e]]
 
 
 

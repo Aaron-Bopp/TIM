@@ -12,6 +12,7 @@ tags: created/topic/2021/12/29, node/topic/term
 The backdrop of the [[mind]], which contains our [[Samskara|samskaras]].
 This is the [[unconscious]]
 
+
 **See**:: [[subconscious]], [[consciousness|conscious]],[[Vedic Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
