@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/27, review, node/evergreen/claim
+sr-due: 2022-03-30
+sr-interval: 2
+sr-ease: 249
 ---
 
 #### [[Natural selection can be seen within generations]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -17,5 +20,5 @@ tags: created/evergreen/2022/03/27, review, node/evergreen/claim
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[natural selection]], [[Evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

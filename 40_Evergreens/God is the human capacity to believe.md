@@ -26,7 +26,7 @@ What is the nature of god? God is a social construction. God is our [[understand
 - [[Humans have decided to reject an unjust world]]
 - [[Worldviews should be open ended and adaptive]]
 - [[Strong enough logic becomes belief]] 
-- [[Atheists don't believe that god doesn't exist they believe in a different source of truth]]
+- [[Atheists don't lack belief they lack religious belief]]
 
 ### <hr class="footnote"/>
 

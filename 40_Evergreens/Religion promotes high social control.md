@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 6
+sr-due: 2022-04-09
+sr-interval: 12
 sr-ease: 170
 ---
 
@@ -23,12 +23,19 @@ leads to:: [[Social order is built off of a shared belief in an imagined reality
 
 explained by:: [[Moral social control promotes pro-social behavior in groups]]
 
+#TO/TEND/GRAFT 
+- [[Belief can motivate adaptation]]
+- [[Belief can motivate dysfunction]]
+- [[Faith can be a useful tool for grounding yourself]]
+- [[Faith is an abstraction of cognitive dissonance]]
+- [[Theology preserves hierarchy through deific blessing]] 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[belief]], [[religion]], [[social control]]
+**Topics**:: [[belief]], [[religion]], [[social control]], [[religious belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 > ![[books_Darwin's Cathedral#^298292991]]

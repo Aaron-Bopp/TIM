@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 46
-sr-ease: 190
+sr-due: 2022-04-19
+sr-interval: 22
+sr-ease: 170
 ---
 
 #### [[Prioritize understanding over organization or categorization]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> When you think in categories, you underestimate how different two facts are when they fall in the same category. When you think in categories, you overestimate how different they are when there happens to be a boundary in between them. And when you pay attention to categorical boundaries, you don't see big pictures. Now, what our goal in this class is going to be is think about this big, complex issue of the biology of behavior without falling into thinking in categories.
+> When you think in categories, you underestimate how different two facts are when they fall in the same category. When you think in categories, you overestimate how different they are when there happens to be a boundary in between them. And when you pay attention to categorical boundaries, you don't see big pictures. 
 > ^[[[course_Human Behavioral Biology]]]
 >
 > <cite>[[Robert M. Sapolsky]]</cite>
@@ -20,9 +20,9 @@ sr-ease: 190
 
 Especially when starting [[knowledge management|personal knowledge management]], you want to steer away from over-categorization. [[Only categorize as much as your data requires]], which when you start means not at all. Then your first kind of categorization should not be about the kind of information it should be about the type. For more on this see [[Use Obsidian tags as temporal classifiers]].
 
-It's also true that should [[Only organize as much as your data requires]], so when you start you shouldn't organize at all.
+It's also true that you should [[Only organize as much as your data requires]], so when you start you shouldn't organize at all.
 For me a combination of [[spaced repetition]] and [[networked thinking]] got me to 1500 notes before I felt the need to seriously organize.
-^[This is partially a lie, as I did *feel* the need to organize before this, and acted on that feeling, and felt good about it **BUT** I don't think that organization ever meaningfully helped me. Spaced repetition greatly increased my ability to hold the structure of my vault in my head, and [[Densely linked webs of thought provide intuitive access to knowledge]]. This is really the core [[knowledge management]], with organization and categorization being what we have to do because their is just to much [[information]] in the world]
+^[This is partially a lie, as I did *feel* the need to organize before this, and acted on that feeling, and felt good about it **BUT** I don't think that organization ever meaningfully helped me. Spaced repetition greatly increased my ability to hold the structure of my vault in my head, and [[Densely linked webs of thought provide intuitive access to knowledge]]. This is really the core [[knowledge management]], with organization and categorization being what we have to do because their is just too much [[information]] in the world]
 At the very least try to not spend all your time organizing or categorizing 
 because:: [[Classifying something will almost never add value to it]]
 

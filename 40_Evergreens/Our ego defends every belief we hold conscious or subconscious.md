@@ -4,13 +4,14 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 11
+sr-due: 2022-04-13
+sr-interval: 16
 sr-ease: 130
 ---
 
 #### [[Our ego defends every belief we hold conscious or subconscious]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+#TO/WRITE 
 - [[Our brain will do anything it can to protect itself]]
 - from:: [[Our ego is our subconscious defense of our self]]
 - leads to:: [[Rationalizations are defense-mechanisms against strong emotions]]

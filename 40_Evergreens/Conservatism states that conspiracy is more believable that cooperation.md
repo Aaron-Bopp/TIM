@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 5
+sr-due: 2022-04-10
+sr-interval: 13
 sr-ease: 230
 ---
 
@@ -15,6 +15,9 @@ sr-ease: 230
 - displayed in:: [[Q justifies conservatives discontent]]
 
 part of:: [[Rise of Conspiracy Culture]]
+
+- part of:: [[Republican voters do not hold their leaders accountable]]
+	- why hold people accountable when nothing can be done and there is no hope of cooperating
 
 ### <hr class="footnote"/>
 

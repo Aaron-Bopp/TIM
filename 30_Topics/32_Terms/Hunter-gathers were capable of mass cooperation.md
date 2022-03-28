@@ -4,16 +4,16 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/17, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 3
+sr-due: 2022-04-04
+sr-interval: 7
 sr-ease: 210
 ---
 
 #### [[Hunter-gathers were capable of mass cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - one example is [[Gobekli Tepe]]
-- [[Greater cooperation and communication has lead to the success of humans as a species]]
-- [[Hunter-gatherer societies were very diverse]]
+- explained by:: [[Greater cooperation and communication has lead to the success of humans as a species]]
+- part of:: [[Hunter-gatherer societies were very diverse]]
 
 ### <hr class="footnote"/>
 

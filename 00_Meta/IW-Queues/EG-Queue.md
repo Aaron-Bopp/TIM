@@ -22,3 +22,4 @@ interval: 1
 | [[We learn by transforming information into understanding]]                |       37 |       |        1 | 1969-12-13 |
 | [[Our ego is our subconscious defense of our self]]                        |       44 |       |        1 | 2022-02-16 |
 | [[Humans are addicted to believing]]                                       |        0 |       |        0 | 2022-03-26 |
+| [[Our ego defends every belief we hold conscious or subconscious]] | | | | |

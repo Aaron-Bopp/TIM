@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/26, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 2
-sr-ease: 242
+sr-due: 2022-03-29
+sr-interval: 1
+sr-ease: 222
 ---
 
 #### [[Complex interaction can arise from simple properties]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

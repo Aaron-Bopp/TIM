@@ -4,9 +4,9 @@ edited:
 tags: created/evergreen/2021/10/10, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-03-28
-sr-interval: 72
-sr-ease: 190
+sr-due: 2022-05-05
+sr-interval: 38
+sr-ease: 170
 ---
 
 #### [[Stereotyping has the psychological goal of comprehension and self-enhancement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

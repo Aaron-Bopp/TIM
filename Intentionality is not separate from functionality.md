@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/27, review, node/evergreen/claim
+sr-due: 2022-03-29
+sr-interval: 1
+sr-ease: 199
 ---
 
 #### [[Intentionality is not separate from functionality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -24,7 +27,7 @@ part of:: [[Human behavior is selective]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[human behavior]], [[functionalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

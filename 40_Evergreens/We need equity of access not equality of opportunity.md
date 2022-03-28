@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-03-28
-sr-interval: 23
-sr-ease: 190
+sr-due: 2022-04-11
+sr-interval: 14
+sr-ease: 170
 ---
 
 #### [[We need equity of access not equality of opportunity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

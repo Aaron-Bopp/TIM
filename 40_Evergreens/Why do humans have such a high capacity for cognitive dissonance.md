@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/22, review, node/evergreen/question
-sr-due: 2022-03-28
-sr-interval: 2
+sr-due: 2022-04-01
+sr-interval: 4
 sr-ease: 210
 ---
 
@@ -15,6 +15,7 @@ sr-ease: 210
 - answer:: [[The ego is the brain's response to the realization that we are just another individual in the world]]
 - answer:: [[Humans are a product of evolution]] if [[Does cognitive dissonance increase your capacity for endurance]] is true
 
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -22,3 +23,5 @@ sr-ease: 210
 
 **Topics**:: [[cognitive dissonance]], [[human behavior]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+![[video_Existential Dread#Our brains design]]

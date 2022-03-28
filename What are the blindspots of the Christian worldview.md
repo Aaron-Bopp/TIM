@@ -11,7 +11,7 @@ sr-ease: 244
 
 #### [[What are the blindspots of the Christian worldview]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- part of:: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
+- includes:: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - from:: [[My worldview is not about conversion it is about acceptance]]
 - 
 

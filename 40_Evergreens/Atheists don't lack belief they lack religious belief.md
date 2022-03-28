@@ -9,7 +9,7 @@ sr-interval: 34
 sr-ease: 170
 ---
 
-#### [[Atheists don't believe that god doesn't exist they believe in a different source of truth]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Atheists don't lack belief they lack religious belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 You can't believe a negative. 
 Their [[belief]] is based on 

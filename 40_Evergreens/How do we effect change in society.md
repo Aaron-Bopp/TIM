@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-28
-sr-interval: 6
+sr-due: 2022-04-10
+sr-interval: 13
 sr-ease: 230
 ---
 
@@ -20,8 +20,6 @@ If our goal is [[equality]] or [[equity]], we need to ask
 [[In what way are human's equal]],
 [[What does equality even mean]]
 
-> ![[books_The Dawn of Everything#^71a788]]
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -35,3 +33,6 @@ If our goal is [[equality]] or [[equity]], we need to ask
 ![[reference_Sapiens#citation]]
 
 > ![[books_Sapiens#^297681755]]
+
+![[reference_The Dawn of Everything#citation]]
+> ![[books_The Dawn of Everything#^71a788]]
