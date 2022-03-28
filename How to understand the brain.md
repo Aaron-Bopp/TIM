@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/27, review, node/evergreen/claim
+sr-due: 2022-03-30
+sr-interval: 2
+sr-ease: 250
 ---
 
 #### [[How to understand the brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -13,9 +16,9 @@ These models are not useless, and can be good scaffolding to help us understand 
 
 ##### Three-layer model - [[Paul Maclean]]
 
+> [!references]- [[reference_Behave]]
+> 
 > ![[books_Behave#^301731328]]
-
-
 > ![[books_Behave#^301731329]]
 
 ##### 5-layer model - [[Vedic Psychology]]
@@ -29,5 +32,5 @@ These models are not useless, and can be good scaffolding to help us understand 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[brain]], [[mind]], [[Neuroscience]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
