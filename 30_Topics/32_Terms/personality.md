@@ -2,13 +2,21 @@
 created: 2021-10-18
 edited: 
 tags: created/topic/2021/10/18, node/topic/term
+sr-due: 2022-03-30
+sr-interval: 2
+sr-ease: 242
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[personality]]</s>
 
+The combination of outward characteristics or qualities that form an individual's distinctive character. As a opposed to inward characteristics which make up your [[identity]].
 
- The combination of outward characteristics or qualities that form an individual's distinctive character. As a opposed to inward characteristics which make up you [[identity]]
+> [!wikipedia] [personality](https://en.wikipedia.org/wiki/Personality)
+> 
+> Personality is the characteristic sets of [[behavior]], [[cognition]], and [[emotions|emotional patterns]] that evolve from biological and environmental factors. 
+> 
+
 
 **See**:: [[socialization]]
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`

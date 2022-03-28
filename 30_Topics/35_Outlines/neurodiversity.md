@@ -5,39 +5,32 @@ tags: created/topic/2021/06/07, node/topic/term
 aliases:
 - neurodiverse
 - neurodivergency
+sr-due: 2022-03-31
+sr-interval: 3
+sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[neurodiversity]]</s>
 
-
- differing in mental or neurological function from what is considered typical or normal (frequently used with reference to autistic spectrum disorders); not neurotypical.
+Differing in mental or neurological function from what is considered typical or normal (frequently used with reference to [[autism spectrum]] disorders); not neurotypical.
  
-**Status**:: #EVER/SAPLING 
-*edited `=this.file.mtime`*
 
-**See**:: [[mental health]], [[mental illness]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%
-#### [[neurodiversity]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
-- [[ADHD]]
-	- Symptoms
-		- [[Rejection Sensitivity]]
-		- [[Emotional Deregulation]]
-		- [[ADHD is not a lack of attention it is a misplacement of attention]]
-	- Coping mechanisms
-		- [[Tips for concentration]]
-- [[Autism]]
-
-### <hr class="dataviews"/>
-
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
-
-

@@ -5,20 +5,20 @@ aliases:
   - Autonomic Nervous System (ANS)
   - Autonomic Nervous System 
 tags: created/topic/2021/12/29, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 1
+sr-due: 2022-03-30
+sr-interval: 2
 sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[ANS]]</s>
 
-The **Autonomic Nervous System** is the system that regulates the functions of our internal organs (the viscera) such as the [[heart]], stomach and intestines. The **ANS** is part of the peripheral nervous system and it also controls some of the muscles within the [[body]].
+The **Autonomic Nervous System** is the system that regulates the functions of our internal organs (the viscera) such as the [[heart]], [[stomach]] and [[intestines]]. The **ANS** is part of the [[peripheral nervous system]] and it also controls some of the muscles within the [[body]].
 
 
 > [!wikipedia] [autonomic nervous system](https://en.wikipedia.org/wiki/Autonomic%20nervous%20system)
 > 
-> The autonomic nervous system (ANS), formerly referred to as the vegetative nervous system, is a division of the [[peripheral nervous system]] that supplies smooth muscle and glands, and thus influences the function of internal organs. The autonomic nervous system is a control system that acts largely unconsciously and regulates bodily functions, such as the [[heart rate]], [[digestion]], [[respiratory rate]], [[pupillary response]], [[urination]], and [[sexual arousal]]. This system is the primary mechanism in control of the [[fight-or-flight response]].
+> The autonomic nervous system (ANS), formerly referred to as the vegetative nervous system, is a division of the [[peripheral nervous system]] that supplies [[smooth muscle]] and [[glands]], and thus influences the function of internal organs. The autonomic nervous system is a control system that acts largely unconsciously and regulates bodily functions, such as the [[heart rate]], [[digestion]], [[respiratory rate]], [[pupillary response]], [[urination]], and [[sexual arousal]]. This system is the primary mechanism in control of the [[fight-or-flight response]].
 > 
 > The autonomic nervous system is regulated by integrated reflexes through the [[brainstem]] to the [[spinal cord]] and organs. Autonomic functions include control of respiration, cardiac regulation (the cardiac control center), vasomotor activity (the vasomotor center), and certain reflex actions such as coughing, sneezing, swallowing and vomiting. 
 > 

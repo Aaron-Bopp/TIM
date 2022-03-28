@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/28, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 2
+sr-due: 2022-04-02
+sr-interval: 5
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,9 +14,10 @@ sr-ease: 231
 
 > [!wikipedia] [problem-based learning](https://en.wikipedia.org/wiki/Problem-based%20learning)
 > 
-> Problem-based learning (PBL) is a student-centered [[pedagogy]] in which students learn about a subject through the experience of solving an open-ended problem found in trigger material. The PBL process does not focus on [[problem solving]] with a defined solution, but it allows for the development of other desirable skills and attributes. This includes knowledge acquisition, enhanced group [[collaboration]] and [[communication]].
+> Problem-based [[learning]] (PBL) is a student-centered [[pedagogy]] in which students learn about a subject through the experience of solving an open-ended problem found in trigger material. The PBL process does not focus on [[problem solving]] with a defined solution, but it allows for the development of other desirable skills and attributes. This includes knowledge acquisition, enhanced group [[collaboration]] and [[communication]].
 > 
 
+In:: [[learning]] and [[education]]
 
 ##### ^dataviews
 

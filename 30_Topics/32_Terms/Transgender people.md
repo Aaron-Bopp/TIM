@@ -10,7 +10,26 @@ aliases:
 
 #### <s class="topic-title">[[Transgender people]]</s>
 
+> [!wikipedia] [Transgender](https://en.wikipedia.org/wiki/Transgender)
+> 
+> Transgender people have a [[gender]] that differs from the sex that they were assigned at birth. 
+> 
 
-**See**:: [[Queer]], [[gender]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%

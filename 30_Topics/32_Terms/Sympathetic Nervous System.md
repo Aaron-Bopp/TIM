@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2021/12/29, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 1
+sr-due: 2022-03-30
+sr-interval: 2
 sr-ease: 219
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,7 +19,5 @@ A division of the [[nervous system]] that functions to produce localized adjustm
 > The sympathetic nervous system (SNS) is one of two divisions of the [[ANS|Autonomic Nervous System]], along with the [[parasympathetic nervous system]]. 
 > The sympathetic nervous system's primary process is to stimulate the body's [[fight-or-flight response]]. It is, however, constantly active at a basic level to maintain [[homeostasis]]. 
 >
-
-
 
 > ![[books_Behave#^301731158]]

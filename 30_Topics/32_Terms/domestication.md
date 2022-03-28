@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/11, review, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 3
+sr-due: 2022-04-04
+sr-interval: 7
 sr-ease: 206
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,7 +20,7 @@ sr-ease: 206
 
 > [!Wikipedia]- Genetic underpinning of domestication
 > 
-> Charles Darwin recognized the small number of traits that made domestic species different from their wild ancestors. He was also the first to recognize the difference between conscious selective breeding in which humans directly select for desirable traits, and unconscious selection where traits evolve as a by-product of [[natural selection]].
+> [[Charles Darwin]] recognized the small number of traits that made domestic species different from their wild ancestors. He was also the first to recognize the difference between conscious selective breeding in which humans directly select for desirable traits, and unconscious selection where traits evolve as a by-product of [[natural selection]].
 > 
 > There is a genetic difference between domestic and wild populations. There is also such a difference between the domestication traits that researchers believe to have been essential at the early stages of domestication, and the improvement traits that have appeared since the split between wild and domestic populations. 
 > 

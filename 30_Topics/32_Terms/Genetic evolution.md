@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/13, review, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 12
-sr-ease: 263
+sr-due: 2022-04-04
+sr-interval: 7
+sr-ease: 243
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -15,15 +15,23 @@ sr-ease: 263
 Usually synonymous to [[Evolution]], it is mainly distinguished when discussing [[Cultural Evolution]].
 While these are largely separate, they can interact through [[group selection]], where a group is promoted culturally because of a specific gene, or a gene is promoted because it is chosen in a certain group.
 
-**See**:: [[molecular genetics]], [[Evolution]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+While [[Evolution]] was first observed through [[adaptation]] of traits through [[natural selection]], through an increased understanding of [[molecular genetics]] we know understanding that all adaptation is driven by mutations in genes.
+
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%
