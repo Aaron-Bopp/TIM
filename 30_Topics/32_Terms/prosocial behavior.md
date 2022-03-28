@@ -11,7 +11,7 @@ tags: created/topic/2022/03/21, node/topic/term
 
 > [!wikipedia] [prosocial behavior](https://en.wikipedia.org/wiki/Prosocial%20behavior)
 > 
-> Prosocial behavior, or intent to benefit others, is a social behavior that "benefit[s] other people or [[society]] as a whole", "such as helping, sharing, donating, co-operating, and volunteering". Obeying the rules and conforming to socially accepted behaviors are also regarded as prosocial behaviors. 
+> Prosocial behavior, or intent to benefit others, is a [[social behavior]] that "benefit[s] other people or [[society]] as a whole", "such as helping, sharing, donating, co-operating, and volunteering". Obeying the rules and conforming to socially accepted behaviors are also regarded as prosocial behaviors. 
 > 
 > Evolutionary psychologists use theories such as [[kin selection]] theory and [[inclusive fitness]] as an explanation for why prosocial behavioral tendencies are passed down generationally. Encouraging prosocial behavior may also require decreasing or eliminating undesirable social behaviors ([[social control]]).
 >

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/26, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 2
+sr-due: 2022-04-03
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -27,11 +27,9 @@ spaced repetition is additionally seen as a way to resurface information at spac
 > Although the principle is useful in many contexts, spaced repetition is commonly applied in contexts in which a learner must acquire many items and retain them indefinitely in [[memory]]. 
 > 
 
-Spaced repetition has received backlash not because it is ineffective, but because it is often conveyed as more effective than it actually is.  
-This complaints normally revolve around the time it requires, the lack of context, and the focus on wrote memory.
-Alternatives usually include more involved methods of [[learning]] such as [[Blooms taxonomy]].
-
-
+Spaced repetition has received backlash not because it is ineffective, but because it is often conveyed as more effective than it actually is.
+These complaints normally revolve around the time it requires, the lack of context, and the focus on rote memory.
+Alternatives usually include more involved methods of [[learning]] such as [[Blooms taxonomy]] or [[inquiry based learning]].
 
 ##### ^dataviews
 

@@ -4,21 +4,23 @@ edited:
 aliases:
   - null
 tags: created/topic/2022/03/24, node/topic/term
-sr-due: 2022-03-28
-sr-interval: 2
-sr-ease: 208
+sr-due: 2022-03-29
+sr-interval: 1
+sr-ease: 188
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[social behavior]]</s>
 
-Interaction between of organisms that forms a [[interpersonal relationships]]
+Interaction between of organisms that forms a [[interpersonal relationships]].
+
 For [[social behavior]] specifically in humans see [[human behavior]].
+
 Behavior is in the moment, relationship is over time.
 
 > [!wikipedia] [social behavior](https://en.wikipedia.org/wiki/Social%20behavior)
 > 
-> Social behavior is behavior among two or more organisms within the same species, and encompasses any behavior in which one member affects the other.
+> Social behavior is [[behavior]] among two or more [[organisms]] within the same [[species]], and encompasses any behavior in which one member affects the other.
 > 
 > Social behavior can be seen as similar to an exchange of goods, with the expectation that when you give, you will receive the same. This behavior can be affected by both the qualities of the individual and the environmental (situational) factors. Therefore, social behavior arises as a result of an interaction between the two—the organism and its environment. 
 > 
