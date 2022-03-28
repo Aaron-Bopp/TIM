@@ -4,7 +4,7 @@ edited:
 aliases:
   - empathic
   - empathise
-tags: created/topic/2021/06/17, node/topic/outline
+tags: created/topic/2021/06/17, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

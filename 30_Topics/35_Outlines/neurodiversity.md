@@ -1,7 +1,7 @@
 ---
 created: 2021-06-07
 edited: 
-tags: created/topic/2021/06/07, node/topic/outline
+tags: created/topic/2021/06/07, node/topic/term
 aliases:
 - neurodiverse
 - neurodivergency

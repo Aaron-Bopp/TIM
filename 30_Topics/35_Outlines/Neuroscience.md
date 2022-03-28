@@ -1,7 +1,7 @@
 ---
 created: 2021-06-16
 edited: 
-tags: created/topic/2021/06/16, review, node/topic/outline
+tags: created/topic/2021/06/16, review, node/topic/term
 aliases:
 - neurological
 sr-due: 2022-05-18
