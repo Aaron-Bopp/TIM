@@ -5,6 +5,9 @@ aliases:
   - Autonomic Nervous System (ANS)
   - Autonomic Nervous System 
 tags: created/topic/2021/12/29, node/topic/term
+sr-due: 2022-03-28
+sr-interval: 1
+sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

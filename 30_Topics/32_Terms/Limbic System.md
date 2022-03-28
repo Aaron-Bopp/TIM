@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2021/12/29, node/topic/term
+sr-due: 2022-03-28
+sr-interval: 1
+sr-ease: 213
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -19,3 +22,5 @@ System that deals primarily with emotional regulation.
 >
 
 > ![[books_Behave#^301731155]]
+
+> ![[books_Behave#^301731161]]

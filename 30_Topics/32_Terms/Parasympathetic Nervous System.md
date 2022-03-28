@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/topic/2021/12/30, node/topic/term
+sr-due: 2022-03-28
+sr-interval: 1
+sr-ease: 224
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
@@ -11,3 +14,12 @@ tags: created/topic/2021/12/30, node/topic/term
 
 Counterpart to the [[Sympathetic Nervous System]] in the [[ANS]]. Heavily involves the [[Vagus Nerve]]. 
 
+> [!wikipedia] [Parasympathetic Nervous System](https://en.wikipedia.org/wiki/Parasympathetic%20nervous%20system)
+> 
+> The parasympathetic system is responsible for stimulation of "rest-and-digest" or "feed and breed" activities that occur when the body is at rest, especially after eating, including sexual arousal, salivation, lacrimation (tears), urination, digestion, and defecation. 
+> 
+> Nerve fibres of the parasympathetic nervous system arise from the [[central nervous system]]. Specific nerves include several cranial nerves, specifically the oculomotor nerve, facial nerve, glossopharyngeal nerve, and [[vagus nerve]]. 
+>
+
+
+> ![[books_Behave#^301731160]]
