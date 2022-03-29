@@ -26,6 +26,7 @@ Possibly
 explained by:: [[The ego is the brain's response to the realization that we are just another individual in the world]].
 
 - [[Meditation is a practice to gain control over your thoughts]]
+- [[Our ego defends every belief we hold conscious or subconscious]]
 
 ### <hr class="footnote"/>
 
