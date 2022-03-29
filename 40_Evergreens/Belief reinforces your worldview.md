@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/22, review, node/evergreen/behavior
-sr-due: 2022-03-29
-sr-interval: 2
+sr-due: 2022-04-01
+sr-interval: 3
 sr-ease: 170
 ---
 
@@ -30,6 +30,7 @@ even though [[Jordan Peterson]]'s understanding of [[Psychology]] is good, his u
 
 This 
 explains:: [[What are the blindspots of the Christian worldview|the blindspots in the Christian worldview]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

@@ -13,7 +13,7 @@ sr-ease: 190
 
 [[Social media]] uses [[algorithmic content]] to deliver you the content that you want, when you want it, and for as long as you want it. This can create a strong sense of [[community]] as you see the same content creators time and time again, and they start to recognize you, but this [[community]] is fragile.
 
-This is because the [[community]] can be removed at anytime (banned, algorithm changes, whims of [[culture]]), it can be overrun by foul actors (through some algorithmic method), it can only be kept through constant interaction with the community.
+This is because the [[community]] can be removed at anytime (banned, algorithm changes, whims of [[Culture]]), it can be overrun by foul actors (through some algorithmic method), it can only be kept through constant interaction with the community.
 Yet while you are in it, you come to rely on it because
 [[Communities are support systems]], and once you are part of it it is devastating to lose it.
 

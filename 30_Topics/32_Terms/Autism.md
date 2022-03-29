@@ -36,7 +36,7 @@ and instead support educating and changing [[society]] to better support autisti
 > 
 > Several interventions have been shown to reduce symptoms and improve the ability of autistic people to function and participate independently in the community. Behavioral, psychological, education, and/or skill-building interventions may be used to assist autistic people to learn life skills necessary for living independently, as well as other social, communication, and language skills. Therapy also aims to reduce challenging behaviors and build upon strengths. 
 > 
-> An autistic [[culture]] has developed, with some individuals seeking a cure and others believing autism should be accepted as a difference to be accommodated instead of cured.
+> An autistic [[Culture]] has developed, with some individuals seeking a cure and others believing autism should be accepted as a difference to be accommodated instead of cured.
 >
 
 **See**:: [[neurodiversity]]

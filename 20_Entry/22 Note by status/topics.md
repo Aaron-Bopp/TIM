@@ -244,7 +244,7 @@
 | [[forgiveness]] | 1 |
 | [[Tiktok]] | 1 |
 | [[algorithmic content]] | 1 |
-| [[culture]] | 1 |
+| [[Culture]] | 1 |
 | [[Sagacious sayings]] | 2 |
 | [[prejudice]] | 2 |
 | [[discrimination]] | 2 |

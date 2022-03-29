@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[Communities are support systems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This is something we have lost as a part of [[individualism|individualistic]] [[America|American]] [[culture]].
+This is something we have lost as a part of [[individualism|individualistic]] [[America|American]] [[Culture]].
 
 This is part of what makes [[community]] so valuable, but it also allows them to be predatory.
 [[Communities are knowledge graphs]], so finding a community of similarly interested people can be very valuable to learning a new skill of exploring of new area of thought. 

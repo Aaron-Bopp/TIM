@@ -1,13 +1,13 @@
 ---
-created: 2022-03-28
+created: 2022-03-29
 edited:
-tags: created/source/2022/03/28, node/source/books
+tags: created/source/2022/03/29, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-28
+sr-due: 2022-03-29
 sr-interval: 2
 sr-ease: 230
 ---
@@ -339,6 +339,17 @@ Refering to groups of birds. Callers refering to birds that let out warning crie
 When we compare the fitness of callers and noncallers within each group, we see that callers are the losers in both cases. However, the group with more callers fares better than the group with fewer callers. This is the classic group selection scenario that began with Darwin. 
 
 ^288878740
+
+##### ^304185840
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=271  
+
+###### ^304185840q
+
+Elliott Sober and I call the practice of first subsuming group selection into the definition of individual selection, and then using this expanded definition to argue against group selection, “the averaging fallacy.” 
+
+^304185840
 
 ##### How to define groups
 ##### ^288878742
@@ -1098,8 +1109,6 @@ it would be wrong to conclude that the general thesis of functionalism was simil
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1044  
 
-Evans-Pritchards greatest contribution  
-
 ###### ^295490294q
 
 segmentation: the organization of leaderless tribes into a nested hierarchy of groups that can become functionally organized at any level, depending on the scale of the environmental challenge (usually warfare). 
@@ -1720,6 +1729,383 @@ Calvin’s catechism is shown in table 3.1. It includes the familiar injunctions
 
 ^303892917
 
+##### ^304185841
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1656  
+
+###### ^304185841q
+
+it is fitting to endure those who insolently abuse their power, until freed from their yoke by a lawful order. For as a good prince is proof of divine beneficence for the preservation of human welfare, so a bad and wicked ruler is his whip to chastise the peoples’ transgressions. 
+
+^304185841
+
+##### ^304185842
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1682  
+
+###### ^304185842q
+
+One of the hallmarks of Calvinism, well-recognized by Calvin scholars, is that it sanctifies the mundane occupations of life. A baker or farmer can feel an element of holiness similar to that of a priest because all are ministers, performing organ-like functions to sustain the body of the church. 
+
+^304185842
+
+##### ^304185843
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1699  
+
+###### ^304185843q
+
+Language can be used for deception and exploitation as well as for cooperation. Honest communication, like any other form of prosocial behavior, is vulnerable to the fundamental problem of social life and requires special conditions to evolve. 
+
+^304185843
+
+##### ^304185844
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1702  
+
+###### ^304185844q
+
+“Turn the other cheek” is often interpreted as an invitation for exploitation, but at least in the case of Calvinism nothing could be further from the truth. In the first place, Calvin’s catechism discusses forgiveness far more in the context of the God-people relationship (described below) than of the people-people relationship. In the second place, it provides a detailed procedure for punishing transgressions in which forgiveness is highly conditional upon repentance 
+
+^304185844
+
+##### ^304185845
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1715  
+
+###### ^304185845q
+
+In the absence of a strong church or comparable social organization, individuals must maintain their own social order, which leads to a limited amount of cooperation at a small scale but also to feuds and rivalries that are dysfunctional at a larger scale. 
+
+^304185845
+
+##### ^304185846
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1717  
+
+###### ^304185846q
+
+A church that attempts to build a unified society at a large scale must suppress the self-help mechanisms that come all too naturally to its members. Members must forgive each other’s trespasses, which will be punished at a higher level. 
+
+^304185846
+
+##### ^304185847
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1732  
+
+###### ^304185847q
+
+An adaptive belief system cannot simply provide a list of behaviors but must also justify them. 
+
+^304185847
+
+##### ^304185848
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1737  
+
+###### ^304185848q
+
+An adaptive belief system must cope with ignorance in its justification of behaviors. 
+
+^304185848
+
+##### ^304185849
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1745  
+
+###### ^304185849q
+
+an adaptive belief system must be economical. The beliefs that justify the behaviors must be easily learned and employed in the real world. 
+
+^304185849
+
+##### ^304185850
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1747  
+
+###### ^304185850q
+
+a fictional belief system can be more motivating than a realistic belief system. 
+
+^304185850
+
+##### ^304185851
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1750  
+
+###### ^304185851q
+
+a fictional belief system can perform the same functions as externally imposed rewards and punishments, often at a much lower cost. 
+
+^304185851
+
+##### ^304185852
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1754  
+
+###### ^304185852q
+
+Groups governed by belief systems that internalize social control can be much more successful than groups that must rely on external forms of social control. 
+
+^304185852
+
+##### ^304185853
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1763  
+
+###### ^304185853q
+
+Major elements of the God-person relationship in Calvin’s catechism are listed in table 3.2. God is portrayed as an all-powerful being who created man in his own image. Instead of worshiping God with fitting gratitude, man arrogantly placed himself above God and had to be deprived of all glory to recognize its true source. All people share this original sin and are born thoroughly depraved. By themselves they have no free will to choose between good and evil; they are bent on evil. Their only path to redemption is to become convinced of their corrupt nature and the certain horrible fate that awaits them if they do not earnestly seek God. Then, however, they have opened “the first door into his Kingdom” by overthrowing “the two most harmful plagues of all, carefree disregard of his vengeance and false confidence in our own capacity.” 
+
+^304185853
+
+##### ^304185854
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1776  
+
+###### ^304185854q
+
+God is described not only as a father who has our best interest at heart but also as a powerful and just Lord who is quick to punish those who do not earnestly try to seek him. To feel secure within this belief system, one must strive for perfection with all one’s heart and soul, even though it is impossible to achieve. 
+
+^304185854
+
+##### ^304185871
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1782  
+
+###### ^304185871q
+
+Calvinism uses elements of human psychology that exist apart from religion as building blocks to build a new structure. ... Most people who violate a social norm feel apologetic and eager to make amends, while most people whose norms have been violated are willing to forgive after an appropriate period of repentance. 
+
+^304185871
+
+##### ^304185857
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1790  
+
+###### ^304185857q
+
+faith is “confidence, reliance, belief, especially without evidence or proof.” Faith is required for action in an uncertain world, but usually it is designed to be modified by experience. 
+
+^304185857
+
+##### ^304185858
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1793  
+
+###### ^304185858q
+
+Calvin’s catechism turns faith from a belief designed to be modified by experience into a fortress designed to protect the belief system from experience. 
+
+^304185858
+
+##### ^304449635
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1817  
+
+###### ^304449635q
+
+Another pillar of the God-people relationship in Calvin’s catechism is the internalization of the belief system. The ideal is a complete replacement of self-will with God’s will, which becomes second nature. ... Internalization is encouraged by prayer, ... Calvin recognizes that the ideal of internalization is as unattainable as the ideals of behavior, and he even describes temptation as a kind of exercise that keeps us spiritually strong: 
+
+^304449635
+
+##### ^304449611
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1827  
+
+###### ^304449611q
+
+Despite his own intellectual talents, Calvin scorned “bare knowledge of God or understanding of Scripture which rattles around the brain and affects the heart not at all” (18). Similarly, exemplary behavior by itself is nothing without an underlying “purity of conscience” (20). Of course, purity of conscience cannot fail to produce exemplary behavior, so the emphasis on faith rather than works is not a license for selfishness. 
+
+^304449611
+
+##### ^304449614
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1853  
+
+###### ^304449614q
+
+Calvin believed (along with many others of his time) that the final struggle was at hand between God and the Antichrist, whom Calvin firmly believed was the Pope. However, Christ wanted his church to be rebuilt and restored before his return. This imparted not only a sense of urgency but also a sense that the past and present did not predict what is possible in the future. According to Wallace 
+
+^304449614
+
+##### ^304449615
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1867  
+
+###### ^304449615q
+
+When it comes to turning a group into a societal organism, scarcely a word of Calvin’s catechism is out of place. 
+
+^304449615
+
+#### Social organization
+##### ^304449617
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1869  
+
+Contrasts imagined reality  
+
+###### ^304449617q
+
+No matter how powerful, a belief system by itself is probably insufficient to turn a group into a societal organism. A social organization is also required to enforce the norms and to coordinate the activities of those who abide by the norms. 
+
+^304449617
+
+##### ^304171996
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3487  
+
+###### ^304171996q
+
+Since pairs of TFT behave nicely toward each other and take over the population, altruism becomes the only behavior expressed even though the capacity for retaliatory selfishness is latent in every individual. 
+
+^304171996
+
+##### ^304171997
+
+highlight_tags:: [[c1]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3489  
+
+###### ^304171997q
+
+After all, TFT wins the tournament, so how can it be called altruistic? This reasoning, which confuses selfishness with success, commits the fallacy of averaging across groups 
+
+^304171997
+
+##### ^304172011
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3491  
+
+###### ^304172011q
+
+we must define altruism and selfishness on the basis of fitness differences within and between groups. ... TFT is constitutionally unable to beat its partner within its own group. It can only lose or tie. The reason that TFT wins the tournament is because pairs of TFT are more fit than pairs in which selfishness is expressed. TFT evolves by between-pair selection, not within-pair selection. 
+
+^304172011
+
+##### ^304185860
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3497  
+
+###### ^304185860q
+
+TFT is often described as having three properties: It is nice (by beginning as an altruist), quick to retaliate (by immediately becoming selfish in response to selfishness), and equally quick to forgive (by immediately becoming altruistic in response to altruism). 
+
+^304185860
+
+##### ^304185861
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3500  
+
+###### ^304185861q
+
+forgiveness succeeds only because it is tightly linked with retaliation. 
+
+^304185861
+
+##### ^304185862
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3515  
+
+###### ^304185862q
+
+Generous Tit-for-Tat (GTFT), which forgives selfish acts without retaliating a certain proportion of the time that depends on the frequency of mistakes. If it is too generous it risks being exploited by selfish partners. It if isn’t generous enough it suffers from sour relationships with potentially altruistic partners. The equilibrium degree of generosity represents a balance between these two opposing forces 
+
+^304185862
+
+##### ^304185863
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3532  
+
+###### ^304185863q
+
+the most fit rules for social behavior are primarily altruistic. They succeed by doing well as groups (pairs) rather than by exploiting their partners within groups. 
+
+^304185863
+
+##### ^304185864
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3533  
+
+###### ^304185864q
+
+the most successful forms of altruism are usually (although not always) protected from selfishness through the capacity to retaliate. 
+
+^304185864
+
+##### ^304185865
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3545  
+
+###### ^304185865q
+
+Our big brains might allow us to play the social game better than other creatures, but we are playing the same game. 
+
+^304185865
+
+##### ^304185872
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3548  
+
+###### ^304185872q
+
+I find it highly plausible that we are endowed with an innate psychology that is crudely approximated by the adaptive rules of the evolutionary models ... We have an innate capacity for altruism, selfishness, retaliation, forgiveness, contrition, generosity, commitment, saintliness, and vengefulness.2 More, we are endowed with a set of if-then rules for when to employ these traits. 
+
+^304185872
+
+##### ^304185868
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=3556  
+
+###### ^304185868q
+
+Forgiveness is often valued and retaliation devalued in everyday thought, especially Christian thought. For the moment, we need to suspend these value judgments. In the context of evolutionary models, retaliation is absolutely essential to keep the wolves of selfishness at bay. To retaliate can be divine. 
+
+^304185868
+
+##### ^304185873
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4045  
+
+###### ^304185873q
+
+Cultures are defensive constructions against chaos, designed to reduce the impact of randomness on experience. ... Cultures prescribe norms, evolve goals, build beliefs that help us tackle the challenges of existence. 
+
+^304185873
+
 ##### ^288838024
 
 highlight_tags:: [[orange]]   
@@ -1735,6 +2121,8 @@ A behavior is selfish when it increases the fitness of the actor, relative to ot
 
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389  
+
+[[Evolutionary Psychology]]  
 
 ###### ^292550153q
 

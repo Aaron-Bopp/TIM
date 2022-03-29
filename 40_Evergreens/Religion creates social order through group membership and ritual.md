@@ -22,17 +22,11 @@ and spurn ones related with the profane
 ^[**profane** - corrupt morally or by intemperance or sensuality]
 and would in this way create the group cohesiveness needed for [[social order]].
 
-> ![[books_Darwin's Cathedral#^303348912]]
+> [!cite] Example: A ritual around electing a King in [[Gabon]] (1868)
+> 
+> ![[books_Darwin's Cathedral#^295490306]]  
 
-
-> ![[books_Darwin's Cathedral#^295490296]]
-
-An example of this is the ritual around electing a King in [[Gabon]] (1868)
-
-> ![[books_Darwin's Cathedral#^295490306]]
-
-
-> ![[books_Darwin's Cathedral#^295490302]]
+Durkheim felt that emotional catharsis of emotional rituals such as this one in Gabon would both encourage group membership and increase group cohesion, and those familiar with the culture such as [[Malidoma Patrice Some]] said ritual was an inseparable aspect of maintaining social [[responsibility]].
 
 ### <hr class="footnote"/>
 
@@ -46,6 +40,10 @@ An example of this is the ritual around electing a King in [[Gabon]] (1868)
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
+> ![[books_Darwin's Cathedral#^295490302]]
+
 > ![[books_Darwin's Cathedral#^295490287]]
 
 > ![[books_Darwin's Cathedral#^295490289]]
+
+> ![[books_Darwin's Cathedral#^303348912]]

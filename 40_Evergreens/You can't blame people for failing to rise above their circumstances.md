@@ -14,7 +14,7 @@ sr-ease: 194
 Most humans will not rise above their situation.
 ^[In fact, it could be said that no person does depending on your belief in [[free will]]: 
 [[Do we have free will]]]
-Modern [[America|American]] [[culture]] often blames people for not "pulling themselves up by their bootstraps." 
+Modern [[America|American]] [[Culture]] often blames people for not "pulling themselves up by their bootstraps." 
 This widespread belief is mainly due to [[propaganda]] that is spread about [[America]]'s superiority,
 ^[and thus is largely rooted in [[white supremacy]]:
 [[Whiteness was created to marginalize people of color]]]

@@ -14,7 +14,7 @@ sr-ease: 214
 
 > [!wikipedia] [Cultural Evolution](https://en.wikipedia.org/wiki/Cultural%20evolution)
 > 
-> Cultural evolution is an evolutionary theory of social change. It follows from the definition of [[culture]] as "[[information]] capable of affecting individuals' [[behavior]] that they acquire from other members of their species through teaching, [[imitation]] and other forms of social transmission". 
+> Cultural evolution is an evolutionary theory of social change. It follows from the definition of [[Culture]] as "[[information]] capable of affecting individuals' [[behavior]] that they acquire from other members of their species through teaching, [[imitation]] and other forms of social transmission". 
 > 
 > Today, cultural evolution has become the basis for a growing field of scientific research in the social sciences, including [[anthropology]], [[economy|economics]], [[psychology]] and organizational studies. Previously, it was believed that social change resulted from biological adaptations, but anthropologists now commonly accept that social changes arise in consequence of a combination of social, evolutionary and biological influences. 
 

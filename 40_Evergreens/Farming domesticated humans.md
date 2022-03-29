@@ -19,7 +19,7 @@ sr-ease: 230
 Wheat did not offer us a better life, but [[Farming outcompeted foraging by allowing for higher populations]]. Cultivating wheat allowed for the population to grow exponentially.
 [[Farming prevented a return to foraging for early humans]]
 
-This domestication lead to the development of [[society]] and [[culture]] as human's being closer together for long periods of time allowed them to develop an [[Imagined reality]], which 
+This domestication lead to the development of [[society]] and [[Culture]] as human's being closer together for long periods of time allowed them to develop an [[Imagined reality]], which 
 leads to:: [[Social order is built off of a shared belief in an imagined reality]] and [[Greater cooperation and communication has lead to the success of humans as a species]].
 
 ### <hr class="footnote"/>

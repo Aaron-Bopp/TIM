@@ -26,7 +26,7 @@ The influences on human behavior are many and the study of these influences take
 > Human behavior is the potential and expressed capacity (mentally, physically, and socially) of human individuals or groups to respond to internal and external stimuli throughout their life.
 >  
 > In:: [[sociology]], 
-> behavior may broadly refer to all basic human actions, including those that possess no meaning—actions directed at no person. Behavior in this general sense should not be mistaken with [[social behavior]]. Social behavior, a subset of human behavior that accounts for actions directed at others, is concerned with the considerable influence of [[social behavior]] and [[culture]], as well as [[ethics]], social environment, authority, [[persuasion]], and [[coercion]].
+> behavior may broadly refer to all basic human actions, including those that possess no meaning—actions directed at no person. Behavior in this general sense should not be mistaken with [[social behavior]]. Social behavior, a subset of human behavior that accounts for actions directed at others, is concerned with the considerable influence of [[social behavior]] and [[Culture]], as well as [[ethics]], social environment, authority, [[persuasion]], and [[coercion]].
 
 > [!wikipedia]- What effects behavior?
 > 

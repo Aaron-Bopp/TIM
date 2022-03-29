@@ -552,3 +552,37 @@ Is the amygdala solely the keyboard (with fear memories stored elsewhere), or is
 
 ^302856307
 
+# New highlights added March 29, 2022 at 4:26 PM
+##### ^304449638
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=11019  
+
+###### ^304449638q
+
+There are about ten glial cells for every neuron, coming in various subtypes. They greatly influence how neurons speak to one another, and also form glial networks that communicate completely differently from neurons. 
+
+^304449638
+
+##### ^304449639
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=11023  
+
+###### ^304449639q
+
+Cells are usually small, self-contained entities—consider little round red blood cells: Neurons, in contrast, are highly asymmetrical, elongated beasts, typically with processes sticking out all over the place: 
+
+^304449639
+
+##### ^304449640
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=11028  
+
+###### ^304449640q
+
+A zillion red blood cells fit on the proverbial period at the end of this sentence. In contrast, there are single neurons in the spinal cord that send out projection cables many feet long. There are spinal cord neurons in blue whales that are half the length of a basketball court. 
+
+^304449640
+

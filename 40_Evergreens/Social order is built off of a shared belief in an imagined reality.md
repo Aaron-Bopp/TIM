@@ -36,7 +36,7 @@ Perhaps in this case [[Social media]] is maladaptive.
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[culture]], [[belief]], [[social order]], [[humanity]]
+**Topics**:: [[Culture]], [[belief]], [[social order]], [[humanity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 > ![[books_Sapiens#294248538q]]

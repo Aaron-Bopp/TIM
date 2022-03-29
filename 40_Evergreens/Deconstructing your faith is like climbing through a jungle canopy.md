@@ -13,7 +13,7 @@ sr-ease: 219
 
 The reason that deconstruction feels this way is because,
 [[Working through trauma can involve of a lot of letting go]]
-and [[Sometimes we can't grow until we change our environment]]. Whether you are still trying to be a [[Christianity|Christian]] or not, if you are still seeped in church [[culture]] and surrounded by close-minded people you won't be able to fully deconstruct. 
+and [[Sometimes we can't grow until we change our environment]]. Whether you are still trying to be a [[Christianity|Christian]] or not, if you are still seeped in church [[Culture]] and surrounded by close-minded people you won't be able to fully deconstruct. 
 ^[This doesn't have to be the case but it is right now: [[The church will fail if christians keep aligning themselves with hate instead of love]]]
 
 [[Faith can be a useful tool for grounding yourself]], because [[Christianity]] answers [[The three main questions of life]]. This means you may not have grappled with the fact that [[Knowledge of an unjust world is painful]] without the trump card of salvation and heaven.

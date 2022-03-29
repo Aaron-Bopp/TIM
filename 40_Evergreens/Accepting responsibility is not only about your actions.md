@@ -13,7 +13,7 @@ sr-ease: 242
 
 #### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%%I wish I could have ancestors that I'm proud of. I wish I could look back and see [[culture]] and history that I could draw from. But I can't. #TO/PONDER/ME %%
+%%I wish I could have ancestors that I'm proud of. I wish I could look back and see [[Culture]] and history that I could draw from. But I can't. #TO/PONDER/ME %%
 
 In [[Germany]] they accept responsibility for the Holocaust.
 %% despite no living person having taken part in it %% 
