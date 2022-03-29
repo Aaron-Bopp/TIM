@@ -17,7 +17,7 @@ sr-ease: 190
 - [[Most problems cannot be significantly understood through a single framework]]
 
 #TO/TEND/GRAFT 
-- [[Belief pulls you forward into life]]
+- [[Belief helps us push through hardship]]
 - [[Faith can be a useful tool for grounding yourself]]
 
 ### <hr class="footnote"/>

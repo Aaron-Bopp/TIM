@@ -42,6 +42,6 @@ sr-ease: 250
 - There is scientific evidence for [[mantra]] as [[Dharana]] and [[Dhyana]] but not as [[Samadhi]] as that is a much more [[spirituality|spiritual]] concept
 - Once you reach [[Samadhi]], your [[mantra]] becomes a way to affect reality.
 - [[mantra]] helps you channel the [[Brahman]] like really really advanced [[manifestation]]
-	- [[Belief pulls you forward into life]]
+	- [[Belief helps us push through hardship]]
 - [[Japa Meditation]]
 

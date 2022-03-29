@@ -32,7 +32,7 @@ workspace: Belief GvB PvS
 	- [[The moral majority movement was the original 'making things political']]
 	- [[Single issue voters are anti-democratic]]
 	- [[Abortion and immigration are detrimental to white supremacy]]
-- [[Belief pulls you forward into life]]
+- [[Belief helps us push through hardship]]
 	- [[Humans are addicted to believing]]
 	- [[Worldviews should be open ended and adaptive]]
 

@@ -9,7 +9,7 @@ sr-interval: 33
 sr-ease: 130
 ---
 
-#### [[Belief pulls you forward into life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Belief helps us push through hardship]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is 
 enabled by:: [[Belief can motivate adaptation]] 

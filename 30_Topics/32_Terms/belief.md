@@ -11,7 +11,7 @@ tags: created/topic/2021/12/31, node/topic/outline
 
 - Belief is good
 	- [[Belief can motivate adaptation]]
-	- [[Belief pulls you forward into life]]
+	- [[Belief helps us push through hardship]]
 	- debatably [[A conversion experience can help us reshape our sense of self]]
 - but [[Humans are addicted to believing]]
 	- this has lead to 

@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[Belief can motivate adaptation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-In modern times we still cling to [[religion]] because [[Belief pulls you forward into life]], but the roots of this trait go beyond any individual [[religion]]. 
+In modern times we still cling to [[religion]] because [[Belief helps us push through hardship]], but the roots of this trait go beyond any individual [[religion]]. 
 
 It does not matter if the thing you are believing in is true; as long as it motivates [[behavior]] that is adaptive that [[belief]] is adaptive.
 

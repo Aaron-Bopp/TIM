@@ -16,7 +16,7 @@ Humans want to believe because [[Humans have decided to reject an unjust world]]
 the problem is when we pathologize this addiction and spread it as far as we can: [[Evangelicalism has commodified faith for profit]]]
 
 [[Belief]] helps us deal with living in an unjust world:
-- [[Belief pulls you forward into life]]
+- [[Belief helps us push through hardship]]
 - [[Faith can be a useful tool for grounding yourself]]
 
 The effects are

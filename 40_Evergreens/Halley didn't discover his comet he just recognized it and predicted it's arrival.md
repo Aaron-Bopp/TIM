@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/02/15, review, node/evergreen/example/fun
-sr-due: 2022-03-29
-sr-interval: 26
+sr-due: 2022-05-25
+sr-interval: 57
 sr-ease: 230
 ---
 
@@ -16,5 +16,5 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Topics**:: [[space]], [[comets]], [[Halley's comet]]
+**Topics**:: [[history of science]], [[comets]], [[Halley's comet]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

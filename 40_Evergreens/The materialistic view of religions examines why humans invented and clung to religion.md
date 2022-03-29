@@ -27,7 +27,7 @@ This may be a result of [[wonder]] being one of our most basic instincts:
 [[Wonder motivates us to interact with the world around us]]
 
 There are two things about religion and belief that show this addiction:
-- [[Belief pulls you forward into life]].
+- [[Belief helps us push through hardship]].
 - [[A conversion experience can help us reshape our sense of self]]
 
 As opposed to a more social answer, these things are personal. We want to succeed and [[A secure worldview is the best defense against existential dread]].

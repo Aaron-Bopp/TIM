@@ -12,7 +12,7 @@ sr-ease: 170
 #### [[Belief reinforces your worldview]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 Depending on your worldview this
-results in:: [[Belief pulls you forward into life]] or [[Sadness is enlightenment and happiness is delusion]].
+results in:: [[Belief helps us push through hardship]] or [[Sadness is enlightenment and happiness is delusion]].
 We can believe that there is no hope or we can believe that there isn't.
 
 This is 

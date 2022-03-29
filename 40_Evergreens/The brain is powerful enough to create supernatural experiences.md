@@ -2,32 +2,38 @@
 created: 2021-06-28
 edited: 
 tags: created/evergreen/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-03-29
-sr-interval: 41
+sr-due: 2022-06-15
+sr-interval: 78
 sr-ease: 190
 ---
 
 #### [[The brain is powerful enough to create supernatural experiences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-These experiences have often been core to [[human advancement]] and [[self-actualization]], resulting in [[religion]] and [[enlightenment]]. The brain's ability to bring about a [[spirituality|spiritual]] [[experience]] is an observable fact rooted in [[Biology]] and [[Neuroscience]] (and is the effect of many psychedelic drugs). #TO/DO/CITE 
+Supernatural experiences have often been core to [[human advancement]] and [[self-actualization]], resulting in [[religion]] and [[enlightenment]]. The brain's ability to bring about a [[spirituality|spiritual]] [[experience]] is an observable fact rooted in [[Biology]] and [[Neuroscience]] (and is the effect of many psychedelic drugs). #TO/DO/CITE 
 
-[[Humans are primarily irrational, illogical, emotional beings]], when we don't understand something we will explain it, [^1] and when something really doesn't make sense, we make a [[religion]] out of it. [^2] Supernatural experiences could just be our bodies way of explaining something so that we can move on a survive: [[Our brain will do anything it can to protect itself]] 
-
-[^1]:  [[Human's will find explanations for inexplainable things]]
-[^2]: [[The materialistic view of religions examines why humans invented and clung to religion]]
+[[Human's will find explanations for inexplainable things]]
+and when something really doesn't make sense, we make a [[religion]] out of it. 
+Supernatural experiences could just be our bodies way of explaining something so that we can move on a survive,
+which makes this
+part of:: [[What is the origin of religion]].
 
 ##### Cause:: [[Faith is an abstraction of cognitive dissonance]]
 
-The driver behind this biological process could be a [[morality|moral]] reaction. How do we justify killing another person? God told us to do it. How do we justify killing and entire village to steal their resources? They didn't worship the same god as us. [[What is the cognitive effect of living in an unjust world|What is the cognitive effect of living in an unjust world?]]
-
-What does this mean for the bible? Moses could have seen a burning bush. Why not? but in modern times 
-[[People have been conditioned to believe the bible has to be infallible]]. 
-This moral reaction has been used to take advantage of [[Christianity|Christian's]] [[empathy]]:
-[[Evangelicalism has commodified faith for profit]]
+The driver behind this biological process could be a [[morality|moral]] reaction. How do we justify killing another person? God told us to do it. How do we justify killing and entire village to steal their resources? They didn't worship the same god as us. 
 
 ##### Cause:: [[Humans transfer their wonder into creativity]]
-#TO/WRITE 
-tied into:: [[Humans have decided to reject an unjust world]]
+
+Prayer is basically [[meditation]] which has been shown to bring about supernatural experiences. ( #TO/DO/CITE )  
+
+#####  What does this mean for the bible?
+
+Moses could have seen a burning bush. Why not? and he would have had no better explanation than a supernatural being.
+But in modern times the miracles of the Bible or highly suspicious modern miracles and have 
+lead to:: [[People have been conditioned to believe the bible has to be infallible]]. 
+
+Additionally,
+these signs of divinity has been used for the gain of the grifters that spread them:
+[[Evangelicalism has commodified faith for profit]]
 
 ### <hr class="footnote"/>
 

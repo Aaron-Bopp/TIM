@@ -2,9 +2,9 @@
 created: 2021-06-12
 edited: 
 tags: created/evergreen/2021/06/12, review, node/evergreen/claim
-sr-due: 2022-03-29
-sr-interval: 3
-sr-ease: 244
+sr-due: 2022-03-31
+sr-interval: 2
+sr-ease: 224
 ---
 
 #### [[Knowledge of an unjust world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,14 +20,12 @@ leads to:: us thinking [[Realism must acknowledge optimism's existence and effec
 
 This is a big part of [[Accepting responsibility is not only about your actions]]. You must accept your part in the hurt of the world without crippling yourself.
 
-Becoming obsessed/absorbed by this fact leads to thoughts like [[Sadness is enlightenment and happiness is delusion]]
-
 Once you have realized this, you will realize [[You can't blame people for failing to rise above their circumstances]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[white guilt]], [[racism]], [[self-actualization]], [[political strategy]]
+**Topics**::  [[self-actualization]], [[political strategy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

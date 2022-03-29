@@ -20,9 +20,9 @@ sr-ease: 185
 Knowledge management or personal knowledge management is an area of thought commonly associated
 with:: [[networked thinking]], [[web of thought|webs of thought]], [[Zettelkasten]], [[second brain]], [[evergreen notes]], and many other systems of [[note writing]].
 
-Not yet widely recognized in [[science]] or [[academia]],
-the term knowledge management became more widely used during [[COVID-19]] lockdowns in 2020. #TO/DO/CITE 
-Knowledge management does draw from many other areas such as [[library science]].
+The term knowledge management became more widely used during [[COVID-19]] lockdowns in 2020,
+as a large amount of time inside lead to both users and developers to flock to the space.%%  #TO/DO/CITE  %%
+Knowledge management draws from many other areas such as [[library science]] and [[information science]].
 
 Knowledge management is usually seen as a part of the tools that allow for [[bi-directional links]], templating, and use of a [[knowledge graph]], although these are not required as long as the software provides functionality beyond writing and reading text.
 Examples of these tools would be [[Obsidian (software)|Obsidian]], [[Roam Research (software)|Roam Research]], [[Evernote]], [[Notion]], and others.

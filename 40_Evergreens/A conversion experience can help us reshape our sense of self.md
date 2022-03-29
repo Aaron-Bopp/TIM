@@ -13,7 +13,7 @@ sr-ease: 190
 
 > ![[books_Darwin's Cathedral#293875897q]]
 
-- part of:: [[Belief pulls you forward into life]]
+- part of:: [[Belief helps us push through hardship]]
 - part of:: [[The Christian worldview is incompatible with most other worldviews]]
 - part of:: [[The materialistic view of religions examines why humans invented and clung to religion]]
 - why:: [[Religious concepts are often too powerful for a child's mind]]
