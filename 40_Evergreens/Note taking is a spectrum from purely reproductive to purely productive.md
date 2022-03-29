@@ -4,20 +4,22 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2021/12/11, review, node/evergreen/claim
-sr-due: 2022-03-29
-sr-interval: 23
+sr-due: 2022-04-30
+sr-interval: 32
 sr-ease: 130
 ---
 
 #### [[Note taking is a spectrum from purely reproductive to purely productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Three possible kinds of notes
-- [[Conceptual notes]] notes that are purely taken on individual concepts
-	- [[evergreen notes]] and [[topic notes]]
+possible kinds of notes
 - [[referential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book
-	- [[source notes]]
+	- [[source notes]], class notes
+- [[Conceptual notes]] notes that are purely taken on individual concepts
+	- [[topic notes]], wikipedia articles
 - Transformative notes: notes that transform the material into things like questions and answers or prompts
-	- [[evergreen notes]]
+	- [[evergreen notes]], and the rest of [[writing]]
+- [[organizational notes]] - mainly exists in [[web of thought|webs of thought]] as other mediums have organization through tables of content
+	- [[topic notes]], structure zettel, MOC
 
 Notes we take in school are mainly reproductive notes. 
 

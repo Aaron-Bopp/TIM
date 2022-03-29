@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-03-29
-sr-interval: 6
+sr-due: 2022-04-12
+sr-interval: 14
 sr-ease: 230
 ---
 
@@ -15,7 +15,7 @@ sr-ease: 230
 
 - similarly:: [[Gender is a social construct]]
 - ![[Prioritize understanding over organization or categorization#^962fba]]
-- kinda related, we are over categorizing?
+	- kinda related, we are over categorizing?
 - part of:: [[What is the origin of patriarchy]]
 
 ### <hr class="footnote"/>

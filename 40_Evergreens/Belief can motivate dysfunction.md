@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/27, review, node/evergreen/claim
-sr-due: 2022-03-29
-sr-interval: 2
-sr-ease: 236
+sr-due: 2022-03-30
+sr-interval: 1
+sr-ease: 216
 ---
 
 #### [[Belief can motivate dysfunction]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

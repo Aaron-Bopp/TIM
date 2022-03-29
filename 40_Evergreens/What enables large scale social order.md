@@ -61,6 +61,8 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681730]]
+> ![[books_Sapiens#^297681739]]
 
 > ![[books_Sapiens#^297681757]]
+
+> ![[books_Sapiens#^297681730]]

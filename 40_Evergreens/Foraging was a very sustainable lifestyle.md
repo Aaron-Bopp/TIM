@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/evergreen/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-29
-sr-interval: 6
+sr-due: 2022-04-14
+sr-interval: 16
 sr-ease: 230
 ---
 
@@ -18,7 +18,7 @@ The three main aspects that made foraging sustainable were:
 - [[Foraging allowed for a diverse diet]]
 - [[Foragers suffered less from disease]]
 
-This meant that baring great natural disaster, an ecosystem with foragers in it would be stable possibly hundreds of thousands of years.
+This meant that baring great natural disaster, an ecosystem with foragers in it would be stable for possibly hundreds of thousands of years.
 
 While the above traits allowed foragers to live at peace with the environment,
 the social aspect of foraging's sustainability is also important.
