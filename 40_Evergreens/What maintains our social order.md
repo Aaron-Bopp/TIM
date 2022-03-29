@@ -11,13 +11,18 @@ sr-ease: 210
 
 #### [[What maintains our social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-from:: [[What enables widespread social order]]
+What are the methods that keep our [[society]] from collapsing (or keep it in a state of perpetual collapse)?
 
 #####  shared [[belief]]
 
-If we believe that the foundation of our [[social order]] is an [[Imagined order]] based off our shared [[Imagined reality]], then we must believe that there is a connection between our shared [[belief]] and the maintenance of our [[material conditions]].
+If we believe [[Social order is built off of a shared belief in an imagined reality]] then we must believe that there is a connection between our shared [[belief]] and the maintenance of our [[material conditions]].
 [[Yuval Noah Harari]] believes our belief in myths is this connection and that losing these beliefs would shake and change our [[social order]].
 ^[[[books_Sapiens#^297681744]]]
+The problem is that even if we could change the mind of every person on the planet, it would not change the world we live in until we acted.
+While the social order was built through shared imagination, it cannot be changed through imagination, it can only be changed though action.
+
+##### [[social construct]]
+
 I would argue that once a [[Imagined reality]] has become a [[social construct]] it will have *non*-imagined (or material) effects on the world. Once this has happened, letting go of that [[belief]] will not affect that [[social construct]], we need to tear it down.
 
 ##### [[violence]]

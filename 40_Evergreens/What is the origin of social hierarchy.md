@@ -11,7 +11,7 @@ sr-ease: 190
 
 #### [[What is the origin of social hierarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- part of:: [[What enables widespread social order]]
+- part of:: [[What enables large scale social order]]
 - explains:: [[What maintains our social order]]
 
 Answering this 

@@ -26,7 +26,7 @@ In [[books_Sapiens|Sapiens by Yuval Noah Harari]], this take over by [[homo sapi
 
 Our increased cognitive abilities allowed us to create an [[imagined reality]] that allowed us to cooperate and adapt at a faster rate.
 This was the very beginning of our [[social order]] that would evolve for the next 300,000 years.
-^[This is explored much more in [[What enables widespread social order]]]
+^[This is explored much more in [[What enables large scale social order]]]
 
 This may seem inconsequential to modern day humans, but the very same biological mechanisms that allowed us to overtake prehistoric humans are still effecting us today,
 ^[[[Our biology has not significantly changed for thousands of years]]]

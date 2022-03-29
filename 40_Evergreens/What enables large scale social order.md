@@ -9,14 +9,18 @@ sr-interval: 6
 sr-ease: 210
 ---
 
-#### [[What enables widespread social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What enables large scale social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Social order]] is a phenomena that springs up naturally out of [[social behavior]].
+part of:: [[What maintains our social order]]
+
+[[Social order]] is a phenomena that springs up naturally out of [[social behavior]],
+but maintaining [[social order]] on a scale larger than a hundred or so people is much more difficult.
+^[[[There is a limit to the size of a group ordered purely by personal communication]]]
 
 - from:: [[What is the link between evolution and social behavior]]
 - involves:: [[What is the origin of social hierarchy]]
 
-[[Yuval Noah Harari]] argues in his book [[reference_Sapiens|Sapiens]] that our [[social order]] is based of the [[Imagined reality]] that we share, thus creating an [[Imagined order]]. This leads to both the existence and malleability of [[society]].
+[[Yuval Noah Harari]] argues in his book [[reference_Sapiens|Sapiens]] that our [[Social order is built off of a shared belief in an imagined reality]].
 
 While the ability to exist in this imagined order has been there since our time as [[hunter-gatherers]],
 it only came to govern our daily lives after [[The Agricultural Revolution]].
@@ -28,15 +32,22 @@ Two solutions are proposed by Harari, [[mythology]] and [[cooperation]].
 >  > ![[books_Sapiens#^297681731]]
 >  > ![[books_Sapiens#^297681732]]
 
-He then cites [[Hammurabi's code]] and [[The Founding Fathers]] as examples, 
-but I feel these more hit upon [[What is the origin of social hierarchy]]
-but that may be key in [[What maintains our social order]].
-%% This kind of implies that social [[social hierarchy]] is a way of maintaining social order (which I guess it is) %%
+He then cites [[Hammurabi's code]] and [[The Founding Fathers]] as examples. 
+These were two revolutionary systems of social organization.
+^[The first and the most recent]
+
+[[Hammurabi's Code preserved hierarchy through deific justice]], engaging [[mythology]].
+[[Most rights were denied to Americans at its founding]]
+
+#TO/TEND/WATER 
 
 #### Other explanations
 
 If the [[social order]] we are talking about is [[capitalism]] then the origin is assumed to be our cynical egotistic nature. 
-^[[[books_The Dawn of Everything#^261572334]]]
+
+> [!cite]- [[reference_The Dawn of Everything#citation]]
+> 
+> ![[books_The Dawn of Everything#^261572334]]
 
 ### <hr class="footnote"/>
 

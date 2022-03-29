@@ -14,7 +14,8 @@ sr-ease: 231
 
 [[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]] and our shared [[understanding]].
 
-If we have these two things with someone
+If we have these two things with someone, then we share a culture. 
+[[Gen Z uses irony to navigate post internet communication]] is an example of this.
 
 > [!wikipedia] [Culture](https://en.wikipedia.org/wiki/Culture)
 > 

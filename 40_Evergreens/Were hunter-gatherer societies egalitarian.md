@@ -12,7 +12,7 @@ sr-ease: 230
 #### [[Were hunter-gatherer societies egalitarian]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 works with:: [[What is the origin of social hierarchy]]
-part of:: [[What enables widespread social order]]
+part of:: [[What enables large scale social order]]
 
 [[David Sloan Wilson]] believes that [[hunter-gatherers]] were egalitarian through a [[social control]] called reverse dominance which is an element of social [[game theory]]. 
 This lines up with his belief that [[Moral social control promotes pro-social behavior in groups]]

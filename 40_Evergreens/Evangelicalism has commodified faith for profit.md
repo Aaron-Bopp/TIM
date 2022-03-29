@@ -11,8 +11,8 @@ sr-ease: 230
 
 #### [[Evangelicalism has commodified faith for profit]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-[[Evangelicalism]] is like a crooked salesman. They scream and scream about how all you need to do is pray one little prayer and then your entire life will be changed.
-"Have [[faith]] and you will be saved. [[belief|Believe]] in the lord god and he will make your pain go away. All you need is one little prayer and your life will be changed forever!"
+[[Evangelicalism]] is like a crooked salesman. They won't stop telling you how all you need to do is pray one little prayer will change your entire life until you walk away or give in.
+"Have [[faith]] and you will be saved. [[belief|Believe]] in the lord god and he will make your pain go away. All you need is one little prayer and your life will be so much better!"
 But when people come back to the salesman because they believed and didn't have their pain go away or feel any change at all, they are told that they are the problem. 
 "You should find it easy to be a good person because your a good Christian,
 here say the prayer again!" 

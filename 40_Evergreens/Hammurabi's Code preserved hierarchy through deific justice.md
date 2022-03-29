@@ -16,7 +16,7 @@ Hammurabi was ordained by the gods to be king and to have control. He was given 
 The [[justice]] of [[Hammurabi's code]] is preserved through it's transactional nature. The reasoning is simple and laid out.
 This may have been why is was an effective measure of [[social control]].
 
-Part of:: [[What enables widespread social order]]
+Part of:: [[What enables large scale social order]]
 Enables:: [[What maintains our social order]]
 
 ### <hr class="footnote"/>
