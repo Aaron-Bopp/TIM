@@ -1,10 +1,6 @@
 ---
 created: 2021-11-10
 edited:
-aliases:
-  - "Thinking About the Fact..."
-  - "Thinking About the Fact... by @roryreckons on Twitter"
-  - "@roryreckons on Twitter"
 tags: created/source/2021/11/10, node/source/tweets
 type: 
   - tweets
@@ -83,7 +79,7 @@ I’m a ping pong ball learner, because in many ways that is how my brain works.
 
 ##### ^247906184
 
-
+highlight_tags:: [[favorite]]   
 Goto: https://twitter.com/roryreckons/status/1458328998258221060  
 
 ###### ^247906184q

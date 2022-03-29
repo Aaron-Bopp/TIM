@@ -1,10 +1,6 @@
 ---
 created: 2021-11-02
 edited:
-aliases:
-  - "How to DM Your Heroes Wh..."
-  - "How to DM Your Heroes Wh... by @visakanv on Twitter"
-  - "@visakanv on Twitter"
 tags: created/source/2021/11/02, node/source/tweets
 type: 
   - tweets

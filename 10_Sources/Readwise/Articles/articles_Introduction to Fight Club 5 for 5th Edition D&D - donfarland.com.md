@@ -1,10 +1,6 @@
 ---
 created: 2021-11-17
 edited:
-aliases:
-  - "Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com"
-  - "Introduction to Fight Club 5 for 5th Edition D&D - donfarland.com by Donald Farland"
-  - "Donald Farland"
 tags: created/source/2021/11/17, node/source/articles
 type: 
   - articles

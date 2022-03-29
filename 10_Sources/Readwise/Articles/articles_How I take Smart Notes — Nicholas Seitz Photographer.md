@@ -1,10 +1,6 @@
 ---
 created: 2021-11-01
 edited:
-aliases:
-  - "How I take Smart Notes — Nicholas Seitz Photographer"
-  - "How I take Smart Notes — Nicholas Seitz Photographer by Nick Seitz"
-  - "Nick Seitz"
 tags: created/source/2021/11/01, node/source/articles
 type: 
   - articles

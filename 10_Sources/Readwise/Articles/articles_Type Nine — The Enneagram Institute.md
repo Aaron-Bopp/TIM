@@ -1,10 +1,6 @@
 ---
 created: 2021-08-13
 edited:
-aliases:
-  - "Type Nine — The Enneagram Institute"
-  - "Type Nine — The Enneagram Institute by enneagraminstitute.com"
-  - "enneagraminstitute.com"
 tags: created/source/2021/08/13, node/source/articles
 type: 
   - articles

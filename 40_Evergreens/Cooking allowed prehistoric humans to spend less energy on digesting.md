@@ -27,6 +27,6 @@ leads to:: [[Foraging allowed for a diverse diet]]
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#294248523q]]

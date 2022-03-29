@@ -1,10 +1,6 @@
 ---
 created: 2021-08-13
 edited:
-aliases:
-  - "Type Five — The Enneagram Institute"
-  - "Type Five — The Enneagram Institute by enneagraminstitute.com"
-  - "enneagraminstitute.com"
 tags: created/source/2021/08/13, node/source/articles
 type: 
   - articles

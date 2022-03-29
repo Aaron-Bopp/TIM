@@ -1,8 +1,6 @@
 ---
 created: 2021-09-23
 edited:
-aliases:
-  - "Black Identity Development"
 tags: created/source/2021/09/23, node/source/articles
 type: 
   - articles

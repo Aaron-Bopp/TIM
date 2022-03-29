@@ -1,10 +1,6 @@
 ---
 created: 2021-10-09
 edited:
-aliases:
-  - "VIM Mode - Quality of Life Improvements"
-  - "VIM Mode - Quality of Life Improvements by forum.obsidian.md"
-  - "forum.obsidian.md"
 tags: created/source/2021/10/09, node/source/articles
 type: 
   - articles

@@ -34,7 +34,7 @@ we are by far the most destructive force in history in zoological terms.
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^299600341]]
 

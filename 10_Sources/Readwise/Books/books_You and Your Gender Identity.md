@@ -1,10 +1,6 @@
 ---
 created: 2022-02-24
 edited:
-aliases:
-  - "You and Your Gender Identity"
-  - "You and Your Gender Identity by Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig"
-  - "Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig"
 tags: created/source/2022/02/24, node/source/books
 type: 
   - books
@@ -18,14 +14,12 @@ sr-ease: 230
 # You and Your Gender Identity
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_You and Your Gender Identity]]
+**Source**:: [[You and Your Gender Identity by Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig]]
 
 **Creator**:: [[Dara Hoffman-Fox, Zinnia Jones, Sam Dylan Finch, and Zander Keig]]
 
 # Highlights
-
 ##### ^183352896
 
 
@@ -102,8 +96,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01N80JO4W&location=1457
 “Not too bad at all—I would say I was clueless. It wasn’t until I was in my early twenties that I realized I had been hiding something from myself without really knowing it.” 
 
 ^183352902
-##### Shame Around Your Very Existence
 
+##### Shame Around Your Very Existence
 ##### ^288271379
 
 
@@ -158,3 +152,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01N80JO4W&location=2176
 With enough practice, you’ll be able to tell if your self-talk is coming from an Internal Bully or from your Bodyguard. The key is to ask yourself: •   Which words are being used in my self-talk? •   What is the tone and intention of my self-talk? 
 
 ^212148986
+

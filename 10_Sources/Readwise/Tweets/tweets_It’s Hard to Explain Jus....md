@@ -1,10 +1,6 @@
 ---
 created: 2022-01-10
 edited:
-aliases:
-  - "It’s Hard to Explain Jus..."
-  - "It’s Hard to Explain Jus... by @LuxAlptraum on Twitter"
-  - "@LuxAlptraum on Twitter"
 tags: created/source/2022/01/10, node/source/tweets
 type: 
   - tweets

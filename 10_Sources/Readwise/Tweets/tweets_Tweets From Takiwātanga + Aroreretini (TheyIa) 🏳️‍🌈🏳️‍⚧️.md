@@ -1,10 +1,6 @@
 ---
 created: 2021-11-23
 edited:
-aliases:
-  - "Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️"
-  - "Tweets From Takiwātanga + Aroreretini (They/Ia) 🏳️‍🌈🏳️‍⚧️ by @takiwatangakare on Twitter"
-  - "@takiwatangakare on Twitter"
 tags: created/source/2021/11/23, node/source/tweets
 type: 
   - tweets
@@ -26,7 +22,7 @@ sr-ease: 230
 # Highlights
 ##### ^252258951
 
-highlight_tags:: [[autism]]   
+highlight_tags:: [[favorite]], [[autism]]   
 Goto: https://twitter.com/takiwatangakare/status/1462835068099907585  
 
 ###### ^252258951q

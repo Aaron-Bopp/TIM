@@ -22,6 +22,6 @@ sr-ease: 230
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^294931435]]

@@ -1,8 +1,6 @@
 ---
 created: 2021-09-24
 edited:
-aliases:
-  - "Urn"
 tags: created/source/2021/09/24, node/source/articles
 type: 
   - articles

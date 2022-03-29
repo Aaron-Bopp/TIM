@@ -36,7 +36,7 @@ If our goal is [[equality]] or [[equity]], we need to ask
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681755]]
 

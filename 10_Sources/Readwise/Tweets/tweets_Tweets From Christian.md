@@ -1,10 +1,6 @@
 ---
 created: 2021-10-26
 edited:
-aliases:
-  - "Tweets From Christian"
-  - "Tweets From Christian by @CXGonzalez_ on Twitter"
-  - "@CXGonzalez_ on Twitter"
 tags: created/source/2021/10/26, node/source/tweets
 type: 
   - tweets

@@ -31,6 +31,6 @@ This can also be seen in [[capitalism]]:
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^299110304]]

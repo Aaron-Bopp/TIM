@@ -34,7 +34,7 @@ answer of:: [[What is the origin of patriarchy]]
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^299523054]]
 

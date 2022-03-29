@@ -1,10 +1,6 @@
 ---
 created: 2022-02-16
 edited:
-aliases:
-  - "Milton’s ‘double empathy problem’: A summary for non-academics | Reframing Autism"
-  - "Milton’s ‘double empathy problem’: A summary for non-academics | Reframing Autism by Unsubscribe"
-  - "Unsubscribe"
 tags: created/source/2022/02/16, node/source/articles
 type: 
   - articles

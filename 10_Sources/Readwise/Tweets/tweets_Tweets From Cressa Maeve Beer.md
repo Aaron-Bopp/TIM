@@ -1,10 +1,6 @@
 ---
 created: 2021-12-22
 edited:
-aliases:
-  - "Tweets From Cressa Maeve Beer"
-  - "Tweets From Cressa Maeve Beer by @beeragon on Twitter"
-  - "@beeragon on Twitter"
 tags: created/source/2021/12/22, node/source/tweets
 type: 
   - tweets
@@ -26,7 +22,7 @@ sr-ease: 230
 # Highlights
 ##### ^261101576
 
-highlight_tags:: [[Transgender people]]   
+highlight_tags:: [[transgender]]   
 Goto: https://twitter.com/beeragon/status/1473662617860329479  
 
 ###### ^261101576q

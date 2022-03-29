@@ -1,10 +1,6 @@
 ---
 created: 2021-10-26
 edited:
-aliases:
-  - "Research Recitation - GitHub Docs"
-  - "Research Recitation - GitHub Docs by docs.github.com"
-  - "docs.github.com"
 tags: created/source/2021/10/26, node/source/articles
 type: 
   - articles

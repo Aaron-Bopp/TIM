@@ -1,8 +1,6 @@
 ---
 created: 2021-10-25
 edited:
-aliases:
-  - "Urn"
 tags: created/source/2021/10/25, node/source/articles
 type: 
   - articles
@@ -39,9 +37,6 @@ Since 1998, the American Psychiatric Association has opposed any psychiatric tre
 ##### ^241992954
 
 
-
-Q:: What is the APA's current position on conversion therapy? 
-A::  
 
 ###### ^241992954q
 

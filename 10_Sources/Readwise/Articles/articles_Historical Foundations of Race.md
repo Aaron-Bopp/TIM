@@ -1,10 +1,6 @@
 ---
 created: 2021-09-04
 edited:
-aliases:
-  - "Historical Foundations of Race"
-  - "Historical Foundations of Race by nmaahc.si.edu"
-  - "nmaahc.si.edu"
 tags: created/source/2021/09/04, node/source/articles
 type: 
   - articles

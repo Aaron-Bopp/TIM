@@ -1,17 +1,13 @@
 ---
-created: 2022-03-13
+created: 2022-03-28
 edited:
-aliases:
-  - "Darwin's Cathedral"
-  - "Darwin's Cathedral by David Sloan Wilson"
-  - "David Sloan Wilson"
-tags: created/source/2022/03/13, node/source/books
+tags: created/source/2022/03/28, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-13
+sr-due: 2022-03-28
 sr-interval: 2
 sr-ease: 230
 ---
@@ -856,6 +852,28 @@ Emotions are evolved mechanisms for motivating adaptive behavior that are far mo
 
 ^294094919
 
+##### ^301317595
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=825  
+
+###### ^301317595q
+
+A second example of hunter-gatherer morality ... The only such moral consideration ever mentioned was that when the band arrived at a decision, it was considered “good” and that it would “please the forest.” Anyone not associating himself with the decision was, then, likely to displease the forest, and this was considered “bad.” Any individual intent on strengthening his own argument might appeal to the forest on grounds that his point of view was “good” and “pleasing”; only the ultimate general decision, however, would determine the validity of his claim. 
+
+^301317595
+
+##### ^301114706
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=837  
+
+###### ^301114706q
+
+None of them had the slightest authority over the others. Nor was any moral pressure brought to bear in influencing a decision through personal considerations or respect. The only such moral consideration ever mentioned was that when the band arrived at a decision, it was considered “good” and that it would “please the forest.” Anyone not associating himself with the decision was, then, likely to displease the forest, and this was considered “bad.” Any individual intent on strengthening his own argument might appeal to the forest on grounds that his point of view was “good” and “pleasing”; only the ultimate general decision, however, would determine the validity of his claim. 
+
+^301114706
+
 ##### ^294094920
 
 highlight_tags:: [[blue]]   
@@ -987,7 +1005,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=995
 
 ###### ^295490304q
 
-If the point of religion was to give us a representation of the world that would guide us in our dealings with it, then religion was in no position to carry out its function, and humanity would not have been slow to notice that fact: ... (Durkheim [1912] 1995, 76–77) 
+"If the point of religion was to give us a representation of the world that would guide us in our dealings with it, then religion was in no position to carry out its function, and humanity would not have been slow to notice that fact" (Durkheim [1912] 1995, 76–77) 
 
 ^295490304
 
@@ -1014,6 +1032,17 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1008
 “In all its aspects and at every moment of history, social life is only possible thanks to a vast symbolism” (233). Religion is therefore a symbolic representation of society. 
 
 ^295490288
+
+##### ^303348912
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1012  
+
+###### ^303348912q
+
+Durkheim felt that the symbolic badge of group membership and the aura of sacredness surrounding prescribed behaviors were required for clans to exist as functioning groups. 
+
+^303348912
 
 ##### ^295490289
 
@@ -1088,16 +1117,16 @@ one of his most arresting observations is that Nuer religion is similar to the J
 
 ^295490295
 
-##### ^295490296
+##### ^303348913
 
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1056  
 
-###### ^295490296q
+###### ^303348913q
 
-Victor Turner ([1969] 1995) analyzed religious ritual in terms of two key concepts: communitas and structure. Structure is the system of roles related to age, sex, and status that people in a community occupy. Communitas is a conception of the community as an egalitarian unit in which all members, from highest to lowest, have a moral claim. 
+Victor Turner ([1969] 1995) analyzed religious ritual in terms of two key concepts: communitas and structure. Structure is the system of roles related to age, sex, and status that people in a community occupy. Communitas is a conception of the community as an egalitarian unit in which all members, from highest to lowest, have a moral claim. The purpose of structure is to implement the spirit of communitas. 
 
-^295490296
+^303348913
 
 ##### ^295490297
 
@@ -1512,67 +1541,6 @@ The human mind is a melange of adaptations and spandrels that have accumulated o
 ^298292995
 
 ### CHAPTER 3 CALVINISM An Argument from Design
-##### ^288838024
-
-highlight_tags:: [[orange]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325  
-
-###### ^288838024q
-
-A behavior is selfish when it increases the fitness of the actor, relative to other members of its group. A behavior is altruistic when it increases the fitness of the group, relative to other groups, and decreases the relative fitness of the actor within the group. 
-
-^288838024
-
-##### ^292550153
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389  
-
-[[Evolutionary Psychology]]  
-
-###### ^292550153q
-
-The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
-
-^292550153
-
-##### ^298293002
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4432  
-
-#TO/EXPLORE/READ  
-
-###### ^298293002q
-
-complexity can have profound effects on variation and heritability, the two prerequisites for natural selection. ... See Wilson (1992), Swenson, Arendt, and Wilson (2000), and Swenson, Wilson, and Elias (2000) for fuller discussions of the issues in the context of selection at the level of biological communities and ecosystems. 
-
-^298293002
-
-# New highlights added March 22, 2022 at 12:24 PM
-##### ^301317595
-
-highlight_tags:: [[orange]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=825  
-
-###### ^301317595q
-
-A second example of hunter-gatherer morality ... The only such moral consideration ever mentioned was that when the band arrived at a decision, it was considered “good” and that it would “please the forest.” Anyone not associating himself with the decision was, then, likely to displease the forest, and this was considered “bad.” Any individual intent on strengthening his own argument might appeal to the forest on grounds that his point of view was “good” and “pleasing”; only the ultimate general decision, however, would determine the validity of his claim. 
-
-^301317595
-
-##### ^301114706
-
-highlight_tags:: [[orange]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=837  
-
-###### ^301114706q
-
-None of them had the slightest authority over the others. Nor was any moral pressure brought to bear in influencing a decision through personal considerations or respect. The only such moral consideration ever mentioned was that when the band arrived at a decision, it was considered “good” and that it would “please the forest.” Anyone not associating himself with the decision was, then, likely to displease the forest, and this was considered “bad.” Any individual intent on strengthening his own argument might appeal to the forest on grounds that his point of view was “good” and “pleasing”; only the ultimate general decision, however, would determine the validity of his claim. 
-
-^301114706
-
-# New highlights added March 25, 2022 at 1:11 PM
 ##### ^302856334
 
 
@@ -1641,26 +1609,160 @@ Calvin himself had written a treatise against the Anabaptists. Stung as much by 
 
 ^302856339
 
-# New highlights added March 26, 2022 at 3:21 PM
-##### ^303348912
+##### ^303892906
 
 highlight_tags:: [[blue]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1012  
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1557  
 
-###### ^303348912q
+###### ^303892906q
 
-Durkheim felt that the symbolic badge of group membership and the aura of sacredness surrounding prescribed behaviors were required for clans to exist as functioning groups. 
+Calvin was converted from a bookish scholar to a religious activist by Geneva’s two leading reformers, Guillaume Farel and Pierre Viret. 
 
-^303348912
+^303892906
 
-##### ^303348913
+##### ^303892907
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1571  
+
+###### ^303892907q
+
+Calvin’s scholarship and formidable writing skills became powerful tools in his new role as social reformer. 
+
+^303892907
+
+##### ^303892908
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1578  
+
+###### ^303892908q
+
+Calvin did not even rule his own church with an iron fist. He shared the status of pastor with several others who made decisions on a consensus basis. 
+
+^303892908
+
+##### ^303892909
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1579  
+
+###### ^303892909q
+
+Calvin’s influence on Geneva cannot be attributed to his personal power or charisma, although the moral example that he set for others may have been a factor. Instead, we must look to the belief system and the social organization that he established, which caused a city of roughly 13,000 souls to function more effectively than it did before. 
+
+^303892909
+
+##### ^303892910
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1593  
+
+###### ^303892910q
+
+Calvinism also changed after Calvin’s death. According to McGrath (1990, 209–11), the emphasis on predestination that is often associated with Calvinism did not become prominent until after Calvin’s death and served a specific purpose: to demarcate so-called “Calvinists” from rival Protestant groups 
+
+^303892910
+
+##### ^303892911
 
 
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1056  
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1613  
 
-###### ^303348913q
+###### ^303892911q
 
-Victor Turner ([1969] 1995) analyzed religious ritual in terms of two key concepts: communitas and structure. Structure is the system of roles related to age, sex, and status that people in a community occupy. Communitas is a conception of the community as an egalitarian unit in which all members, from highest to lowest, have a moral claim. The purpose of structure is to implement the spirit of communitas. 
+Adaptations at a given spatial and temporal scale become invisible when studied at a larger spatial and temporal scale. 
 
-^303348913
+^303892911
+
+##### ^303892933
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1620  
+
+###### ^303892933q
+
+one reason that religious belief often appears senseless to outsiders may be because it is being approached at too coarse a scale ... Adaptive pattern may emerge with more fine-grained analysis. 
+
+^303892933
+
+##### ^303892914
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1637  
+
+###### ^303892914q
+
+How would a person who learned and believed Calvin’s catechism be motivated to behave? What are the specific design features of the catechism that accomplish its effect on behavior? 
+
+^303892914
+
+#### Calvin’s catechism
+##### ^303892916
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1640  
+
+###### ^303892916q
+
+Calvin’s catechism places equal emphasis on peoples’ relationship with God and their relationship with other people. 
+
+^303892916
+
+##### ^303892917
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1650  
+
+###### ^303892917q
+
+Calvin’s catechism is shown in table 3.1. It includes the familiar injunctions of the Ten Commandments, which, like live birth in guppies, are not expected to vary within the Judaeo-Christian tradition. It also includes the organism metaphor that forms the inspiration for this book. Finally, the list includes behaviors that appear tailored to the local social and political environment. 
+
+^303892917
+
+##### ^288838024
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4325  
+
+###### ^288838024q
+
+A behavior is selfish when it increases the fitness of the actor, relative to other members of its group. A behavior is altruistic when it increases the fitness of the group, relative to other groups, and decreases the relative fitness of the actor within the group. 
+
+^288838024
+
+##### ^292550153
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4389  
+
+###### ^292550153q
+
+The term “evolutionary psychology” should refer broadly to the study of psychology from an evolutionary perspective. Unfortunately, the term has become associated with a rather narrow school of thought that is controversial even among evolutionary biologists interested in psychology. 
+
+^292550153
+
+##### ^298293002
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4432  
+
+#TO/EXPLORE/READ  
+
+###### ^298293002q
+
+complexity can have profound effects on variation and heritability, the two prerequisites for natural selection. ... See Wilson (1992), Swenson, Arendt, and Wilson (2000), and Swenson, Wilson, and Elias (2000) for fuller discussions of the issues in the context of selection at the level of biological communities and ecosystems. 
+
+^298293002
+
+##### ^303892934
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4445  
+
+###### ^303892934q
+
+Idealized religion is close to what one expects on the basis of pure group selection, or so I claim. Religion as practiced often deviates from the ideal, but these deviations tend to be regarded as “corruptions” rather than as a part of the religion itself. It is useful to retain this distinction ... The idealized form was designed to establish an organismic community, and the realized form partially succeeded. 
+
+^303892934
 

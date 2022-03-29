@@ -1,10 +1,6 @@
 ---
 created: 2021-12-16
 edited:
-aliases:
-  - "So I’ve Been Reading Up..."
-  - "So I’ve Been Reading Up... by @AdultingADHD on Twitter"
-  - "@AdultingADHD on Twitter"
 tags: created/source/2021/12/16, node/source/tweets
 type: 
   - tweets

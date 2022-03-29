@@ -1,10 +1,6 @@
 ---
 created: 2021-12-08
 edited:
-aliases:
-  - "Hey Here’s a Discourse...."
-  - "Hey Here’s a Discourse.... by @mykola on Twitter"
-  - "@mykola on Twitter"
 tags: created/source/2021/12/08, node/source/tweets
 type: 
   - tweets

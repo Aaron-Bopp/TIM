@@ -1,10 +1,6 @@
 ---
 created: 2022-01-05
 edited:
-aliases:
-  - "Materials"
-  - "Materials by users.speakeasy.net"
-  - "users.speakeasy.net"
 tags: created/source/2022/01/05, node/source/articles
 type: 
   - articles

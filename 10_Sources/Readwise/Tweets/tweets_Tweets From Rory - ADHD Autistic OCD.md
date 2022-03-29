@@ -1,10 +1,6 @@
 ---
 created: 2022-01-16
 edited:
-aliases:
-  - "Tweets From Rory - ADHD Autistic OCD"
-  - "Tweets From Rory - ADHD Autistic OCD by @roryreckons on Twitter"
-  - "@roryreckons on Twitter"
 tags: created/source/2022/01/16, node/source/tweets
 type: 
   - tweets
@@ -76,8 +72,6 @@ https://t.co/unbdxVZtSS
 
 
 Goto: https://twitter.com/roryreckons/status/1462888352978374658  
-
-#TO/EXPLORE/READ  
 
 ###### ^252031299q
 

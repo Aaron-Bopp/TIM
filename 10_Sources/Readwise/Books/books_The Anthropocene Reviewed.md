@@ -1,10 +1,6 @@
 ---
 created: 2022-02-17
 edited:
-aliases:
-  - "The Anthropocene Reviewed"
-  - "The Anthropocene Reviewed by John Green"
-  - "John Green"
 tags: created/source/2022/02/17, node/source/books
 type: 
   - books
@@ -18,14 +14,12 @@ sr-ease: 230
 # The Anthropocene Reviewed
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_The Anthropocene Reviewed]]
+**Source**:: [[The Anthropocene Reviewed by John Green]]
 
 **Creator**:: [[John Green]]
 
 # Highlights
-
 ##### ^285888564
 
 
@@ -109,7 +103,7 @@ Scientists sought out more productive strains of the mold, and eventually the ba
 
 ##### ^287404951
 
-highlight_tags:: [[pink]]   
+highlight_tags:: [[favorite]], [[pink]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=1344  
 
 ###### ^287404951q
@@ -142,7 +136,7 @@ When we tell those stories to people in chronic pain, or those living with incur
 
 ##### ^288175131
 
-highlight_tags:: [[pink]]   
+highlight_tags:: [[favorite]], [[pink]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=3299  
 
 ###### ^288175131q
@@ -150,3 +144,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08GJVLGGX&location=3299
 A child had died for no reason the night before—sudden infant death syndrome, a disease that in its name acknowledges our ignorance of it and powerlessness before it. He was a beautiful baby, and he was gone. His mother had asked me to baptize him. In my faith tradition, you’re not supposed to baptize the dead, but then again, babies aren’t supposed to die. He was the first person I ever baptized. His name was Zachary, a name taken from Hebrew words meaning, “God remembers.” 
 
 ^288175131
+

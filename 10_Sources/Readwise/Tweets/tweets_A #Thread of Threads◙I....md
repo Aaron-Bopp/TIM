@@ -1,12 +1,6 @@
 ---
 created: 2021-11-25
 edited:
-aliases:
-  - "A #Thread of Threads:
-I..."
-  - "A #Thread of Threads:
-I... by @commaficionado on Twitter"
-  - "@commaficionado on Twitter"
 tags: created/source/2021/11/25, node/source/tweets
 type: 
   - tweets

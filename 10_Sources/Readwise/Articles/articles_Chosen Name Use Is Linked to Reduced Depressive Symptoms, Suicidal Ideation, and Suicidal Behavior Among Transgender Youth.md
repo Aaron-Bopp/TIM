@@ -1,8 +1,6 @@
 ---
 created: 2021-10-17
 edited:
-aliases:
-  - "Chosen Name Use Is Linked to Reduced Depressive Symptoms, Suicidal Ideation, and Suicidal Behavior Among Transgender Youth"
 tags: created/source/2021/10/17, node/source/articles
 type: 
   - articles

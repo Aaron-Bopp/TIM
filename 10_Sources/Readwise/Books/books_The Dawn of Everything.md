@@ -1,33 +1,27 @@
 ---
-created: 2022-01-01
+created: 2022-03-17
 edited:
-aliases:
-  - "The Dawn of Everything"
-  - "The Dawn of Everything by David Graeber"
-  - "David Graeber"
-tags: created/source/2022/01/01, node/source/books
+tags: created/source/2022/03/17, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-01-01
+sr-due: 2022-03-17
 sr-interval: 2
 sr-ease: 230
 ---
 # The Dawn of Everything
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_The Dawn of Everything]]
+**Source**:: [[The Dawn of Everything by David Graeber]]
 
 **Creator**:: [[David Graeber]]
 
 # Highlights
 ### Farewell to Humanity’s Childhood
 #### Or, why this is not a book about the origins of inequality
-
 ##### ^258309231
 
 
@@ -183,8 +177,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=187
 Native American (Huron-Wendat) statesman Kandiaronk, 
 
 ^261572332
-#### WHY BOTH THE HOBBESIAN AND ROUSSEAUIAN VERSIONS OF HUMAN HISTORY HAVE DIRE POLITICAL IMPLICATIONS
 
+#### WHY BOTH THE HOBBESIAN AND ROUSSEAUIAN VERSIONS OF HUMAN HISTORY HAVE DIRE POLITICAL IMPLICATIONS
 ##### ^261572334
 
 
@@ -258,11 +252,11 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=250
 
 ###### ^261572340q
 
-If, as many are suggesting, our species’ future now hinges on our capacity to create something different (say, a system in which wealth cannot be freely transformed into power, or where some people are not told their needs are unimportant, or that their lives have no intrinsic worth), then what ultimately matters is whether we can rediscover the freedoms that make us human in the first place.  ^71a788
+If, as many are suggesting, our species’ future now hinges on our capacity to create something different (say, a system in which wealth cannot be freely transformed into power, or where some people are not told their needs are unimportant, or that their lives have no intrinsic worth), then what ultimately matters is whether we can rediscover the freedoms that make us human in the first place. 
 
 ^261572340
-#### SOME BRIEF EXAMPLES OF WHY RECEIVED UNDERSTANDINGS OF THE BROAD SWEEP OF HUMAN HISTORY ARE MOSTLY WRONG (OR, THE ETERNAL RETURN OF JEAN-JACQUES ROUSSEAU)
 
+#### SOME BRIEF EXAMPLES OF WHY RECEIVED UNDERSTANDINGS OF THE BROAD SWEEP OF HUMAN HISTORY ARE MOSTLY WRONG (OR, THE ETERNAL RETURN OF JEAN-JACQUES ROUSSEAU)
 ##### ^261572342
 
 
@@ -309,11 +303,11 @@ In fact, pronouncements that change is impossible is antithetical to science its
 
 ###### ^261572346q
 
-such pronouncements are not actually based on any kind of scientific evidence. 
+[Pronouncements that change is impossible] are not actually based on any kind of scientific evidence. 
 
 ^261572346
-#### ON THE PURSUIT OF HAPPINESS
 
+#### ON THE PURSUIT OF HAPPINESS
 ##### ^261572348
 
 
@@ -475,8 +469,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=493
 Still others noted the ease with which outsiders, taken in by ‘Indian’ families, might achieve acceptance and prominent positions in their adoptive communities, becoming members of chiefly households, or even chiefs themselves.32 Western propagandists speak endlessly about equality of opportunity; these seem to have been societies where it actually existed. 
 
 ^261593431
-#### HOW THE CONVENTIONAL NARRATIVE OF HUMAN HISTORY IS NOT ONLY WRONG, BUT QUITE NEEDLESSLY DULL
 
+#### HOW THE CONVENTIONAL NARRATIVE OF HUMAN HISTORY IS NOT ONLY WRONG, BUT QUITE NEEDLESSLY DULL
 ##### ^261593433
 
 
@@ -575,8 +569,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=565
 Women’s gambling: women in many indigenous North American societies were inveterate gamblers; the women of adjacent villages would often meet to play dice or a game played with a bowl and plum stone, and would typically bet their shell beads or other objects of personal adornment as the stakes. 
 
 ^261593442
-#### ON WHAT’S TO FOLLOW
 
+#### ON WHAT’S TO FOLLOW
 ##### ^261593444
 
 
@@ -598,11 +592,9 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=584
 At the same time, this book is also something else: a quest to discover the right questions. If ‘what is the origin of inequality?’ is not the biggest question we should be asking about history, what then should it be? 
 
 ^261593445
+
 ### Wicked Liberty
 #### The indigenous critique and the myth of progress
-
-^c8da22
-
 ##### ^262026842
 
 highlight_tags:: [[favorite]]   
@@ -613,8 +605,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=606
 Intellectual historians have never really abandoned the Great Man theory of history. They often write as if all important ideas in a given age can be traced back to one or other extraordinary individual – whether Plato, Confucius, Adam Smith or Karl Marx – rather than seeing such authors’ writings as particularly brilliant interventions in debates that were already going on ... but which otherwise might never have been written down. 
 
 ^262026842
-#### IN WHICH WE SHOW HOW CRITIQUES OF EUROCENTRISM CAN BACKFIRE, AND END UP TURNING ABORIGINAL THINKERS INTO ‘SOCK-PUPPETS’
 
+#### IN WHICH WE SHOW HOW CRITIQUES OF EUROCENTRISM CAN BACKFIRE, AND END UP TURNING ABORIGINAL THINKERS INTO ‘SOCK-PUPPETS’
 ##### ^262026843
 
 
@@ -735,7 +727,7 @@ For European audiences, the indigenous critique would come as a shock to the sys
 
 ##### ^262026845
 
-highlight_tags:: [[social hierarchy]]   
+highlight_tags:: [[hierarchy]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=696  
 
 ###### ^262026845q
@@ -919,8 +911,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=802
 We will suggest that there is a reason why so many key Enlightenment thinkers insisted that their ideals of individual liberty and political equality were inspired by Native American sources and examples. Because it was true. 
 
 ^264301408
-#### IN WHICH WE CONSIDER WHAT THE INHABITANTS OF NEW FRANCE MADE OF THEIR EUROPEAN INVADERS, ESPECIALLY IN MATTERS OF GENEROSITY, SOCIABILITY, MATERIAL WEALTH, CRIME, PUNISHMENT AND LIBERTY
 
+#### IN WHICH WE CONSIDER WHAT THE INHABITANTS OF NEW FRANCE MADE OF THEIR EUROPEAN INVADERS, ESPECIALLY IN MATTERS OF GENEROSITY, SOCIABILITY, MATERIAL WEALTH, CRIME, PUNISHMENT AND LIBERTY
 ##### ^264337837
 
 
@@ -1106,132 +1098,8 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=936
 The ‘wicked liberty of the savages’, one insisted, was the single greatest impediment to their ‘submitting to the yoke of the law of God’. 
 
 ^265135493
+
 #### IN WHICH WE SHOW HOW EUROPEANS LEARNED FROM (NATIVE) AMERICANS ABOUT THE CONNECTION BETWEEN REASONED DEBATE, PERSONAL FREEDOMS AND THE REFUSAL OF ARBITRARY POWER
-### Why the State Has No Origin
-#### The humble beginnings of sovereignty, bureaucracy and politics
-### Full Circle
-#### On the historical foundations of the indigenous critique
-### Conclusion
-#### The dawn of everything
-### Notes
-#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
-
-##### ^261593448
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10202  
-
-###### ^261593448q
-
-For Hobbes, all things large and small in history were to be understood as the unfolding of forces set in motion by God, which are ultimately beyond the capacity of humans to control 
-
-^261593448
-
-##### ^261593449
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10204  
-
-interesting connection to [[kharma]]  
-
-###### ^261593449q
-
-Even a tailor making a garment is entering, from his first stitch, into a flow of historical entanglements that he is powerless to resist and of which he is largely unaware; his precise actions are tiny links in a great chain of causality that is the very fabric of human history, and – in this rather extreme metaphysics of entanglement – to suggest that he might have been doing these things some alternative way is to deny the whole, irreversible course of world history. 
-
-^261593449
-
-##### ^261593450
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10207  
-
-###### ^261593450q
-
-For Rousseau, by contrast, what humans make, they could always unmake, or at least do differently. We could free ourselves from the chains that bind us; it just wasn’t going to be easy 
-
-^261593450
-
-##### ^261593451
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10213  
-
-why would you want to imitate your child playing kitchen when you have your own?  
-
-###### ^261593451q
-
-so many contemporary authors seem to enjoy imagining themselves as modern-day counterparts to the great social philosophers of the Enlightenment, men like Hobbes and Rousseau, playing out the same grand dialogue but with a more accurate cast of characters. 
-
-^261593451
-
-##### ^261593452
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10250  
-
-###### ^261593452q
-
-Academics are very prone to a phenomenon called ‘schismogenesis’ 
-
-^261593452
-
-##### ^261593453
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10255  
-
-###### ^261593453q
-
-actual direct democratic decision-making had been practised regularly in various parts of Africa or Amazonia, or for that matter in Russian or French peasant assemblies, for thousands of years; 
-
-^261593453
-#### 2. WICKED LIBERTY
-
-##### ^262026840
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10316  
-
-#TO/EXPLORE/READ  
-
-###### ^262026840q
-
-In his (2009) Europe Through Arab Eyes, 1578–1727, Nabil Matar considers the relative lack of interest in Frankish Europe among medieval Muslim writers, and possible reasons for it (especially, pp. 6–18). 
-
-^262026840
-
-##### ^262026841
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10340  
-
-###### ^262026841q
-
-Marquis d’Argenson, who also failed to win a prize, made precisely this argument: monarchy allowed the truest equality, he argued, and absolutist monarchy most of all, since everyone is equal before the absolute power of the king. 
-
-^262026841
-
-##### ^264301410
-
-highlight_tags:: [[gender]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10346  
-
-###### ^264301410q
-
-bourgeois women may have especially appreciated the Jesuit Relations because it allowed them to read about discussions of women’s sexual freedom in a form that was entirely acceptable to the Church. 
-
-^264301410
-#### 3. UNFREEZING THE ICE AGE
-#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
-#### 5. MANY SEASONS AGO
-#### 6. GARDENS OF ADONIS
-#### 7. THE ECOLOGY OF FREEDOM
-#### 8. IMAGINARY CITIES
-#### 9. HIDING IN PLAIN SIGHT
-#### 10. WHY THE STATE HAS NO ORIGIN
-#### 11. FULL CIRCLE
-#### 12. CONCLUSION
-# New highlights added March 19, 2022 at 11:09 AM
 ##### ^299918332
 
 
@@ -1331,6 +1199,121 @@ there is no ‘original’ form of human society. Searching for one can only be 
 
 ^299918341
 
+### Why the State Has No Origin
+#### The humble beginnings of sovereignty, bureaucracy and politics
+### Full Circle
+#### On the historical foundations of the indigenous critique
+### Conclusion
+#### The dawn of everything
+### Notes
+#### 1. FAREWELL TO HUMANITY’S CHILDHOOD
+##### ^261593448
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10202  
+
+###### ^261593448q
+
+For Hobbes, all things large and small in history were to be understood as the unfolding of forces set in motion by God, which are ultimately beyond the capacity of humans to control 
+
+^261593448
+
+##### ^261593449
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10204  
+
+interesting connection to [[kharma]]  
+
+###### ^261593449q
+
+Even a tailor making a garment is entering, from his first stitch, into a flow of historical entanglements that he is powerless to resist and of which he is largely unaware; his precise actions are tiny links in a great chain of causality that is the very fabric of human history, and – in this rather extreme metaphysics of entanglement – to suggest that he might have been doing these things some alternative way is to deny the whole, irreversible course of world history. 
+
+^261593449
+
+##### ^261593450
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10207  
+
+###### ^261593450q
+
+For Rousseau, by contrast, what humans make, they could always unmake, or at least do differently. We could free ourselves from the chains that bind us; it just wasn’t going to be easy 
+
+^261593450
+
+##### ^261593451
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10213  
+
+why would you want to imitate your child playing kitchen when you have your own?  
+
+###### ^261593451q
+
+so many contemporary authors seem to enjoy imagining themselves as modern-day counterparts to the great social philosophers of the Enlightenment, men like Hobbes and Rousseau, playing out the same grand dialogue but with a more accurate cast of characters. 
+
+^261593451
+
+##### ^261593452
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10250  
+
+###### ^261593452q
+
+Academics are very prone to a phenomenon called ‘schismogenesis’ 
+
+^261593452
+
+##### ^261593453
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10255  
+
+###### ^261593453q
+
+actual direct democratic decision-making had been practised regularly in various parts of Africa or Amazonia, or for that matter in Russian or French peasant assemblies, for thousands of years; 
+
+^261593453
+
+#### 2. WICKED LIBERTY
+##### ^262026840
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10316  
+
+#TO/EXPLORE/READ  
+
+###### ^262026840q
+
+In his (2009) Europe Through Arab Eyes, 1578–1727, Nabil Matar considers the relative lack of interest in Frankish Europe among medieval Muslim writers, and possible reasons for it (especially, pp. 6–18). 
+
+^262026840
+
+##### ^262026841
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10340  
+
+###### ^262026841q
+
+Marquis d’Argenson, who also failed to win a prize, made precisely this argument: monarchy allowed the truest equality, he argued, and absolutist monarchy most of all, since everyone is equal before the absolute power of the king. 
+
+^262026841
+
+##### ^264301410
+
+highlight_tags:: [[gender]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08R2KL3VY&location=10346  
+
+###### ^264301410q
+
+bourgeois women may have especially appreciated the Jesuit Relations because it allowed them to read about discussions of women’s sexual freedom in a form that was entirely acceptable to the Church. 
+
+^264301410
+
+#### 3. UNFREEZING THE ICE AGE
 ##### ^299918342
 
 highlight_tags:: [[orange]]   
@@ -1364,3 +1347,12 @@ Recent and historical hunter-gatherers, as we shall see, present an enormous ran
 
 ^299918344
 
+#### 4. FREE PEOPLE, THE ORIGIN OF CULTURES, AND THE ADVENT OF PRIVATE PROPERTY
+#### 5. MANY SEASONS AGO
+#### 6. GARDENS OF ADONIS
+#### 7. THE ECOLOGY OF FREEDOM
+#### 8. IMAGINARY CITIES
+#### 9. HIDING IN PLAIN SIGHT
+#### 10. WHY THE STATE HAS NO ORIGIN
+#### 11. FULL CIRCLE
+#### 12. CONCLUSION

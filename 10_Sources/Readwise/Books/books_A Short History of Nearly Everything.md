@@ -1,10 +1,6 @@
 ---
 created: 2022-02-08
 edited:
-aliases:
-  - "A Short History of Nearly Everything"
-  - "A Short History of Nearly Everything by Bill Bryson"
-  - "Bill Bryson"
 tags: created/source/2022/02/08, node/source/books
 type: 
   - books
@@ -18,15 +14,13 @@ sr-ease: 230
 # A Short History of Nearly Everything
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_A Short History of Nearly Everything]]
+**Source**:: [[A Short History of Nearly Everything by Bill Bryson]]
 
 **Creator**:: [[Bill Bryson]]
 
 # Highlights
 ### 1 HOW TO BUILD A UNIVERSE
-
 ##### ^283957200
 
 highlight_tags:: [[proton]]   
@@ -168,3 +162,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B000FBFNII&location=5759
 The world is a really big place. 
 
 ^284394160
+

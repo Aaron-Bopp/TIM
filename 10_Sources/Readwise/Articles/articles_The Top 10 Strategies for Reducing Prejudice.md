@@ -1,10 +1,6 @@
 ---
 created: 2021-11-28
 edited:
-aliases:
-  - "The Top 10 Strategies for Reducing Prejudice"
-  - "The Top 10 Strategies for Reducing Prejudice by greatergood.berkeley.edu"
-  - "greatergood.berkeley.edu"
 tags: created/source/2021/11/28, node/source/articles
 type: 
   - articles

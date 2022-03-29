@@ -1,10 +1,6 @@
 ---
 created: 2021-12-24
 edited:
-aliases:
-  - "How to Withdraw Money From Your 401(k) - SmartAsset"
-  - "How to Withdraw Money From Your 401(k) - SmartAsset by smartasset.com"
-  - "smartasset.com"
 tags: created/source/2021/12/24, node/source/articles
 type: 
   - articles

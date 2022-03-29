@@ -1,8 +1,6 @@
 ---
 created: 2021-09-27
 edited:
-aliases:
-  - "COVID-19 and the Other Pandemic"
 tags: created/source/2021/09/27, node/source/articles
 type: 
   - articles

@@ -1,10 +1,6 @@
 ---
 created: 2021-08-13
 edited:
-aliases:
-  - "Enneagram 8w9: The Eight with a Nine-Wing | Psychologia"
-  - "Enneagram 8w9: The Eight with a Nine-Wing | Psychologia by psychologia.co"
-  - "psychologia.co"
 tags: created/source/2021/08/13, node/source/articles
 type: 
   - articles

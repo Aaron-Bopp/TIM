@@ -1,10 +1,6 @@
 ---
 created: 2021-10-17
 edited:
-aliases:
-  - "Quantum computing for the very curious"
-  - "Quantum computing for the very curious by Matuschak, Andy, Nielsen, Michael"
-  - "Matuschak, Andy, Nielsen, Michael"
 tags: created/source/2021/10/17, node/source/articles
 type: 
   - articles

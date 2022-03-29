@@ -1,10 +1,6 @@
 ---
 created: 2022-03-22
 edited:
-aliases:
-  - "Networked Thinking: A Quiet Cognitive Revolution"
-  - "Networked Thinking: A Quiet Cognitive Revolution by nesslabs.com"
-  - "nesslabs.com"
 tags: created/source/2022/03/22, node/source/articles
 type: 
   - articles

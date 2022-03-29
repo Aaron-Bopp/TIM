@@ -1,10 +1,6 @@
 ---
 created: 2021-08-17
 edited:
-aliases:
-  - "Type Four"
-  - "Type Four by enneagraminstitute.com"
-  - "enneagraminstitute.com"
 tags: created/source/2021/08/17, node/source/articles
 type: 
   - articles

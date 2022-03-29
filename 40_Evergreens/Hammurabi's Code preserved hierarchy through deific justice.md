@@ -29,7 +29,7 @@ Enables:: [[What maintains our social order]]
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681738]]
 

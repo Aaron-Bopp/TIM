@@ -47,7 +47,7 @@ like [[Humans love to group eachother]].
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^294248540]]
 

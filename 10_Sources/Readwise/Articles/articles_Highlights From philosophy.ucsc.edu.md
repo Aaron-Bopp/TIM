@@ -1,10 +1,6 @@
 ---
 created: 2021-08-13
 edited:
-aliases:
-  - "Highlights From philosophy.ucsc.edu"
-  - "Highlights From philosophy.ucsc.edu by philosophy.ucsc.edu"
-  - "philosophy.ucsc.edu"
 tags: created/source/2021/08/13, node/source/articles
 type: 
   - articles

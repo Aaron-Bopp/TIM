@@ -9,7 +9,7 @@ sr-interval: 6
 sr-ease: 236
 ---
 
-#### [[reference_Sapiens]]
+#### [[Sapiens by Yuval Noah Harari]]
 
 **Creator**:: [[Yuval Noah Harari]]
  

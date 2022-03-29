@@ -1,10 +1,6 @@
 ---
 created: 2021-08-20
 edited:
-aliases:
-  - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress"
-  - "Summary, Part 1 | the Stonewall Reader | Study Guide — Radical in Progress by radicalinprogress.org"
-  - "radicalinprogress.org"
 tags: created/source/2021/08/20, node/source/articles
 type: 
   - articles

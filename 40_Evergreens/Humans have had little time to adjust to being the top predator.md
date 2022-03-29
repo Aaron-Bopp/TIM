@@ -30,6 +30,6 @@ part of:: [[Anxiety is a defense-mechanism of the brain]] and [[Our brain will d
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#294248522q]]

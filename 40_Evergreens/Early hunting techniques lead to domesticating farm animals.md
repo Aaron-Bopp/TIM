@@ -27,7 +27,7 @@ contrasts:: [[Farming domesticated humans]] and [[Farming prevented a return to 
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681715]]
 

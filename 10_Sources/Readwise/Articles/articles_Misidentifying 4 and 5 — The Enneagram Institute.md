@@ -1,10 +1,6 @@
 ---
 created: 2021-08-18
 edited:
-aliases:
-  - "Misidentifying 4 and 5 — The Enneagram Institute"
-  - "Misidentifying 4 and 5 — The Enneagram Institute by enneagraminstitute.com"
-  - "enneagraminstitute.com"
 tags: created/source/2021/08/18, node/source/articles
 type: 
   - articles

@@ -1,10 +1,6 @@
 ---
 created: 2021-10-23
 edited:
-aliases:
-  - "Bulky Cameras, Meet the Lens-Less FlatCam"
-  - "Bulky Cameras, Meet the Lens-Less FlatCam by npr.org"
-  - "npr.org"
 tags: created/source/2021/10/23, node/source/articles
 type: 
   - articles
@@ -49,7 +45,7 @@ Research shows that, overall, the abilities that make up math skills arise from 
 
 ##### ^241415936
 
-highlight_tags:: [[Behavioral Pyschology]]   
+
 
 ###### ^241415936q
 
@@ -93,9 +89,6 @@ I believe that cognitive functions arise from dynamically configured neural netw
 ##### ^241415940
 
 
-
-Q:: How do brain surgeons determine what the least impacting areas of the brain will be to remove?
-A::  
 
 ###### ^241415940q
 

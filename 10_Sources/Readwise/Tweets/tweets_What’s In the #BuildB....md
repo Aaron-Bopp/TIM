@@ -1,10 +1,6 @@
 ---
 created: 2021-10-19
 edited:
-aliases:
-  - "'What’s *In* the #BuildB..."
-  - "'What’s *In* the #BuildB... by @RepBonnie on Twitter"
-  - "@RepBonnie on Twitter"
 tags: created/source/2021/10/19, node/source/tweets
 type: 
   - tweets

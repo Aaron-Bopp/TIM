@@ -1,10 +1,6 @@
 ---
 created: 2021-10-27
 edited:
-aliases:
-  - "Tweets From Lilah Sturges"
-  - "Tweets From Lilah Sturges by @LilahSturges on Twitter"
-  - "@LilahSturges on Twitter"
 tags: created/source/2021/10/27, node/source/tweets
 type: 
   - tweets

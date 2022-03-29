@@ -1,10 +1,6 @@
 ---
 created: 2022-03-26
 edited:
-aliases:
-  - "Jordan Peterson Part 2 —  The Moscow Diaries"
-  - "Jordan Peterson Part 2 —  The Moscow Diaries by Maintenance Phase"
-  - "Maintenance Phase"
 tags: created/source/2022/03/26, node/source/podcasts
 type: 
   - podcasts

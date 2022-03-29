@@ -1,10 +1,6 @@
 ---
 created: 2021-08-19
 edited:
-aliases:
-  - "Type Six — The Enneagram Institute"
-  - "Type Six — The Enneagram Institute by enneagraminstitute.com"
-  - "enneagraminstitute.com"
 tags: created/source/2021/08/19, node/source/articles
 type: 
   - articles

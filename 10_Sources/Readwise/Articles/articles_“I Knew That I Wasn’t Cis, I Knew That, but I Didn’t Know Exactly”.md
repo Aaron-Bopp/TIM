@@ -1,8 +1,6 @@
 ---
 created: 2021-10-17
 edited:
-aliases:
-  - "“I Knew That I Wasn’t Cis, I Knew That, but I Didn’t Know Exactly”"
 tags: created/source/2021/10/17, node/source/articles
 type: 
   - articles

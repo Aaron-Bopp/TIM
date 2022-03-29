@@ -1,10 +1,6 @@
 ---
 created: 2022-01-19
 edited:
-aliases:
-  - "Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method"
-  - "Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method by sascha"
-  - "sascha"
 tags: created/source/2022/01/19, node/source/articles
 type: 
   - articles

@@ -1,10 +1,6 @@
 ---
 created: 2022-01-20
 edited:
-aliases:
-  - "No, Luhmann was not about Folgezettel • Zettelkasten Method"
-  - "No, Luhmann was not about Folgezettel • Zettelkasten Method by sascha"
-  - "sascha"
 tags: created/source/2022/01/20, node/source/articles
 type: 
   - articles

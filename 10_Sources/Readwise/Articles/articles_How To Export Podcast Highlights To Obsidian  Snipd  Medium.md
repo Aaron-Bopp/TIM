@@ -1,10 +1,6 @@
 ---
 created: 2021-11-01
 edited:
-aliases:
-  - "How To Export Podcast Highlights To Obsidian | Snipd | Medium"
-  - "How To Export Podcast Highlights To Obsidian | Snipd | Medium by Snipd"
-  - "Snipd"
 tags: created/source/2021/11/01, node/source/articles
 type: 
   - articles

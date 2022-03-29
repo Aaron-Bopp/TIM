@@ -1,10 +1,6 @@
 ---
 created: 2021-10-26
 edited:
-aliases:
-  - "Someone (Was It JKR? Lol..."
-  - "Someone (Was It JKR? Lol... by @visakanv on Twitter"
-  - "@visakanv on Twitter"
 tags: created/source/2021/10/26, node/source/tweets
 type: 
   - tweets

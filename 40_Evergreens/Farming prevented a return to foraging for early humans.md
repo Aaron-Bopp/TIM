@@ -38,6 +38,6 @@ example of:: [[When luxury becomes a necessity it is no longer a luxury]].
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297301085]]

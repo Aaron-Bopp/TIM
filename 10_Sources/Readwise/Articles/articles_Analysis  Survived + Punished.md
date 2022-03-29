@@ -1,10 +1,6 @@
 ---
 created: 2022-01-28
 edited:
-aliases:
-  - "Analysis | Survived + Punished"
-  - "Analysis | Survived + Punished by S&P California"
-  - "S&P California"
 tags: created/source/2022/01/28, node/source/articles
 type: 
   - articles

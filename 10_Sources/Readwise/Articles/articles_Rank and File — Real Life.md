@@ -1,10 +1,6 @@
 ---
 created: 2021-10-28
 edited:
-aliases:
-  - "Rank and File — Real Life"
-  - "Rank and File — Real Life by Os Keyes"
-  - "Os Keyes"
 tags: created/source/2021/10/28, node/source/articles
 type: 
   - articles

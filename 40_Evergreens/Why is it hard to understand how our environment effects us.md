@@ -13,13 +13,13 @@ sr-ease: 190
 
 Why can't we realize that we live in an [[imagined order]]?
 
-This is a question posed in [[reference_Sapiens|Sapiens by Yuval Noah Harari]], that closely 
+This is a question posed in [[Sapiens by Yuval Noah Harari|Sapiens by Yuval Noah Harari]], that closely 
 ties into:: [[What enables large scale social order]]
 and plays a 
 part of:: [[Do we have free will]]
 
 Harari's answer is:
-![[reference_Sapiens#^dd0325]]
+![[Sapiens by Yuval Noah Harari#^dd0325]]
 
 Other possible reasons:
 - We are indoctrinated
@@ -41,7 +41,7 @@ I think that in modern times we have for the most part realized that we live in 
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681749]]
 

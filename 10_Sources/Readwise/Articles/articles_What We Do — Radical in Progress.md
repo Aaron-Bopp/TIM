@@ -1,10 +1,6 @@
 ---
 created: 2021-08-14
 edited:
-aliases:
-  - "What We Do — Radical in Progress"
-  - "What We Do — Radical in Progress by radicalinprogress.org"
-  - "radicalinprogress.org"
 tags: created/source/2021/08/14, node/source/articles
 type: 
   - articles

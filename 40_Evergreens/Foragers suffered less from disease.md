@@ -31,6 +31,6 @@ part of:: [[Foraging was a very sustainable lifestyle]]
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^296601899]]

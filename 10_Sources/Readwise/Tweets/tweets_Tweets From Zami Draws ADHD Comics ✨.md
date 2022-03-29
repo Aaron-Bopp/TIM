@@ -1,10 +1,6 @@
 ---
 created: 2021-12-04
 edited:
-aliases:
-  - "Tweets From Zami Draws ADHD Comics ✨"
-  - "Tweets From Zami Draws ADHD Comics ✨ by @ZamiArts on Twitter"
-  - "@ZamiArts on Twitter"
 tags: created/source/2021/12/04, node/source/tweets
 type: 
   - tweets

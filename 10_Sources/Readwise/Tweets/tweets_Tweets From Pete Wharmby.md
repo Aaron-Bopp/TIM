@@ -1,10 +1,6 @@
 ---
 created: 2022-03-23
 edited:
-aliases:
-  - "Tweets From Pete Wharmby"
-  - "Tweets From Pete Wharmby by @commaficionado on Twitter"
-  - "@commaficionado on Twitter"
 tags: created/source/2022/03/23, node/source/tweets
 type: 
   - tweets

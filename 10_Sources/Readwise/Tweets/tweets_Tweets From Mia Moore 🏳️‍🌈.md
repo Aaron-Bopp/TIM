@@ -1,10 +1,6 @@
 ---
 created: 2021-11-13
 edited:
-aliases:
-  - "Tweets From Mia Moore 🏳️‍🌈"
-  - "Tweets From Mia Moore 🏳️‍🌈 by @StopTweetingMia on Twitter"
-  - "@StopTweetingMia on Twitter"
 tags: created/source/2021/11/13, node/source/tweets
 type: 
   - tweets
@@ -26,7 +22,7 @@ sr-ease: 230
 # Highlights
 ##### ^248897929
 
-
+highlight_tags:: [[favorite]]   
 Goto: https://twitter.com/StopTweetingMia/status/1459607143145893891  
 
 [[religious trauma]]  

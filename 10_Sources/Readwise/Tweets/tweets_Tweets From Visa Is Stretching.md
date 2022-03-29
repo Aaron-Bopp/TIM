@@ -1,10 +1,6 @@
 ---
 created: 2021-10-20
 edited:
-aliases:
-  - "Tweets From Visa Is Stretching"
-  - "Tweets From Visa Is Stretching by @visakanv on Twitter"
-  - "@visakanv on Twitter"
 tags: created/source/2021/10/20, node/source/tweets
 type: 
   - tweets

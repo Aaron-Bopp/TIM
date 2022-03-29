@@ -1,10 +1,6 @@
 ---
 created: 2021-11-10
 edited:
-aliases:
-  - "Filters Have Almost Neve..."
-  - "Filters Have Almost Neve... by @visakanv on Twitter"
-  - "@visakanv on Twitter"
 tags: created/source/2021/11/10, node/source/tweets
 type: 
   - tweets

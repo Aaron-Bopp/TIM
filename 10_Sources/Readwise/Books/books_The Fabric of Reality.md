@@ -1,10 +1,6 @@
 ---
 created: 2022-02-20
 edited:
-aliases:
-  - "The Fabric of Reality"
-  - "The Fabric of Reality by David Deutsch"
-  - "David Deutsch"
 tags: created/source/2022/02/20, node/source/books
 type: 
   - books
@@ -18,14 +14,12 @@ sr-ease: 230
 # The Fabric of Reality
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_The Fabric of Reality]]
+**Source**:: [[The Fabric of Reality by David Deutsch]]
 
 **Creator**:: [[David Deutsch]]
 
 # Highlights
-
 ##### ^287280348
 
 
@@ -258,7 +252,7 @@ The purpose of high-level sciences is to enable us to understand emergent phenom
 
 ##### ^288838100
 
-highlight_tags:: [[Holism]], [[orange]]   
+highlight_tags:: [[holism]], [[orange]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=398  
 
 ###### ^288838100q
@@ -569,3 +563,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B005KGJX8E&location=800
 ‘The possible’ cannot interact with the real: non-existent entities cannot deflect real ones from their paths. 
 
 ^289554225
+

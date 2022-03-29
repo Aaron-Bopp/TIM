@@ -1,10 +1,6 @@
 ---
 created: 2022-03-10
 edited:
-aliases:
-  - "Born a Crime"
-  - "Born a Crime by Trevor Noah"
-  - "Trevor Noah"
 tags: created/source/2022/03/10, node/source/books
 type: 
   - books
@@ -18,15 +14,14 @@ sr-ease: 230
 # Born a Crime
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_Born a Crime]]
+**Source**:: [[Born a Crime by Trevor Noah]]
 
 **Creator**:: [[Trevor Noah]]
 
 # Highlights
-
 ##### ^297089503
+
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2464  
 
@@ -38,6 +33,7 @@ People love to say, “Give a man a fish, and he’ll eat for a day. Teach a man
 
 ##### ^297089504
 
+
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2466  
 
 ###### ^297089504q
@@ -48,6 +44,7 @@ Working with Andrew was the first time in my life I realized you need someone fr
 
 ##### ^297089505
 
+highlight_tags:: [[favorite]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2548  
 
 ###### ^297089505q
@@ -57,6 +54,7 @@ I often wonder, with African atrocities like in the Congo, how horrific were the
 ^297089505
 
 ##### ^297089506
+
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2768  
 
@@ -68,6 +66,7 @@ That’s the hood. Someone’s always buying, someone’s always selling, and th
 
 ##### ^297089507
 
+
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2776  
 
 ###### ^297089507q
@@ -77,6 +76,7 @@ It’s easy to be judgmental about crime when you live in a world wealthy enough
 ^297089507
 
 ##### ^297089508
+
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2875  
 
@@ -88,6 +88,7 @@ The biggest thing in the hood is that you have to share. You can’t get rich on
 
 ##### ^297089509
 
+
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=2890  
 
 ###### ^297089509q
@@ -98,6 +99,7 @@ The hood has a gravitational pull. It never leaves you behind, but it also never
 
 ##### ^297089510
 
+
 Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=3433  
 
 ###### ^297089510q
@@ -105,3 +107,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=3433
 That’s when I realized the police were not who I thought they were. They were men first, and police second. 
 
 ^297089510
+

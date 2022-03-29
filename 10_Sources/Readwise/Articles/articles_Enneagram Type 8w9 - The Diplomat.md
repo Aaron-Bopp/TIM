@@ -1,10 +1,6 @@
 ---
 created: 2021-08-13
 edited:
-aliases:
-  - "Enneagram Type 8w9 - The Diplomat"
-  - "Enneagram Type 8w9 - The Diplomat by crystalknows.com"
-  - "crystalknows.com"
 tags: created/source/2021/08/13, node/source/articles
 type: 
   - articles

@@ -1,10 +1,6 @@
 ---
 created: 2021-10-26
 edited:
-aliases:
-  - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer"
-  - "Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer by Nick Seitz"
-  - "Nick Seitz"
 tags: created/source/2021/10/26, node/source/articles
 type: 
   - articles

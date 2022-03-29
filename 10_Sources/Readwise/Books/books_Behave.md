@@ -1,17 +1,13 @@
 ---
-created: 2022-03-22
+created: 2022-03-28
 edited:
-aliases:
-  - "Behave"
-  - "Behave by Robert M. Sapolsky"
-  - "Robert M. Sapolsky"
-tags: created/source/2022/03/22, node/source/books
+tags: created/source/2022/03/28, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-22
+sr-due: 2022-03-28
 sr-interval: 2
 sr-ease: 230
 ---
@@ -19,7 +15,7 @@ sr-ease: 230
 
 **Covers**:: 
 
-**Source**:: [[reference_Behave]]
+**Source**:: [[Behave by Robert M. Sapolsky]]
 
 **Creator**:: [[Robert M. Sapolsky]]
 
@@ -97,7 +93,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=380
 
 ###### ^301731327q
 
-Words pack power and these definitions are laden with values, ... (a) “competition”—your lab team races the Cambridge group to a discovery ... (b) “competition”—playing pickup soccer ... (c) “competition”—your child’s teacher announces a prize for the best outlining-your-fingers Thanksgiving turkey drawing ... (d) “competition”—whose deity is more worth killing for? 
+Words pack power and these definitions are laden with values, ... (a) “competition”—your lab team races the Cambridge group to a discovery ... (b) “competition”—playing pickup soccer ... (c) “competition”—your child’s teacher announces a prize for the best outlining-your-fingers Thanksgiving turkey drawing ... principal); (d) “competition”—whose deity is more worth killing for? 
 
 ^301731327
 
@@ -270,6 +266,39 @@ cortex is not a smooth surface but instead is folded into convolutions. The conv
 
 ^301731165
 
+##### ^303892920
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=606  
+
+###### ^303892920q
+
+Show human subjects pictures that provoke anger, and the amygdala activates (as shown with neuroimaging). Sticking an electrode in someone’s amygdala and stimulating it (as is done before certain types of neurosurgery) produces rage. 
+
+^303892920
+
+##### ^303892929
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=626  
+
+###### ^303892929q
+
+Ulrike Meinhof, a founder in 1968 of the Red Army Faction (aka the Baader-Meinhof Gang), a terrorist group responsible for bombings and bank robberies in West Germany. ... the 1976 autopsy showed that remnants of the tumor and surgical scar tissue impinged on her amygdala. 
+
+^303892929
+
+##### ^303892930
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=631  
+
+###### ^303892930q
+
+Charles Whitman, the 1966 “Texas Tower” sniper who, after killing his wife and mother, opened fire atop a tower at the University of Texas in Austin, killing sixteen and wounding thirty-two, ... In the prior year he had seen doctors, complaining of severe headaches and violent impulses (e.g., to shoot people from the campus tower). He left notes by the bodies of his wife and his mother, proclaiming love and puzzlement at his actions: “I cannot rationaly [sic] pinpoint any specific reason for [killing her],” and “let there be no doubt in your mind that I loved this woman with all my heart.” His suicide note requested an autopsy of his brain, and that any money he had be given to a mental health foundation. The autopsy proved his intuition correct—Whitman had a glioblastoma tumor pressing on his amygdala. Did Whitman’s tumor “cause” his violence? Probably not in a strict “amygdaloid tumor = murderer” sense, as he had risk factors that interacted with his neurological issues. Whitman grew up being beaten by his father and watching his mother and siblings experience the same. 
+
+^303892930
+
 ##### ^301731166
 
 
@@ -281,29 +310,6 @@ if you asked amygdala experts what behavior their favorite brain structure bring
 
 ^301731166
 
-##### ^301731167
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=11627  
-
-###### ^301731167q
-
-The Tangled Wing: Biological Constraints on the Human Spirit (New York: Henry Holt, 2003). This is the finest book in existence on the biology of human social behavior—subtle, nuanced, nondogmatic, and wonderfully written—by the anthropologist/physician Mel Konner. 
-
-^301731167
-
-##### ^301731168
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=17834  
-
-###### ^301731168q
-
-the hypothalamus consists of a bunch of different nuclei, each receiving a unique orchestration of limbic inputs and equivalently distinctive outputs to various midbrain/brain-stem regions. And while each hypothalamic nucleus has a different set of functions, they all fall under the general rubric of autonomic regulation. 
-
-^301731168
-
-# New highlights added March 25, 2022 at 1:11 PM
 ##### ^302856288
 
 highlight_tags:: [[orange]]   
@@ -347,6 +353,17 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=662
 the amygdala expands in size with long-term PTSD. 
 
 ^302856291
+
+##### ^303892925
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=668  
+
+###### ^303892925q
+
+The amygdala is particularly sensitive to unsettling circumstances that are social. 
+
+^303892925
 
 ##### ^302856292
 
@@ -414,16 +431,16 @@ conditioning increases levels of “growth factors,” which prompt the growth o
 
 ^302856300
 
-##### ^302856301
+##### ^303892926
 
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=722  
 
-###### ^302856301q
+###### ^303892926q
 
-Where do these “Ohhh, the tone isn’t scary anymore” neurons get inputs from? The frontal cortex. When we stop fearing something, it isn’t because some amygdaloid neurons have lost their excitability. We don’t passively forget that something is scary. We actively learn that it isn’t anymore.* 
+Where do these “Ohhh, the tone isn’t scary anymore” neurons get inputs from? The frontal cortex. When we stop fearing something, it isn’t because some amygdaloid neurons have lost their excitability. We don’t passively forget that something is scary. We actively learn that it isn’t anymore. 
 
-^302856301
+^303892926
 
 ##### ^302856302
 
@@ -469,18 +486,6 @@ the amygdala isn’t about the pleasure of experiencing pleasure. It’s about t
 
 ^302856306
 
-##### ^302856307
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=17890  
-
-###### ^302856307q
-
-Is the amygdala solely the keyboard (with fear memories stored elsewhere), or is it the hard drive as well? 
-
-^302856307
-
-# New highlights added March 26, 2022 at 3:21 PM
 ##### ^303014370
 
 
@@ -492,7 +497,6 @@ the amygdala, specifically the BLA, gets projections from all the sensory system
 
 ^303014370
 
-# New highlights added March 26, 2022 at 10:49 PM
 ##### ^303474533
 
 
@@ -503,4 +507,48 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=760
 some sensory information entering the brain takes a shortcut, bypassing the cortex and going directly to the amygdala. ... the shortcut projections form stronger, more excitable synapses in the BLA than do the ones from the sensory cortex; emotional arousal enhances fear conditioning through this pathway. 
 
 ^303474533
+
+##### ^303892931
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=776  
+
+###### ^303892931q
+
+If you (or any other mammal) bite into rancid food, the insular cortex lights up, causing you to spit it out, gag, feel nauseated, make a revolted facial expression—the ... humans also activate it by thinking about something morally disgusting—social norm violations or individuals who are typically stigmatized in society. And in that circumstance its activation drives that of the amygdala. 
+
+^303892931
+
+##### ^301731167
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=11627  
+
+###### ^301731167q
+
+The Tangled Wing: Biological Constraints on the Human Spirit (New York: Henry Holt, 2003). This is the finest book in existence on the biology of human social behavior—subtle, nuanced, nondogmatic, and wonderfully written—by the anthropologist/physician Mel Konner. 
+
+^301731167
+
+##### ^301731168
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=17834  
+
+###### ^301731168q
+
+the hypothalamus consists of a bunch of different nuclei, each receiving a unique orchestration of limbic inputs and equivalently distinctive outputs to various midbrain/brain-stem regions. And while each hypothalamic nucleus has a different set of functions, they all fall under the general rubric of autonomic regulation. 
+
+^301731168
+
+##### ^302856307
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=17890  
+
+###### ^302856307q
+
+Is the amygdala solely the keyboard (with fear memories stored elsewhere), or is it the hard drive as well? 
+
+^302856307
 

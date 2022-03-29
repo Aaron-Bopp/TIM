@@ -25,7 +25,7 @@ By the simple nature of [[farming]] it requires more forethought than [[foraging
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681723]]
 

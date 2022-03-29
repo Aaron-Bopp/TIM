@@ -1,8 +1,6 @@
 ---
 created: 2021-09-27
 edited:
-aliases:
-  - "What if Psychology Took Intersectionality Seriously? Changing How Psychologists Think About Participants"
 tags: created/source/2021/09/27, node/source/articles
 type: 
   - articles

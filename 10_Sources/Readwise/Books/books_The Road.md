@@ -1,10 +1,6 @@
 ---
 created: 2022-02-19
 edited:
-aliases:
-  - "The Road"
-  - "The Road by Cormac McCarthy"
-  - "Cormac McCarthy"
 tags: created/source/2022/02/19, node/source/books
 type: 
   - books
@@ -18,14 +14,12 @@ sr-ease: 230
 # The Road
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_The Road]]
+**Source**:: [[The Road by Cormac McCarthy]]
 
 **Creator**:: [[Cormac McCarthy]]
 
 # Highlights
-
 ##### ^283227484
 
 
@@ -157,7 +151,7 @@ God, he whispered. He reached and shook the boy, keeping his eyes on the road.
 
 ##### ^285352243
 
-highlight_tags:: [[blue]]   
+highlight_tags:: [[favorite]], [[blue]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=681  
 
 ###### ^285352243q
@@ -242,3 +236,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B000OI0G1Q&location=867
 If we were going to die would you tell me? I dont know. We’re not going to die. 
 
 ^288838068
+

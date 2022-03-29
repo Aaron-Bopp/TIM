@@ -1,10 +1,6 @@
 ---
 created: 2021-10-14
 edited:
-aliases:
-  - "Highlights From pages.cs.wisc.edu"
-  - "Highlights From pages.cs.wisc.edu by pages.cs.wisc.edu"
-  - "pages.cs.wisc.edu"
 tags: created/source/2021/10/14, node/source/articles
 type: 
   - articles

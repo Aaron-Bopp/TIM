@@ -1,10 +1,6 @@
 ---
 created: 2022-01-13
 edited:
-aliases:
-  - "Unusual Governments to Take Inspiration From - SFWA"
-  - "Unusual Governments to Take Inspiration From - SFWA by sfwa.org"
-  - "sfwa.org"
 tags: created/source/2022/01/13, node/source/articles
 type: 
   - articles

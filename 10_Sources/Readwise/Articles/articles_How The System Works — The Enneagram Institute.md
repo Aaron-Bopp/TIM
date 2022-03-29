@@ -1,10 +1,6 @@
 ---
 created: 2021-08-12
 edited:
-aliases:
-  - "How The System Works — The Enneagram Institute"
-  - "How The System Works — The Enneagram Institute by enneagraminstitute.com"
-  - "enneagraminstitute.com"
 tags: created/source/2021/08/12, node/source/articles
 type: 
   - articles
@@ -235,7 +231,7 @@ We each have a *self-preservation* instinct (for preserving the body and its li
 
 ##### ^212156686
 
-
+highlight_tags:: [[enneagram]]   
 Goto: https://enneagraminstitute.com/how-the-enneagram-system-works?__readwiseLocation=2%2F3%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A209%2C6%2F3%2F0%2F30%2F1%2F0%2F0%2F3%2F0%2F5%2F0%2F2%3A28#:~:text=We%20call%20this%20instinct%20our%2Cmost%20interferes%C2%A0with%20our%20dominant%20instinct.  
 
 ###### ^212156686q

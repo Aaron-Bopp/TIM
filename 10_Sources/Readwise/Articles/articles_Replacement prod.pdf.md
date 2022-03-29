@@ -1,8 +1,6 @@
 ---
 created: 2021-08-23
 edited:
-aliases:
-  - "Replacement prod.pdf"
 tags: created/source/2021/08/23, node/source/articles
 type: 
   - articles

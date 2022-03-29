@@ -1,10 +1,6 @@
 ---
 created: 2022-01-20
 edited:
-aliases:
-  - "Six Kinds of Reading – Everything Studies"
-  - "Six Kinds of Reading – Everything Studies by Robin Hanson and Kevin Simler"
-  - "Robin Hanson and Kevin Simler"
 tags: created/source/2022/01/20, node/source/articles
 type: 
   - articles

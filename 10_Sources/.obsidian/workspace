@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+            "file": "Readwise/Books/books_Darwin's Cathedral.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Tweets/tweets_Autism Adhd Field Report....md",
+                "file": "Readwise/Books/books_Darwin's Cathedral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6c2e0ab17f2b512d",
   "lastOpenFiles": [
+    "Readwise/Books/books_Darwin's Cathedral.md",
+    "Readwise/Books/books_Behave.md",
     "Readwise/Tweets/tweets_Autism Adhd Field Report....md",
     "Readwise/Tweets/tweets_&Gt; Most People Suck At....md",
     "Readwise/Podcasts/podcasts_#270 – David Wolpe —  Judaism.md",
     "Readwise/Podcasts/podcasts_323 —  Hoop Seated.md",
     "Readwise/Podcasts/podcasts_324 —  Rhett Bought a Bible —  Rhett’s Deconstruction 2 Years Later  Ear Biscuits Ep.324.md",
     "Readwise/Podcasts/podcasts_#269 – Lee Cronin —  Origin of Life, Aliens, Complexity, and Consciousness.md",
-    "Readwise/Books/books_Darwin's Cathedral.md",
     "Readwise/Books/books_A Short History of Nearly Everything.md",
-    "Readwise/Books/books_The Road.md",
-    "Readwise/Articles/articles_Decontextualizer - Paul Bricman.md"
+    "Readwise/Books/books_The Road.md"
   ]
 }

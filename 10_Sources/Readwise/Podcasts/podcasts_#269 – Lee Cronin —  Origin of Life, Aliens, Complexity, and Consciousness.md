@@ -1,24 +1,19 @@
 ---
-created: 2022-03-18
+created: 2022-03-20
 edited:
-aliases:
-  - "#269 – Lee Cronin —  Origin of Life, Aliens, Complexity, and Consciousness"
-  - "#269 – Lee Cronin —  Origin of Life, Aliens, Complexity, and Consciousness by Lex Fridman Podcast"
-  - "Lex Fridman Podcast"
-tags: created/source/2022/03/18, node/source/podcasts
+tags: created/source/2022/03/20, node/source/podcasts
 type: 
   - podcasts
 deliveredBy: 
   - "readwise"
   - "snipd"
-sr-due: 2022-03-18
+sr-due: 2022-03-20
 sr-interval: 2
 sr-ease: 230
 ---
 # \#269 – Lee Cronin —  Origin of Life, Aliens, Complexity, and Consciousness
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
 **Source**:: [\#269 – Lee Cronin —  Origin of Life, Aliens, Complexity, and Consciousness](https://share.snipd.com/episode/b130b585-63da-42f4-9ac5-d928d88469a5)
 
@@ -119,7 +114,6 @@ assembly theory is a theory. Goes back a few years now. And my struggle for mayb
 
 ^300300480
 
-# New highlights added March 22, 2022 at 12:24 PM
 ##### ^300715960
 
 

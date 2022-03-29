@@ -1,17 +1,13 @@
 ---
-created: 2022-03-12
+created: 2022-03-19
 edited:
-aliases:
-  - "Sapiens"
-  - "Sapiens by Yuval Noah Harari"
-  - "Yuval Noah Harari"
-tags: created/source/2022/03/12, node/source/books
+tags: created/source/2022/03/19, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-12
+sr-due: 2022-03-19
 sr-interval: 2
 sr-ease: 230
 ---
@@ -19,7 +15,7 @@ sr-ease: 230
 
 **Covers**:: 
 
-**Source**:: [[reference_Sapiens]]
+**Source**:: [[Sapiens by Yuval Noah Harari]]
 
 **Creator**:: [[Yuval Noah Harari]]
 
@@ -93,16 +89,16 @@ The appearance of new ways of thinking and communicating, between 70,000 and 30,
 
 ^294248527
 
-##### ^297094620
+##### ^299600337
 
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=382  
 
-###### ^297094620q
+###### ^299600337q
 
-The most common answer is that our language is amazingly supple. We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world. 
+What, then, is so special about our language? The most common answer is that our language is amazingly supple. We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world. 
 
-^297094620
+^299600337
 
 ##### ^294248528
 
@@ -376,7 +372,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=896
 
 ###### ^296601907q
 
-[[Animism]] (from ‘anima’, ‘soul’ or ‘spirit’ in Latin) is the belief that almost every place, every animal, every plant and every natural phenomenon has awareness and feelings, and can communicate directly with humans. 
+Animism (from ‘anima’, ‘soul’ or ‘spirit’ in Latin) is the belief that almost every place, every animal, every plant and every natural phenomenon has awareness and feelings, and can communicate directly with humans. 
 
 ^296601907
 
@@ -438,6 +434,17 @@ Just as foragers exhibited a wide array of religions and social structures, so, 
 
 ##### The Curtain of Silence
 #### 4 The Flood
+##### ^299600341
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1050  
+
+###### ^299600341q
+
+The moment the first hunter-gatherer set foot on an Australian beach was the moment that Homo sapiens climbed to the top rung in the food chain and became the deadliest species ever in the four-billion-year history of life on Earth. ... they encountered a strange universe of unknown creatures that included a 450-pound, six-foot kangaroo, and a marsupial lion, as massive as a modern tiger, that was the continent’s largest predator. Koalas far too big to be cuddly and cute rustled in the trees and flightless birds twice the size of ostriches sprinted on the plains. Dragon-like lizards and snakes seven feet long slithered through the undergrowth. The giant diprotodon, a two-and-a-half-ton wombat, roamed the forests. 
+
+^299600341
+
 ##### ^297089489
 
 
@@ -540,7 +547,6 @@ If a species boasts many DNA copies, it is a success, and the species flourishes
 
 ^297301079
 
-##### The Luxury Trap
 ##### ^297301081
 
 
@@ -579,6 +585,8 @@ No single step separated the woman gathering wild wheat from the woman farming d
 highlight_tags:: [[blue]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1371  
 
+This happened with the Agricultural Revolution  
+
 ###### ^297301086q
 
 As people began living in disease-ridden settlements, as children fed more on cereals and less on mother’s milk, and as each child competed for his or her porridge with more and more siblings, child mortality soared. In most agricultural societies at least one out of every three children died before reaching twenty. 
@@ -607,7 +615,6 @@ Since farming created the conditions for swift demographic growth, farmers could
 
 ^297301088
 
-##### Divine Intervention
 ##### ^297681710
 
 highlight_tags:: [[blue]]   
@@ -860,7 +867,7 @@ Hammurabi’s Code is therefore a good source for understanding the ancient Meso
 
 ##### ^297681737
 
-highlight_tags:: [[qa]]   
+
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1667  
 
 What is in the code of Hammurabi?  
@@ -968,6 +975,10 @@ This is why cynics don’t build empires and why an imagined order can be mainta
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1798  
 
+a. The imagined order is embedded in the material world. 
+b. The imagined order shapes our desires.
+c. The imagined order is inter-subjective.  
+
 ###### ^297681748q
 
 Three main factors prevent people from realising that the order organising their lives exists only in their imagination: 
@@ -1052,28 +1063,6 @@ in order to change an existing imagined order, we must first believe in an alter
 ^297681755
 
 #### 7 Memory Overload
-##### ^299600337
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=382  
-
-###### ^299600337q
-
-What, then, is so special about our language? The most common answer is that our language is amazingly supple. We can connect a limited number of sounds and signs to produce an infinite number of sentences, each with a distinct meaning. We can thereby ingest, store and communicate a prodigious amount of information about the surrounding world. 
-
-^299600337
-
-##### ^299600341
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1050  
-
-###### ^299600341q
-
-The moment the first hunter-gatherer set foot on an Australian beach was the moment that Homo sapiens climbed to the top rung in the food chain and became the deadliest species ever in the four-billion-year history of life on Earth. ... they encountered a strange universe of unknown creatures that included a 450-pound, six-foot kangaroo, and a marsupial lion, as massive as a modern tiger, that was the continent’s largest predator. Koalas far too big to be cuddly and cute rustled in the trees and flightless birds twice the size of ostriches sprinted on the plains. Dragon-like lizards and snakes seven feet long slithered through the undergrowth. The giant diprotodon, a two-and-a-half-ton wombat, roamed the forests. 
-
-^299600341
-
 ##### ^298648741
 
 highlight_tags:: [[favorite]]   
@@ -1087,7 +1076,7 @@ Because the Sapiens social order is imagined, humans cannot preserve the critica
 
 ##### ^298648742
 
-
+highlight_tags:: [[favorite]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=1909  
 
 ###### ^298648742q
@@ -1208,7 +1197,7 @@ tax registries and complex bureaucracies were born together
 
 ##### ^299110282
 
-
+highlight_tags:: [[favorite]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2012  
 
 ###### ^299110282q
@@ -1651,7 +1640,6 @@ Perceiving the direction of history is really a question of vantage point. When 
 
 ^299572972
 
-# New highlights added March 22, 2022 at 12:24 PM
 ##### ^300574924
 
 

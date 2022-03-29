@@ -1,10 +1,6 @@
 ---
 created: 2022-03-18
 edited:
-aliases:
-  - "323 —  Hoop Seated"
-  - "323 —  Hoop Seated by Dear Hank & John"
-  - "Dear Hank & John"
 tags: created/source/2022/03/18, node/source/podcasts
 type: 
   - podcasts
@@ -18,7 +14,6 @@ sr-ease: 230
 # 323 —  Hoop Seated
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
 **Source**:: [323 —  Hoop Seated](https://share.snipd.com/episode/1bcef78f-cc47-415c-a8a7-79267f9b96d5)
 

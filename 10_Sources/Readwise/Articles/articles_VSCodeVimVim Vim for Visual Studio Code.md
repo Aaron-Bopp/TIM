@@ -1,10 +1,6 @@
 ---
 created: 2021-10-08
 edited:
-aliases:
-  - "VSCodeVim/Vim: Vim for Visual Studio Code"
-  - "VSCodeVim/Vim: Vim for Visual Studio Code by github.com"
-  - "github.com"
 tags: created/source/2021/10/08, node/source/articles
 type: 
   - articles

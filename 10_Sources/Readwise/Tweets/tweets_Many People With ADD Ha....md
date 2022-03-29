@@ -1,10 +1,6 @@
 ---
 created: 2021-10-31
 edited:
-aliases:
-  - "'Many People With ADD Ha..."
-  - "'Many People With ADD Ha... by @roryreckons on Twitter"
-  - "@roryreckons on Twitter"
 tags: created/source/2021/10/31, node/source/tweets
 type: 
   - tweets
@@ -225,7 +221,7 @@ Goto: https://twitter.com/roryreckons/status/1454709034737561602
 ###### ^244104982q
 
 😩
-Understanding one of the reasons body doubling might work. We need [[emotional attachment]] to feel safe. 
+Understanding one of the reasons body doubling might work. We need emotional attachment to feel safe. 
 
 ^244104982
 

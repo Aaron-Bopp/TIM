@@ -1,10 +1,6 @@
 ---
 created: 2022-03-26
 edited:
-aliases:
-  - "The Feynman Learning Technique"
-  - "The Feynman Learning Technique by fs.blog"
-  - "fs.blog"
 tags: created/source/2022/03/26, node/source/articles
 type: 
   - articles
@@ -46,7 +42,7 @@ To avoid the pain of being bewildered by the unexpected, the Feynman Technique h
 
 ##### ^303018861
 
-highlight_tags:: [[epistemology]], [[knowledge]]   
+highlight_tags:: [[knowledge]], [[epistemology]]   
 
 ###### ^303018861q
 

@@ -1,10 +1,6 @@
 ---
 created: 2021-12-04
 edited:
-aliases:
-  - "Tweets From Autistic Callum"
-  - "Tweets From Autistic Callum by @AutisticCallum_ on Twitter"
-  - "@AutisticCallum_ on Twitter"
 tags: created/source/2021/12/04, node/source/tweets
 type: 
   - tweets

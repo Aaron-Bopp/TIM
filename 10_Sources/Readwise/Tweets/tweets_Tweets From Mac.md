@@ -1,10 +1,6 @@
 ---
 created: 2021-11-01
 edited:
-aliases:
-  - "Tweets From Mac"
-  - "Tweets From Mac by @GoodPoliticGuy on Twitter"
-  - "@GoodPoliticGuy on Twitter"
 tags: created/source/2021/11/01, node/source/tweets
 type: 
   - tweets

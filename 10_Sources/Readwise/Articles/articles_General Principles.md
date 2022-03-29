@@ -1,10 +1,6 @@
 ---
 created: 2022-01-13
 edited:
-aliases:
-  - "General Principles"
-  - "General Principles by users.speakeasy.net"
-  - "users.speakeasy.net"
 tags: created/source/2022/01/13, node/source/articles
 type: 
   - articles

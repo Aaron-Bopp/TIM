@@ -1,10 +1,6 @@
 ---
 created: 2021-08-14
 edited:
-aliases:
-  - "Summary, part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in Progress"
-  - "Summary, part 3 & 4 | We Do This 'Til We Free Us | Study Guide — Radical in Progress by radicalinprogress.org"
-  - "radicalinprogress.org"
 tags: created/source/2021/08/14, node/source/articles
 type: 
   - articles

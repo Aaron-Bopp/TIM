@@ -1,10 +1,6 @@
 ---
 created: 2021-11-10
 edited:
-aliases:
-  - "It’s Funny How Sometimes..."
-  - "It’s Funny How Sometimes... by @visakanv on Twitter"
-  - "@visakanv on Twitter"
 tags: created/source/2021/11/10, node/source/tweets
 type: 
   - tweets

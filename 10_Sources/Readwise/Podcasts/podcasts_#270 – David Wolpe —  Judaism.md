@@ -1,10 +1,6 @@
 ---
 created: 2022-03-20
 edited:
-aliases:
-  - "#270 – David Wolpe —  Judaism"
-  - "#270 – David Wolpe —  Judaism by Lex Fridman Podcast"
-  - "Lex Fridman Podcast"
 tags: created/source/2022/03/20, node/source/podcasts
 type: 
   - podcasts

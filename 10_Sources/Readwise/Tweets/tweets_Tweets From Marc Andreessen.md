@@ -1,10 +1,6 @@
 ---
 created: 2022-03-23
 edited:
-aliases:
-  - "Tweets From Marc Andreessen"
-  - "Tweets From Marc Andreessen by @pmarca on Twitter"
-  - "@pmarca on Twitter"
 tags: created/source/2022/03/23, node/source/tweets
 type: 
   - tweets

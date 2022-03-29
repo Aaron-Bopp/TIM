@@ -1,10 +1,6 @@
 ---
 created: 2022-03-18
 edited:
-aliases:
-  - "324 —  Rhett Bought a Bible —  Rhett’s Deconstruction 2 Years Later | Ear Biscuits Ep.324"
-  - "324 —  Rhett Bought a Bible —  Rhett’s Deconstruction 2 Years Later | Ear Biscuits Ep.324 by Ear Biscuits"
-  - "Ear Biscuits"
 tags: created/source/2022/03/18, node/source/podcasts
 type: 
   - podcasts
@@ -18,7 +14,6 @@ sr-ease: 230
 # 324 —  Rhett Bought a Bible —  Rhett’s Deconstruction 2 Years Later | Ear Biscuits Ep.324
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
 **Source**:: [324 —  Rhett Bought a Bible —  Rhett’s Deconstruction 2 Years Later | Ear Biscuits Ep.324](https://share.snipd.com/episode/f5e850c2-4d31-4d8e-8aed-fc24d68e89ed)
 

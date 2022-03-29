@@ -1,10 +1,6 @@
 ---
 created: 2021-11-16
 edited:
-aliases:
-  - "People Often Ask Me How..."
-  - "People Often Ask Me How... by @roryreckons on Twitter"
-  - "@roryreckons on Twitter"
 tags: created/source/2021/11/16, node/source/tweets
 type: 
   - tweets
@@ -335,7 +331,7 @@ Understand that this internal conflict state is hard for us to explain as adults
 
 ##### ^249709299
 
-
+highlight_tags:: [[parents]]   
 Goto: https://twitter.com/roryreckons/status/1460371999046262784  
 
 ###### ^249709299q

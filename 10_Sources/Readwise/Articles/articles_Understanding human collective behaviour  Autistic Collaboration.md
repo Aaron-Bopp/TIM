@@ -1,10 +1,6 @@
 ---
 created: 2022-02-16
 edited:
-aliases:
-  - "Understanding human collective behaviour | Autistic Collaboration"
-  - "Understanding human collective behaviour | Autistic Collaboration by autcollab.org"
-  - "autcollab.org"
 tags: created/source/2022/02/16, node/source/articles
 type: 
   - articles

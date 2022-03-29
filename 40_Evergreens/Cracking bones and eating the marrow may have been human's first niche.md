@@ -28,6 +28,6 @@ Similarly:: [[Cooking allowed prehistoric humans to spend less energy on digesti
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#294248521q]]

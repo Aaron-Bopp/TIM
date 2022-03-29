@@ -1,10 +1,6 @@
 ---
 created: 2022-01-15
 edited:
-aliases:
-  - "The new American dream: getting paid to do nothing?"
-  - "The new American dream: getting paid to do nothing? by Emma Rindlisbacher"
-  - "Emma Rindlisbacher"
 tags: created/source/2022/01/15, node/source/articles
 type: 
   - articles

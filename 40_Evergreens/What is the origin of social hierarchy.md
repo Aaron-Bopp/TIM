@@ -37,7 +37,7 @@ but they know that the order is only real as long as we collectively believe it 
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681739]]
 

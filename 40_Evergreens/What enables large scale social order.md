@@ -20,7 +20,7 @@ but maintaining [[social order]] on a scale larger than a hundred or so people i
 - from:: [[What is the link between evolution and social behavior]]
 - involves:: [[What is the origin of social hierarchy]]
 
-[[Yuval Noah Harari]] argues in his book [[reference_Sapiens|Sapiens]] that our [[Social order is built off of a shared belief in an imagined reality]].
+[[Yuval Noah Harari]] argues in his book [[Sapiens by Yuval Noah Harari|Sapiens]] that our [[Social order is built off of a shared belief in an imagined reality]].
 
 While the ability to exist in this imagined order has been there since our time as [[hunter-gatherers]],
 it only came to govern our daily lives after [[The Agricultural Revolution]].
@@ -59,7 +59,7 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 #### References
 
-![[reference_Sapiens#citation]]
+![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books_Sapiens#^297681730]]
 

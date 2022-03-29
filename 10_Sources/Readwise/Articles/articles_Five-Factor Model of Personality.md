@@ -1,10 +1,6 @@
 ---
 created: 2021-10-26
 edited:
-aliases:
-  - "Five-Factor Model of Personality"
-  - "Five-Factor Model of Personality by oxfordbibliographies.com"
-  - "oxfordbibliographies.com"
 tags: created/source/2021/10/26, node/source/articles
 type: 
   - articles

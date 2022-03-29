@@ -1,10 +1,6 @@
 ---
 created: 2022-01-05
 edited:
-aliases:
-  - "An Englishman in 1630 Es..."
-  - "An Englishman in 1630 Es... by @fortelabs on Twitter"
-  - "@fortelabs on Twitter"
 tags: created/source/2022/01/05, node/source/tweets
 type: 
   - tweets

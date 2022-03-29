@@ -1,10 +1,6 @@
 ---
 created: 2021-11-09
 edited:
-aliases:
-  - "Clarifying: It Seems Lik..."
-  - "Clarifying: It Seems Lik... by @visakanv on Twitter"
-  - "@visakanv on Twitter"
 tags: created/source/2021/11/09, node/source/tweets
 type: 
   - tweets

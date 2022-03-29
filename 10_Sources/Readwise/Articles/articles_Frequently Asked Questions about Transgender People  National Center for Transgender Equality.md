@@ -1,10 +1,6 @@
 ---
 created: 2021-10-19
 edited:
-aliases:
-  - "Frequently Asked Questions about Transgender People | National Center for Transgender Equality"
-  - "Frequently Asked Questions about Transgender People | National Center for Transgender Equality by transequality.org"
-  - "transequality.org"
 tags: created/source/2021/10/19, node/source/articles
 type: 
   - articles

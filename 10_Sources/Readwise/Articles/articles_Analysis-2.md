@@ -1,10 +1,6 @@
 ---
 created: 2022-03-26
 edited:
-aliases:
-  - "Analysis"
-  - "Analysis by survivedandpunished.org"
-  - "survivedandpunished.org"
 tags: created/source/2022/03/26, node/source/articles
 type: 
   - articles

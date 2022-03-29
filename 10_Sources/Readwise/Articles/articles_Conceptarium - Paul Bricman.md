@@ -1,10 +1,6 @@
 ---
 created: 2022-01-28
 edited:
-aliases:
-  - "Conceptarium - Paul Bricman"
-  - "Conceptarium - Paul Bricman by paulbricman.com"
-  - "paulbricman.com"
 tags: created/source/2022/01/28, node/source/articles
 type: 
   - articles

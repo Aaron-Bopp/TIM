@@ -1,10 +1,6 @@
 ---
 created: 2022-02-12
 edited:
-aliases:
-  - "Ancient Cave Art Full of Teenage Graffiti | Live Science"
-  - "Ancient Cave Art Full of Teenage Graffiti | Live Science by Bjorn Carey"
-  - "Bjorn Carey"
 tags: created/source/2022/02/12, node/source/articles
 type: 
   - articles

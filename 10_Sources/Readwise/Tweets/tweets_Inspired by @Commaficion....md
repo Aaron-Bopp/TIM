@@ -1,10 +1,6 @@
 ---
 created: 2021-11-25
 edited:
-aliases:
-  - "Inspired by @Commaficion..."
-  - "Inspired by @Commaficion... by @hassaan97 on Twitter"
-  - "@hassaan97 on Twitter"
 tags: created/source/2021/11/25, node/source/tweets
 type: 
   - tweets

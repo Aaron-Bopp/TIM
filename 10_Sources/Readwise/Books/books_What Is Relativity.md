@@ -1,26 +1,21 @@
 ---
-created: 2022-03-18
+created: 2022-03-19
 edited:
-aliases:
-  - "What Is Relativity?"
-  - "What Is Relativity? by Jeffrey Bennett"
-  - "Jeffrey Bennett"
-tags: created/source/2022/03/18, node/source/books
+tags: created/source/2022/03/19, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-18
+sr-due: 2022-03-19
 sr-interval: 2
 sr-ease: 230
 ---
 # What Is Relativity?
 
 **Covers**:: 
-*`=this.highlight_tags`*
 
-**Source**:: [[reference_What Is Relativity?]]
+**Source**:: [[What Is Relativity? by Jeffrey Bennett]]
 
 **Creator**:: [[Jeffrey Bennett]]
 
@@ -150,7 +145,7 @@ When we are speaking of space, however, an orbit is any path that is governed so
 
 ##### ^300340331
 
-
+highlight_tags:: [[gravity]], [[orbit]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00I2G6XNM&location=252  
 
 ###### ^300340331q
@@ -237,7 +232,6 @@ A parabola is curved everywhere along it, while at large distances a hyperbola i
 ^300340338
 
 ### Part 2 EINSTEIN’S SPECIAL THEORY OF RELATIVITY
-# New highlights added March 22, 2022 at 12:24 PM
 ##### ^300574933
 
 

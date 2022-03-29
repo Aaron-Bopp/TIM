@@ -1,10 +1,6 @@
 ---
 created: 2021-12-11
 edited:
-aliases:
-  - "Tweets From SANDWORM"
-  - "Tweets From SANDWORM by @christapeterso on Twitter"
-  - "@christapeterso on Twitter"
 tags: created/source/2021/12/11, node/source/tweets
 type: 
   - tweets
