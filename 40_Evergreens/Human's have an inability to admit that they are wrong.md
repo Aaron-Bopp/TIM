@@ -22,13 +22,15 @@ Thankfully, we have a path out of this. If our initial beliefs are ones that all
 %% #TO/PONDER/IDEA is this true? %%
 
 Through this trait we can see the foundation for human's reliance on and love of [[belief]].
+%% part of:: [[belief]] %%
 
 For more see [[Humans are primarily irrational, illogical, emotional beings]]
+%% part of:: [[Humans are primarily irrational, illogical, emotional beings]] %%
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human advancement]], [[human survival]], [[human behavior]], [[Psychology]]
+**Topics**:: [[human advancement]], [[human survival]], [[human behavior]], [[Psychology]], [[belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

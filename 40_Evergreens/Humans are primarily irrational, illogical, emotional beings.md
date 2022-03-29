@@ -11,11 +11,6 @@ sr-ease: 231
 
 #### [[Humans are primarily irrational, illogical, emotional beings]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-%%
-- cause [[Human's have an inability to admit that they are wrong]]
-- cause [[Human's will find explanations for inexplainable things]]
-%%
-
 The [[human experience]] is one that cannot be distilled into any small set of elements,
 but over time general patterns and behaviors can be observed,
 and the causes of those behaviors can be investigated.
