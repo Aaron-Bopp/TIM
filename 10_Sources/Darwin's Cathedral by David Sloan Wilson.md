@@ -90,8 +90,6 @@ Rational choice theorists such as [[Rodney Stark]] [[E. E. Evans-Pritchard]] and
 
 This lead to time of complete dismantle of Durkheim's idea, but Wilson says that while many of Durkheim's ideas are antiquated, the general thesis of [[functionalism]] is not and that new ideas like [[Symbolism increases human's capacity for cooperation]] support his work.
 
-[[Religion promotes high social control]]
-[[Moral social control promotes pro-social behavior in groups]]
 
 Wilson then goes on to state that the [[rational choice theory]] of religion is just as riddled with inconsistencies, and that [[E. E. Evans-Pritchard]]'s observations are in line with [[functionalism]].
 Despite this, [[functionalism]] was reject by [[anthropology|anthropologists]] of the 20th century.
@@ -121,5 +119,3 @@ with the caveat that is hard that this selection is not always conscious or that
 
 This leads him back to [[rational choice theory]], and how it's statement that [[religion]] is a byproduct is weak, and proposes how it could be included.
 
-
-> ![[books_Darwin's Cathedral#^298292989]]
