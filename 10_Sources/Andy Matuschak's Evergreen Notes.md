@@ -15,6 +15,7 @@ sr-ease: 250
 **Source**:: [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) ^d0ee6a
 
 **Covers**:: [[second brain]], [[knowledge management]]
+#TO/EXPLORE/READ [Cognitive scaffolding](https://notes.andymatuschak.org/z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr)
 
 #### Links
 [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC) ^8d0b78
