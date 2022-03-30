@@ -23,7 +23,7 @@ If we can focus our thoughts on one action over time we will see positive benefi
  - [[Self-belief is fundamental to good karma]]
  - [[Consciousness is the fundamental unit of existence]]
 	 - [[Consciousness is our capacity to introspect]]
-	 - [[Meditation is a practice to develop a stronger conscious]]
+	 - [[Meditation is a practice to develop a stronger consciousness]]
 - [[The most reliable path to success is repeatedly trying to succeed]]
 
 ### <hr class="footnote"/>

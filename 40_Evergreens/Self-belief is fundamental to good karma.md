@@ -24,7 +24,7 @@ This
 leads back to:: [[The most reliable path to success is repeatedly trying to succeed]]
 
 - [[Be the change you want to see in the world]]
-- [[Meditation is a practice to develop a stronger conscious]]
+
 
 ### <hr class="footnote"/>
 

@@ -41,7 +41,7 @@ I would give this course 3/5 stars, you should only take it if you are very inte
 		- [[notes_History of Meditation]]
 		- [[notes_Metaphysics of Meditation]]
 			- [[Consciousness is the fundamental unit of existence]]
-			- [[Meditation is a practice to develop a stronger conscious]]
+			- [[Meditation is a practice to develop a stronger consciousness]]
 				- [[notes_Intro to Mantra Practice]]
 		- [[We can control our body through our breath]]
 			- [[notes_Breath and Mind]]

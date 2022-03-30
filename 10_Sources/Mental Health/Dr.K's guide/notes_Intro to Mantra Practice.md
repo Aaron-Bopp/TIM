@@ -37,7 +37,7 @@ sr-ease: 250
 		-  ![[Pasted image 20211231162422.png]]
 	- A [[mantra]] gets implanted in the [[unconscious]], and then can be used to calm the [[consciousness|conscious]] (sort of like a positive [[Samskara]]?)
 		- ![[Pasted image 20211231162555.png]]
-### [[Meditation is a practice to develop a stronger conscious]]
+### [[Meditation is a practice to develop a stronger consciousness]]
 - You first use [[mantra]] as a [[Dharana]], then as you reach [[Dhyana]] it will implant itself in the [[subconscious]], where it's power grows and can help you achieve [[Samadhi]]. 
 - There is scientific evidence for [[mantra]] as [[Dharana]] and [[Dhyana]] but not as [[Samadhi]] as that is a much more [[spirituality|spiritual]] concept
 - Once you reach [[Samadhi]], your [[mantra]] becomes a way to affect reality.

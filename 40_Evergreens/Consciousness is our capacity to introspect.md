@@ -47,8 +47,8 @@ reach a [[flow state]] of [[friction|frictionless]] concentration,
 ^[[[notes_The Nature of Mind]] helps with [[We will evolve when we make learning as easy as thinking]]]
 and finally a no-mind state known as [[Dhyana]].
 
-[[Meditation is a practice to develop a stronger conscious]]
-![[Pasted image 20211231141949.png]]
+[[Meditation is a practice to develop a stronger consciousness]]
+
 
 ### <hr class="footnote"/>
 

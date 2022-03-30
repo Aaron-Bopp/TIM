@@ -11,8 +11,18 @@ sr-ease: 190
 
 #### [[How to develop a meditation practice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-You need a good [[teacher]], [[commitment]], and a little bit of [[belief]]. 
+[[Consciousness is our capacity to introspect]], but the [[diversity]] of our experiences means that the ways that [[meditation]] will help us be introspective will differ.
 
+> [!caption right]
+>  ![[Pasted image 20211229235616.png]]
+> Different styles of [[meditation]] strengthen different aspects of [[consciousness]]
+^[[[notes_Different Meditative Styles]]]
+
+We can try to match our [[meditation]] method with the way in which we struggle to understand ourselves. 
+[[Zen]] helps you develop [[consciousness]] by making you aware of the input from your [[Indriya]].
+[[Trataka]] helps you strengthen your ability to focus on one thing and allow your [[subconscious]] to be closer to the world.
+
+In order to improve at meditation you need [[commitment]] and a little bit of [[belief]].
 The key is to focus on the action not the goal.
 The benefits of [[meditation]] will come but slowly and only if you keep up with it.
 Don't set an abstract goal or focus on the outcomes.
@@ -20,13 +30,13 @@ Don't set an abstract goal or focus on the outcomes.
 ^[[[notes_How to achieve]]]
 
 If this doesn't sound easy this is why a strong [[community]] or [[Sangha]] around you.
-^[[[Communities are support systems]]]
 A [[Sangha]] can prompt you to practice, help you learn the principles of [[meditation]] and help you through your struggles.
+^[[[Communities are support systems]]]
 
 It may take you a while to perceive the effects of [[meditation]], but over time it will improve your life:
 [[Meditation improves mental, physical, and emotional health]]
-and it will shape your view of the world.
-[[Karma is an open ended system of belief]]
+and
+[[Meditation increases our ability to influence the world]]
 
 ### <hr class="footnote"/>
 

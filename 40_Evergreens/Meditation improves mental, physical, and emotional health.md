@@ -15,22 +15,24 @@ sr-ease: 170
 ^[[[notes_Brain Gut Axis]]]
 While many think of [[meditation]] as a practice for the most disciplined and devout of monks, the practice of [[meditation]] has been shown to have powerful effects on [[mental health]] of people from all backgrounds.  
 
-- [[Meditation helps us regulate our nervous system]]
-- [[Meditation regulates your hormones and stress physiology]]
+- Mental
+	- [[Consciousness is our capacity to introspect]]
+	- [[Meditation is a practice to gain control over your thoughts]]
+	- [[Meditation is a practice to develop a stronger consciousness]]
+- Physical
+	- [[Meditation helps us regulate our nervous system]]
+	- [[Meditation regulates your hormones and stress physiology]]
+- Emotional
+	- [[Meditation helps us detach negative attachments]]
+	- [[Meditation helps us gain control over our emotions]]
+	- [[Meditation helps us develop empathy]]
 
-- [[Meditation helps us detach negative attachments]]
-- [[Meditation helps us gain control over our emotions]]
-- [[Meditation helps us develop empathy]]
-
-- [[Consciousness is our capacity to introspect]]
-- [[Meditation is a practice to gain control over your thoughts]]
-- [[Meditation is a practice to develop a stronger conscious]]
-
-- [[How to develop a meditation practice]]
+This is 
+part of:: why you should learn [[How to develop a meditation practice]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED  
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[mental health]], [[self]]

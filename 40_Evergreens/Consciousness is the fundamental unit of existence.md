@@ -32,7 +32,7 @@ and is surprisingly similar to the modern theory of [[the Big Bang]].
 %%
 [[Consciousness is our capacity to introspect]],
 as you become less trapped in your mind, you become more [[consciousness|conscious]]:
-[[Meditation is a practice to develop a stronger conscious]]
+[[Meditation is a practice to develop a stronger consciousness]]
 
 ##### Counter:: Time is the fundamental unit of existence
 

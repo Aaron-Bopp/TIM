@@ -16,7 +16,7 @@ When [[Western philosophy|western]] researcher's started studying the science be
 
 There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and controlling your [[mind]] so that we can better live in the current moment.
 [[Consciousness is our capacity to introspect]]
-and [[Meditation is a practice to develop a stronger conscious]],
+and [[Meditation is a practice to develop a stronger consciousness]],
 so it follows that
 [[meditation]] will help you gain control over your thoughts in a variety of different ways.
 

@@ -26,7 +26,7 @@ see:: [[Meditation helps us regulate our nervous system]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[hormone]], [[mental health]]

@@ -11,9 +11,10 @@ sr-ease: 230
 
 #### [[Meditation helps us develop empathy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-This has been studied but isn't a solid conclusion. Many of the ways that [[meditation]] helps this may be in the more spiritual side:
-- [[The history of meditation is a mixture of science and spirituality]]
-- [[Yoga is a wholistic philosophy of self-improvement]]
+This has been studied but isn't a solid conclusion.
+^[[[notes_Science of Meditation]]]
+ Many of the ways that [[meditation]] helps this may be in the more spiritual side:
+[[The history of meditation is a mixture of science and spirituality]]
 
 ### <hr class="footnote"/>
 
