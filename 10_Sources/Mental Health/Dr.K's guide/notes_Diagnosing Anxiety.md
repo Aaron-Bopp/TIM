@@ -99,7 +99,7 @@ sr-ease: 250
 	- 10% of population
 	- [[Exposure Therapy]] is clinical proven treatment
 		- gradually exposing more and more as the patient is comfortable
-		- retraining emotional reactions [[Triggers are stored interactions that lead to strong emotional responses]]
+		- retraining emotional reactions [[Triggers activate stored emotional responses for certain situations]]
 - [[OCD]]
 	- distinct neurochemical process from [[anxiety]]
 	- OCD and anxiety are both thought generators

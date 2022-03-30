@@ -62,7 +62,7 @@ In many ways, [[emotions]] are the thing that makes us unable to admit that we a
 - [[Complex emotions are imperfect understandings of primal urges]]
 	- [[Mental health is a reaction to one's environment]]
 	- [[Rationalizations are defense-mechanisms against strong emotions]]
-- [[Triggers are stored interactions that lead to strong emotional responses]]
+- [[Triggers activate stored emotional responses for certain situations]]
 - [[We carry our childhood wounds into adulthood]]
 - [[Our brain actively inhibits us from processing repressed emotions]]
 

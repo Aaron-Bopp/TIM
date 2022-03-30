@@ -11,24 +11,17 @@ sr-ease: 190
 
 #### [[Our brain actively inhibits us from processing repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE how the brain lodges emotional reactions in our [[unconscious]] memory
+[[Triggers activate stored emotional responses for certain situations]], but outside of those situations our brain want's to avoid that [[memory]] at all costs.
 
-The [[Association Cortices]] are what make the attachments that we use to survive
-^[[[Humans are a product of evolution]]]
-but they do that by lodging [[emotions]] in our [[subconscious]] called [[Samskara]].
-If those attachments are left unchecked it can lead to very bad things 
-^[[[We carry our childhood wounds into adulthood]]]
-but [[meditation]] allows us to gain [[control]] over our [[subconscious]] and [[emotional detachment]] from those [[emotions]].
+[[Meditation helps us detach negative attachments]] by getting us past the brain's [[defense-mechanisms]].
 
-[[Meditation helps us detach negative attachments]]
-
-- enables [[We carry our childhood wounds into adulthood]]
+- part of:: [[We carry our childhood wounds into adulthood]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited January 18, 2022*
 
-**Topics**:: [[brain]], [[physiology]], [[Neuroscience]]
+**Topics**:: [[brain]], [[Neuroscience]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

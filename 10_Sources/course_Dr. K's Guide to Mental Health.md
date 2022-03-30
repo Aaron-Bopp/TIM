@@ -79,7 +79,7 @@ I would give this course 3/5 stars, you should only take it if you are very inte
 			- [[Anxiety prevents us from living in the present]]
 		- [[notes_Responses to Anxiety]]
 			- [[Confidence comes when you are more capable of handling diverse outcomes]]
-			- [[Triggers are stored interactions that lead to strong emotional responses]]
+			- [[Triggers activate stored emotional responses for certain situations]]
 				- [[notes_Working with Samskaras]]
 				- [[notes_Learned Anxiety]]
 		- [[notes_Diagnosing Anxiety]]

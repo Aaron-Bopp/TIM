@@ -15,15 +15,16 @@ sr-ease: 250
 > 
 > <cite>[[articles_Afraid you’ll jump, even though you don’t want to High Places Phenomenon explained. - Headspace|headspace.com]]</cite>
 
-- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
-- [[Human's will find explanations for inexplainable things]]
-- [[Our brains are built around survival]] or [[Our brain will do anything it can to protect itself]]
-- [[Humans are a product of evolution]]
-- #TO/PONDER/IDEA connections to [[notes_Anxiety 101]]
+This is
+part of:: how [[Our brains are built around survival]].
+Our brain is sending us signals to keep us alert to danger, but because we have developed [[consciousness]] we interpret this differently.
+
+This also 
+explains:: [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[Neuroscience]], [[human experience]]

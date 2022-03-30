@@ -15,7 +15,7 @@ That gut feeling is a symbolization of past thought.
 
 That trigger is a symbolization of all your past fears
 
-- explains:: [[Triggers are stored interactions that lead to strong emotional responses]]
+- explains:: [[Triggers activate stored emotional responses for certain situations]]
 	- why::[[Our brain actively inhibits us from processing repressed emotions]]
 - part of:: [[How memory works]]
 - contrasts:: [[Complex emotions are imperfect understandings of primal urges]], because those are genetic processes not cognitive processes that lead to [[emotions]]

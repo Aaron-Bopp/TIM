@@ -17,10 +17,15 @@ The [[Yoga|Yogic]] model of the [[mind]] and its faculties.
 
 The five layers of the [[mind]]
 - [[Manas]] - [[emotions]]
+	- reflexive, automatic, likes and dislikes
 - [[Buddhi]] - intellect
+	-  analyze, recall, pattern match
 - [[Ahamkara]] - [[ego]]
+	- [[identity]], [[ego]], sense of I
 - [[Samskara]] - [[memory]]
+	- memory impression, [[repressed]] memory, emotional reaction
 - [[Citta]] - [[unconscious]]  
+	- backdrop of the mind, where [[Samskara]] are stored
 
 ^f8cf69
 

@@ -24,17 +24,16 @@ even though the more the receive the less impactful it is. They won't be able to
 and when they stop receiving the continued assurance they will perceive it as rejection.
 ^[[[notes_Responses to Anxiety]]]
 
-#TO/TEND/WEED 
 This becomes very dangerous when combined with
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]].
-[[Most anxiety isn't irrational it's just overcompensation]], and
-your [[anxiety]] is not only feeding you more information than you need,
+Your [[anxiety]] is not only feeding you more information than you need,
 it is information that has a seed of truth.
+^[[[Most anxiety isn't irrational it's just overcompensation]]]
 That is what makes [[anxiety]] so dangerous for our [[relationships]],
 especially when there are other strong [[emotions]] 
 ^[and [[repressed]] [[emotions]] ([[Samskara]])]
 at play.
-^[[[Triggers are stored interactions that lead to strong emotional responses]]]
+^[[[Triggers activate stored emotional responses for certain situations]]]
 
 This is especially worsened when those [[emotions]] are ones that lead to [[anxiety]] in the first place:
 [[Your anxiety knows your insecurities better than you do]]

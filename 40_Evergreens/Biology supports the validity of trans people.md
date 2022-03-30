@@ -13,7 +13,7 @@ sr-ease: 252
 
 > Present evidence seems to suggest that a person’s [[gender]] is established during gestation while the [[cerebral cortex]] of the brain is forming
 > 
-> <cite>[[1 What is Gender]]</cite> 
+> <cite>[What is Gender? :: That's Gender Dysphoria, FYI](https://genderdysphoria.fyi/en/what-is-gender)</cite> 
 
 [[Gender is a social construct]], explores how [[socialization]] creates and reinforces the [[gender binary]], but our pre-natal and [[hormone|hormonal]] environment are the scientific basis of our gender. This is the reason why [[Our understanding of gender begins at a very early age]] and supports the validity of [[Transgender people]] children and that [[You can discover your transness at any point in life]] 
 

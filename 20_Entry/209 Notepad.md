@@ -6,6 +6,8 @@
 
 #TO/EXPLORE/READ  [Levenshtein distance - Wikipedia](https://en.m.wikipedia.org/wiki/Levenshtein_distance)
 
+interesting example of escaping the [[alt-right pipeline]]: [i had a ben shapiro/jordan peterson phase... and i'm glad i did - YouTube](https://www.youtube.com/watch?v=R3r01BruBok)
+
 #TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 

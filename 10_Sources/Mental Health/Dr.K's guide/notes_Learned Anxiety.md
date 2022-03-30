@@ -32,7 +32,7 @@ sr-ease: 250
 		- leads to [[Samskara]] of if I am center of [[attention]] I am in danger
 	- situation:: abusive parent
 		- [[Samskara]] allows for the brain to immediately tell whether the parent is mad or note
-	- [[Triggers are stored interactions that lead to strong emotional responses]]
+	- [[Triggers activate stored emotional responses for certain situations]]
 		- our [[brain]] wires for very specific situations
 		- strong emotional reactions can rewire our anxiety around new events
 			- situation:: you find out your SO has been lying to you for years 
