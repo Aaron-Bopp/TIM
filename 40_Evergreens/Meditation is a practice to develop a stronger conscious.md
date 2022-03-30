@@ -14,7 +14,6 @@ sr-ease: 210
 [[Consciousness is our capacity to introspect]], but the [[diversity]] of our experiences means that the ways that [[meditation]] is practiced will differ from person to person:
 [[How to develop a meditation practice]]
 
-Different styles of [[meditation]] will help us find the best way for our [[consciousness]] to adapt.
  ![[Pasted image 20211229235616.png]]
 ^[[[notes_Different Meditative Styles]]]
 

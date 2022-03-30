@@ -16,15 +16,12 @@ possible kinds of notes
 	- [[source notes]], class notes
 - [[Conceptual notes]] notes that are purely taken on individual concepts
 	- [[topic notes]], wikipedia articles
-- Transformative notes: notes that transform the material into things like questions and answers or prompts
-	- [[evergreen notes]], and the rest of [[writing]]
 - [[organizational notes]] - mainly exists in [[web of thought|webs of thought]] as other mediums have organization through tables of content
 	- [[topic notes]], structure zettel, MOC
 
-Notes we take in school are mainly reproductive notes. 
+Notes we take in school are mainly referential notes. 
 
-Where is the line being producing a note and [[creativity]]? Is there any difference #TO/PONDER/IDEA 
-[[There is a difference between thinking and creating]]
+[[There is a difference between thinking and creating]], and during note taking that line start adding your own insights to notes.
 
 ##### What are the starter types of note taking?
 

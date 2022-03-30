@@ -11,8 +11,13 @@ aliases:
 
 #### ^blurb
 
+In:: [[education]], [[productivity]], and daily life,
+note writing generally refers to any [[writing]] that is in service of completing the task at hand whether that be a class assignment or publication.
+
 In:: [[knowledge management]], 
-note writing is purposeful act of storing information for future use. The medium of the storage isn't entirely irrelevant, but the methodology is much more influential. The type of notes you can write can roughly be divided 
+note writing is the systematic act of storing information for future use. While the notes can be used in the process of completing tasks, they are expected to accumulate and contribute to many tasks over time. 
+
+The medium of the storage isn't entirely irrelevant, but the methodology is much more influential. The type of notes you can write can roughly be divided 
 into:: [[referential notes]], [[conceptual notes]], and [[organizational notes]]. 
 ^[This definition is my own and is expanded upon in [[Note taking is a spectrum from purely reproductive to purely productive]]]
 
