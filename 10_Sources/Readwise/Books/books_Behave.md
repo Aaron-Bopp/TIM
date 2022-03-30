@@ -586,3 +586,136 @@ A zillion red blood cells fit on the proverbial period at the end of this senten
 
 ^304449640
 
+# New highlights added March 30, 2022 at 2:11 PM
+##### ^304866727
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4503  
+
+###### ^304866727q
+
+when we contemplate our iconic acts—the pulling of a trigger, the touching of an arm—and want to explain why they happened using a biological framework, culture better be on our list of explanatory factors. 
+
+^304866727
+
+##### ^304866744
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4515  
+
+###### ^304866744q
+
+Jane Goodall blew off everyone’s socks in the 1960s by reporting the now-iconic fact that chimps make tools. Her study subjects modified twigs by stripping off the leaves and pushing them into termite mounds; termites would bite the twig, still holding on when it was pulled out, yielding a snack for the chimps. ... Different populations make different tools; new techniques spread across social networks (among chimps who hang with one another); kids learn the ropes by watching their moms; techniques spread from one group to another when someone emigrates; chimp nut-cracking tools in excess of four thousand years old have been excavated. ... a female in Zambia got it into her head to go around with a strawlike blade of grass in her ear. ... She did it for years, and over that time the practice spread throughout her group. 
+
+^304866744
+
+##### ^304866745
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4538  
+
+###### ^304866745q
+
+Alfred Kroeber, Clyde Kluckhohn, and Clifford Geertz, ... focused on how culture is about ideas and symbols, rather than the mere behaviors in which they instantiate, 
+
+^304866745
+
+##### ^304866734
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4542  
+
+###### ^304866734q
+
+we’ll rely on an intuitive definition of culture that has been emphasized by Frans de Waal: “culture” is how we do and think about things, transmitted by nongenetic means. 
+
+^304866734
+
+##### ^304866735
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4545  
+
+###### ^304866735q
+
+multiple groups of humans independently invented agriculture, writing, pottery, embalming, astronomy, and coinage. 
+
+^304866735
+
+##### ^304866746
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4555  
+
+###### ^304866746q
+
+demographic statistics born of cultural differences: a girl born in Monaco has a ninety-three-year life expectancy; one in Angola, thirty-nine. Latvia has 99.9 percent literacy; Niger, 19 percent. More than 10 percent of children in Afghanistan die in their first year, about 0.2 percent in Iceland. Per-capita GDP is $137,000 in Qatar, $609 in the Central African Republic. A woman in South Sudan is roughly a thousand times more likely to die in childbirth than a woman in Estonia. ... Someone in Honduras is 450 times more likely to be murdered than someone in Singapore. 65 percent of women experience intimate-partner violence in Central Africa, 16 percent in East Asia. A South African woman is more than one hundred times more likely to be raped than one in Japan. Be a school kid in Romania, Bulgaria, or Ukraine, and you’re about ten times more likely to be chronically bullied than a kid in Sweden, Iceland, or Denmark 
+
+^304866746
+
+##### ^304866738
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4590  
+
+###### ^304866738q
+
+When asked to draw a “sociogram”—a diagram of their social network, with circles representing themselves and their friends, connected by lines—Americans tend to place the circle representing themselves in the middle of the page and make it the largest. 
+
+^304866738
+
+##### ^304866739
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4593  
+
+###### ^304866739q
+
+those from collectivist cultures show more social comprehension; some reports suggest that they are better at Theory of Mind tasks, more accurate in understanding someone else’s perspective—with “perspective” ranging from the other person’s abstract thoughts to how objects appear from where she is sitting. There is more blame of the group when someone violates a norm due to peer pressure, and a greater tendency to give situational explanations for behavior. Competitive drive is about not falling behind everyone else. And when drawing sociograms, the circle representing “yourself” is far from the center, and far from the biggest. 
+
+^304866739
+
+##### ^304866740
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4598  
+
+###### ^304866740q
+
+subjects from individualist cultures strongly activate the (emotional) mPFC when looking at a picture of themselves, compared to looking at a picture of a relative or friend; in contrast, the activation is far less for East Asian subjects. 
+
+^304866740
+
+##### ^304866741
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4601  
+
+###### ^304866741q
+
+when asked in free recall, Americans are more likely than East Asians to remember times in which they influenced someone; conversely, East Asians are more likely to remember times when someone influenced them. Force Americans to talk at length about a time someone influenced them, or force East Asians to detail their influencing someone, and both secrete glucocorticoids from the stressfulness of having to recount this discomfiting event. 
+
+^304866741
+
+##### ^304866742
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4607  
+
+###### ^304866742q
+
+collectivist societies, conformity and morality are virtually synonymous and norm enforcement is more about shame (“What will people think if I did that?”) than guilt (“How could I live with myself?”). 
+
+^304866742
+
+##### ^304866743
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4613  
+
+###### ^304866743q
+
+subjects from both individualist and collectivist cultures denigrate out-group members, but only the former inflate assessments of their own group. In other words, East Asians, unlike Americans, don’t have to puff up their own group to view others as inferior. 
+
+^304866743
+

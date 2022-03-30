@@ -15,7 +15,7 @@ sr-ease: 168
 If a [[worldview]] makes life seem easy, it will shape the way you view people who are struggling.
 The pursuit of [[self-actualization]] is different for every person, but if you aren't part of a [[marginalization|marginalized]] group and your [[worldview]] tells you that all you need to do is one simple thing, you will view those people as lazy or wrong.
 
-This is especially seen in [[individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]): [[The actual path to being a good person isn't explored by Evangelicalism]]
+This is especially seen in [[Individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]): [[The actual path to being a good person isn't explored by Evangelicalism]]
 
 #TO/TEND/GRAFT 
 - [[Worldviews should be open ended and adaptive]]

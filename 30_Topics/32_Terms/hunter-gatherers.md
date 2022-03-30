@@ -16,6 +16,9 @@ tags: created/topic/2022/03/17, node/topic/term
 > Hunting and gathering was humanity's original and most enduring successful competitive adaptation in the natural world, occupying at least 90 percent of human history. Following the invention of agriculture, hunter-gatherers who did not change were displaced or conquered by farming or pastoralist groups in most parts of the world. However, the division between the two is no longer presumed to be a fundamental marker in human history, and there is not necessarily a hierarchy which places agriculture and industry at the top as a goal to be reached.Only a few contemporary societies are classified as hunter-gatherers, and many supplement their foraging activity with horticulture or pastoralism.
 >
 
+^e6e97c
+
+
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -2154,3 +2154,15 @@ Idealized religion is close to what one expects on the basis of pure group selec
 
 ^303892934
 
+# New highlights added March 30, 2022 at 2:11 PM
+##### ^304866748
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1883  
+
+###### ^304866748q
+
+Calvinism was structured to control the leadership as effectively as the average member of the church. 
+
+^304866748
+

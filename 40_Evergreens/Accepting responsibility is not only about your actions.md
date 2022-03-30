@@ -33,7 +33,7 @@ This doesn't mean you can rectify your past actions in the eyes of other people.
 ^[This is the idea of [[Karma Fal]]: [[You can't control what happens]]]
 
 American's need to have the same stance on slavery as the German's do on the Holocaust.
-Accepting responsibility for these kind of things is not taught at a young age in [[America]] because that goes against [[individualism]].
+Accepting responsibility for these kind of things is not taught at a young age in [[America]] because that goes against [[Individualism]].
 ^[This is why so many American's struggle to have [[empathy]] for [[marginalization|marginalized]] people: 
 [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]]
 
