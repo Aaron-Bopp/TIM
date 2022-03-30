@@ -13,7 +13,7 @@ sr-ease: 150
 
 If you want to see change in the world it is not enough to stand by and [[hope]] for better times,
 because:: [[Hope is not optimism it is a practice for producing change]].
-If you have [[Humans have decided to reject an unjust world|decided to reject and unjust world]],
+If you have [[Humans have decided to reject an unjust world|decided to reject an unjust world]],
 you need to take part in it.
 
 With:: [[Knowledge of an unjust world is painful|knowledge that the world is unjust]]

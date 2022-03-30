@@ -11,9 +11,11 @@ sr-ease: 170
 
 #### [[Growing up is being able to articulate the hope more than the hopelessness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+When you are young, you don't know when to expect change to come. You feel like it has been long. When you are older you realize that change will come, whether you like it or not, you just have to be ready to take advantage of it when it does.
 #TO/PONDER/ME 
 Age gives you perspective. Changing systemic problems takes generations. You have to have [[hope]] for future generations.
 But how does this interact with [[Knowledge of an unjust world is painful]]
+#TO/TEND/GRAFT 
 - [[Hope is not optimism it is a practice for producing change]]
 - [[Realism must acknowledge optimism's existence and effectiveness]]
 - [[You can't blame people for failing to rise above their circumstances]]
