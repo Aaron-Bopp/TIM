@@ -2,7 +2,7 @@
 created: 2022-03-22T10:13:06 
 edited: 
 aliases:
-  - null
+  - organizational note
 tags: created/topic/2022/03/22, node/topic/term
 
 ---
