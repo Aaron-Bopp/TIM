@@ -18,7 +18,23 @@ Sayings that have wisdom beyond their simplicity
 
 - [[The grass is always greener on the other side]]
 - [[Healed people heal people]]
+- [[Steal like an artist]]
 
-### <hr class="dataviews"/>
+##### ^dataviews
 
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%

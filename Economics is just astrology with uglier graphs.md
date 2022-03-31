@@ -15,5 +15,5 @@ source:: [why you can't buy this notebook - YouTube](https://www.youtube.com/wat
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[economics]], [[Sagacious sayings]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

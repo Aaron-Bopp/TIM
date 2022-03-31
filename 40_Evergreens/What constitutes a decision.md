@@ -18,7 +18,6 @@ If we believe that these really are impacting our ability to do these things, wh
 
 Is a decision all of the influences leading up to an action or is it just the moment of turning one way or the next.
 
-#TO/PONDER/IDEA [[radical freedom]]
 
 ### <hr class="footnote"/>
 

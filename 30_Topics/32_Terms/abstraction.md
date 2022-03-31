@@ -12,7 +12,7 @@ sr-ease: 232
 
 #### <s class="topic-title">[[abstraction]]</s>
 
-A way to remove complexity from a concept without losing meaning or functionality with the goal of allowing other concepts to be built upon it.
+A way to remove complexity from a concept without losing meaning or functionality with jthe goal of allowing other concepts to be built upon it.
 
 In:: [[Software Development]],
 this is very commonly used to allow
@@ -32,3 +32,5 @@ This is a
 form of:: [[emergence]], where higher level concepts can be understood without the detail of underlying mechanics and
 why:: [[Note titles should be abstractions of the note content]]
 
+This
+is a:: [[Sticky concepts|Sticky concept]]
