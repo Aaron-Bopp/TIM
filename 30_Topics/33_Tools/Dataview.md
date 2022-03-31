@@ -9,16 +9,6 @@ tags: created/topic/2021/05/29, node/topic, node/topic/tool
 #TO/EXPLORE/READ 
 [Toying with Relational Databases using Dataview - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/toying-with-relational-databases-using-dataview/17433?u=riddyrayes)
 
-**Topics**:: [[205 Index]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
 source code:: https://github.com/blacksmithgu/obsidian-dataview
 documentation:: https://blacksmithgu.github.io/obsidian-dataview/
 snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/104
@@ -40,19 +30,3 @@ snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, http
 	- `replace([string], replaced, inserted)`
 
 # queries
-
-### <hr class="footnote"/>
-
-**Status**:: #EVER/SAPLING 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[SQL]], [[data querrying]], 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

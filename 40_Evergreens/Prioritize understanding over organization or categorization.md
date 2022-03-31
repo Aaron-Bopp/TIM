@@ -36,7 +36,7 @@ part of:: [[Your second brain should be an inspirational hub of creativity]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge management]], [[My TIM]], [[understanding]]

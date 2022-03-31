@@ -107,7 +107,6 @@ Understand what **fruitfulness** looks like when using your vault, and continue 
 
 Goto: https://nickseitz.com/writing/obsidian-day-one-starterpack?__readwiseLocation=0%2F2%2F0%2F6%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A0%2C0%2F2%2F0%2F6%2F0%2F0%2F0%2F1%2F3%2F1%2F1%2F1%2F1%2F3%2F1%2F1%2F5%2F1%3A82#:~:text=I%E2%80%99ll%20start%20with%20several%20key%2Cin%20my%20time%20using%20Obsidian.  
 
-- [ ] #TO/DO/READ the rest of this article  
 
 ###### ^239361990q
 
