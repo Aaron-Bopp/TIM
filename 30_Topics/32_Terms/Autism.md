@@ -22,6 +22,8 @@ and instead support educating and changing [[society]] to better support autisti
 > Kanner Autism is a neurodevelopmental disorder characterized by challenges with [[social communication]], and by restricted and repetitive behaviors. It is now considered part of the wider [[autism spectrum]].
 > 
 
+> ![[articles_Understanding human collective behaviour  Autistic Collaboration#^287467171]]
+
 > [!wikipedia]- When does autism present
 > 
 > Parents often notice signs of autism during the first three years of their child's life. These signs often develop gradually, though some autistic children experience regression in their [[communication]] and social skills after reaching developmental milestones at a normal pace. 

@@ -36,7 +36,6 @@ Individually and collectively neuronormative humans are prone to developing a bi
 highlight_tags:: [[autism]]   
 Goto: https://autcollab.org/2021/11/28/understanding-human-collective-behaviour?__readwiseLocation=0%2F1%2F1%2F1%2F1%2F1%2F3%2F6%2F1%3A0%2C0%2F1%2F1%2F1%2F1%2F1%2F3%2F6%2F1%3A40#:~:text=Understanding%20human%20collective%20behaviour  
 
-#TO/EXPLORE/READ  
 
 ###### ^258511490q
 
