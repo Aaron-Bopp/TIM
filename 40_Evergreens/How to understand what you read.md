@@ -48,6 +48,8 @@ Once you start doing this you likely feel even more of a need to systemize your 
 Other views on how to get the most out of your reading:
 - [Syntopical Reading in Roam — Maggie Delano's Digital Garden](https://www.maggiedelano.com/garden/syntopical-reading-in-roam)
 - #TO/EXPLORE/RESEARCH  [[mnemonic medium]]
+- [The Barbell Method of Reading • Zettelkasten Method](https://zettelkasten.de/posts/barbell-method-reading/)
+- [Field Report #5: How I Prepare Reading and Processing Effective Notetaking by Fiona McPherson • Zettelkasten Method](https://zettelkasten.de/posts/field-report-5-reading-processing-effective-notetaking-mcpherson/)
 
 ### <hr class="footnote"/>
 
