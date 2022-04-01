@@ -3,17 +3,13 @@ created: 2021-05-29
 tags: created/2021/05/29, node/topic, node/topic/tool
 ---
 
-[[Dataview]] is an plugin for [[Obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
-#TO/EXPLORE/READ 
-[Toying with Relational Databases using Dataview - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/toying-with-relational-databases-using-dataview/17433?u=riddyrayes)
+[[Dataview]] is an plugin for [[Obsidian (software)]] that allows for [[sql]] like queries over the notes in your obsidian vault.
 
 source code:: https://github.com/blacksmithgu/obsidian-dataview
 documentation:: https://blacksmithgu.github.io/obsidian-dataview/
 snippets:: https://forum.obsidian.md/t/dataviewjs-snippet-showcase/17847/2, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673, https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673/104
 
-[Tag Context - Obsidian Publish](https://publish.obsidian.md/napkinium/Ideas/Dataview/Tag+Context)
- 
 - inline query
 	- can be used to perform expressions inline with `"= <expression>"`
 		- today's date: **`= date(today)`** 

@@ -17,6 +17,8 @@ This is counterintuitive, but is shown by the [[success]] of educational content
 
 - [[Why is evergreen note-taking SO GOOD]]
 
+> ![[^^looking for incepting material
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

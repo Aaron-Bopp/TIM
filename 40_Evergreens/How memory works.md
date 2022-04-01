@@ -17,7 +17,6 @@ Terms:: [[Forgetting Curve]], [[Active Recall]]
 
 [[Our brain actively inhibits us from processing repressed emotions]]
 
-#TO/EXPLORE/RESEARCH Do we even remember something before we understand it?
 [Marty Lobdell - Study Less Study Smart - YouTube](https://youtu.be/IlU-zDU6aQ0) #TO/EXPLORE/WATCH 
 
 - [[notes_Vidya and Jnana]]
