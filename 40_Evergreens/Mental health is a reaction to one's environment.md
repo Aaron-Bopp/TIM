@@ -1,7 +1,6 @@
 ---
 created: 2021-08-08
-edited: 2022-01-25
-tags: created/evergreen/2021/08/08, review, node/evergreen/observation
+tags: created/2021/08/08, review, node/evergreen/observation
 aliases:
   - null
 sr-due: 2022-04-10

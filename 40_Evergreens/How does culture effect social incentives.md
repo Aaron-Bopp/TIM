@@ -1,9 +1,8 @@
 ---
 created: 2022-03-30T14:32:18 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/30, review, node/evergreen/question
+tags: created/2022/03/30, review, node/evergreen/question
 ---
 
 #### [[How does culture effect social incentives]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

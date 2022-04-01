@@ -1,10 +1,9 @@
 ---
 created: 2022-01-02T10:22:26 
-edited: 
 aliases:
   - unconsciousness
   - unconscious mind
-tags: created/topic/2022/01/02, node/topic/term
+tags: created/2022/01/02, node/topic/term
 sr-due: 2022-03-30
 sr-interval: 2
 sr-ease: 239

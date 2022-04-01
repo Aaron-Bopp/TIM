@@ -1,9 +1,8 @@
 ---
 created: 2021-10-19
-edited: 
 aliases:
   - humans love for grouping eachother
-tags: created/evergreen/2021/10/19, review, node/evergreen/behavior
+tags: created/2021/10/19, review, node/evergreen/behavior
 sr-due: 2022-05-03
 sr-interval: 68
 sr-ease: 199

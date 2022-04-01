@@ -1,9 +1,8 @@
 ---
 created: 2022-03-13T15:25:14 
-edited: 
 aliases:
   - complex systems
-tags: created/topic/2022/03/13, node/topic/term
+tags: created/2022/03/13, node/topic/term
 sr-due: 2022-03-29
 sr-interval: 2
 sr-ease: 230

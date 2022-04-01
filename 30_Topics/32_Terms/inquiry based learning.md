@@ -1,9 +1,8 @@
 ---
 created: 2022-03-28T11:53:32 
-edited: 
 aliases:
   - enquiry-based learning
-tags: created/topic/2022/03/28, node/topic/term
+tags: created/2022/03/28, node/topic/term
 sr-due: 2022-04-03
 sr-interval: 6
 sr-ease: 231

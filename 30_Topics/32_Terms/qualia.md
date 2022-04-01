@@ -1,9 +1,8 @@
 ---
 created: 2022-03-25T17:49:12 
-edited: 
 aliases:
   - quale
-tags: created/topic/2022/03/25, node/topic/term
+tags: created/2022/03/25, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

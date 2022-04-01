@@ -1,9 +1,8 @@
 ---
 created: 2021-10-19
-edited: 
 aliases:
   - null
-tags: created/topic/2021/10/19, review, node/topic/term
+tags: created/2021/10/19, review, node/topic/term
 sr-due: 2022-04-04
 sr-interval: 16
 sr-ease: 241

@@ -1,10 +1,9 @@
 ---
 created: 2022-03-20T20:17:51 
-edited: 
 aliases:
   - the Enlightenment
   - Age of Reason
-tags: created/topic/2022/03/20, node/topic/term
+tags: created/2022/03/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,9 +1,8 @@
 ---
 created: 2021-10-23
-edited: 
 aliases:
   - We experience gender at an early age
-tags: created/evergreen/2021/10/23, review, node/evergreen/claim
+tags: created/2021/10/23, review, node/evergreen/claim
 sr-due: 2022-05-30
 sr-interval: 133
 sr-ease: 250

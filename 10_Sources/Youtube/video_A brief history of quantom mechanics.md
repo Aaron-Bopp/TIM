@@ -1,9 +1,8 @@
 ---
 created: 2022-03-11T19:53:54 
-edited: 
 aliases:
   - null
-tags: created/source/2022/03/11, node/source/video
+tags: created/2022/03/11, node/source/video
 ---
 
 #### [[video_A brief history of quantom mechanics]]

@@ -1,9 +1,8 @@
 ---
 created: 2022-03-26T10:17:40 
-edited: 
 aliases:
   - testing effect
-tags: created/topic/2022/03/26, node/topic/term/task
+tags: created/2022/03/26, node/topic/term/task
 sr-due: 2022-03-29
 sr-interval: 3
 sr-ease: 250

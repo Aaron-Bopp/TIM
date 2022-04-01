@@ -1,9 +1,8 @@
 ---
 created: 2021-06-15
-edited: 
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
-tags: created/evergreen/2021/06/15, review, node/evergreen/claim
+tags: created/2021/06/15, review, node/evergreen/claim
 sr-due: 2022-07-10
 sr-interval: 121
 sr-ease: 210

@@ -1,7 +1,6 @@
 ---
 created: 2021-08-08
-edited: 
-tags: created/evergreen/2021/08/08, review, node/evergreen/claim
+tags: created/2021/08/08, review, node/evergreen/claim
 aliases:
   - Our pre-natal and hormonal environment are the scientific basis of our gender
 sr-due: 2022-06-10

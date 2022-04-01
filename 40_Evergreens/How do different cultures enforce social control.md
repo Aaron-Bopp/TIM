@@ -1,9 +1,8 @@
 ---
 created: 2022-03-30T14:17:39 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/30, review, node/evergreen/question
+tags: created/2022/03/30, review, node/evergreen/question
 ---
 
 #### [[How do different cultures enforce social control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

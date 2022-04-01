@@ -1,9 +1,8 @@
 ---
 created: 2022-02-13T20:46:48 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/13, node/source/videos
+tags: created/2022/02/13, node/source/videos
 ---
 
 #### [[video_The Pope's Astronomer]]

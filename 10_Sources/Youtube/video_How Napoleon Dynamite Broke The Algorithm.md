@@ -1,9 +1,8 @@
 ---
 created: 2022-02-18T20:47:44 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/18, node/source/video
+tags: created/2022/02/18, node/source/video
 ---
 
 #### [[video_How Napoleon Dynamite Broke The Algorithm]]

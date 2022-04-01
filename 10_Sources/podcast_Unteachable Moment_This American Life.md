@@ -1,9 +1,8 @@
 ---
 created: 2021-12-03 
-edited: 
 aliases:
   - null
-tags: created/source/2021/12/03, node/source/podcasts
+tags: created/2021/12/03, node/source/podcasts
 type:
   - null 
 sr-due: 2022-02-11

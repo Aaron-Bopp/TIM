@@ -1,9 +1,8 @@
 ---
 created: 2021-06-12
-edited: 
 aliases:
   - traumatized
-tags: created/topic/2021/06/12, node/topic/outline
+tags: created/2021/06/12, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

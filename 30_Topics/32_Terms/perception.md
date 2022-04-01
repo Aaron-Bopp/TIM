@@ -1,9 +1,8 @@
 ---
 created: 2021-10-18
-edited: 
 aliases:
   - perceive
-tags: created/topic/2021/10/18, review, node/topic/term
+tags: created/2021/10/18, review, node/topic/term
 sr-due: 2022-04-03
 sr-interval: 15
 sr-ease: 247

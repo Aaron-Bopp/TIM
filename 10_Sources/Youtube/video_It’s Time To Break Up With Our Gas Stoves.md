@@ -1,9 +1,8 @@
 ---
 created: 2022-02-14T15:27:28 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/14, node/source/videos
+tags: created/2022/02/14, node/source/videos
 ---
 
 #### [[video_It’s Time To Break Up With Our Gas Stoves]]

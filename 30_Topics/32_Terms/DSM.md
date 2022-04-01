@@ -1,10 +1,9 @@
 ---
 created: 2021-12-29 
-edited: 
 aliases:
   - Diagnostic and Statistical Manual of Mental Disorders
   - Diagnostic and Statistical Manual of Mental Disorders (DSM)
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/2021/12/29, node/topic/term
 sr-due: 2022-03-29
 sr-interval: 2
 sr-ease: 248

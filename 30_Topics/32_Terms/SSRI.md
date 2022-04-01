@@ -1,10 +1,9 @@
 ---
 created: 2021-12-29 
-edited: 
 aliases:
   - Selective Serotonin Reuptake Inhibitor (SSRI)
   - Selective Serotonin Reuptake Inhibitor 
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

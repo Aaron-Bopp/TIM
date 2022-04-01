@@ -6,12 +6,11 @@ sr-ease: 210
 
 ---
 created: 2021-10-23
-edited: 
 aliases:
 - Social Constructs | Philosophy Tube - YouTube 
 - Philosophy Tube 
 
-tags: created/source/2021/10/23, node/source/videos
+tags: created/2021/10/23, node/source/videos
 type:
 - 
 sr-due: 2022-02-10

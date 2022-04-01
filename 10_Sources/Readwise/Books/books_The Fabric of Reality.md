@@ -1,7 +1,6 @@
 ---
 created: 2022-02-20
-edited:
-tags: created/source/2022/02/20, node/source/books
+tags: created/2022/02/20, node/source/books
 type: 
   - books
 deliveredBy: 

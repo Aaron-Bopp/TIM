@@ -1,10 +1,9 @@
 ---
 created: 2021-10-20
-edited: 
 aliases:
   - black people
   - african american
-tags: created/topic/2021/10/20, node/topic/term
+tags: created/2021/10/20, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

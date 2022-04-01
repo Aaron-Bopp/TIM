@@ -1,7 +1,6 @@
 ---
 created: 2021-05-23
-edited: 
-tags: created/topic/2021/05/23, review, node/topic/term 
+tags: created/2021/05/23, review, node/topic/term 
 aliases:
   - topics
   - topic notes

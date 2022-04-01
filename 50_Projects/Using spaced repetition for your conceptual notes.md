@@ -1,9 +1,8 @@
 ---
 created: 2021-11-27 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2021/11/27, node/project
+tags: created/2021/11/27, node/project
 ---
 
 # [[Using spaced repetition for your conceptual notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

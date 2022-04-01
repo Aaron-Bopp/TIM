@@ -1,9 +1,8 @@
 ---
 created: 2021-12-29 
-edited: 
 aliases:
   - null
-tags: created/source/2021/12/29, node/source/notes
+tags: created/2021/12/29, node/source/notes
 type:
   - null 
 sr-due: 2022-02-15

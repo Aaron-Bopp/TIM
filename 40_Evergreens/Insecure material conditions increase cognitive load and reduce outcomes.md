@@ -1,9 +1,8 @@
 ---
 created: 2021-05-31
-edited: 
 aliases:
   - Stereotype threat increases cognitive load and reduces outcomes
-tags: created/evergreen/2021/05/31, review, node/evergreen/claim
+tags: created/2021/05/31, review, node/evergreen/claim
 sr-due: 2022-07-17
 sr-interval: 128
 sr-ease: 205

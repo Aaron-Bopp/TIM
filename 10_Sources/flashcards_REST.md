@@ -1,9 +1,8 @@
 ---
 created: 2021-11-19 
-edited: 
 aliases:
   - null
-tags: created/source/2021/11/19, node/source/flashcards
+tags: created/2021/11/19, node/source/flashcards
 type:
   - null 
 sr-due: 2022-02-23

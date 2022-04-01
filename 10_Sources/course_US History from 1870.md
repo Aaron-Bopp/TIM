@@ -1,7 +1,6 @@
 ---
 created: 2021-05-31
-edited: 
-tags: created/source/2021/05/31, node/source/course
+tags: created/2021/05/31, node/source/course
 sr-due: 2022-02-16
 sr-interval: 6
 sr-ease: 250

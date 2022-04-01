@@ -1,9 +1,8 @@
 ---
 created: 2021-12-12 
-edited: 
 aliases:
   - Roam Research
-tags: created/topic/2021/12/12, node/topic/tool
+tags: created/2021/12/12, node/topic/tool
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,9 +1,8 @@
 ---
 created: 2022-01-03T10:54:25 
-edited: 
 aliases:
   - Freud
-tags: created/topic/2022/01/03, node/topic/person
+tags: created/2022/01/03, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

@@ -1,11 +1,10 @@
 ---
 created: 2021-10-23
-edited: 
 aliases:
   - make obsidian plugins
   - developing obsidian plugins
   - Plugin Ideas
-tags: created/evergreen/2021/10/23, review, node/evergreen/technique
+tags: created/2021/10/23, review, node/evergreen/technique
 sr-due: 2022-06-22
 sr-interval: 115
 sr-ease: 250

@@ -1,9 +1,8 @@
 ---
 created: 2022-02-09T20:03:30 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/09, node/source/videos
+tags: created/2022/02/09, node/source/videos
 sr-due: 2022-02-10
 sr-interval: 2
 sr-ease: 230

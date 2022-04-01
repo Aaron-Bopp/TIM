@@ -1,9 +1,8 @@
 ---
 created: 2022-03-22T20:31:36 
-edited: 
 aliases:
   - null
-tags: created/source/2022/03/22, node/source/video
+tags: created/2022/03/22, node/source/video
 ---
 
 ##### [[video_The I don't dream of labour trend needs to be destroyed]]

@@ -1,9 +1,8 @@
 ---
 created: 2021-12-29 
-edited: 
 aliases:
   - Ayurvedic
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/2021/12/29, node/topic/term
 sr-due: 2022-03-30
 sr-interval: 13
 sr-ease: 250

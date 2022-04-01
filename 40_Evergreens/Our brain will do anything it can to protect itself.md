@@ -1,9 +1,8 @@
 ---
 created: 2021-11-07 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2021/11/07, review, node/evergreen/outline
+tags: created/2021/11/07, review, node/evergreen/outline
 sr-due: 2022-04-09
 sr-interval: 87
 sr-ease: 227

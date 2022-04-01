@@ -1,9 +1,8 @@
 ---
 created: 2022-03-13T12:27:41 
-edited: 
 aliases:
   - the fundamental problem of social life
-tags: created/evergreen/2022/03/13, review, node/evergreen/discussion
+tags: created/2022/03/13, review, node/evergreen/discussion
 sr-due: 2022-04-07
 sr-interval: 11
 sr-ease: 221

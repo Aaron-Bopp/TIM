@@ -1,9 +1,8 @@
 ---
 created: 2021-12-01 
-edited: 
 aliases:
   - null
-tags: created/source/2021/12/01, node/source/course
+tags: created/2021/12/01, node/source/course
 sr-due: 2022-02-17
 sr-interval: 7
 sr-ease: 250

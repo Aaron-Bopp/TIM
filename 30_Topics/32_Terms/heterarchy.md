@@ -1,9 +1,8 @@
 ---
 created: 2021-12-14 
-edited: 
 aliases:
   - heterarchical
-tags: created/topic/2021/12/14, node/topic/term
+tags: created/2021/12/14, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

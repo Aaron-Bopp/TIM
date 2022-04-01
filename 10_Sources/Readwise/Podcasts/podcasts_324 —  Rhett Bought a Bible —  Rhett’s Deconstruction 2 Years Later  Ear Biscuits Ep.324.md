@@ -1,7 +1,6 @@
 ---
 created: 2022-03-18
-edited:
-tags: created/source/2022/03/18, node/source/podcasts
+tags: created/2022/03/18, node/source/podcasts
 type: 
   - podcasts
 deliveredBy: 

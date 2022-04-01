@@ -1,9 +1,8 @@
 ---
 created: 2022-02-18T21:15:37 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/18, node/source/video/documentary
+tags: created/2022/02/18, node/source/video/documentary
 ---
 
 #### [[video_Two years on a bike]]

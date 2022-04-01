@@ -1,9 +1,8 @@
 ---
 created: 2022-01-02T18:05:17
-edited: 
 aliases:
   - null
-tags: created/topic/2022/01/02, review, node/evergreen/technique
+tags: created/2022/01/02, review, node/evergreen/technique
 sr-due: 2022-04-26
 sr-interval: 61
 sr-ease: 250

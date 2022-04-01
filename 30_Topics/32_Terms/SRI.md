@@ -1,10 +1,9 @@
 ---
 created: 2021-12-29 
-edited: 2022-01-23
 aliases:
   - Serotonin Reuptake Inhibitor (SRI)
   - Serotonin Reuptake Inhibitor 
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

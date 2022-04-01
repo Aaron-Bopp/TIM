@@ -1,9 +1,8 @@
 ---
 created: 2022-03-14T01:30:04 
-edited: 
 aliases:
   - null
-tags: created/source/2022/03/14, node/source/video
+tags: created/2022/03/14, node/source/video
 ---
 
 #### [[video_Pan secrets chefs don't tell you]]

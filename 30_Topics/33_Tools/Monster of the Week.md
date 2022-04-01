@@ -1,7 +1,6 @@
 ---
 created: 2021-06-10
-edited: 
-tags: created/topic/2021/06/10, node/topic/tool 
+tags: created/2021/06/10, node/topic/tool 
 aliases:
   - MOTW
 ---

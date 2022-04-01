@@ -1,9 +1,8 @@
 ---
 created: 2021-11-09 
-edited: 
 aliases:
   - fear of trying
-tags: created/evergreen/2021/11/09, review, node/evergreen/claim
+tags: created/2021/11/09, review, node/evergreen/claim
 sr-due: 2022-04-06
 sr-interval: 81
 sr-ease: 228

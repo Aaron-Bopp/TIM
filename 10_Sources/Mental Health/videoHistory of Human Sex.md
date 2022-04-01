@@ -1,7 +1,6 @@
 ---
 created: 2021-05-15
-edited: 
-tags: created/source/2021/05/15, node/source/videos
+tags: created/2021/05/15, node/source/videos
 creator: Heather Whipps
 type:
   - article

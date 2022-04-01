@@ -1,9 +1,8 @@
 ---
 created: 2022-02-18T21:48:21 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/18, node/source/video
+tags: created/2022/02/18, node/source/video
 ---
 
 #### [[video_Young priest turns forsaken farm into paradise homestead]]

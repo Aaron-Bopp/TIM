@@ -1,7 +1,6 @@
 ---
 created: 2021-07-21
-edited: 
-tags: created/topic/2021/07/21, node/topic/term
+tags: created/2021/07/21, node/topic/term
 aliases:
 - socialize
 - social

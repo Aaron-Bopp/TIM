@@ -1,9 +1,8 @@
 ---
 created: 2022-01-04T16:06:46 
-edited: 2022-01-25
 aliases:
   - null
-tags: created/evergreen/2022/01/04, review, node/evergreen/principle   
+tags: created/2022/01/04, review, node/evergreen/principle   
 sr-due: 2022-04-22
 sr-interval: 62
 sr-ease: 230

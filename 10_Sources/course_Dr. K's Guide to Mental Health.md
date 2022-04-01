@@ -1,9 +1,8 @@
 ---
 created: 2021-12-29 
-edited: 2022-01-23
 aliases:
   - null
-tags: created/source/2021/12/29, node/source/course
+tags: created/2021/12/29, node/source/course
 type:
   - null 
 sr-due: 2022-02-16

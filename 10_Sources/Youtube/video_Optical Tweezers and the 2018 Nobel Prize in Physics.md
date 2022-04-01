@@ -1,9 +1,8 @@
 ---
 created: 2022-02-11T14:53:29 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/11, node/source/videos
+tags: created/2022/02/11, node/source/videos
 ---
 
 #### [[video_Optical Tweezers and the 2018 Nobel Prize in Physics]]

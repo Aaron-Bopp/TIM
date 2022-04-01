@@ -1,9 +1,8 @@
 ---
 created: 2022-01-30T08:34:19 
-edited: 
 aliases:
   - null
-tags: created/topic/2022/01/30, node/topic/person
+tags: created/2022/01/30, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

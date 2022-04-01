@@ -1,9 +1,8 @@
 ---
 created: 2022-02-20T17:26:16 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/20, node/source/video
+tags: created/2022/02/20, node/source/video
 ---
 
 #### [[video_Hustle Culture is worse than you think]]

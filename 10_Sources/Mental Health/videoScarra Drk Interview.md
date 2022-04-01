@@ -1,7 +1,6 @@
 ---
 created: 2021-08-17
-edited: 
-tags: created/source/2021/08/17, node/source/videos
+tags: created/2021/08/17, node/source/videos
 creator: null
 type:
   - null

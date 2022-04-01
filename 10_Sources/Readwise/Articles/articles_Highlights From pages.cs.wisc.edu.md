@@ -1,7 +1,6 @@
 ---
 created: 2021-10-14
-edited:
-tags: created/source/2021/10/14, node/source/articles
+tags: created/2021/10/14, node/source/articles
 type: 
   - articles
 deliveredBy: 

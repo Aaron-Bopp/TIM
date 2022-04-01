@@ -1,7 +1,6 @@
 ---
 created: 2021-07-21
-edited: 
-tags: created/topic/2021/07/21, node/topic/outline
+tags: created/2021/07/21, node/topic/outline
 aliases:
   - null
 sr-due: 2022-03-30

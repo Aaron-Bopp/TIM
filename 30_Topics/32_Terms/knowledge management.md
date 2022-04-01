@@ -1,12 +1,11 @@
 ---
 created: 2021-07-21
-edited: 
 aliases:
   - PKM
   - personal knowledge system
   - personal knowledge management
   - knowledge management system
-tags: created/topic/2021/07/21, node/topic/outline
+tags: created/2021/07/21, node/topic/outline
 sr-due: 2022-03-29
 sr-interval: 4
 sr-ease: 185

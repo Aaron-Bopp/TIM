@@ -1,9 +1,8 @@
 ---
 created: 2021-12-31 
-edited: 
 aliases:
   - hierarchical
-tags: created/topic/2021/12/31, node/topic/outline
+tags: created/2021/12/31, node/topic/outline
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

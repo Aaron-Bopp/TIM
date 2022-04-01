@@ -1,9 +1,8 @@
 ---
 created: 2021-06-27
-edited: 
 aliases:
   - Identity is a sense of self not a pattern of traits or behavior
-tags: created/evergreen/2021/06/27, review, node/evergreen/claim
+tags: created/2021/06/27, review, node/evergreen/claim
 sr-due: 2022-05-21
 sr-interval: 66
 sr-ease: 175

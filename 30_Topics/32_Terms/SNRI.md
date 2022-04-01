@@ -1,10 +1,9 @@
 ---
 created: 2021-12-29 
-edited: 
 aliases:
   - Serotonin Norepinephrine Reuptake Inhibitor (SNRI)
   - Serotonin Norepinephrine Reuptake Inhibitor 
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/2021/12/29, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

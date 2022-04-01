@@ -1,7 +1,6 @@
 ---
 created: 2021-07-30
-edited: 
-tags: created/source/2021/07/30, node/source/notes
+tags: created/2021/07/30, node/source/notes
 creator: [ [ Reagan ] ]
 type:
   - speech

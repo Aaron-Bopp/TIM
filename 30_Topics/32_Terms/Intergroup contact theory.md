@@ -1,9 +1,8 @@
 ---
 created: 2021-12-01 
-edited: 
 aliases:
   - null
-tags: created/topic/2021/12/01, node/topic/term
+tags: created/2021/12/01, node/topic/term
 ---
 Contact hypothesis: interacting with people from an outgroup, you hold [[prejudice]] toward will reduce your [[prejudice]] toward the group as a while [^1]
 

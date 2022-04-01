@@ -1,9 +1,8 @@
 ---
 created: 2022-03-30T14:14:52 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/30, review, node/evergreen/observation
+tags: created/2022/03/30, review, node/evergreen/observation
 ---
 
 #### [[Culture affects stress levels around discussing interpersonal influence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

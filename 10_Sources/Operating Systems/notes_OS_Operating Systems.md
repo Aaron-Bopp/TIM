@@ -1,7 +1,6 @@
 ---
 created: 2021-10-13
-edited: 
-tags: created/source/2021/10/13, node/source/notes
+tags: created/2021/10/13, node/source/notes
 type:
 - notes
 sr-due: 2022-02-19

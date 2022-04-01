@@ -1,10 +1,9 @@
 ---
 created: 2021-06-16
-edited: 
 aliases:
   - Obsessive Compulsive Disorder (OCD)
   - Obsessive Compulsive Disorder 
-tags: created/topic/2021/06/16, node/topic/term:
+tags: created/2021/06/16, node/topic/term:
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

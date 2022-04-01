@@ -1,9 +1,8 @@
 ---
 created: 2021-11-15 
-edited: 
 aliases:
   - making learning as easy as thinking
-tags: created/evergreen/2021/11/15, review, node/evergreen/claim
+tags: created/2021/11/15, review, node/evergreen/claim
 sr-due: 2022-06-04
 sr-interval: 107
 sr-ease: 221

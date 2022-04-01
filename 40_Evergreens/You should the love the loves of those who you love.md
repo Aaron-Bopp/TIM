@@ -1,9 +1,8 @@
 ---
 created: 2021-12-02 
-edited: 
 aliases:
   - "'Loving the loves of your loves' - John Green"
-tags: created/evergreen/2021/12/02, review, node/evergreen/claim
+tags: created/2021/12/02, review, node/evergreen/claim
 sr-due: 2022-04-01
 sr-interval: 27
 sr-ease: 147

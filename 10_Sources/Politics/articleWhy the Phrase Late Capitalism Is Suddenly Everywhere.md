@@ -1,6 +1,5 @@
 ---
 created: 2021-07-29
-edited: 
 tags: node/source/notes
 creator: Annie Lowrey
 type:

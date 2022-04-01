@@ -1,9 +1,8 @@
 ---
 created: 2022-03-13T13:24:25 
-edited: 
 aliases:
   - null
-tags: created/topic/2022/03/13, node/topic/term
+tags: created/2022/03/13, node/topic/term
 sr-due: 2022-03-29
 sr-interval: 2
 sr-ease: 245

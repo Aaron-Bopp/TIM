@@ -1,10 +1,9 @@
 ---
 created: 2022-03-23T09:10:44 
-edited: 
 aliases:
   - Incan Empire
   - Inka Empire
-tags: created/topic/2022/03/23, node/topic/term
+tags: created/2022/03/23, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

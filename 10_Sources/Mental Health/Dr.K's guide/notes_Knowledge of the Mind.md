@@ -1,6 +1,5 @@
 ---
 created: 2021-12-30 
-edited: 
 aliases:
   - null
 tags: node/source/notes

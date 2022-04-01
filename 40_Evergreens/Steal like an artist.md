@@ -1,9 +1,8 @@
 ---
 created: 2022-02-09T16:00:23 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2022/02/09, review, node/evergreen/saying
+tags: created/2022/02/09, review, node/evergreen/saying
 sr-due: 2022-05-07
 sr-interval: 51
 sr-ease: 230

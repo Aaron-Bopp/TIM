@@ -1,7 +1,6 @@
 ---
 created: 2021-05-25
-edited: 
-tags: created/evergreen/2021/05/25, review, node/evergreen/technique
+tags: created/2021/05/25, review, node/evergreen/technique
 sr-due: 2022-08-06
 sr-interval: 137
 sr-ease: 224

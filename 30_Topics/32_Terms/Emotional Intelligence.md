@@ -2,11 +2,10 @@
 
 ---
 created: 2022-01-16T11:58:28 
-edited: 
 aliases:
   - emotional quotient
   - EQ
-tags: created/topic/2022/01/16, node/topic/term
+tags: created/2022/01/16, node/topic/term
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

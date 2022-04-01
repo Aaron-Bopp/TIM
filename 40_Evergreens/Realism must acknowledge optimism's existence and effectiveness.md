@@ -1,9 +1,8 @@
 ---
 created: 2021-08-09
-edited: 
 aliases:
   - "must acknowledge optimism's existence and effectiveness"
-tags: created/evergreen/2021/08/09, review, node/evergreen/claim
+tags: created/2021/08/09, review, node/evergreen/claim
 sr-due: 2022-04-16
 sr-interval: 84
 sr-ease: 287

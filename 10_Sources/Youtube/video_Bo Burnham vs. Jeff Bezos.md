@@ -1,9 +1,8 @@
 ---
 created: 2022-02-18T21:02:48 
-edited: 
 aliases:
   - null
-tags: created/source/2022/02/18, node/source/video
+tags: created/2022/02/18, node/source/video
 ---
 
 #### [[video_Bo Burnham vs. Jeff Bezos]]

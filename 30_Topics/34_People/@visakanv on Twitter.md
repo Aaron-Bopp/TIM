@@ -1,9 +1,8 @@
 ---
 created: 2021-11-02
-edited: 
 aliases:
   - visakanv
-tags: created/topic/2021/11/02, node/topic/person
+tags: created/2021/11/02, node/topic/person
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 

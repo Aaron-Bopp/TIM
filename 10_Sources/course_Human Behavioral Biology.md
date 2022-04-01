@@ -1,9 +1,8 @@
 ---
 created: 2022-01-29T20:12:50 
-edited: 
 aliases:
   - null
-tags: created/source/2022/01/29, node/source/notes
+tags: created/2022/01/29, node/source/notes
 sr-due: 2022-02-16
 sr-interval: 6
 sr-ease: 250

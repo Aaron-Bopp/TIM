@@ -1,9 +1,8 @@
 ---
 created: 2021-11-04
-edited: 
 aliases:
   - null
-tags: created/source/2021/11/04, node/source/qoutes
+tags: created/2021/11/04, node/source/qoutes
 sr-due: 2022-02-23
 sr-interval: 12
 sr-ease: 250

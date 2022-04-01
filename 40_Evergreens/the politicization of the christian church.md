@@ -1,7 +1,6 @@
 ---
 created: 2021-06-28
-edited: 2022-01-25
-tags: created/evergreen/2021/06/28, review, node/evergreen/topic
+tags: created/2021/06/28, review, node/evergreen/topic
 sr-due: 2022-07-21
 sr-interval: 123
 sr-ease: 230

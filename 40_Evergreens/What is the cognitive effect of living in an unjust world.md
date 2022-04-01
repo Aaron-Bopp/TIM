@@ -1,10 +1,9 @@
 ---
 created: 2021-10-18
-edited: 
 aliases:
   - What is the cognitive effect of living in an unjust world?
   - The cognitive effect of living in an unjust world
-tags: created/evergreen/2021/10/18, review, node/evergreen/question
+tags: created/2021/10/18, review, node/evergreen/question
 sr-due: 2022-05-13
 sr-interval: 48
 sr-ease: 177

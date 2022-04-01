@@ -1,7 +1,6 @@
 ---
 created: 2021-08-13
-edited: 
-tags: created/topic/2021/08/13, node/topic/term
+tags: created/2021/08/13, node/topic/term
 aliases:
   - autistic 
 sr-due: 2022-03-30

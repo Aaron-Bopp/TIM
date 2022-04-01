@@ -1,7 +1,6 @@
 ---
 created: 2021-05-29
-edited: 
-tags: created/source/2021/05/29, node/source/notes
+tags: created/2021/05/29, node/source/notes
 type: second brain
 sr-due: 2022-02-16
 sr-interval: 6

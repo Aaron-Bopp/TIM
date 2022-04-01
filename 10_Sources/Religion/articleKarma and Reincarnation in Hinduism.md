@@ -1,7 +1,6 @@
 ---
 created: 2021-07-05
-edited: 2022-01-23
-tags: created/source/2021/07/05, node/source/notes
+tags: created/2021/07/05, node/source/notes
 creator: Sivaya Subramuniyaswami
 type:
   - article

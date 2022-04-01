@@ -1,9 +1,8 @@
 ---
 created: 2022-03-10T17:16:09 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2022/03/10, review, node/evergreen/example/fun
+tags: created/2022/03/10, review, node/evergreen/example/fun
 sr-due: 2022-04-15
 sr-interval: 21
 sr-ease: 230

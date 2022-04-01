@@ -1,7 +1,6 @@
 ---
 created: 2022-01-13
-edited:
-tags: created/source/2022/01/13, node/source/articles
+tags: created/2022/01/13, node/source/articles
 type: 
   - articles
 deliveredBy: 

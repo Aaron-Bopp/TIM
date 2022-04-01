@@ -1,9 +1,8 @@
 ---
 created: 2021-11-07
-edited: 
 aliases:
   - null
-tags: created/topic/2021/11/07, node/topic/term
+tags: created/2021/11/07, node/topic/term
 ---
 
  [[topic notes]] that do not have and content and are there to easily access their metadata (backlinks, graph positioning)

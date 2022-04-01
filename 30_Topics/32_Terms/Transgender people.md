@@ -1,7 +1,6 @@
 ---
 created: 2021-08-15
-edited: 
-tags: created/topic/2021/08/15, node/topic/term
+tags: created/2021/08/15, node/topic/term
 aliases:
 - trans
 - transgender

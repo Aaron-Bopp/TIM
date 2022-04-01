@@ -1,7 +1,6 @@
 ---
 created: 2021-08-13
-edited: 
-tags: created/evergreen/2021/08/13, review, node/evergreen/claim
+tags: created/2021/08/13, review, node/evergreen/claim
 aliases:
   - Where does gender come from
   - the scientific basis of gender

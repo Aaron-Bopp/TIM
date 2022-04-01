@@ -1,7 +1,6 @@
 ---
 created: 2022-01-16
-edited:
-tags: created/source/2022/01/16, node/source/tweets
+tags: created/2022/01/16, node/source/tweets
 type: 
   - tweets
 deliveredBy: 

@@ -1,9 +1,8 @@
 ---
 created: 2022-01-17T16:47:20 
-edited: 
 aliases:
   - "You don't need to be able to see yourself in everything, but everybody should be able to see themselves in something"
-tags: created/evergreen/2022/01/17, review, node/evergreen/claim
+tags: created/2022/01/17, review, node/evergreen/claim
 sr-due: 2022-05-08
 sr-interval: 46
 sr-ease: 170

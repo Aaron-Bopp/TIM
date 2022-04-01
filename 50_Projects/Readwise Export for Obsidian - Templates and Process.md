@@ -1,9 +1,8 @@
 ---
 created: 2021-12-26 
-edited: 
 aliases:
   - null
-tags: created/evergreen/2021/12/26, review, node/project
+tags: created/2021/12/26, review, node/project
 sr-due: 2022-03-22
 sr-interval: 11
 sr-ease: 242

@@ -1,7 +1,6 @@
 ---
 created: 2021-08-12
-edited: 
-tags: created/topic/2021/08/12, node/topic/term
+tags: created/2021/08/12, node/topic/term
 sr-due: 2022-04-02
 sr-interval: 5
 sr-ease: 239

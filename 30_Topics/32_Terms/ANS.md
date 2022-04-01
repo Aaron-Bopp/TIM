@@ -1,10 +1,9 @@
 ---
 created: 2021-12-29 
-edited: 
 aliases:
   - Autonomic Nervous System (ANS)
   - Autonomic Nervous System 
-tags: created/topic/2021/12/29, node/topic/term
+tags: created/2021/12/29, node/topic/term
 sr-due: 2022-03-30
 sr-interval: 2
 sr-ease: 226

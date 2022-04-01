@@ -1,7 +1,6 @@
 ---
 created: 2021-08-17
-edited:
-tags: created/source/2021/08/17, node/source/articles
+tags: created/2021/08/17, node/source/articles
 type: 
   - articles
 deliveredBy: 
