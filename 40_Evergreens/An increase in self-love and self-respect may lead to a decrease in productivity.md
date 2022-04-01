@@ -3,12 +3,31 @@ created: 2021-12-08
 aliases:
   - null
 tags: created/2021/12/08, review, node/evergreen/claim
-sr-due: 2022-04-03
-sr-interval: 23
-sr-ease: 130
 ---
 
 #### [[An increase in self-love and self-respect may lead to a decrease in productivity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
+Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[motivation]], but it is natural for someone who has been being chased for their entire life to stop for a breather once they realize they are safe.
+
+The problem is that you have been running for your entire life just to keep up with everybody else who was born with longer legs, and now that you are taking a break everybody else  looks at you like you are a failure for not overcoming your disadvantages.
+
+The thing is you are capable of running, but it is harder to push yourself when you realize you aren't being chased. You need to find passion for the running from within.
+
+- required for:: [[Neurodiverse people can use their brain to their advantage]] only if they are able to foster self-love
+- result of:: [[Neurodiverse people are siloed into systems that work against them]]
+- [[Neurodivergent people cannot stop their brain from solving problems]] often contributes to this. We put our brain's to work people-pleasing instead of prioritizing ourselves.
+- [[How can parent's best help their children]], set their children up with proper self-love and respect early on
+- part of:: [[How to pursue the positive things in life]]
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/SAPLING 
+*edited `=this.file.mtime`*
+
+**Topics**:: [[self-actualization]], [[neurodiversity]], [[disability]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
 
 > How many of you unmasked autistics and other ND folks on your way to healing and [[self-actualization]] hit a point where you dropped your [[shame]] and [[fear]]… and suddenly lost the ability to motivate yourself to do stuff?...suffice to say there was a moment where I understood that the ten tons of shame I’d lugged around my whole life weren’t mine to carry, so I put them down...Until I realized that not even I can make me do anything, because my whole [[productivity]] engine had been driven by external [[motivation]] and consequence avoidance and I was no longer afraid...
 >
@@ -19,28 +38,7 @@ sr-ease: 130
 >
 > <cite>[[@mykola on Twitter]]</cite>
 
-Once you start realizing and respecting your own needs, you may realize that you need more [[support]] than you realized. 
-
-Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[motivation]], but it is natural for someone who has been being chased for their entire life to stop for a breather once they realize they are safe.
-
 > You can get it back with proper fostering of intrinsic motivation...If you disarm the fear and shame responses, you need to do it in tandem with building up [[self-belief]]. This is why I think coaching helps for a lot of people.
 ^[[[tweets_Tweets From Rory - ADHD Autistic OCD#271928246q]]]
 >
 > <cite>[[@roryreckons on Twitter|Rory McCarthy]]</cite>
-
-- [[neurodiversity]] #TO/TEND/GRAFT 
-	- [[Neurodiverse people can use their brain to their advantage]]
-	- [[Neurodiverse people are siloed into systems that work against them]]
-	- [[Neurodivergent people cannot stop their brain from solving problems]]
-	- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-- [[How to pursue the positive things in life]]
-- [[How can parent's best help their children]] 
-- [[There is a difference between thinking and creating]]
-
-### <hr class="footnote"/>
-
-**Status**:: #EVER/SAPLING 
-*edited `=this.file.mtime`*
-
-**Topics**:: [[self-actualization]], [[neurodiversity]], [[disability]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
