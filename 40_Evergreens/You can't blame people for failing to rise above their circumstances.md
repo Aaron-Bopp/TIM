@@ -13,30 +13,27 @@ sr-ease: 194
 Most humans will not rise above their situation.
 ^[In fact, it could be said that no person does depending on your belief in [[free will]]: 
 [[Do we have free will]]]
+In fact, it is unfair to expect everyone to.
 Modern [[America|American]] [[Culture]] often blames people for not "pulling themselves up by their bootstraps." 
-This widespread belief is mainly due to [[propaganda]] that is spread about [[America]]'s superiority,
+This widespread belief is mainly due to the myth of the "[[American dream]]",
 ^[and thus is largely rooted in [[white supremacy]]:
 [[Whiteness was created to marginalize people of color]]]
-but can be seen around the world.
-People lack the [[empathy]] to understand why other people would make decisions differently than they would, but [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]].
-I think a lot of the reliance on this belief is built up because of [[inter-generational trauma]] and because of the [[socio-economic]] situations of the last 50-100 years: [[Colonization and slavery lead to generational disparities in black communities]] 
+which falsely purports that anybody who works hard enough will be able to succeed.
+The problem here is that we can't just look at the amount of work somebody is putting in and say whether they will be successful or not,
+because that relies much more on the environment they are putting the work into than the amount of work they are doing.
+
+People don't try to understand why other people would make decisions differently than they would,
+but [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]].
+They judge other people's positions without understanding what brought them there.
 
 %%
+- [[Empathy does not disallow judgment]]
 Blaming people for failing to rise above their situation is not only unfair, it is unsupported by evidence. #TO/EXPLORE/RESEARCH 
 
-#TO/TEND/GRAFT relation to [[Transformative justice is the alternative to punitive justice]]
-
-- [[Empathy does not disallow judgment]]
-- [[What is the difference between blame and judgement]]
-- [[Children in traumatic households expect more love than their parents can give]]
 %%
-
-
 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[self-actualization]], [[socialization]], [[social progress]], [[inter-personal communication]], [[empathy]]
+**Topics**:: [[human experience]], [[socialization]], [[judgement]], [[empathy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

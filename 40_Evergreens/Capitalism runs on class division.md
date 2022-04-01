@@ -20,15 +20,9 @@ but demonizing [[Communism]] works.
 Over the past sixty years Conservatives have been largely successful in shifting the [[Overton window]] right enough that [[Conservatism states that conspiracy is more believable that cooperation|conspiracy is more believable that cooperation]].
 ^0c0a41
 
-#TO/TEND/MULCH 
-[[Ronald Reagan invented modern conservatism]], and claimed to support [[supply-side economics]], but eventually had to use much more [[progressive]] legislation to stop [[economy|economic]] problems during his terms in order to support the [[middle class]].
-It doesn't matter that he did the opposite of what ran on,
-[[Republican voters do not hold their leaders accountable]],
-so he was allowed to get by on good looks and [[the culture war]].
-^[[[The moral majority movement was the original 'making things political']]]
-
-
-%% #TO/DO/FIND [[tiktok]] or tweet about how we get mad at years instead of [[capitalism]] %%
+[[Ronald Reagan invented modern conservatism]], and claimed to support [[supply-side economics]], but eventually [[Anti-government stances lead to economic crashes]] and Regan had to up government spending to support the [[middle class]].
+In spite of this, the myth of "trickle-down [[economics]]" continued for years, 
+because [[Republican voters do not hold their leaders accountable]].
 
 ### <hr class="footnote"/>
 
