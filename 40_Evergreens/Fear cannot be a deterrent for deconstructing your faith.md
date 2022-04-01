@@ -18,7 +18,7 @@ your baggage
 and reconcile your fear
 because: [[Sometimes we can't grow until we change our environment]] 
 
-%% #TO/WRITE expand on these footnotes %%
+%% #TO/TEND/WATER expand on these footnotes %%
 For those who grew up in the Church or who rely on the church, fear is a very big obstacle to [[Deconstruction (Christianity)|deconstruction]] because [[Fear of hell is baked into Christianity for vulnerable believers]].
 This fear can be an [[existential dread]],
 ^[[[Faith is an abstraction of cognitive dissonance]]] 

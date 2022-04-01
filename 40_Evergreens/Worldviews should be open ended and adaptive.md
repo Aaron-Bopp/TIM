@@ -10,7 +10,7 @@ sr-ease: 210
 
 #### [[Worldviews should be open ended and adaptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE 
+#TO/TEND/WATER 
 - explained by:: [[Hard rules create cognitive bias]] and [[Religion promotes high social control]].
 	- bad combo, if something doesn't work with your [[religion]]'s logic (or is outright forbid) you are going to be biased against it.
 	- this leads to [[Theology preserves hierarchy through deific blessing]]

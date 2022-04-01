@@ -10,7 +10,7 @@ sr-ease: 210
 
 #### [[Your notes should be avenues for learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- #TO/WRITE example of using [[Wikipedia (plugin, obsidian)]] and [[topic notes]] as a way of learning
+- #TO/TEND/WATER example of using [[Wikipedia (plugin, obsidian)]] and [[topic notes]] as a way of learning
 - #TO/PONDER/IDEA how tagging [[source notes]] will resurface them years down the line
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes should be constantly integrating new knowledge]]

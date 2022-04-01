@@ -18,7 +18,7 @@ While this can be overwhelming it is also what make these tools great.
 In the end, 
 [[Productivity tools are often most useful in how much work they inspire you to do]], so you should choose the tool that works best for you:
 [[Choosing a note writing system is choosing a system for thought]]
-%% #TO/WRITE more about how systems actually teach you %%
+%% #TO/TEND/WATER more about how systems actually teach you %%
 
 ##### What did [[evergreen notes]] teach me
 

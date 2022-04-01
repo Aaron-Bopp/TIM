@@ -45,7 +45,7 @@ What is the goal of this? Well by formatting my notes in this way it allows me t
 
 ##### Challenges
 
-#TO/WRITE It is hard to craft prose in a way that works with this system. Is it worth it?
+#TO/TEND/WATER It is hard to craft prose in a way that works with this system. Is it worth it?
 
 For notes that are an aspect of another note
 part of

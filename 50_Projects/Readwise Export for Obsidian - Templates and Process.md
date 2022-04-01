@@ -10,9 +10,9 @@ sr-ease: 242
 
 #### [[Readwise Export for Obsidian - Templates and Process]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE How [[Readwise (software)|Readwise]] influences how I hightlight
+#TO/TEND/WATER How [[Readwise (software)|Readwise]] influences how I hightlight
 #TO/PROGRAM A way to show off my Readwise templates
-#TO/WRITE How I use my highlights as fleeting notes and as part of my process [[Often the best editing tool is time]]
+#TO/TEND/WATER How I use my highlights as fleeting notes and as part of my process [[Often the best editing tool is time]]
 
 ##### On "action tags"
 [[Readwise (software)|Readwise]] supports the use of a few different action tags will trigger certain functionality when you **import** highlights into [[Readwise (software)|Readwise]].

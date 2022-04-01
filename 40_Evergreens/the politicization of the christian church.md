@@ -12,7 +12,7 @@ The modern church is focused on building a [[counter-culture]] movement that is 
 [[The church will fail if christians keep aligning themselves with hate instead of love]]
 
 Christians are especially weak to this because [[The Christian worldview is incompatible with most other worldviews]] and [[You will never be pushed to understand marginalization unless you are part of a marginalized group]].
-[[Evangelicalism|Evangelical]] Christian's have had one of the highest #TO/WRITE more about christians privilege since [[Reagan]]
+[[Evangelicalism|Evangelical]] Christian's have had one of the highest #TO/TEND/WATER more about christians privilege since [[Reagan]]
 
 
 #TO/TEND/GRAFT 

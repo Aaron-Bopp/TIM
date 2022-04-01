@@ -13,13 +13,13 @@ sr-ease: 210
 
 > ![[books_Sapiens#^298648743]]
 
-[Visual explanation of the difference between short term and long term memory, and why active recall works so well](https://where-is-calypso.notion.site/Spaced-Repetition-5477dbbbc83d49fe933d83b919215255)
 Terms:: [[Forgetting Curve]], [[Active Recall]]
 
 [[Our brain actively inhibits us from processing repressed emotions]]
 
 #TO/EXPLORE/RESEARCH Do we even remember something before we understand it?
-#TO/DO/FIND studying video
+[Marty Lobdell - Study Less Study Smart - YouTube](https://youtu.be/IlU-zDU6aQ0) #TO/EXPLORE/WATCH 
+
 - [[notes_Vidya and Jnana]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 - [[Time is a valuable mode in a second brain]]

@@ -10,7 +10,7 @@ sr-ease: 130
 
 #### [[Our ego defends every belief we hold conscious or subconscious]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE 
+#TO/TEND/WATER 
 - [[Our brain will do anything it can to protect itself]]
 - from:: [[Our ego is our subconscious defense of our self]]
 - leads to:: [[Rationalizations are defense-mechanisms against strong emotions]]

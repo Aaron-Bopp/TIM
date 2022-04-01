@@ -16,7 +16,7 @@ These large insecurities developed because
 and [[We carry our childhood wounds into adulthood]].
 This is why things like bullying, our parents invalidation, and especially [[childhood]] [[trauma]] are so impactful on our adult lives.
 
-#TO/WRITE anecdote
+#TO/TEND/WATER anecdote
 
 [[Our brain will do anything it can to protect itself]],
 which includes setting up the [[ego]] as a [[defense-mechanisms|defense-mechanism]].

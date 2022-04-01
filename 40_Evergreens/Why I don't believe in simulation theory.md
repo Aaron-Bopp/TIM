@@ -10,7 +10,7 @@ sr-ease: 250
 
 #### [[Why I don't believe in simulation theory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE summary of [[simulation theory]]
+#TO/TEND/WATER summary of [[simulation theory]]
 
 1. I do not think we will reach a level of computing high enough to simulate human thought. 
 This is due to the death of [[Moore's law]] and the limits of [[quantum computing]]

@@ -10,7 +10,7 @@ sr-ease: 170
 
 #### [[Curate source notes and definitions in your second brain to avoid junk text]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/TEND/WEED and #TO/WRITE about how junk text effects search, plugins etc
+#TO/TEND/WEED and #TO/TEND/WATER about how junk text effects search, plugins etc
 
 There is a difference between idly grabbing every article you read the headline of and absorbing relevant quotes into you [[second brain]]. There is a difference from creating [[friction]] for yourself with unfamiliar information that was copied and pasted from Wikipedia and using term notes to reduce friction. There is a difference in creating empty notes just for the graph and using note stubs to find spontaneous connections. 
 ^[[[Stub notes are data structures for implicit knowledge gathering]]]

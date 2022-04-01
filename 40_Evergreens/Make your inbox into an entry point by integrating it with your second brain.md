@@ -21,7 +21,7 @@ Remember, [[Friction is a hindrance to learning]],
 but you can help alleviate this [[friction]] by
 [[Your second brain should be frictionless access to a curated base of knowledge|making your second brain a curated base of knowledge]].
 
-#TO/WRITE about how use [[Dataview]] and [[Spaced Repetition (plugin)]]  and [[my TO(DO) and EVER(GREEN) structure]] to accomplish this
+#TO/TEND/WATER about how use [[Dataview]] and [[Spaced Repetition (plugin)]]  and [[my TO(DO) and EVER(GREEN) structure]] to accomplish this
 
 #TO/TEND/GRAFT [[A healthy second brain requires a surplus of entry points]]
 

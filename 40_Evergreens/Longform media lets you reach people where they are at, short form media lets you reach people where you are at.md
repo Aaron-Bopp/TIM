@@ -19,7 +19,7 @@ With long form media you can take people on journeys to your conclusion, but wit
 [[Evergreen notes]] are the intersection of this. Conceptually they are small enough to reach people where they are at, but they are interconnected with your entire [[second brain]], making your entire base of knowledge available: [[Communities are knowledge graphs]]
 
 #TO/PONDER/ME experience of sharing vault
-#TO/WRITE results of sharing vault
+#TO/TEND/WATER results of sharing vault
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING

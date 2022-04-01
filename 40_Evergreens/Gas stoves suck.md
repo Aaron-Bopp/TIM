@@ -10,7 +10,7 @@ sr-ease: 230
 
 #### [[Gas stoves suck]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/WRITE 
+#TO/TEND/WATER 
 - [[video_Problems with gas stovetops - weak, dirty and dangerous]]
 - [[video_It’s Time To Break Up With Our Gas Stoves]]
 

@@ -19,7 +19,7 @@ Sometimes these connections can be made almost completely autonomously, but in t
 This introduces [[friction]], which is in direct contradiction to the [[philosophy]] of [[My TIM]]:
 [[Your second brain should be frictionless access to a curated base of knowledge]]
 
-%% #TO/WRITE more about how [[spaced repetition]] actually helps us remember stuff %%
+%% #TO/TEND/WATER more about how [[spaced repetition]] actually helps us remember stuff %%
 
 [[Spaced repetition]] can help alleviate this [[friction]], by helping our first [[brain]] make connections in our second brain.
 Because this process is fruitful for creating connections it makes it vital in creating a strong [[second brain]], because [[Densely linked webs of thought provide intuitive access to knowledge]]. 
