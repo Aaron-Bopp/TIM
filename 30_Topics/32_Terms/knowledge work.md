@@ -36,9 +36,10 @@ sr-ease: 178
 		- [[Better tools allow us to be less disciplined and more productive]]
 		- [[How to understand what you read]]
 		- [[Use colors to create visual outlines]]
-	- Output our understanding for other's use
 		- [[Often the best editing tool is time]]
+	- Output our understanding for other's use
 		- [[Short form media is excellent at scaffolding information]]
+		- [[I don't write my notes for myself]]
 
 
 ##### ^dataviews

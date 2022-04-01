@@ -3,8 +3,8 @@ created: 2022-03-27T19:27:46
 aliases:
   - null
 tags: created/2022/03/27, review, node/evergreen/claim
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-10
+sr-interval: 9
 sr-ease: 250
 ---
 
@@ -15,7 +15,7 @@ These models are not useless, and can be good scaffolding to help us understand 
 
 ##### Three-layer model - [[Paul Maclean]]
 
-> [!references]- [[reference_Behave]]
+> [!cite]- [[Behave by Robert M. Sapolsky]]
 > 
 > ![[books_Behave#^301731328]]
 > ![[books_Behave#^301731329]]

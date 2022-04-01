@@ -3,6 +3,9 @@ created: 2022-03-30T14:33:32
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/claim
+sr-due: 2022-04-02
+sr-interval: 1
+sr-ease: 228
 ---
 
 #### [[Most cultural differences are rooted in material differences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

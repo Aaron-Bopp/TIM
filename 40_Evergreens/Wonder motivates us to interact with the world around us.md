@@ -3,9 +3,9 @@ created: 2022-03-12T10:25:15
 aliases:
   - null
 tags: created/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-03-31
-sr-interval: 10
-sr-ease: 210
+sr-due: 2022-04-07
+sr-interval: 6
+sr-ease: 190
 ---
 
 #### [[Wonder motivates us to interact with the world around us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

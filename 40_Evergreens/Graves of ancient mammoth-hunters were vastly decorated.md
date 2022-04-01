@@ -3,8 +3,8 @@ created: 2022-03-16T18:52:36
 aliases:
   - null
 tags: created/2022/03/16, review, node/evergreen/example
-sr-due: 2022-03-31
-sr-interval: 10
+sr-due: 2022-04-28
+sr-interval: 27
 sr-ease: 230
 ---
 

@@ -3,8 +3,8 @@ created: 2022-03-13T15:25:14
 aliases:
   - complex systems
 tags: created/2022/03/13, node/topic/term
-sr-due: 2022-03-29
-sr-interval: 2
+sr-due: 2022-04-09
+sr-interval: 8
 sr-ease: 230
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

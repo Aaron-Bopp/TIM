@@ -3,8 +3,8 @@ created: 2022-03-10T16:07:16
 aliases:
   - null
 tags: created/2022/03/11, node/topic/term
-sr-due: 2022-03-29
-sr-interval: 12
+sr-due: 2022-05-08
+sr-interval: 37
 sr-ease: 248
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,7 +19,6 @@ sr-ease: 248
 > 
 > Africa also is heavily affected by a wide range of environmental issues, including desertification, deforestation, water scarcity, and other issues. These entrenched environmental concerns are expected to worsen as [[climate change]] impacts Africa. 
 > 
-
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

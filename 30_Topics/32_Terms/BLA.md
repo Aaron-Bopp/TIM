@@ -4,19 +4,17 @@ aliases:
   - basolateral amygdala (BLA)
   - basolateral amygdala
 tags: created/2022/03/27, node/topic/term
-sr-due: 2022-03-29
-sr-interval: 1
+sr-due: 2022-04-06
+sr-interval: 5
 sr-ease: 211
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[BLA]]</s>
 
-
 > [!wikipedia] [basolateral amygdala](https://en.wikipedia.org/wiki/Basolateral%20amygdala)
 > 
 > The basolateral [[amygdala]], or basolateral complex, consists of the lateral, basal and accessory-basal nuclei of the [[amygdala]]. The lateral nuclei receives the majority of sensory information, which arrives directly from the temporal lobe structures, including the [[hippocampus]] and [[primary auditory cortex]]. 
-
 
 > [!wikipedia]- How the BLA learns
 > 
@@ -25,10 +23,6 @@ sr-ease: 211
 
 ## relation to [[Amygdala]]
 
-
 > ![[books_Behave#^302856296]]
 
-
 > ![[books_Behave#^302856310]]
-
-

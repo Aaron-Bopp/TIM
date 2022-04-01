@@ -4,8 +4,8 @@ aliases:
   - Fear Of Missing Out
   - Fear Of Missing Out (FOMO)
 tags: created/2022/03/29, node/topic/term
-sr-due: 2022-03-29
-sr-interval: 2
+sr-due: 2022-04-08
+sr-interval: 7
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +16,6 @@ sr-ease: 231
 > 
 > Fear of missing out (FOMO) is the feeling of apprehension that one is either not in the know or missing out on [[information]], events, experiences, or life decisions that could make one's life better. FOMO is also associated with a [[fear]] of [[regret]].
 >
-
 
 ##### ^dataviews
 

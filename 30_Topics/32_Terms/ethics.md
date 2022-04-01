@@ -3,8 +3,8 @@ created: 2022-03-20T20:10:39
 aliases:
   - null
 tags: created/2022/03/20, node/topic/term
-sr-due: 2022-03-29
-sr-interval: 2
+sr-due: 2022-04-10
+sr-interval: 9
 sr-ease: 241
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

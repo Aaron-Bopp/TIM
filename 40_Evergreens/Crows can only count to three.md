@@ -3,9 +3,9 @@ created: 2022-03-23T08:41:35
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/example/fun
-sr-due: 2022-03-31
-sr-interval: 6
-sr-ease: 230
+sr-due: 2022-06-01
+sr-interval: 61
+sr-ease: 250
 ---
 
 #### [[Crows can only count to three]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

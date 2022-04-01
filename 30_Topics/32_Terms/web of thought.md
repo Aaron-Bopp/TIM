@@ -3,8 +3,8 @@ created: 2022-03-22T12:03:45
 aliases:
   - webs of thought
 tags: created/2022/03/22, node/topic/term
-sr-due: 2022-03-29
-sr-interval: 4
+sr-due: 2022-04-13
+sr-interval: 12
 sr-ease: 203
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

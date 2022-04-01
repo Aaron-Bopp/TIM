@@ -3,6 +3,9 @@ created: 2021-12-08
 aliases:
   - null
 tags: created/2021/12/08, review, node/evergreen/claim
+sr-due: 2022-04-02
+sr-interval: 1
+sr-ease: 221
 ---
 
 #### [[An increase in self-love and self-respect may lead to a decrease in productivity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

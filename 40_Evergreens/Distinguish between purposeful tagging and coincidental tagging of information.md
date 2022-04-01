@@ -3,9 +3,9 @@ created: 2022-01-10T10:42:18
 aliases:
   - null
 tags: created/2022/01/10, review, node/evergreen/claim
-sr-due: 2022-04-01
-sr-interval: 35
-sr-ease: 210
+sr-due: 2022-04-19
+sr-interval: 18
+sr-ease: 190
 ---
 
 #### [[Distinguish between purposeful tagging and coincidental tagging of information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,6 +19,8 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 
 - [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
+
+> ![[articles_The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]
 
 ### <hr class="footnote"/>
 

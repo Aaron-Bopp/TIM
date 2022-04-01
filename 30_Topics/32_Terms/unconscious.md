@@ -18,7 +18,6 @@ The unconscious [[mind]] consists of the processes in the mind that occur automa
 > 
 > Unconsciousness is a state in which a living individual exhibits a complete, or near-complete, inability to maintain an awareness of self and environment or to respond to any human or environmental stimulus. 
 
-
 > [!wikipedia] [unconscious mind](https://en.wikipedia.org/wiki/Unconscious%20mind)
 > 
 > The unconscious mind (or the unconscious) consists of the processes in the mind which occur automatically and are not available to introspection and include thought processes, memories, interests, and motivations.
@@ -29,7 +28,6 @@ The unconscious [[mind]] consists of the processes in the mind that occur automa
 > 
 > Some critics have doubted the existence of the unconscious.
 >
-
 
 ##### ^dataviews
 

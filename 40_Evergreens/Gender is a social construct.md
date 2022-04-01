@@ -7,9 +7,9 @@ aliases:
   - why does gender exist
   - The history of gender
   - the politicization of gender
-sr-due: 2022-04-01
-sr-interval: 68
-sr-ease: 270
+sr-due: 2022-05-05
+sr-interval: 34
+sr-ease: 250
 ---
 
 #### [[Gender is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

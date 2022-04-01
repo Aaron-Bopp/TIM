@@ -3,8 +3,8 @@ created: 2021-12-30
 aliases:
   - null
 tags: created/2022/03/11, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 13
+sr-due: 2022-05-10
+sr-interval: 39
 sr-ease: 270
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,7 +20,9 @@ sr-ease: 270
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

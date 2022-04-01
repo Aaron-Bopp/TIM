@@ -3,8 +3,8 @@ created: 2021-08-13
 tags: created/2021/08/13, node/topic/term
 aliases:
   - autistic 
-sr-due: 2022-03-30
-sr-interval: 8
+sr-due: 2022-04-23
+sr-interval: 22
 sr-ease: 239
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,7 +21,7 @@ and instead support educating and changing [[society]] to better support autisti
 > Kanner Autism is a neurodevelopmental disorder characterized by challenges with [[social communication]], and by restricted and repetitive behaviors. It is now considered part of the wider [[autism spectrum]].
 > 
 
-> ![[articles_Understanding human collective behaviour  Autistic Collaboration#^287467171]]
+> ![[articles_Understanding human collective behaviour Autistic Collaboration#^287467171]]
 
 > [!wikipedia]- When does autism present
 > 

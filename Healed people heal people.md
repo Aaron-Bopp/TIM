@@ -3,6 +3,9 @@ created: 2022-03-30T21:28:44
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/saying
+sr-due: 2022-04-02
+sr-interval: 1
+sr-ease: 208
 ---
 
 #### [[Healed people heal people]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
