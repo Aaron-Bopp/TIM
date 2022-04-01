@@ -3,9 +3,9 @@ created: 2022-03-19T11:48:42
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-03-30
-sr-interval: 7
-sr-ease: 230
+sr-due: 2022-05-04
+sr-interval: 33
+sr-ease: 250
 ---
 
 #### [[Farming prevented a return to foraging for early humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

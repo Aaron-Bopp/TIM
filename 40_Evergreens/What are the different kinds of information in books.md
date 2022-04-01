@@ -3,8 +3,8 @@ created: 2022-03-19T14:14:47
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/question
-sr-due: 2022-03-30
-sr-interval: 3
+sr-due: 2022-04-11
+sr-interval: 10
 sr-ease: 210
 ---
 
@@ -16,6 +16,7 @@ sr-ease: 210
 - and fluff
 
 - part of:: [[How to understand what you read]]
+
 
 ### <hr class="footnote"/>
 
