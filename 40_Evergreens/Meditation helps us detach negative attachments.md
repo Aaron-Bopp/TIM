@@ -24,7 +24,7 @@ We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and dir
 > 
 > ![[Pasted image 20211231162422.png]]
 > 
-> Once the mind is calm, these thoughts can make their way through
+> Once the mind is calm, we can investigate our internal stressors
 > ^[[[notes_Intro to Mantra Practice]]]
 >  ![[Pasted image 20211231162555.png]]
 
