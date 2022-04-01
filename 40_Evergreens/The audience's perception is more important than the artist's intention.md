@@ -10,6 +10,7 @@ sr-ease: 190
 
 #### [[The audience's perception is more important than the artist's intention]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+I think many artist's realize this, refusing to give insight into their thought process while creating e.g. [[Donald Glover]] after "This is Ama"
 #TO/WRITE 
 - [[There is a difference between thinking and creating]]
 - [[Communication provides the opportunity to shape other's perceptions]]

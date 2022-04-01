@@ -19,9 +19,7 @@ ADHD is not a lack of attention it is a disorder in the placing of attention
 You actually notice more things than most people, but because you have a [[ADHD reduces working memory|reduced working memory]] you will be unable to keep track of all the things your brain is seeing.
 This can lead to distractibility because [[ADHD is primarily an executive function disorder]] which means you will not be in control of what you are concentrating on. 
 
-It is sometimes said that people with [[ADHD]] would have been hunter's 2000 years ago. [[Our brains are built around survival]] and our ability to [[hyperfocus]] and our ability to take in large amounts of sensory data at once [^1] makes this the most true for people with ADHD: [[Neurodiverse people can use their brain to their advantage]]
-
-[^1]: which leads to distractibility in non-stressful environment #TO/DO/REFERENCE 
+It is sometimes said that people with [[ADHD]] would have been hunter's 2000 years ago. [[Our brains are built around survival]] and our ability to [[hyperfocus]] and our ability to take in large amounts of sensory data at once makes this the most true for people with ADHD: [[Neurodiverse people can use their brain to their advantage]]
 
 Medication, [[meditation]], and many other coping mechanisms can help to focus your attention on the right things, and weed out the things that are unimportant: [[Tips for concentration]]
 

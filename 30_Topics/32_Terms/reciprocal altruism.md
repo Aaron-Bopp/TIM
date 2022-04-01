@@ -14,8 +14,6 @@ tags: created/2022/02/10, node/topic/term
 > 
 > The concept was initially developed by [[Robert Trivers]] to explain the evolution of cooperation as instances of mutually altruistic acts. The concept is close to the strategy of "tit for tat" used in [[game theory]].
 
-#TO/TEND/WATER connection from [[lecture_Behavioral Evolution]]
-
 **See**:: [[natural selection]], [[kin selection]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
