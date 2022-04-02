@@ -16,7 +16,8 @@ This is perhaps stealing in the best way possible: in order to create something 
 - works with:: [[There is a difference between thinking and creating]]
 - helpful for:: [[Your second brain should be an inspirational hub of creativity]]
 
-#TO/DO/FIND there is a book by this name I think
+[Steal Like an Artist: 10 Things Nobody Told You About Being Creative by Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) book written (presumably) about this saying. Not sure if it originated with the author or not, but it does have the quality of being instantly understandable without much clarification.
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

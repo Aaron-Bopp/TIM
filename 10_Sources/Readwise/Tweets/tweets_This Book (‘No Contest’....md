@@ -24,7 +24,6 @@ sr-ease: 230
 highlight_tags:: [[self]]   
 Goto: https://twitter.com/roryreckons/status/1458286134497185794  
 
-#TO/EXPLORE/READ  
 
 ###### ^247738273q
 

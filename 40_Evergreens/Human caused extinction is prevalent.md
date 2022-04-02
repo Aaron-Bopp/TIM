@@ -17,8 +17,9 @@ human's have developed into the top predator and a force of destruction on par w
 From our prehistoric hunting of mammoths in [[Siberia]],
 to our mass extinctions in [[Australia]] and [[America]], 
 to man-made [[climate change]],
-we are by far the most destructive force in history in zoological terms.
-#TO/DO/FIND estimate of how many species have gone extinct as a result of humans
+we are by far the most destructive force in history in zoological terms,
+driving [up to one million](https://www.nature.com/articles/d41586-019-01448-4) species extinct.
+
 
 - part of:: [[Greater cooperation and communication has lead to the success of humans as a species]]
 - explained by:: [[Humans have had little time to adjust to being the top predator]]

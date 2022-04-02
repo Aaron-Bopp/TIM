@@ -15,15 +15,9 @@ sr-ease: 130
 from: [[@hankgreen on Twitter|Hank Green]]
 #TO/PONDER/IDEA [[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]] 
 
-#TO/PONDER/IDEA [[Blooms taxonomy]]
-#TO/TEND/GRAFT 
-- [[We are confined to the tools of our time]]
-- [[Humans try really hard to avoid understanding their mistakes]]
-- [[Rationalizations are defense-mechanisms against strong emotions]]
-- [[How to understand what you read]]
-- [[Tips for concentration]]
-- [[Nodes in the second brain are an abstraction of our first brain]]
-- [[There is a difference between thinking and creating]]
+- [[Humans try really hard to avoid understanding their mistakes]] makes it hard for us to accept new [[information]]
+- [[How to understand what you read]] integral in getting new information
+- [[Nodes in the second brain are an abstraction of our first brain]], what is understanding in the [[brain]]? #TO/PONDER/IDEA 
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Writing is a catalyst of understanding]]
 
