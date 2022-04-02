@@ -8,10 +8,12 @@ tags: created/2022/04/02, review, node/evergreen/claim, ever/sprout
 
 > [!infobox]- 
 > **In**:: [[Evolutionary Psychology]]
-> this claim is
-> **about**:: [[social control]], [[religion]]
-> and is `$=customJS.dv_funcs.mentionedIn(dv)`
+> 
+> **about**:: [[social control]] and [[religion]]
+> 
+> #EVER/SPROUT `$=customJS.dv_funcs.mentionedIn(dv)`
 
+`$=console.log(dv.current())`
 #### [[Religion externalizes social control mechanisms]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is 
