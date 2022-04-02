@@ -10,12 +10,11 @@ sr-ease: 204
 
 #### [[Human behavior is selective]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-> ![[books_Darwin's Cathedral#^298292974]]
-
+> ![[books_Darwin's Cathedral#^292936687]]
 > ![[books_Darwin's Cathedral#^292936692]]
 > ![[books_Darwin's Cathedral#^298292978]]
-
 > ![[books_Darwin's Cathedral#^298292984]]
+> ![[books_Darwin's Cathedral#^298292974]]
 
 ### <hr class="footnote"/>
 

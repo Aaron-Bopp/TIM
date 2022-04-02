@@ -15,10 +15,10 @@ sr-ease: 190
 
 Social control reduces the amount of within-group selection by promoting behavior that benefits the group. This allows behaviors that are highly-altruistic or highly-selfless to evolve.
 
+Group selection -> social control -> self-sacrificial altruism
+
 This is in contrast to [[kin selection]] which would say that individuals would only act for the benefit of closely genetically related relatives,
-^[[[books_Darwin's Cathedral#^291449826]]]
 and [[reciprocal altruism]] which would predict that individuals would only act for the benefit of those who will return the favor.
-^[[[books_Darwin's Cathedral#^291449827]]]
 
 ### <hr class="footnote"/>
 
@@ -32,4 +32,7 @@ and [[reciprocal altruism]] which would predict that individuals would only act 
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
+> ![[books_Darwin's Cathedral#^291449826]]
 > ![[books_Darwin's Cathedral#^291449823]]
+
+> ![[books_Darwin's Cathedral#^291449827]]

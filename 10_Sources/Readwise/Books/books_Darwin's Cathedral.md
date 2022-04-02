@@ -2165,3 +2165,58 @@ Calvinism was structured to control the leadership as effectively as the average
 
 ^304866748
 
+# New highlights added April 2, 2022 at 10:39 AM
+##### ^305945983
+
+highlight_tags:: [[qa]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=256  
+
+What are the three steps to apply group selection?
+1. Identify the relevant groups
+2. Compare fitness of individuals within groups
+3. Compare fitness of groups in the total population
+By combining these we can see what evolves.  
+
+###### ^305945983q
+
+One noncaller has a survival probability of 100 percent and nine have a survival probability of 50 percent for an average of 55 percent. One caller has a survival probability of 25 percent and nine have a survival probability of 75 percent for an average of 70 percent. ... Employing this procedure for our bird flock example, the groups are flocks, callers are less fit than noncallers within flocks, but flocks with more callers are more fit than flocks with fewer callers. When the variation among groups is as extreme as in my example (one caller in the first group and nine callers in the second group) group selection is by far the strongest evolutionary force and the calling behavior evolves despite its selective disadvantage within groups. 
+
+^305945983
+
+##### ^305945982
+
+highlight_tags:: [[qa]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=269  
+
+What is "the averaging fallacy" according to Elliot Sober and David Sloan Wilson?  
+
+###### ^305945982q
+
+If we define “individual selection” in terms of fitness averaged across groups rather than fitness within single groups, we have defined group selection out of existence, making “individual selection” a vacuous term for “whatever evolves.” 
+
+^305945982
+
+##### ^305405754
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1883  
+
+###### ^305405754q
+
+Calvinism was structured to control the leadership as effectively as the average member of the church. Pastors were not only selected with care but also were carefully supervised, with weekly meetings to insure purity of doctrine and quarterly meetings whose express purpose was for the pastors to criticize each other. 
+
+^305405754
+
+##### ^305930679
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1903  
+
+In early Calvinism in a Geneva  
+
+###### ^305930679q
+
+Elders, like pastors, were chosen by a procedure insuring that they were acceptable to the city government in addition to those who were to be overseen. In fact, all of the elders were also members of the city government. 
+
+^305930679
+

@@ -2,9 +2,9 @@
 created: 2022-01-02T09:04:12 
 aliases:
   - null
-tags: created/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-04-02
-sr-interval: 35
+tags: created/2022/01/02, review, node/evergreen/outline
+sr-due: 2022-06-02
+sr-interval: 61
 sr-ease: 170
 ---
 

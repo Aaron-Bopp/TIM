@@ -3,8 +3,8 @@ created: 2022-02-04T17:11:03
 aliases:
   - null
 tags: created/2022/02/04, review, node/evergreen/claim
-sr-due: 2022-04-02
-sr-interval: 9
+sr-due: 2022-04-18
+sr-interval: 16
 sr-ease: 170
 ---
 
@@ -17,7 +17,7 @@ This is counterintuitive, but is shown by the [[success]] of educational content
 
 - [[Why is evergreen note-taking SO GOOD]]
 
-> ![[^^looking for incepting material
+> ![[articles_Six Kinds of Reading#305789833]]
 
 ### <hr class="footnote"/>
 

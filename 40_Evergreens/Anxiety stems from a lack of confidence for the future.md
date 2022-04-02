@@ -3,8 +3,8 @@ created: 2022-02-11T20:16:02
 aliases:
   - null
 tags: created/2022/02/11, review, node/evergreen/claim
-sr-due: 2022-04-02
-sr-interval: 14
+sr-due: 2022-04-29
+sr-interval: 27
 sr-ease: 170
 ---
 
@@ -26,7 +26,7 @@ If you have a secure [[identity]] it means you understand who you are and how yo
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING  
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[anxiety]], [[confidence]]

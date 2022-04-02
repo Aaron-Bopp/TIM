@@ -3,9 +3,9 @@ created: 2022-03-05T21:25:31
 aliases:
   - null
 tags: created/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-04-09
-sr-interval: 12
-sr-ease: 170
+sr-due: 2022-04-08
+sr-interval: 6
+sr-ease: 150
 ---
 
 #### [[Religion promotes high social control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,15 +20,14 @@ Spiritual beliefs can promote [[behavior]] that is positive to the group without
 Perhaps religion allows an easier to way to pass on practices without them being questioned, which would mean this
 leads to:: [[Social order is built off of a shared belief in an imagined reality]]
 
-explained by:: [[Social control promotes highly altruistic behavior within groups]]
+explained by::[[Theology preserves hierarchy through deific blessing]] 
 
-#TO/TEND/GRAFT 
-- [[Belief can motivate adaptation]]
-- [[Belief can motivate dysfunction]]
-- [[Faith can be a useful tool for grounding yourself]]
-- [[Faith is an abstraction of cognitive dissonance]]
-- [[Theology preserves hierarchy through deific blessing]] 
+Explanations:
+ - [[Religion externalizes social control mechanisms]] 
+ - [[What is the origin of moral systems]]
+ - [[Social control promotes highly altruistic behavior within groups]]
 
+#TO/PONDER/IDEA what is the relationship between individual's [[belief]] and [[religion]]'s social control. They can motivate similar behaviors, but come from different sources?
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -37,4 +36,5 @@ explained by:: [[Social control promotes highly altruistic behavior within group
 **Topics**:: [[belief]], [[religion]], [[social control]], [[religious belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+#### References
 > ![[books_Darwin's Cathedral#^298292991]]
