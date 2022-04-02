@@ -10,7 +10,6 @@ sr-ease: 255
 
 #### [[ADHD reduces working memory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/EXPLORE/RESEARCH 
 - [[ADHD is not a lack of attention it is a misplacement of attention]]
 - [[ADHD is primarily an executive function disorder]]
 

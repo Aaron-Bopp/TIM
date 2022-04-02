@@ -14,7 +14,7 @@ sr-ease: 210
 
 People who can only think when writing are closer to thinking than doing but not by much.
 
-![[Writing is a catalyst of understanding#^ddee69]]
+![[Andy Matuschak's Evergreen Notes#^67fb4a]]
 
 Theoretical scientists are really far on the thinking side
 

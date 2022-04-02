@@ -1,4 +1,4 @@
----
+[[//Prison abolition]]---
 created: 2021-08-14
 tags: created/2021/08/14, node/source/articles
 type: 
@@ -92,7 +92,7 @@ Goto: https://radicalinprogress.org/kaba-2021-2?__readwiseLocation=0%2F7%2F0%2F0
 
 ###### ^212884910q
 
-While these steps provide a more general overview, Kaba also covers what immediate steps can be taken to work towards prison abolition: 
+While these steps provide a more general overview, Kaba also covers what immediate steps can be taken to work towards prison abolition: 
 1. “Organizing for dramatic decreases of police budgets and redirecting those funds to other social goods (defunding the police)” (p. 13). 
 2. “Ending cash bail” (*ibid*).
 3. “Overturning police bills of rights” (*ibid*).
@@ -167,8 +167,6 @@ There Are No Perfect Victims
 
 
 Goto: https://radicalinprogress.org/kaba-2021-2?__readwiseLocation=0%2F23%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A0%2C2%2F23%2F0%2F0%2F0%2F0%2F1%2F1%2F3%2F3%2F1%2F5%2F1%3A171#:~:text=Kaba%20is%20the%20co-founder%20of%2Csexual%2C%20physical%2C%20or%20mental%20violence  
-
-#TO/EXPLORE/REASEARCH https://survivedandpunished.org/  
 
 ###### ^212892693q
 

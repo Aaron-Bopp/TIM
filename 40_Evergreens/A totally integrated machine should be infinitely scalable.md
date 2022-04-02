@@ -15,15 +15,18 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 2. [[evergreen notes]] are the methodology through which we organize and grow our knowledge
 3. [[Obsidian (software)]] is the conduit for doing this with the least [[friction]] possible
 
-#TO/TEND/GRAFT 
-- [[Evergreen notes organize knowledge so that it can grow]]
+- What are the limits
 	- [[We learn by transforming information into understanding]]
+		- [[Evergreen notes organize knowledge so that it can grow]]
+		- [[Evergreen notes should be constantly integrating new knowledge]]
+	- [[There is a limit to how much information you can process at once]]
+		- [[Densely linked webs of thought provide intuitive access to knowledge]]
+		- [[A healthy second brain requires a surplus of entry points]]
+	- [[A second brain should be an extension of your thought]]
+		- [[Use spaced repetition as a memory tool for your second brain]]
 		- [[A totally integrated machine should automate as much of the thinking process as possible]]
-	- [[Densely linked webs of thought provide intuitive access to knowledge]]
-		- [[Webs of thought provide heterarchical structure]]
-- [[A second brain should be an extension of your thought]]
-	- [[How memory works]]
 
+answers:: [[How do we ensure our note systems scale correctly]]
 
 ### <hr class="footnote"/>
 
@@ -32,5 +35,3 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 
 **Topics**:: [[My TIM]], [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-

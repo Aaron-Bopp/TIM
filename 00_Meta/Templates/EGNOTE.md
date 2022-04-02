@@ -1,4 +1,4 @@
-<% tp.file.include("[[META]]") %> created/evergreen/<% tp.date.now("YYYY/MM/DD") %>, review, node/evergreen/claim
+<% tp.file.include("[[META]]") %> created/<% tp.date.now("YYYY/MM/DD") %>, review, node/evergreen/claim
 ---
 
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>

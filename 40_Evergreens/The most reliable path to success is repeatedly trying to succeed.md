@@ -15,6 +15,11 @@ sr-ease: 230
 
 It's not about being successful, it's about doing what you can do to get close to [[success]].
 
+[[Motivation and obsession are indistinguishable to an outside perspective]] because [[motivation]] is just focusing on task until it's completion and focusing on the outcomes can actually lead to [[anxiety]] instead of [[motivation]].
+
+Because [[Right kinds of thoughts lead to right kinds of actions]], this means keeping one thought in our mind until it becomes real, or [[manifestation]], is the same thing as [[motivation]].
+
+[[Anxiety prevents us from living in the present]]
 - [[Be the change you want to see in the world]]
 - [[You can't control what happens]]
 - [[Right kinds of thoughts lead to right kinds of actions]] 

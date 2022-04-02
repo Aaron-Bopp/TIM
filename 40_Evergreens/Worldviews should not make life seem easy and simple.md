@@ -16,9 +16,7 @@ The pursuit of [[self-actualization]] is different for every person, but if you 
 
 This is especially seen in [[Individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]): [[The actual path to being a good person isn't explored by Evangelicalism]]
 
-#TO/TEND/GRAFT 
-- [[Worldviews should be open ended and adaptive]]
-- [[Be the change you want to see in the world]]
+leads to:: [[Worldviews should be open ended and adaptive]]
 
 ### <hr class="footnote"/>
 

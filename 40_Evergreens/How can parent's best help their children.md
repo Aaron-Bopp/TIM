@@ -10,11 +10,8 @@ sr-ease: 206
 
 #### [[How can parent's best help their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-#TO/EXPLORE/WATCH 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZOjFdNiH2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > ![[tweets_People Often Ask Me How...#249709299q]]
-
 
 - What do parents need to do
 	- [[Parents need to model the ability to deal with emotion to their children]]
@@ -34,3 +31,7 @@ sr-ease: 206
 
 **Topics**:: [[parents]], [[childhood]], [[mental health]], [[self-love]], [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+#TO/EXPLORE/WATCH 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZOjFdNiH2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

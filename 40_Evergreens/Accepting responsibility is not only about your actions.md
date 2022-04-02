@@ -15,7 +15,7 @@ sr-ease: 242
 %%I wish I could have ancestors that I'm proud of. I wish I could look back and see [[Culture]] and history that I could draw from. But I can't. #TO/PONDER/ME %%
 
 In [[Germany]] they accept responsibility for the Holocaust.
-%% despite no living person having taken part in it %% 
+^[despite no living person having taken part in it]
 They teach the horror and their part in it in schools and are very honest about their responsibility for it. This is not because the children of [[Germany]] support or caused the actions of the Holocaust, but because they realize their part in it, and their part in fixing it.
 
 Accepting responsibility means acknowledging why something happened, what part you had in it, and the [[suffering]] it caused other people.

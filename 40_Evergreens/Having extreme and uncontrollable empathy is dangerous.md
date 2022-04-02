@@ -15,7 +15,7 @@ If the [[emotions]] you are mirroring are at odds with your [[morality]] then yo
 you will start to make [[rationalizations]] that do not reflect your ideals:
 [[Rationalizations are defense-mechanisms against strong emotions]]
 
-#TO/EXPLORE/RESEARCH  [[emotional mirroring]]
+Due to the [[Neuroscience|neurological]] effect of [[emotional mirroring]], [[empathy]] could have a physiological effect similar to that of experiencing the emotion yourself.
 
 This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxiety and [[empathy]]/[[sympathy]], narcisstic  parents, [[fight-or-flight response]], [[inter-generational trauma]], [[Hypervigilance]]
 
