@@ -1,9 +1,9 @@
 ---
 created: 2021-05-31
 tags: created/2021/05/31, review, node/evergreen/technique
-sr-due: 2022-04-02
-sr-interval: 70
-sr-ease: 250
+sr-due: 2022-12-04
+sr-interval: 246
+sr-ease: 270
 ---
 
 #### [[Flamingo Pose Meditation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
