@@ -22,7 +22,7 @@
 			- [[Feminism is the antithesis to patriarchy]]
 			- [[Patriarchy convinces young men that they can and should be oppressors]]
 			- [[Transformative justice is the alternative to punitive justice]]
-			- [[Whiteness was created to marginalize people of color]]
+			- [[Race is a social construct]]
 		- [[white supremacy]]
 			- [[Abortion and immigration are detrimental to white supremacy]]
 	- [[democracy]]

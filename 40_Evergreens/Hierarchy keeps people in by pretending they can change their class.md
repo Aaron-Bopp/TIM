@@ -18,7 +18,7 @@ This was seen in the Hindu caste system, and especially preyed on the individual
 This can also be seen in [[capitalism]]:
 > ![[Capitalism runs on class division#^0c0a41]]
 
-- enables:: [[Whiteness was created to marginalize people of color]]
+- enables:: [[Race is a social construct]]
 
 ### <hr class="footnote"/>
 

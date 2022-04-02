@@ -4,8 +4,8 @@ nmap U <C-r>
 
 nmap ]] :nHead
 nmap [[ :pHead
-#nmap j gj
-#nmap k gk
+nmap j gj
+nmap k gk
 
 
 #vmap j gj

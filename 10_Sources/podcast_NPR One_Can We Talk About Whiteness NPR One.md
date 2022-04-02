@@ -28,7 +28,7 @@ Summarized and expanded upon in [[White Privilege write-up]]
 - College campuses are central for lots of activism about race
 - Whiteness is not just an identity, it is embedded institutions and practices (college)
 	- Notion that whiteness is the invisible identity. “Other people have race”
-- Whiteness is a racial project. ([[Whiteness was created to marginalize people of color]]) Representation that distributes resources 
+- Whiteness is a racial project. ([[Race is a social construct]]) Representation that distributes resources 
 	- [[Women]] default to whiteness => white [[women]]’s experience === [[women]]’s experience
 	- People want a racial alibi = to become the good white person or separate themselves from the institution of whiteness	(and [[white supremacy]])
 - Progressive or liberal white people view whiteness as a burden but that is not true of all white people

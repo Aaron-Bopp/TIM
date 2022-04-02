@@ -27,7 +27,7 @@ The most common way of doing this is to justify your [[social hierarchy]] and th
 We can see this in:
 - [[Theology preserves hierarchy through deific blessing]]
 - [[The caste system preserved hierarchy through purity]]
-- [[Whiteness was created to marginalize people of color]]
+- [[Race is a social construct]]
 
 ### <hr class="footnote"/>
 

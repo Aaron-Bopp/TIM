@@ -21,7 +21,7 @@ sr-ease: 130
 		- [[Evangelicalism has commodified faith for profit]]
 		- [[Does cognitive dissonance increase your capacity for endurance]]
 - [[The way systems work can create cognitive bias]]
-	- [[Whiteness was created to marginalize people of color]]
+	- [[Race is a social construct]]
 	- [[To those with privilege, losing it feels like oppression]]
 
 ### <hr class="footnote"/>

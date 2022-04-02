@@ -11,7 +11,7 @@ sr-ease: 210
 #### [[Marginalized identities are inseparable from politics]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 - [[The black identity has evolved past it's political origins]]
-- [[Whiteness was created to marginalize people of color]]
+- [[Race is a social construct]]
 - [[Race is a social construct]]
 - [[Oppressors invent reasoning for their oppression]]
 

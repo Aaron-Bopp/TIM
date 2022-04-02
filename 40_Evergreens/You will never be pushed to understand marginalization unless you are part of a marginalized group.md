@@ -15,7 +15,7 @@ For some it will be very difficult to fit their [[identity]] into the world arou
 This is 
 part of why:: [[Worldviews should not make life seem easy and simple]]
 and is
-extremely key in:: [[Whiteness was created to marginalize people of color]]
+extremely key in:: [[Race is a social construct]]
 
 ### <hr class="footnote"/>
 

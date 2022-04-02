@@ -10,7 +10,7 @@ sr-ease: 150
 
 #### [[Colonization and slavery lead to generational disparities in black communities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[Whiteness was created to marginalize people of color]]
+- [[Race is a social construct]]
 - [[You can't blame people for failing to rise above their circumstances]]
 - [[The black identity has evolved past it's political origins]]
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]

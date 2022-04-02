@@ -10,7 +10,7 @@ sr-ease: 230
 
 #### [[Race is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-- [[Whiteness was created to marginalize people of color]]
+- [[Race is a social construct]]
 - [[The black identity has evolved past it's political origins]]
 
 ### <hr class="footnote"/>
@@ -20,3 +20,5 @@ sr-ease: 230
 
 **Topics**:: [[social construct]], [[racism]], [[white supremacy]], [[Civil Rights]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+

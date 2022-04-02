@@ -17,7 +17,7 @@ In fact, it is unfair to expect everyone to.
 Modern [[America|American]] [[Culture]] often blames people for not "pulling themselves up by their bootstraps." 
 This widespread belief is mainly due to the myth of the "[[American dream]]",
 ^[and thus is largely rooted in [[white supremacy]]:
-[[Whiteness was created to marginalize people of color]]]
+[[Race is a social construct]]]
 which falsely purports that anybody who works hard enough will be able to succeed.
 The problem here is that we can't just look at the amount of work somebody is putting in and say whether they will be successful or not,
 because that relies much more on the environment they are putting the work into than the amount of work they are doing.

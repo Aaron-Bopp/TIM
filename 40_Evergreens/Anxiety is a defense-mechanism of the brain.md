@@ -3,8 +3,8 @@ created: 2022-02-13T18:39:07
 aliases:
   - null
 tags: created/2022/02/13, review, node/evergreen/claim
-sr-due: 2022-04-02
-sr-interval: 11
+sr-due: 2022-04-20
+sr-interval: 18
 sr-ease: 170
 ---
 
@@ -12,15 +12,14 @@ sr-ease: 170
 
 We can see this in [[Attachment fuels anxiety]], as if we are attached to something our brain with want to protect against the grief of losing that thing.
 
-#TO/TEND/GRAFT 
-- [[Our brains are built around survival]]
-- [[Our brain will do anything it can to protect itself]]
-- [[Our brain actively inhibits us from processing repressed emotions]]
-- [[Humans are a product of evolution]]
+- explained by:: [[Our brains are built around survival]] and [[Humans are a product of evolution]]
+- part of:: [[Our brain will do anything it can to protect itself]]
 
-- [[Anxiety should be a tool at your disposal not an impedance to your life]]
-- [[Most anxiety isn't irrational it's just overcompensation]]
-- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
+Ideally,
+[[Anxiety should be a tool at your disposal not an impedance to your life]], but 
+because [[Our biology has not significantly changed for thousands of years]] 
+this defense-mechanism mas become hyperactive 
+resulting in:: [[Most anxiety isn't irrational it's just overcompensation]].
 
 ### <hr class="footnote"/>
 

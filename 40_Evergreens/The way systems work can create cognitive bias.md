@@ -20,7 +20,7 @@ sr-ease: 176
 	- [[Stereotypes are social constructs]]
 		- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 	 - [[Race is a social construct]]
-		 - [[Whiteness was created to marginalize people of color]]
+		 - [[Race is a social construct]]
 	- [[Gender is a social construct]]
 		- [[Our understanding of gender begins at a very early age]]
 		- [[Gender segregation increases gendered play]]

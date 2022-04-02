@@ -3,8 +3,8 @@ created: 2021-12-08
 aliases:
   - null
 tags: created/2021/12/08, review, node/evergreen/claim
-sr-due: 2022-04-02
-sr-interval: 1
+sr-due: 2022-04-04
+sr-interval: 2
 sr-ease: 221
 ---
 
@@ -12,9 +12,7 @@ sr-ease: 221
 
 Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[motivation]], but it is natural for someone who has been being chased for their entire life to stop for a breather once they realize they are safe.
 
-The problem is that you have been running for your entire life just to keep up with everybody else who was born with longer legs, and now that you are taking a break everybody else  looks at you like you are a failure for not overcoming your disadvantages.
-
-The thing is you are capable of running, but it is harder to push yourself when you realize you aren't being chased. You need to find passion for the running from within.
+The problem is that you have been running for your entire life just and now that you are taking a break everybody else  looks at you like you are a failure for not keeping up up with your "potential".
 
 - required for:: [[Neurodiverse people can use their brain to their advantage]] only if they are able to foster self-love
 - result of:: [[Neurodiverse people are siloed into systems that work against them]]

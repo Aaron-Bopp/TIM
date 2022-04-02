@@ -30,7 +30,7 @@ This is a very selectable trait and so the things it leads to become wide spread
 explains:: [[Humans are primarily irrational, illogical, emotional beings]].
 
 This also leads some of the more harmful human behaviors.
-- [[Whiteness was created to marginalize people of color]]
+- [[Race is a social construct]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 - [[We carry our childhood wounds into adulthood]]
 - [[Your anxiety knows your insecurities better than you do]]
