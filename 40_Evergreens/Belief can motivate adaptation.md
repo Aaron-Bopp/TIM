@@ -12,7 +12,10 @@ sr-ease: 190
 
 In modern times we still cling to [[religion]] because [[Belief helps us push through hardship]], but the roots of this trait go beyond any individual [[religion]]. 
 
-It does not matter if the thing you are believing in is true; as long as it motivates [[behavior]] that is adaptive that [[belief]] is adaptive.
+It does not matter if the thing you are believing in is true; as long as it motivates [[behavior]] that is adaptive,
+that [[belief]] is adaptive.
+This 
+explains:: [[Belief helps us push through hardship]]
 
 - enabled by:: [[Wonder motivates us to interact with the world around us]]
 - contrasts:: [[The injustice of endurance]]
