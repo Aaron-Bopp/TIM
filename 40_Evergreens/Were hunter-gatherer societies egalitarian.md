@@ -14,7 +14,7 @@ works with:: [[What is the origin of social hierarchy]]
 part of:: [[What enables large scale social order]]
 
 [[David Sloan Wilson]] believes that [[hunter-gatherers]] were egalitarian through a [[social control]] called reverse dominance which is an element of social [[game theory]]. 
-This lines up with his belief that [[Moral social control promotes pro-social behavior in groups]]
+This lines up with his belief that [[Social control promotes highly altruistic behavior within groups]]
 - [[hunter-gatherers]] may have also had high levels of [[social control]] from [[religion]]'s like [[Animism]] and that lead to sites like [[Gobekli Tepe]]
 
 - involves:: [[What is the link between evolution and social behavior]]

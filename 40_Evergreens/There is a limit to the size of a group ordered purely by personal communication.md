@@ -19,7 +19,7 @@ sr-ease: 230
 
 - part of:: [[What is the link between evolution and social behavior]]
 - This is why [[Religion promotes high social control]] is so important.
-	- [[Moral social control promotes pro-social behavior in groups]]
+	- [[Social control promotes highly altruistic behavior within groups]]
 	- [[Symbolism increases human's capacity for cooperation]]
 - enables:: [[Foraging was a very sustainable lifestyle]]
 

@@ -24,7 +24,7 @@ To promote a better world you must also have [[empathy]] for people who are simp
         - [[The brain is powerful enough to create supernatural experiences]]
     - [[Human's will find explanations for inexplainable things]]
     - [[Why do humans have such a high capacity for cognitive dissonance]]?
-        - [[Moral social control promotes pro-social behavior in groups]]
+        - [[Social control promotes highly altruistic behavior within groups]]
             - [[The materialistic view of religions examines why humans invented and clung to religion]]
             - [[Faith is an abstraction of cognitive dissonance]]
             - [[Faith can be a useful tool for grounding yourself]]

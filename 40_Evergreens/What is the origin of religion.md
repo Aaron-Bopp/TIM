@@ -37,7 +37,7 @@ Religion as non-adaptive
 
 > ![[books_Darwin's Cathedral#^295490295]]
 
-- [[Moral social control promotes pro-social behavior in groups]]
+- [[Social control promotes highly altruistic behavior within groups]]
 - [[Religion promotes high social control]]
 
 ### <hr class="footnote"/>

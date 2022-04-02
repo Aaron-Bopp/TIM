@@ -49,7 +49,7 @@ Wilson then starts to take stabs at [[kin selection]] and [[reciprocal altruism]
 This leads to the conclusions that
 [[What is the link between evolution and social behavior]],
 [[Functionally integrated social groups become organisms in their own right]] and
-[[Moral social control promotes pro-social behavior in groups]]. 
+[[Social control promotes highly altruistic behavior within groups]]. 
 
 All throughout this chapter Wilson starts to make reference to the relation of these [[Evolution|evolutionary]] concepts and religion, morality, and the [[human experience]]. 
 As he does this he starts to expand from [[group selection]] to [[Evolutionary Psychology]] and [[Cultural Evolution]].

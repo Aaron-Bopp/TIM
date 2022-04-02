@@ -8,19 +8,17 @@ sr-interval: 10
 sr-ease: 190
 ---
 
-#### [[Moral social control promotes pro-social behavior in groups]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social control promotes highly altruistic behavior within groups]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+
 
 > ![[books_Darwin's Cathedral#^289554239]]
 
-> ![[books_Darwin's Cathedral#^288878740]]
-> ![[books_Darwin's Cathedral#^289554237]]
+Social control reduces the amount of within-group selection by promoting behavior that benefits the group. This allows behaviors that are highly-altruistic or highly-selfless to evolve.
 
 This is in contrast to [[kin selection]] which would say that individuals would only act for the benefit of closely genetically related relatives,
 ^[[[books_Darwin's Cathedral#^291449826]]]
 and [[reciprocal altruism]] which would predict that individuals would only act for the benefit of those who will return the favor.
 ^[[[books_Darwin's Cathedral#^291449827]]]
-
-
 
 ### <hr class="footnote"/>
 

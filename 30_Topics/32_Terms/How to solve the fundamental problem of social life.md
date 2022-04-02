@@ -24,7 +24,7 @@ While this can often be true, it nor the ideas of [[kin selection]], [[reciproca
 The answer is largely three fold, 
 first you must understand and properly apply the rules of [[group selection]],
 then you must understand that
-[[Moral social control promotes pro-social behavior in groups]]
+[[Social control promotes highly altruistic behavior within groups]]
 which leads to
 [[Functionally integrated social groups become organisms in their own right]]
 and finally that

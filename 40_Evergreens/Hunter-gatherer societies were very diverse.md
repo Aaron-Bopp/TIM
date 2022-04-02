@@ -18,7 +18,7 @@ sr-ease: 210
 
 - [[Foraging was a very sustainable lifestyle]]
 - [[Foraging kept populations down]] enabled this because [[There is a limit to the size of a group ordered purely by personal communication]]
-- [[Moral social control promotes pro-social behavior in groups]]
+- [[Social control promotes highly altruistic behavior within groups]]
 
 ### <hr class="footnote"/>
 

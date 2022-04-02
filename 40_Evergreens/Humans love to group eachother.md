@@ -18,7 +18,7 @@ This is a major reason [[Greater cooperation and communication has lead to the s
 
 Possible mechanism behind [[racism]], [[homophobia]], [[partisanship]]
 This could be seen as a result of [[kin selection]] but more likely [[group selection]]:
-[[Moral social control promotes pro-social behavior in groups]]
+[[Social control promotes highly altruistic behavior within groups]]
 
 This can be seen as a
 result of:: [[Human's will find explanations for inexplainable things]].

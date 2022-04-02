@@ -18,10 +18,22 @@ Group selection takes place when a trait is passed on because the trait that an 
 
 #### Application
 
+In order to see what evolves via group selection (or where group selection is the most powerful force of selection) you need to apply three rules.
+1. Identify the relevant groups
+2. Compare fitness of individuals within groups
+3. Compare fitness of groups in the total population
+
 In [[books_Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
 The first of these is that not every group is an adaptive unit; If there is not competition between groups, there is not a driving force for [[group selection]] to take advantage of. 
 The second is that groups must be defined for any given trait relative to the context that trait is meaningful in. He claims that every other theory of group selection (one's that rely on [[kin selection]] or [[game theory]]) can be explained using [[group selection]] if you follow these rules. 
 ^e8dce2
+
+Whatever group has the higher average fitness wins (caveats apply).
+
+##### The averaging fallacy
+
+One of the reasons that group selection went out of style for a time was that for some traits if you put individuals against each other the one without the trait will win, but if you average fitness over the whole population, the individuals with traits win.
+You could say that this follows the rules of [[individual selection]], because the trait is on average adaptive for the individual, but by doing this you have simply ignored the fact that it is only adaptive because that individual is part of a group, effectively defining group selection out of existence.
 
 #### Influence
 

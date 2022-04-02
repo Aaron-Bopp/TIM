@@ -28,7 +28,7 @@ sr-ease: 190
 leads to:: [[Evolution can create systems capable of natural selection]]
 
 This
-explains:: [[Moral social control promotes pro-social behavior in groups]]
+explains:: [[Social control promotes highly altruistic behavior within groups]]
 as we can now see [[social control]] as a trait that [[Genetic evolution]] can select for.
 
 ### <hr class="footnote"/>

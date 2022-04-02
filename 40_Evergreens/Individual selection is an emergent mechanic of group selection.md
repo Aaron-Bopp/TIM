@@ -15,7 +15,7 @@ sr-ease: 210
 
 [[Functionally integrated social groups become organisms in their own right]] 
 and 
-[[Moral social control promotes pro-social behavior in groups]]
+[[Social control promotes highly altruistic behavior within groups]]
 lead to this fact.
 If our cells are operating at a level of [[group selection]],
 then we are a the result of that.

@@ -25,7 +25,7 @@ the social aspect of foraging's sustainability is also important.
 and most bands of [[hunter-gatherers]] likely fell within this limit.
 This means that the [[Imagined reality]] of the tribe could be easily shared by word of mouth.
 This means that [[hunter-gatherers]] stability can also be 
-explained by:: [[Social order is built off of a shared belief in an imagined reality]], and [[Moral social control promotes pro-social behavior in groups]].
+explained by:: [[Social order is built off of a shared belief in an imagined reality]], and [[Social control promotes highly altruistic behavior within groups]].
 
 [[David Graeber]] would cite this as the strongest aspect of [[hunter-gatherers]] stability, as it is part of his definition of [[equality]]. 
 ^[[[What does equality even mean]]]

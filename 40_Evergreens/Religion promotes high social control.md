@@ -20,7 +20,7 @@ Spiritual beliefs can promote [[behavior]] that is positive to the group without
 Perhaps religion allows an easier to way to pass on practices without them being questioned, which would mean this
 leads to:: [[Social order is built off of a shared belief in an imagined reality]]
 
-explained by:: [[Moral social control promotes pro-social behavior in groups]]
+explained by:: [[Social control promotes highly altruistic behavior within groups]]
 
 #TO/TEND/GRAFT 
 - [[Belief can motivate adaptation]]
