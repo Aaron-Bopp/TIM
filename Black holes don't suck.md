@@ -3,7 +3,10 @@ created: 2022-04-03T15:01:14
 edited: 
 aliases:
   - null
-tags: created/2022/04/03, review, node/evergreen/claim
+tags: created/2022/04/03, review, node/evergreen/example/fun
+sr-due: 2022-04-07
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[Black holes don't suck]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -21,5 +24,5 @@ The only way to get "sucked" into a black hole is to be travelling a trajectory 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Black holes]], [[gravity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

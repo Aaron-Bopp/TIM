@@ -29,3 +29,7 @@ This is a big part of how you [[Write your notes like you're planting an evergre
 
 **Topics**:: [[second brain]], [[evergreen notes]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[articles_Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]

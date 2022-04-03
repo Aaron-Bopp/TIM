@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, review, node/evergreen/example/fun
+sr-due: 2022-04-07
+sr-interval: 4
+sr-ease: 270
 ---
 
 #### [[Light could circle the earth eight in a single second]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -19,8 +22,8 @@ This puts the size of a light **year** in perspective.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[light]], [[space]]
+**Topics**:: [[speed of light]], [[spacetime]], [[lightyears]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

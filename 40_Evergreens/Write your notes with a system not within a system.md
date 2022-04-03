@@ -25,8 +25,6 @@ and [[When in doubt, write what you think]].
  1. [[Productivity tools are often most useful in how much work they inspire you to do]] 
  
 
-> ![[articles_No, Luhmann was not about Folgezettel • Zettelkasten Method#^273533420]]
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING
@@ -34,3 +32,9 @@ and [[When in doubt, write what you think]].
 
 **Topics**:: [[note writing]], [[second brain]], [[evergreen notes]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References 
+
+> ![[articles_No, Luhmann was not about Folgezettel • Zettelkasten Method#^273533420]]
+
+> ![[articles_Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003290]]
