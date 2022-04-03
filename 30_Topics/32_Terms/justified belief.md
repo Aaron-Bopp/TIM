@@ -3,8 +3,8 @@ created: 2022-03-17T16:44:59
 aliases:
   - null
 tags: created/2022/03/17, review, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 9
+sr-due: 2022-05-05
+sr-interval: 32
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,7 +13,7 @@ sr-ease: 250
 
 In [[epistemology]], a [[belief]] is justified if one has good reason for holding it.
 
-**See**::
+**See**:: [[religious belief]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

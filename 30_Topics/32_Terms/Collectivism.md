@@ -3,8 +3,8 @@ created: 2022-03-30T14:22:44
 aliases:
   - Collectivist
 tags: created/2022/03/30, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-14
+sr-interval: 11
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -36,3 +36,5 @@ Inversely:: [[Individualism]]
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+> **In** ![[books_Behave#^304866742]]

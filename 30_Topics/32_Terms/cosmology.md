@@ -3,8 +3,8 @@ created: 2022-03-05T11:15:14
 aliases:
   - null
 tags: created/2022/03/05, review, node/topic/term
-sr-due: 2022-03-31
-sr-interval: 14
+sr-due: 2022-05-18
+sr-interval: 45
 sr-ease: 280
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,7 +18,6 @@ sr-ease: 280
 > Physical cosmology is the study of the observable universe's origin, its large-scale structures and dynamics, and the ultimate fate of the universe, including the laws of science that govern these areas.
 > Because of this shared scope with [[philosophy]], theories in physical cosmology may include both scientific and non-scientific propositions, and may depend upon assumptions that cannot be tested.
 >
-
 
 **See**:: [[physics]], [[metaphysics]], [[the Big Bang]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

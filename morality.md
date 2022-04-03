@@ -3,8 +3,8 @@ created: 2022-03-31T13:30:08
 aliases:
   - null
 tags: created/2022/03/31, node/topic/term
-sr-due: 2022-03-31
-sr-interval: 2
+sr-due: 2022-04-13
+sr-interval: 10
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,7 +15,7 @@ sr-ease: 231
 > 
 > Morality is the differentiation of intentions, decisions and actions between those that are distinguished as proper (right) and those that are improper (wrong).
 > 
-> Morality can be a body of standards or principles derived from a code of conduct from a particular philosophy, religion or culture, or it can derive from a standard that a person believes should be universal. Morality may also be specifically synonymous with "goodness" or "rightness".
+> Morality can be a body of standards or principles derived from a code of conduct from a particular [[philosophy]], [[religion]] or [[culture]], or it can derive from a standard that a person believes should be universal. Morality may also be specifically synonymous with "goodness" or "rightness".
 > 
 
 > ![[articles_Highlights From philosophy.ucsc.edu#^212218154]]

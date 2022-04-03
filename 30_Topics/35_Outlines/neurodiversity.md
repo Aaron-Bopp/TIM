@@ -4,16 +4,23 @@ tags: created/2021/06/07, node/topic/term
 aliases:
 - neurodiverse
 - neurodivergency
-sr-due: 2022-03-31
-sr-interval: 3
+sr-due: 2022-04-16
+sr-interval: 13
 sr-ease: 250
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[neurodiversity]]</s>
 
+In:: [[society]] and [[social justice]],
 Differing in mental or neurological function from what is considered typical or normal (frequently used with reference to [[autism spectrum]] disorders); not neurotypical.
+
  
+> ![[articles_Semantic Battleground The War of Neurodiversity#^217948693]]
+
+
+> ![[articles_Semantic Battleground The War of Neurodiversity#^217948696]]
+
 
 ##### ^dataviews
 

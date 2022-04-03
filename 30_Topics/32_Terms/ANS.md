@@ -4,8 +4,8 @@ aliases:
   - Autonomic Nervous System (ANS)
   - Autonomic Nervous System 
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-12
+sr-interval: 9
 sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -27,3 +27,7 @@ The **Autonomic Nervous System** is the system that regulates the functions of o
 > 
 > Most autonomous functions are involuntary but they can often work in conjunction with the somatic nervous system which provides voluntary control.
 >
+
+#### Discussion 
+
+> ![[books_Behave#^301731157]]

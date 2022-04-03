@@ -1,8 +1,8 @@
 ---
 created: 2021-10-18
 tags: created/2021/10/18, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-15
+sr-interval: 12
 sr-ease: 242
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,5 +17,5 @@ The combination of outward characteristics or qualities that form an individual'
 > 
 
 
-**See**:: [[socialization]]
+**See**:: [[socialization]], [[Psychology]]
 `$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
