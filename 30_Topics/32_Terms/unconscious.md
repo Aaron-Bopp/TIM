@@ -4,8 +4,8 @@ aliases:
   - unconsciousness
   - unconscious mind
 tags: created/2022/01/02, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-15
+sr-interval: 12
 sr-ease: 239
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,14 +20,10 @@ The unconscious [[mind]] consists of the processes in the mind that occur automa
 
 > [!wikipedia] [unconscious mind](https://en.wikipedia.org/wiki/Unconscious%20mind)
 > 
-> The unconscious mind (or the unconscious) consists of the processes in the mind which occur automatically and are not available to introspection and include thought processes, memories, interests, and motivations.
+> Empirical evidence suggests that unconscious phenomena include repressed [[feelings]], automatic skills, subliminal [[perception]], and automatic [[reactions]], and possibly also complexes, hidden [[phobias]], and desires.
 > 
-> Empirical evidence suggests that unconscious phenomena include repressed feelings, automatic skills, subliminal perceptions, and automatic reactions, and possibly also complexes, hidden phobias, and desires.
+> Thus the unconscious mind can be seen as the source of dreams and automatic thoughts (those that appear without any apparent cause), the repository of forgotten memories (that may still be accessible to [[consciousness]] at some later time), and the locus of [[implicit knowledge]] (the things that we have learned so well that we do them without thinking).
 > 
-> Thus the unconscious mind can be seen as the source of dreams and automatic thoughts (those that appear without any apparent cause), the repository of forgotten memories (that may still be accessible to consciousness at some later time), and the locus of implicit knowledge (the things that we have learned so well that we do them without thinking).
-> 
-> Some critics have doubted the existence of the unconscious.
->
 
 ##### ^dataviews
 

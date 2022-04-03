@@ -4,16 +4,17 @@ tags: created/2021/07/21, node/topic/term
 aliases:
 - socialize
 - social
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-14
+sr-interval: 11
 sr-ease: 234
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[socialization]]</s>
 
-The ways in which [[society]] conveys to the individual its expectations for their [[behavior]].
-Social fitness is a big part of [[human survival]] and [[human advancement]]
+In:: the [[human experience]], 
+socialization is
+the way in which [[society]] conveys to the individual its expectations for their [[behavior]].
 
 > [!wikipedia] [socialization](https://en.wikipedia.org/wiki/Socialization)
 > 

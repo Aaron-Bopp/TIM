@@ -1,8 +1,8 @@
 ---
 created: 2021-07-30
 tags: created/2021/07/30, node/topic/term
-sr-due: 2022-03-30
-sr-interval: 2
+sr-due: 2022-04-13
+sr-interval: 10
 sr-ease: 226
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,7 +13,7 @@ sr-ease: 226
 > 
 > Racism is the belief that groups of humans possess different behavioral traits corresponding to inherited attributes and can be divided based on the superiority of one race over another. It may also mean [[prejudice]], [[discrimination]], or antagonism directed against other people.
 
-**See**:: 
+**See**:: [[race]], [[marginalization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%

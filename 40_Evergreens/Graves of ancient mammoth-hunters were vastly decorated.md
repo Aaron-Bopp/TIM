@@ -2,7 +2,7 @@
 created: 2022-03-16T18:52:36 
 aliases:
   - null
-tags: created/2022/03/16, review, node/evergreen/example
+tags: created/2022/03/16, review, node/evergreen/example/observation
 sr-due: 2022-04-28
 sr-interval: 27
 sr-ease: 230
