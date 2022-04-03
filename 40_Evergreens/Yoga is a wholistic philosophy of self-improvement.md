@@ -3,8 +3,8 @@ created: 2022-01-19T13:10:05
 aliases:
   - null
 tags: created/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-04-03
-sr-interval: 36
+sr-due: 2022-06-10
+sr-interval: 68
 sr-ease: 190
 ---
 
@@ -13,17 +13,17 @@ sr-ease: 190
 [[Yoga]] involves the [[mind]], [[body]], and [[soul]] in the process of [[self-improvement]] and [[self-actualization]]. 
 It does this by helping us understand and connect the different parts of our being.
 
-[[The history of meditation is a mixture of science and spirituality]], and [[Yoga]] is a tradition that combines the mental, physical, and metaphysical parts of the [[human experience]].
+[[Yoga]] is a tradition that combines the mental, physical, and metaphysical parts of the [[human experience]] through [[meditation]], [[asanas]], and [[Brahman]].
 In [[Yoga|Yogic]] tradition [[Consciousness is the fundamental unit of existence]], and when we meditate we are tapping into the manifestation of the energy of the [[universe]].
 Because [[Consciousness is our capacity to introspect]],
 [[meditation]] is not only [[Meditation is a practice to gain control over your thoughts|a practice to gain control over your thoughts]] it [[Meditation increases our ability to influence the world|increases our ability to influence the world]].
+[[The history of meditation is a mixture of science and spirituality]] because it is the product of the [[Yogi|Yogis]] intense study of the human [[mind]] and [[body]].
 
 This is not to say that [[Yoga]] promises to make us all sorcerers.
 ^[In fact, we have already done that: [[Business people are sorcerers]]]
 [[Karma is an open ended system of belief]], and [[Yoga]] is little more than a way to increase our [[karma]].
-This is why,
-[[You can't control what happens]],
-but [[Right kinds of thoughts lead to right kinds of actions]]. 
+[[Yogi|Yogis]] acknowledge that [[You can't control what happens]],
+but their practice is culmination of [[Right kinds of thoughts lead to right kinds of actions]]. 
 
 [[Raja Yoga]] focuses on helping you make those right thoughts and actions into a reality with practices that will improve your life and view of the world.
 ^[[[notes_History of Meditation]]]

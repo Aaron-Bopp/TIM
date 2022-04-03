@@ -3,8 +3,8 @@ created: 2022-03-19T13:00:15
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/question
-sr-due: 2022-04-03
-sr-interval: 8
+sr-due: 2022-04-20
+sr-interval: 17
 sr-ease: 210
 ---
 
@@ -27,9 +27,12 @@ I would argue that once a [[Imagined reality]] has become a [[social construct]]
 ##### [[violence]]
 
 Violence is likely not the answer, as the ability to organize humans to violently maintain the [[social order]], must itself be contained,
-^[[[books_Sapiens#^297681745]]]
 i.e. cynics don't build empires.
-^[[[books_Sapiens#^297681746]]]
+
+> [!cite]- [[Sapiens by Yuval Noah Harari]]
+> 
+> ![[books_Sapiens#^297681745]]
+> ![[books_Sapiens#^297681746]]
 
 This is part of why [[There is no direct relation between physical strength and social power]] 
 

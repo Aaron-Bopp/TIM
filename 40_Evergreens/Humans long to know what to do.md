@@ -14,10 +14,7 @@ sr-ease: 130
 	- [[Humans try really hard to avoid understanding their mistakes]]
 	- This trait pushes us to find 
 	answers:: [[Human's will find explanations for inexplainable things]]
-- in tandem with:: [[Humans are drawn to the unknown and repelled by the known]]
-- [[Humans yearn for a tool with no blood on it]]
 - [[Humans are addicted to believing]]
-- [[What is the cognitive effect of living in an unjust world]]
 - [[Humans love to group eachother]]
 	- [[Stereotyping has the psychological goal of comprehension and self-enhancement]]
 

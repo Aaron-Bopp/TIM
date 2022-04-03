@@ -2,7 +2,7 @@
 created: 2021-11-24 
 aliases:
   - null
-tags: created/2021/11/24, review, node/evergreen/principle 
+tags: created/2021/11/24, review, node/evergreen/practice 
 sr-due: 2022-05-15
 sr-interval: 58
 sr-ease: 150
