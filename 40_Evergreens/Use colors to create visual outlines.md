@@ -22,7 +22,6 @@ This is also very helpful when reading books. For fiction I use different colors
 - Blue: Supports that general thesis of the book 
 - Orange: Outside information or verifiable information
 - Magenta: Personally interesting me
-> ![[articles_General Principles#270306743q]]
 [[How to understand what you read]]
 
 When using a [[knowledge graph]], brightness can be used to do this. Coloring the nodes that you find most valuable brighter will draw your eyes to those areas, and emphasize the growing areas of though: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]] #TO/TEND/CONCEPTUALIZE 
@@ -33,3 +32,11 @@ When using a [[knowledge graph]], brightness can be used to do this. Coloring th
 
 **Topics**:: [[structure]], [[knowledge work]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+A method for complex texts, not through color, but could easily be ascribed to highly colors
+> ![[articles_Making Proper Marks in Books • Zettelkasten Method#^305310567]]
+
+Example from an analog system 
+> ![[articles_General Principles#270306743q]]

@@ -12,12 +12,14 @@ sr-ease: 130
 
 Reading well or reading widely are not
 how you read to understand, as
-reading to understand mainly relies on doing things other than actual reading.
-%%
-Are you connecting what you are reading to past [[knowledge]]?
-Are you just noticing connections or are you trying to fully understand them?
-Are you questioning what you are reading based off critique or questioning your beliefs based on your reading?
-%%
+reading to understand requires engaging with the medium on much higher level than books are designed to promote.
+
+> Books don’t work for the same reason that lectures don’t work: neither medium has any explicit theory of how people actually learn things
+> ^[[[articles_Why Books Don't Work#^306125198]]]
+> 
+> <cite>[[Andy Matuschak]]</cite>
+
+Andy is not saying that books are useless here, he is saying that the onus if we actually want to learn from what we read.
 
 In order to get everything you can out of what you are reading:
 - [[You need to remember what you read]]
@@ -57,3 +59,7 @@ Other views on how to get the most out of your reading:
 
 **Topics**::  [[note writing]], [[knowledge work]], [[Blooms taxonomy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[articles_The Barbell Method of Reading • Zettelkasten Method#^305310569]]

@@ -35,3 +35,8 @@ in addition to::[[You need to teach yourself what you read]]
 
 **Topics**:: [[reading]], [[understanding]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+Instead of following the path laid out by the author, try to did down into the concepts they are describing.
+> ![[articles_Create Zettel From Reading Notes According to the Principle of Atomicity • Zettelkasten Method#^305310565]]

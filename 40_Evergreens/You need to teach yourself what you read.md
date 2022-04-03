@@ -34,3 +34,9 @@ leads to:: [[You need to take what you read out of context]]
 
 **Topics**:: [[learning]], [[reading]], [[understanding]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[articles_Why Books Don't Work#citation]]
+
+> ![[articles_Why Books Don't Work#^306125202]]

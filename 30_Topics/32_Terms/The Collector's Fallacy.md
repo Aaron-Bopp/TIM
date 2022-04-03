@@ -15,6 +15,11 @@ tags: created/2021/12/21, node/topic/term
 
 > ![[articles_Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method#273534835q]]
 
+One aspect of the Collector's fallacy is collecting notes without context:
+
+> ![[articles_Introduction to the Zettelkasten Method • Zettelkasten Method#^305244854]]
+
+
 **See**:: [[knowledge work]], [[knowledge management]], [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 

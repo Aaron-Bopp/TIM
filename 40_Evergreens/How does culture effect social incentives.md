@@ -10,6 +10,7 @@ sr-ease: 219
 
 #### [[How does culture effect social incentives]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+part of:: [[How do different cultures enforce social control]]
 
 > ![[books_Behave#^304866739]]
 

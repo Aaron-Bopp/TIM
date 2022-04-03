@@ -32,7 +32,7 @@ sr-ease: 250
 		- if given too many options the brain will make choices that we cannot immediately understand the reasons for
 	- if we get paralyzed through lack of knowledge we won't act 
 		- existential dread comes from the knowledge that we are ignorant/can't fully understand the world
-#####
+####
 - [[neurosis]](https://en.wikipedia.org/wiki/neurosis) -> the tendency to worry
 	- as a human, a lot of what is good for us makes us suffer
 		- most professional success comes from conscientiousness and neuroticism 

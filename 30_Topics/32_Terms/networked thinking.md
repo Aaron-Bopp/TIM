@@ -14,7 +14,11 @@ sr-ease: 225
 In contrast to:: [[linear thinking]] and [[common sense]],
 this is seen as the rising mode of thought in [[science]] and [[knowledge work]].
 
-[Networked thinking: a quiet cognitive revolution - Ness Labs](https://nesslabs.com/networked-thinking)
+> [!cite] [Networked thinking: a quiet cognitive revolution - Ness Labs](https://nesslabs.com/networked-thinking)
+> 
+> 
+> ![[^^networked is an
+
 
 ##### ^dataviews
 

@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, review, node/evergreen/claim
+sr-due: 2022-04-04
+sr-interval: 1
+sr-ease: 207
 ---
 
 #### [[Humans are designed to make certainty out of uncertainty]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
@@ -20,3 +23,6 @@ tags: created/2022/04/03, review, node/evergreen/claim
 
 **Topics**:: [[human experience]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+![[video_Existential Dread#Our brains design]]

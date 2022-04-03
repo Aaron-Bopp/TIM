@@ -3,8 +3,8 @@ created: 2022-01-07T22:15:39
 aliases:
   - null
 tags: created/2022/01/07, review, node/evergreen/claim
-sr-due: 2022-04-03
-sr-interval: 10
+sr-due: 2022-04-18
+sr-interval: 15
 sr-ease: 130
 ---
 
@@ -14,7 +14,7 @@ In [[books_The Road|The Road by Cormac McCarthy]], we follow the story of a fath
 There is little reason for [[hope]] on the road, except for one, God.
 This is not the god of the [[Christianity]], nor any other [[religion]].
 This not the promise of a savior that will come and transform this world into a paradise.
-This God is simply a boy, the man's son, the man's hope.
+This God is simply a boy, the man's son, the man's [[hope]].
 
 > He knew only that the child was his warrant. He said: If he is not the word of God, God never spoke.
 ^[[[books_The Road#^283227484]]]
@@ -26,15 +26,12 @@ part of:: [[The materialistic view of religions examines why humans invented and
 
 What is the nature of god? God is a social construction. God is our [[understanding]] of the things we cannot understand. God is a reason to go on.
 
-
-#TO/TEND/GRAFT 
-- [[Belief helps us push through hardship]]
-- [[Humans have decided to reject an unjust world]]
-
+- explained by:: [[Belief helps us push through hardship]]
+- example of:: [[Humans have decided to reject an unjust world]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief]], [[spirituality]], [[belief systems]]

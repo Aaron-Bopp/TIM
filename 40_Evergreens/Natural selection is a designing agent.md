@@ -3,19 +3,22 @@ created: 2022-03-26T14:25:00
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/claim
-sr-due: 2022-04-03
-sr-interval: 6
-sr-ease: 249
+sr-due: 2022-04-06
+sr-interval: 3
+sr-ease: 229
 ---
 
 #### [[Natural selection is a designing agent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 > ![[books_Darwin's Cathedral#^297089499]]
 
-- [[Evolution can create systems capable of natural selection]]
-- [[Functionally integrated social groups become organisms in their own right]]
-- [[Intentionality is not separate from functionality]] and vice versa
-- [[Human behavior is selective]]
+Despite the simple origins of genetic variation, the process of [[natural selection]] that results from them is not.
+Selection is a complicated process that involves aspects at every level of complexity, from interactions between cells, to between individuals, to between populations.
+
+- cells: [[Evolution can create systems capable of natural selection]]
+- populations: [[Cultural evolution is not confined to the slow process of genetic evolution]]
+- similarly:: [[Human behavior is selective]]
+	- [[Intentionality is not separate from functionality]] and vice versa
 
 ### <hr class="footnote"/>
 

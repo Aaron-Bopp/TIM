@@ -1,13 +1,20 @@
 ---
-created: 2021-07-10
-tags: created/2021/07/10, node/topic/outline
+created: 2022-04-03T14:24:00 
+edited: 
 aliases:
-  - religious
-  - religions
+  - null
+tags: created/2022/04/03, node/topic/term
+sr-due: 2022-04-03
+sr-interval: 2
+sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[religion]]</s>
+#### <s class="topic-title">[[Fermi estimate]]</s>
+
+
+> ![[articles_Fermi Estimates and Dyson Designs#^305784496]]
+
 
 ##### ^dataviews
 
@@ -27,7 +34,3 @@ aliases:
 > ```
 
 %% DO NOT EDIT ABOVE %%
-
-#### Discussion
-
-> ![[tweets_Tweets From Marc Andreessen#^301857298]]

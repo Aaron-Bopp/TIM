@@ -31,3 +31,8 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+Quote from [[Richard Feynman]]
+> ![[articles_The Feynman Learning Technique#^303018861]]

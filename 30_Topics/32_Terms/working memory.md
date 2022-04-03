@@ -34,3 +34,11 @@ tags: created/2022/03/26, node/topic/term
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Research
+
+> [!abstract] Abstract: [[articles_Working Memory Underpins Cognitive Development, Learning, and Education]]
+> 
+> ![[articles_Working Memory Underpins Cognitive Development, Learning, and Education#^306125208]]
+
+

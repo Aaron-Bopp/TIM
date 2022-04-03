@@ -22,3 +22,7 @@ Schooling and work systems are designed for [[neurotypical]] people, but as neur
 
 **Topics**::  [[neurodiversity]], [[social justice]], [[social construct]], [[education]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[tweets_Tweets From Pete Wharmby#^302206270]]

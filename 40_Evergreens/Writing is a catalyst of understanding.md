@@ -41,3 +41,7 @@ This is why there is a difference between [[spaced repetition]] and [[incrementa
 
 **Topics**:: [[understanding]], [[learning]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[articles_Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]

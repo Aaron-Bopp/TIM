@@ -14,7 +14,6 @@ sr-ease: 230
 [[Humans are designed to make certainty out of uncertainty]].
 This [[abstraction]] is what allow us to make progress everyday in a world where almost nothing make sense.
 If we had to answer the [[The three main questions of life]] every single morning, we would be paralyzed with indecision.
-^[[[video_Existential Dread#Our brains design]]]
 In fact, being able to extrapolate [[information]] out of extremely little stimuli is what has allowed us to [[progress]] so far.
 
 What comes from this?

@@ -718,3 +718,94 @@ subjects from both individualist and collectivist cultures denigrate out-group m
 
 ^304866743
 
+# New highlights added April 3, 2022 at 2:09 PM
+##### ^306490125
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4621  
+
+###### ^306490125q
+
+Consider a monkey, a bear, and a banana. Which two go together? Westerners think categorically and choose the monkey and bear—they’re both animals. East Asians think relationally and link the monkey and banana—if 
+
+^306490125
+
+##### ^306490135
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4626  
+
+###### ^306490135q
+
+Show a picture of a person standing in the middle of a complex scene; East Asians will be more accurate at remembering the scene, the context, while Westerners remember the person in the middle. ... force Westerners to focus on the holistic context of a picture, or East Asians on the central subject, and the frontal cortex works harder, activating more. 
+
+^306490135
+
+##### ^306490128
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4637  
+
+###### ^306490128q
+
+Cultures change over time. For example, levels of conformity in East Asian cultures are declining (one study, for example, shows increased rates of babies in Japan receiving unique names). Moreover, one’s degree of inculcation into one’s culture can be altered rapidly. For example, priming someone beforehand with individualist or collectivist cultural cues shifts how holistically he processes a picture. This is especially true for bicultural individuals. 
+
+^306490128
+
+##### ^306490129
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4643  
+
+###### ^306490129q
+
+In general, it takes about a generation for the descendants of East Asian immigrants to America to be as individualist as European Americans. 
+
+^306490129
+
+##### ^306490136
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4656  
+
+###### ^306490136q
+
+Why has East Asia provided textbook examples of collectivism?21 The key is how culture is shaped by the way people traditionally made a living, which in turn is shaped by ecology. And in East Asia it’s all about rice. ... requires massive amounts of communal work. Not just backbreaking planting and harvesting, which are done in rotation because the entire village is needed to harvest each family’s rice.* 
+
+^306490136
+
+##### ^306490132
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4663  
+
+###### ^306490132q
+
+in Bali, religious authority regulates water access, symbolized by iconic water temples. 
+
+^306490132
+
+##### ^306490133
+
+highlight_tags:: [[pink]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4678  
+
+It's harder to draw the correlation when its not a monoculture. Couldn't the more individualistic types have become herders and the less stayed to fish and farm?  
+
+###### ^306490133q
+
+Herders thought less holistically than farmers or fishermen—the 
+
+^306490133
+
+##### ^306490134
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4680  
+
+###### ^306490134q
+
+“social interdependence fosters holistic thinking.” 
+
+^306490134
+

@@ -3,15 +3,16 @@ created: 2022-03-21T17:20:42
 aliases:
   - null
 tags: created/2022/03/21, review, node/evergreen/question
-sr-due: 2022-04-03
-sr-interval: 9
-sr-ease: 230
+sr-due: 2022-04-09
+sr-interval: 6
+sr-ease: 210
 ---
 
 #### [[Were hunter-gatherer societies egalitarian]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-works with:: [[What is the origin of social hierarchy]]
-part of:: [[What enables large scale social order]]
+- from:: [[Did hunter-gatherers lead better lives than us]]
+- works with:: [[What is the origin of social hierarchy]]
+- part of:: [[What enables large scale social order]]
 
 [[David Sloan Wilson]] believes that [[hunter-gatherers]] were egalitarian through a [[social control]] called reverse dominance which is an element of social [[game theory]]. 
 This lines up with his belief that [[Social control promotes highly altruistic behavior within groups]]
