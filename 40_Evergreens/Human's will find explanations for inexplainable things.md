@@ -11,7 +11,7 @@ sr-ease: 230
 
 #### [[Human's will find explanations for inexplainable things]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
-Humans are designed to make certainty out of uncertainty.
+[[Humans are designed to make certainty out of uncertainty]].
 This [[abstraction]] is what allow us to make progress everyday in a world where almost nothing make sense.
 If we had to answer the [[The three main questions of life]] every single morning, we would be paralyzed with indecision.
 ^[[[video_Existential Dread#Our brains design]]]
