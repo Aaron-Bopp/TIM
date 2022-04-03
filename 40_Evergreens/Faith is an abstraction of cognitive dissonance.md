@@ -10,6 +10,12 @@ sr-ease: 188
 
 #### [[Faith is an abstraction of cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
+> [!summary]
+> 
+>  An [[abstraction]] is a way to remove complexity of operation without losing functionality. 
+>  For example, a coffee maker removes the complexity of heating and distributing water at just the right temperature, without you doing it manually, while still making a good cup of coffee.
+>  [[Faith]] removes the complexity of having to contrast your [[religious belief]] with contradictory evidence, without having to go through the stress of [[cognitive dissonance]], while still reconciling those ideas into your [[worldview]].
+
 "Be in the world not of the world," because if you are of the world you start believing worldly things like [[evolution]] and that people who don't believe the same thing as you aren't inherently inferior. 
 [[Christianity]] expects you to accept that your [[worldview]] doesn't line up with the facts of your everyday existence. This creates [[cognitive dissonance]] as your understanding of the teachings of [[Christianity]] clash with your understanding of the world.
 
@@ -46,4 +52,4 @@ The cognitive dissonance is that there is a loving god that has created this wor
 *edited `=this.file.mtime`*
 
 **Topics**:: [[cognitive dissonance]], [[faith]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+*`$=customJS.dv_funcs.outlinedIn(dv, this) `*
