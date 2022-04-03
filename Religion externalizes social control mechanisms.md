@@ -16,7 +16,6 @@ sr-ease: 225
 > 
 > #EVER/SPROUT `$=customJS.dv_funcs.mentionedIn(dv)`
 
-`$=console.log(dv.current())`
 #### [[Religion externalizes social control mechanisms]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 This is 
@@ -26,3 +25,4 @@ While there are many other aspect
 > ![[books_Darwin's Cathedral#^289554240]]
 
 results in:: [[Theology preserves hierarchy through deific blessing]]
+
