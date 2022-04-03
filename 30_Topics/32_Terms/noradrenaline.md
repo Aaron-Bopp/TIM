@@ -9,7 +9,7 @@ tags: created/2022/02/11, node/topic/term
 #### <s class="topic-title">[[noradrenaline]]</s>
 
 
-Counterpart of [[norepinephrine]], the [[Neurotransmitter]] of the [[sympathetic nervous system]] secreted by the [[adrenal]] glands. In stressful situations, it is involved in the body's the [[fight-or-flight response]].
+Counterpart of [[norepinephrine]], the [[Neurotransmitter]] of the [[sympathetic nervous system]] secreted by the [[adrenal]] glands. In stressful situations, it is involved in the body's the [[fight-or-flight response]]. ^fdbcc9
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
