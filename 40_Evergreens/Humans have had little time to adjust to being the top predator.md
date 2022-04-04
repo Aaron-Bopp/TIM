@@ -3,8 +3,8 @@ created: 2022-03-10T16:09:52
 aliases:
   - null
 tags: created/2022/03/10, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 13
+sr-due: 2022-05-02
+sr-interval: 28
 sr-ease: 210
 ---
 
@@ -17,7 +17,11 @@ to annihilator's.
 ^[[[Human caused extinction is prevalent]]]
 While this has had obvious effects on the food chain, it may also have less obvious effects on our psyche. While we have the security and influence of a top predator, we still have the anxieties, fears, and instincts of an underdog.
 
-part of:: [[Anxiety is a defense-mechanism of the brain]] and [[Our brain will do anything it can to protect itself]]
+This is 
+part of:: [[Our brain will do anything it can to protect itself]]
+and
+works with:: [[Anxiety is a defense-mechanism of the brain]] to
+explain:: [[Most anxiety isn't irrational it's just overcompensation]]
 
 ### <hr class="footnote"/>
 
