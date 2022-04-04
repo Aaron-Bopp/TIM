@@ -12,10 +12,18 @@ sr-ease: 150
 
 #### [[Humans are a product of evolution]] 
 
+This is a 
+result of:: [[Natural selection is a designing agent]].
+In the same way that we can look at [[Giraffes]] and function of their long necks, 
+we can look at human characteristics and see adaptive functionality.
+[[Human evolution]] has shaped our body and psyche's in numerous ways.
 If we see [[human behavior]] manifesting regardless of upbringing and in multiple environment's,
 we can start to look for a evolutionary explanation for that [[behavior]].
-^[remember:: [[Evolutionary Psychology is just a framework not a prescription of behavior]]]
-This is because the [[natural selection]] process is purposeful in how it selects traits.
+We cannot overstate the influence of [[Evolution]] on [[human behavior]], 
+but we also cannot see it as the only influence.
+Remember:: [[Biological processes can only give context to behavior not predict it]].
+
+
 
 Traits that have a negative impact on the individual
 should reduce the likely hood of that trait being passed on.

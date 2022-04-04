@@ -28,7 +28,7 @@ The reason the moon side is at high tide is because it is getting pulled a littl
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[tides]], [[Earth]], [[gravity]], [[the moon]]

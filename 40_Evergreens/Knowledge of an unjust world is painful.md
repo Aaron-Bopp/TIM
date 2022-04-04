@@ -25,7 +25,7 @@ Once you have realized this, you will realize [[You can't blame people for faili
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**::  [[self-actualization]], [[political strategy]]
