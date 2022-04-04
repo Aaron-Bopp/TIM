@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 20
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Foraging allowed for a diverse diet]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Foraging allowed for a diverse diet]] 
 
 And almost insisted on it. Foragers didn't have the ability to store up large amounts of any one food, and didn't have an abundance of staples like wheat, corn, or rice.
 ^[Not because of lack of skill, foragers likely actively farmed many species, #TO/DO/CITE which lead to the development of what we know as the staple crops today: [[Farming domesticated humans]]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 20
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[There is a limit to how much information you can process at once]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[There is a limit to how much information you can process at once]] 
 
 [[We learn by transforming information into understanding]], so when we come across a new piece of [[information]] we often feel the urge to save it somehow, in the fear that we we will miss out of this opportunity to learning.
 [[FOMO|Fear Of Missing Out (FOMO)]] can create [[friction]] in [[learning]] and lead to [[The Collector's Fallacy]], which will eventually lead you being overwhelmed.

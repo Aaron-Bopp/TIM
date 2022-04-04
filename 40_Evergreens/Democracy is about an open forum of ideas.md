@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 37
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Democracy is about an open forum of ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Democracy is about an open forum of ideas]] 
 
 > Anthropologists have identified forms of proto-democracy that date back to small bands of hunter-gatherers that predate the establishment of agrarian, sedentary societies and still exist virtually unchanged in isolated indigenous groups today. In these groups of generally 50-100 individuals, often tied closely by familial bonds, decisions are reached by consensus or majority and many times without the designation of any specific chief
 ^[[History of democracy - Wikipedia](https://en.wikipedia.org/wiki/History_of_democracy)]

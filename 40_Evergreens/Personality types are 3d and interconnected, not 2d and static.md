@@ -7,8 +7,10 @@ sr-due: 2022-09-07
 sr-interval: 194
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Personality types are 3d and interconnected, not 2d and static]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Personality types are 3d and interconnected, not 2d and static]] 
 
 Your personality type will change over your life, it may even change on what kind of mood you're in. This is part the fault of how personality tests like [[Meyers Briggs]] work and part the fault of people's inaccurate views of themselves, but it can be avoided.
 

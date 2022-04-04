@@ -7,8 +7,10 @@ sr-due: 2022-05-06
 sr-interval: 89
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We are confined to the tools of our time]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We are confined to the tools of our time]] 
 
 This is true both in how we [[influence]] other's and how we make [[progress]].
 #TO/TEND/GRAFT 

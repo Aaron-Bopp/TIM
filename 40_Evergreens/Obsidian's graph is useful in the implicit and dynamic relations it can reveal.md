@@ -7,8 +7,10 @@ sr-due: 2022-07-28
 sr-interval: 152
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]] 
 
 First: Maximize link force, minimize link distance, and find a balance between repel force and centering force where you can start to see groupings of related notes. You may need to filter out large index's or add links to get groupings to appear. The more links there are the "stiffer" the graph will become and the clearer you will see groupings of notes.
 

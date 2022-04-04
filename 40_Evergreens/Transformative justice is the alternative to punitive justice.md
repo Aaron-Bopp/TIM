@@ -7,8 +7,10 @@ sr-due: 2022-09-12
 sr-interval: 164
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Transformative justice is the alternative to punitive justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Transformative justice is the alternative to punitive justice]] 
 
 Transformative justice is focused on building support and safety for victims through action for the victim and against the system that harmed the victim [^1] The [[prison-industrial complex]] is focused on punitive justice
 

@@ -7,8 +7,10 @@ sr-due: 2022-03-23
 sr-interval: 3
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-## [[Using Obsidian's graph as a class companion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+## [[Using Obsidian's graph as a class companion]] 
 
 
 ### A story about *graph anxiety*

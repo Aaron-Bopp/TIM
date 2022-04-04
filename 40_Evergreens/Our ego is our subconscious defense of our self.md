@@ -7,8 +7,10 @@ sr-due: 2022-10-25
 sr-interval: 234
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our ego is our subconscious defense of our self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our ego is our subconscious defense of our self]] 
 
 > [[Ego]] is when your sense of [[self]] comes from the outside 
 > ^[[Healing from Festered Emotions ft. CrankGameplays (co-creator of Unus Annus) - YouTube](https://youtu.be/sXGhT4pJcj8?t=5255)]

@@ -7,8 +7,10 @@ sr-due: 2022-05-04
 sr-interval: 33
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Farming prevented a return to foraging for early humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Farming prevented a return to foraging for early humans]] 
 
 [[Foraging was a very sustainable lifestyle]], but
 many of the aspects that made [[foraging]] successful and stable for so long ended up being it's downfall.

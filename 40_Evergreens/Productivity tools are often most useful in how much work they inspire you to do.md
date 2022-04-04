@@ -7,8 +7,10 @@ sr-due: 2022-05-15
 sr-interval: 41
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Productivity tools are often most useful in how much work they inspire you to do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Productivity tools are often most useful in how much work they inspire you to do]] 
 
 If one tool actually inspires you to the work and another won't, that is the better tool for you, no matter the relative "efficiency" of the tools.
 This does need a caveat that this doesn't mean you should just seek out tools that require more work so you feel more productive, but

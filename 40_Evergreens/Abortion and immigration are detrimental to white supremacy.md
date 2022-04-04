@@ -7,8 +7,10 @@ sr-due: 2022-10-07
 sr-interval: 221
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Abortion and immigration are detrimental to white supremacy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Abortion and immigration are detrimental to white supremacy]] 
 
 [[The ethnic makeup of a community is a significant driver of change]], so opposing these issues is key to upholding [[white supremacy]]. 
 

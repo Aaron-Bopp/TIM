@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 18
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Farming outcompeted foraging by allowing for higher populations]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Farming outcompeted foraging by allowing for higher populations]] 
 
 > ![[books_Sapiens#^297301079]]
 

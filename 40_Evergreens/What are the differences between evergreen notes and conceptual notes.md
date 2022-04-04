@@ -7,8 +7,10 @@ sr-due: 2022-05-01
 sr-interval: 41
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What are the differences between evergreen notes and conceptual notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What are the differences between evergreen notes and conceptual notes]] 
 
 > By contrast, because [Evergreen notes should be atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1), they’re small enough in scope that you can start and finish one note in well under half an hour...Yet each note you write represents an increment in your thinking about that specific idea, and each note enriches the broader network of links.
 ^[[Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)]

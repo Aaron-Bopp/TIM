@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 46
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[To those with privilege, losing it feels like oppression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[To those with privilege, losing it feels like oppression]] 
 
 - [[Race is a social construct]]
 - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]

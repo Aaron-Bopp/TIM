@@ -8,8 +8,10 @@ sr-due: 2022-04-07
 sr-interval: 4
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Light could circle the earth eight in a single second]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Light could circle the earth eight in a single second]] 
 
 
 Source:: [[books_What Is Relativity#^300340325]]

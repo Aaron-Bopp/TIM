@@ -5,8 +5,10 @@ sr-due: 2022-06-03
 sr-interval: 73
 sr-ease: 234
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The biblical Christian God is evil and does not deserve to be worshipped]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The biblical Christian God is evil and does not deserve to be worshipped]] 
 
 > I can't believe that the [[The bible is god breathed|Bible is infallible]] because I **cannot understand how a loving being could commit genocide so freely and unashamedly**. I cannot reconcile a god who would intentionally create a being with the [[knowledge]] that they would sin (and create the tree to let them do it) and still condemn them to hell as if it were only on them.
 > 

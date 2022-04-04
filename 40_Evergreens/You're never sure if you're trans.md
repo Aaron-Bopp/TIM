@@ -5,8 +5,10 @@ sr-due: 2022-05-03
 sr-interval: 133
 sr-ease: 290
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You're never sure if you're trans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You're never sure if you're trans]] 
 
 > ![[Journal#2021-5-31]]
 >

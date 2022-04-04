@@ -7,8 +7,10 @@ sr-due: 2022-04-28
 sr-interval: 33
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Attachment fuels anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Attachment fuels anxiety]] 
 
 [[Emotional attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
 If you are attached to some event in the future, 

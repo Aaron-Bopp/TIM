@@ -7,8 +7,10 @@ sr-due: 2022-04-04
 sr-interval: 14
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[I'm an anti-conservative-anarcho-marxist-progresive-liberal-communist-democrat]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[I'm an anti-conservative-anarcho-marxist-progresive-liberal-communist-democrat]] 
 
 [[Humans love to group eachother]]
 and I love to group myself with all humans.

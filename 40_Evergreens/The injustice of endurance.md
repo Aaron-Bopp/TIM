@@ -7,8 +7,10 @@ sr-due: 2022-07-26
 sr-interval: 143
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The injustice of endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The injustice of endurance]] 
 
 In a world where there are enough resources to provide for everyone, it is unjust to be forced to endure scarcity just so that some people can be rich.
 

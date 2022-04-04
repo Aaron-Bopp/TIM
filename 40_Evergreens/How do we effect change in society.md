@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 13
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How do we effect change in society]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How do we effect change in society]] 
 
 First we have to ask how this
 ties into:: [[What maintains our social order]],

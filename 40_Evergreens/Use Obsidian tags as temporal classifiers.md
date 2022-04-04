@@ -5,8 +5,10 @@ sr-due: 2022-08-06
 sr-interval: 137
 sr-ease: 224
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Use Obsidian tags as temporal classifiers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Use Obsidian tags as temporal classifiers]] 
 
 In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can add to a note, [^1] and when clicked they open a search box with the appropriate search query. You cannot add any [[markdown]] or metadata to them, which makes them much less powerful than notes, but they can still be very valuable in your [[knowledge management|knowledge management system]]. 
 ^[The [[Tag Wrangler (plugin, obsidian)]] plugin has added support for tag pages, which would alleviate some of these downsides, but would likely not synergize well with this use of tags]

@@ -7,8 +7,10 @@ sr-due: 2022-05-07
 sr-interval: 36
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Anxiety tries to make us assume the worst]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anxiety tries to make us assume the worst]] 
 
 [[Anxiety]] creates black and white thinking due to it's [[Neuroscience|neurological]] relation to the [[fight-or-flight response]].
 ^[[[notes_Anxiety 101]]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 81
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The internet allows niche topics to flourish]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The internet allows niche topics to flourish]] 
 
 The [[internet]] has allowed for people with niche interests to connect like never before. It has also allowed for nerd culture to be brought into the mainstream, people to engage more easily with the [[Queer community]], and for social outcasts to find a sounding board for their ideas. [[Communities are knowledge graphs]], and the communities with the loudest proponents often have the most [[influence]] in online spaces.
 %%

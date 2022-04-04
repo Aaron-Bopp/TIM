@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 20
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Farming domesticated humans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Farming domesticated humans]] 
 
 > ![[books_Sapiens#^297301089]]
 > ![[books_Sapiens#^297301076]]

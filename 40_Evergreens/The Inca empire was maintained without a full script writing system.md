@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 10
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The Inca empire was maintained without a full script writing system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The Inca empire was maintained without a full script writing system]] 
 
 While the first [[writing]] that we have record of, 
 ^[[[Sumerians invented writing to store large amounts of data]]],

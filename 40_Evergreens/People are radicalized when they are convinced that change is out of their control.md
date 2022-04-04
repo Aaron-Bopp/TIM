@@ -7,8 +7,10 @@ sr-due: 2022-05-01
 sr-interval: 51
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[People are radicalized when they are convinced that change is out of their control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[People are radicalized when they are convinced that change is out of their control]] 
 
 People can be radicals and still believe in change,
 ^[In fact they need to believe in order for change to happen [[Hope is not optimism it is a practice for producing change]]]

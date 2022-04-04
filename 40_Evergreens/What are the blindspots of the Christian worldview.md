@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 3
 sr-ease: 224
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What are the blindspots of the Christian worldview]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What are the blindspots of the Christian worldview]] 
 
 Christians are in a very interesting spot today.
 They are faced with a world that is growing farther and farther away from their ideals and they are struggling to deal with that fact.

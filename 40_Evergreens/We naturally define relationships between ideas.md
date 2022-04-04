@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 13
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We naturally define relationships between ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We naturally define relationships between ideas]] 
 
 
 ##### In:: [[knowledge management]]

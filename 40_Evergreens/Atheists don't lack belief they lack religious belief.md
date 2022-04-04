@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 34
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Atheists don't lack belief they lack religious belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Atheists don't lack belief they lack religious belief]] 
 
 You can't believe a negative. 
 Their [[belief]] is based on 

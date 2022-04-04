@@ -7,8 +7,10 @@ sr-due: 2022-05-30
 sr-interval: 133
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our understanding of gender begins at a very early age]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our understanding of gender begins at a very early age]] 
 
 [[Gender is a social construct]], so our [[understanding]] of [[gender]] grows just as quickly as our [[understanding]] of [[human behavior]].
 Children can tell the difference between male and female faces between birth and three months and develop a [[gender identity]] around 18 months to two years and [[gender constancy]] develops around 3-4. 

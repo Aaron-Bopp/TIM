@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 14
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How do we ensure our note systems scale correctly]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How do we ensure our note systems scale correctly]] 
 
 - part of:: [[A totally integrated machine should be infinitely scalable]]
 

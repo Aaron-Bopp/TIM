@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 26
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans yearn for a tool with no blood on it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans yearn for a tool with no blood on it]] 
 
 [A Tool with No Blood on It - YouTube](https://www.youtube.com/watch?v=DuLuxNfeCn4) #TO/EXPLORE/WATCH 
 

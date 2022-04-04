@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 19
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Individual selection is an emergent mechanic of group selection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Individual selection is an emergent mechanic of group selection]] 
 
 
 > ![[books_The Fabric of Reality#^288838107]]

@@ -5,8 +5,10 @@ sr-due: 2022-06-15
 sr-interval: 78
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The brain is powerful enough to create supernatural experiences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The brain is powerful enough to create supernatural experiences]] 
 
 Supernatural experiences have often been core to [[human advancement]] and [[self-actualization]], resulting in [[religion]] and [[enlightenment]]. The brain's ability to bring about a [[spirituality|spiritual]] [[experience]] is an observable fact rooted in [[Biology]] and [[Neuroscience]] (and is the effect of many psychedelic drugs). #TO/DO/CITE 
 

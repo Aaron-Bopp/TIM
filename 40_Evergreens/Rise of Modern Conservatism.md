@@ -7,8 +7,10 @@ sr-due: 2022-05-15
 sr-interval: 116
 sr-ease: 275
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Rise of Modern Conservatism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Rise of Modern Conservatism]] 
 
 - [[Ronald Reagan invented modern conservatism]]
 - [[Non-faith issues have been co-opted to keep people in the Christian church]]

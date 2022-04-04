@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 40
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Self-repression is the most natural response for trans people in strongly gendered environments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Self-repression is the most natural response for trans people in strongly gendered environments]] 
 
 [[Transgender people|Trans]] people can look at the [[gender self-socialization model]] and find explanations for why they may have never questioned their gender until late in life. Studies like the Pike and Jennings commercial study in 2005, [^1] show that children as young as 5 and 6 have a [[gender schema]], and it impacts how they learn about the world.
 ^[[[Children will not question what is modeled for them unless they are taught to]]]

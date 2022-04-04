@@ -7,8 +7,10 @@ sr-due: 2022-04-25
 sr-interval: 35
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The joy of learning is contagious]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The joy of learning is contagious]] 
 
 For an example of absolutely contagious [[learning]] watch "[Adam Savage's Epiphany on the Science of Measurement!](https://www.youtube.com/watch?v=qE7dYhpI_bI)" and see how excited you can get about measuring stuff.
 

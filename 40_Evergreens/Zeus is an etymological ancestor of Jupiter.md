@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 12
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Zeus is an etymological ancestor of Jupiter]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Zeus is an etymological ancestor of Jupiter]] 
 
 We're all aware that Zeus in [[Greek mythology]] and Jupiter in [[Roman mythology]] are the deity, both the "God-father".
 

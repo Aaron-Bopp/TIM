@@ -5,8 +5,10 @@ sr-due: 2022-05-07
 sr-interval: 33
 sr-ease: 192
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Non-faith issues have been co-opted to keep people in the Christian church]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Non-faith issues have been co-opted to keep people in the Christian church]] 
 
 [[Homophobia]], [[evolution]], [[abortion]] and lot of other non-[[faith]] issues have been used to keep people in the faith, and separated from the world with zero biblical backing. These issues do not affect anyone's personal relationship with [[god]], but because [[People have been conditioned to believe the bible has to be infallible]] they do produce a strong emotional response and have been used as [[propaganda]] to keep people in the church: 
 

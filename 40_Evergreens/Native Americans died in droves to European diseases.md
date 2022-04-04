@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 14
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Native Americans died in droves to European diseases]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Native Americans died in droves to European diseases]] 
 
 #TO/DO/CITE 
 

@@ -7,8 +7,10 @@ sr-due: 2022-05-25
 sr-interval: 57
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Halley didn't discover his comet he just recognized it and predicted it's arrival]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Halley didn't discover his comet he just recognized it and predicted it's arrival]] 
 
 > ![[books_The Anthropocene Reviewed#285888565q]]
 > ![[books_The Anthropocene Reviewed#285888566q]]

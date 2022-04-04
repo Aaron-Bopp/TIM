@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 10
 sr-ease: 263
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The audience's perception is more important than the artist's intention]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The audience's perception is more important than the artist's intention]] 
 
 I think many artist's realize this, refusing to give insight into their thought process while creating art or what they expect to be taken from their art e.g. [[Donald Glover]] after *[This Is America](https://www.youtube.com/watch?v=VYOjWnS4cMY)*. 
 ^[[Donald Glover Doesn't Want To Explain "This is America" Music Video](https://youtu.be/SLL6gpy00WE?t=137)]

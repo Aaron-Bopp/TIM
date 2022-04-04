@@ -7,8 +7,10 @@ sr-due: 2022-05-07
 sr-interval: 90
 sr-ease: 207
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Stupid rules are made to be broken]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stupid rules are made to be broken]] 
 
 [[Stupid rules are made to be broken]] is something that my mother said to me, which is ironic because I then went on to break many of the rules that she did NOT think were stupid.
 ^[[[My Deconstruction journey]]]

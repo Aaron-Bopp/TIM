@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 10
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Early hunting techniques lead to domesticating farm animals]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Early hunting techniques lead to domesticating farm animals]] 
 
 While [[hunter-gatherers]] didn't fully settle into a [[farming]] life till nearly 10,000 bc, they likely took part in intentional practices of [[domestication]] that allowed for various farm animals to be developed. 
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 84
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Neurodiverse people can use their brain to their advantage]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Neurodiverse people can use their brain to their advantage]] 
 
 ![[FFnWMovXMAQs6qm.jpg|med]]   ^[[[tweets_Tweets From Zami Draws ADHD Comics ✨|Tweets From Zami Draws ADHD Comics ✨]]]
 

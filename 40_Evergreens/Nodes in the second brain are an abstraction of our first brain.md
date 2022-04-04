@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 56
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Nodes in the second brain are an abstraction of our first brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Nodes in the second brain are an abstraction of our first brain]] 
 
 All thoughts are made up of the electrons connecting neurons. The path's between these neurons are strengthened through use and weakened by disuse, and through a [[web of thought]] create [[memory]].
 ^[[[How memory works]]]

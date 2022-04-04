@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 16
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hunter-gathers were capable of mass cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hunter-gathers were capable of mass cooperation]] 
 
 - one example is [[Gobekli Tepe]]
 - explained by:: [[Greater cooperation and communication has lead to the success of humans as a species]]

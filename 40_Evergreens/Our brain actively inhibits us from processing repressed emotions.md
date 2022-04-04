@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 41
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our brain actively inhibits us from processing repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our brain actively inhibits us from processing repressed emotions]] 
 
 [[Triggers activate stored emotional responses for certain situations]], but outside of those situations our brain want's to avoid that [[memory]] at all costs.
 

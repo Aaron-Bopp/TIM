@@ -7,8 +7,10 @@ sr-due: 2022-04-25
 sr-interval: 59
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Use philosophies as far they are useful and nothing more]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Use philosophies as far they are useful and nothing more]] 
 
 #TO/TEND/GRAFT 
 - [[The way systems work can create cognitive bias]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 5
 sr-ease: 204
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Human behavior is selective]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Human behavior is selective]] 
 
 > ![[books_Darwin's Cathedral#^292936687]]
 > ![[books_Darwin's Cathedral#^292936692]]

@@ -11,8 +11,10 @@ sr-due: 2022-05-05
 sr-interval: 34
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Gender is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Gender is a social construct]] 
 
 Current discussion of [[gender roles]], [[Patriarchy]], [[feminism]], [[sexism]] often revolve around the emphasis of this in our culture over the last 200 years, but the social construction of gender is a process that began before we split from chimps. A [[social construct]] does not have to be recent, rather it is our intuitive understanding of how our [[Evolutionary Psychology]] impacts our [[human behavior]] to produce our understanding of [[socialization]], or in this case [[gender schema]].
 

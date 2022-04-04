@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 15
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hunter-gatherer societies were very diverse]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hunter-gatherer societies were very diverse]] 
 
 > ![[books_The Dawn of Everything#^258309239]]
 

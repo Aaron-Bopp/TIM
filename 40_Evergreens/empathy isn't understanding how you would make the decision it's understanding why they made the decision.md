@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 55
 sr-ease: 208
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Empathy isn't understanding how you would make the decision it's understanding why they made the decision]] 
 
 People will often try to conceptualize how somebody made a choice and fail often because they think it is illogical or immoral, but they are trying to understand how they would make the decision not why the other person made the decision. %% #TO/TEND/PRUNE  %%
 [[Having extreme and uncontrollable empathy is dangerous]], but

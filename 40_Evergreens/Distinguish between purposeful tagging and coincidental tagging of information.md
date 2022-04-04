@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 18
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Distinguish between purposeful tagging and coincidental tagging of information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Distinguish between purposeful tagging and coincidental tagging of information]] 
 
 In systems like [[Obsidian (software)|Obsidian]]  it can be very easy to link to topics whenever they appear in text, as many people will use [[wikilinks]] to [[topic notes]] as tags for content.
 ^[Obsidian also has a more traditional looking tag system, but it lacks the flexibility that notes provide, see [[Use Obsidian tags as temporal classifiers]]]

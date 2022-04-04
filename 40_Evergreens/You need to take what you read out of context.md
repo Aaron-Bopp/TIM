@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 10
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You need to take what you read out of context]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You need to take what you read out of context]] 
 
 If you are not deconstructing and reconstructing what the author is telling you you are losing so much potential.
 You can't just read a book and expect to make all the possible connections the first time through.

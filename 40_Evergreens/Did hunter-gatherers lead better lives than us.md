@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 2
 sr-ease: 242
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Did hunter-gatherers lead better lives than us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Did hunter-gatherers lead better lives than us]] 
 
 leads to:: [[Were hunter-gatherer societies egalitarian]]
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-04
 sr-interval: 2
 sr-ease: 219
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How does culture effect social incentives]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How does culture effect social incentives]] 
 
 part of:: [[How do different cultures enforce social control]]
 

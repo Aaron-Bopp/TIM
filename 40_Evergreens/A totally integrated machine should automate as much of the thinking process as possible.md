@@ -7,8 +7,10 @@ sr-due: 2022-05-29
 sr-interval: 73
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A totally integrated machine should automate as much of the thinking process as possible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A totally integrated machine should automate as much of the thinking process as possible]] 
 
 [[There is a difference between thinking and creating]], and you should be automating as much unnecessary thinking as you can so that you can spend more time [[Your second brain should be an inspirational hub of creativity|making your second brain and inspirational hub of creativity]]. This means spending less time trying to remember where you put something, figuring out what you want to work on, and doing basic manipulation to notes.
 

@@ -5,8 +5,10 @@ sr-due: 2022-12-04
 sr-interval: 246
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Flamingo Pose Meditation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Flamingo Pose Meditation]] 
 
 Examples:: https://youtu.be/UUC8qF5iDag?t=6195
 

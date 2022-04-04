@@ -7,8 +7,10 @@ sr-due: 2022-06-19
 sr-interval: 100
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Negative influences impact us more than positive influences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Negative influences impact us more than positive influences]] 
 
 This is true especially in [[childhood]], because we [[We carry our childhood wounds into adulthood]], but it is also true as we try to [[socialization|socialize]] with others and seek out their [[validation]]. This is especially noticeable if you create things: one bad review is worse than a hundred good reviews: [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 

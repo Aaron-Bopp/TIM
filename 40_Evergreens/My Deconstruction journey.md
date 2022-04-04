@@ -5,8 +5,10 @@ sr-due: 2022-04-18
 sr-interval: 81
 sr-ease: 231
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[My Deconstruction journey]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[My Deconstruction journey]] 
 
 My deconstruction started in high school because of a general lack of [[love]] for the church. I didn't really get anything out of it, and I had kind of stopped trying to be a [[Christianity|Christian]] after middle school. Part of the reason was I never had a [[spirituality|spiritual]] experience even though I tried so hard. I basically felt like I deserved it and because I didn't get it I stopped trying. Even if I had gotten one I 100% believe that if you try hard enough and believe hard enough [[The brain is powerful enough to create supernatural experiences]] 
 

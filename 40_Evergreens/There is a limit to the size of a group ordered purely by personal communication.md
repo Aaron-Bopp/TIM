@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[There is a limit to the size of a group ordered purely by personal communication]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[There is a limit to the size of a group ordered purely by personal communication]] 
 
 #TO/DO/CITE studies and research
 

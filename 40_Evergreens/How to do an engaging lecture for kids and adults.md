@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 18
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to do an engaging lecture for kids and adults]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to do an engaging lecture for kids and adults]] 
 
 If you talk fast enough you can tell lots of adult jokes and the kids will laugh just cause you're talking fast.
 

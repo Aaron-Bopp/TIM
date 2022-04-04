@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 67
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Embed notes from a dataview query with dataviewjs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Embed notes from a dataview query with dataviewjs]] 
 
 ```js
 let transclude = dv.pages('query').map(p => "![[" + p.file.name + "]]")

@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 30
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Organization systems are not mutually exclusive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Organization systems are not mutually exclusive]] 
 
 The beauty of the digital age is that hardly anything boxes us in any more. 
 I can have an [[Obsidian (software)|Obsidian]] vault inside my [[Obsidian (software)|Obsidian]] vault, I can use folders and tags and outlines to organize my notes in completely different ways, or I can use them all in the same way, or I can use each one in multiple ways. 

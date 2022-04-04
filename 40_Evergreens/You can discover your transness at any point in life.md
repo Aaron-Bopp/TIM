@@ -7,8 +7,10 @@ sr-due: 2022-04-30
 sr-interval: 72
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You can discover your transness at any point in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can discover your transness at any point in life]] 
 
 [[Our understanding of gender begins at a very early age]] and through the [[Gender self-socialization model]] we can see that children don't have to be forced to conform to their assigned gender or have their true gender shunned in order to repress themselves. While many in the trans [[community]] have obvious signs from their childhood,
 lack of those signs doesn't mean they weren't there and doesn't make your transness any less valid:

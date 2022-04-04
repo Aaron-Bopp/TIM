@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 13
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Conservatism states that conspiracy is more believable that cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Conservatism states that conspiracy is more believable that cooperation]] 
 
 - displayed in:: [[McCarthyism is an attack on totalitarianism not communism]]
 - displayed in:: [[Q justifies conservatives discontent]]

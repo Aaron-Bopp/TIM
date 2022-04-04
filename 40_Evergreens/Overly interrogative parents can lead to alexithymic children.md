@@ -7,8 +7,10 @@ sr-due: 2022-04-30
 sr-interval: 42
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Overly interrogative parents can lead to alexithymic children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Overly interrogative parents can lead to alexithymic children]] 
 
 As children, we are often interrogated about our emotional state before we have the ability to understand our [[emotions]]. This is because our [[parents]] were not equipped to deal with our emotional needs and thus did not equip us with the proper [[coping-mechanisms]]. 
 ^[[[Parents need to model the ability to deal with emotion to their children]]]

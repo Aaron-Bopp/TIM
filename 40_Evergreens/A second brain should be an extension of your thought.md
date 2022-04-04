@@ -7,8 +7,10 @@ sr-due: 2022-05-31
 sr-interval: 76
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A second brain should be an extension of your thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A second brain should be an extension of your thought]] 
 
 If you are unsure what to even put in a [[second brain]], 
 [[When in doubt, write what you think]] and [[Write your notes like you're planting an evergreen forest]]

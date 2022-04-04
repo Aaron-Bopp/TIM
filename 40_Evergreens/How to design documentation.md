@@ -7,8 +7,10 @@ sr-due: 2022-04-27
 sr-interval: 33
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to design documentation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to design documentation]] 
 
 Source:: [What nobody tells you about documentation - YouTube](https://www.youtube.com/watch?v=t4vKPhjcMZg)
 

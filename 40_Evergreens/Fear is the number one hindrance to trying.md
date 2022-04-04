@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 81
 sr-ease: 228
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Fear is the number one hindrance to trying]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Fear is the number one hindrance to trying]] 
 
 > I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
 >

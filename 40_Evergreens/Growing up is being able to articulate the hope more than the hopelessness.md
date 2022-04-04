@@ -7,8 +7,10 @@ sr-due: 2022-05-28
 sr-interval: 57
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Growing up is being able to articulate the hope more than the hopelessness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Growing up is being able to articulate the hope more than the hopelessness]] 
 
 When you are young, you don't know when to expect change to come. You feel like it has been long. When you are older you realize that change will come, whether you like it or not, you just have to be ready to take advantage of it when it does.
 #TO/PONDER/ME 

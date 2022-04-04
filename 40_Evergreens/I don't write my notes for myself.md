@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 62
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[I don't write my notes for myself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[I don't write my notes for myself]] 
 
 The act of writing a note is one of [[friction]] and [[Friction is a hindrance to learning]].
 Often times, I can process something faster than I can type it out,

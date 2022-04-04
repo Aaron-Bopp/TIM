@@ -7,8 +7,10 @@ sr-due: 2022-05-06
 sr-interval: 35
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Right kinds of thoughts lead to right kinds of actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Right kinds of thoughts lead to right kinds of actions]] 
 
 Every action must be proceeded by a thought,
 %% #TO/DO/CITE and provide exception %%

@@ -6,8 +6,10 @@ sr-due: 2022-06-12
 sr-interval: 126
 sr-ease: 234
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Constantly working on yourself is a form a self-hatred]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Constantly working on yourself is a form a self-hatred]] 
 
 You can't hate yourself for every mistake you make. You have to accept that you made them and sometimes that's okay. [[Humans are primarily irrational, illogical, emotional beings]], you will never be perfect, perfect doesn't exist, just be you.
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 21
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We have been domesticating dogs for 15,000 years]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We have been domesticating dogs for 15,000 years]] 
 
 > ![[books_Sapiens#294931433q]]
 

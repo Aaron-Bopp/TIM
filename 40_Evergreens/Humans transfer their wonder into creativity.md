@@ -7,8 +7,10 @@ sr-due: 2022-06-01
 sr-interval: 69
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans transfer their wonder into creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans transfer their wonder into creativity]] 
 
 Perhaps this is a good
 result of:: [[Human's will find explanations for inexplainable things]]

@@ -7,8 +7,10 @@ sr-due: 2022-06-13
 sr-interval: 123
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Powerful tools make dangerous toys]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Powerful tools make dangerous toys]] 
 
 How many times have been suggested a tool to use that will save so much time only for you to spend hours just trying to get it to do the most basic thing?
 ![[Pasted image 20211124110350.png|ctr]]

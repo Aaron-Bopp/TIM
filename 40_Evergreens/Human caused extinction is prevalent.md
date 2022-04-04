@@ -7,8 +7,10 @@ sr-due: 2022-04-26
 sr-interval: 25
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Human caused extinction is prevalent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Human caused extinction is prevalent]] 
 
 From our very humble beginnings,
 ^[[[Cracking bones and eating the marrow may have been human's first niche]]]

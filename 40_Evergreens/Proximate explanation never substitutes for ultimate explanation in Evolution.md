@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 11
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Proximate explanation never substitutes for ultimate explanation in Evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Proximate explanation never substitutes for ultimate explanation in Evolution]] 
 
 from:: [[Biological processes can only give context to behavior not predict it]]
 

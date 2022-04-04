@@ -5,8 +5,10 @@ sr-due: 2022-08-02
 sr-interval: 138
 sr-ease: 226
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Learning how systems work can be a gateway to creating thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Learning how systems work can be a gateway to creating thought]] 
 
 How we understand a system influences how we use that system, and the systems we have learned in the past influence decisions we make in new systems. 
 A system that gives too much freedom, or too many options, may only reduce your ability to create.

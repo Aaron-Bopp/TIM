@@ -7,8 +7,10 @@ sr-due: 2022-05-12
 sr-interval: 76
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The moral majority movement was the original 'making things political']] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The moral majority movement was the original 'making things political']] 
 
 - [[The Politicization of the Christian Church]]
 - [[Nixon paved the way for Reagan]]

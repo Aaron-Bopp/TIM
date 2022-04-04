@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 18
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Business people are sorcerers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Business people are sorcerers]] 
 
 
 > ![[books_Sapiens#^294248535]]

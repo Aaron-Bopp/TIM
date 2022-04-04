@@ -7,8 +7,10 @@ sr-due: 2022-04-26
 sr-interval: 22
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The caste system preserved hierarchy through purity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The caste system preserved hierarchy through purity]] 
 
 The [[Hinduism|Hindu]] caste system 
 part of:: [[Theology preserves hierarchy through deific blessing]]

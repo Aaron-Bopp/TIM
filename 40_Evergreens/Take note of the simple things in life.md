@@ -7,8 +7,10 @@ sr-due: 2022-04-28
 sr-interval: 67
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Take note of the simple things in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Take note of the simple things in life]] 
 
 Sometimes this means *savoring* the end of a **really good laugh.**  
 Sometimes this means *taking a breath* when you notice how **beautiful** the sunset is.  

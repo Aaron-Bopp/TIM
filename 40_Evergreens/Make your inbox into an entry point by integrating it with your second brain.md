@@ -5,8 +5,10 @@ sr-due: 2022-04-13
 sr-interval: 23
 sr-ease: 159
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Make your inbox into an entry point by integrating it with your second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Make your inbox into an entry point by integrating it with your second brain]] 
 
 In a [[knowledge management]] system, an inbox is the method through which you receive and categorize items into your [[second brain]]. An entry point is a way that you find your way into the [[web of thought]] so that you can find the information that you want to find. 
 

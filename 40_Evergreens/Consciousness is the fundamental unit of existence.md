@@ -7,8 +7,10 @@ sr-due: 2022-05-02
 sr-interval: 51
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Consciousness is the fundamental unit of existence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Consciousness is the fundamental unit of existence]] 
 
 %% #TO/EXPLORE/WATCH  [Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=4336)%%
 

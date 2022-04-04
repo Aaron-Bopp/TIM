@@ -5,8 +5,10 @@ sr-due: 2022-06-05
 sr-interval: 152
 sr-ease: 290
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[my TO(DO) and EVER(GREEN) structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[my TO(DO) and EVER(GREEN) structure]] 
 
 This structure could be applied to any system, but it works best in [[Obsidian (software)|Obsidian]], or other systems that treats tags the same way. In Obsidian tags can filter backlinks, the graph view, and be used with many plugins. Additionally when used in search queries they surface and filter notes. This makes tags useful as both a classifier of note type, and a way to mark work items: [[Use Obsidian tags as temporal classifiers]]
 

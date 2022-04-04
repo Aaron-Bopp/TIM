@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 14
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Sex is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Sex is a social construct]] 
 
 #TO/DO/CITE #TO/EXPLORE/RESEARCH #TO/PONDER/IDEA 
 

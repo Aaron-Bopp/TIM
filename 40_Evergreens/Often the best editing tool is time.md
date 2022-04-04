@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 26
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Often the best editing tool is time]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Often the best editing tool is time]] 
 
 #TO/TEND/WATER 
 - synergizes with:: [[Neurodivergent people cannot stop their brain from solving problems]]

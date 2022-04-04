@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 16
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Does cognitive dissonance increase your capacity for endurance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Does cognitive dissonance increase your capacity for endurance]] 
 
 #TO/EXPLORE/RESEARCH 
 It feels like the people who are under the most pressure are often the ones who can put up with the most. This might be more related to the [[Hierarchy of needs]] than [[cognitive dissonance]]

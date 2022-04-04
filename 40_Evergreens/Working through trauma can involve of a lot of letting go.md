@@ -5,8 +5,10 @@ sr-due: 2022-04-27
 sr-interval: 77
 sr-ease: 212
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Working through trauma can involve of a lot of letting go]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Working through trauma can involve of a lot of letting go]] 
 
 [[Trauma]] becomes part of our very nature through the fact that 
 [[We carry our childhood wounds into adulthood]].

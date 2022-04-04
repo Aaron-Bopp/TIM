@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 60
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is language's fundamental unit]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is language's fundamental unit]] 
 
 If sentences are molecules, words are atoms, vowels are protons, consonants are neutrons, punctuation is electrons, and concatenation is nuclear strong force,
 then paragraph's are amino acids, notes are cells, and books are organisms.

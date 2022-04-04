@@ -5,8 +5,10 @@ sr-due: 2022-05-10
 sr-interval: 112
 sr-ease: 273
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The bible is god breathed]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The bible is god breathed]] 
 
 This is a belief held by protestant and [[Evangelicalism | evangelical]] church's. It holds a lot of power, and if you attempt to point out the way that it has warped [[Christianity]] you will receive a lot of backlash.
 

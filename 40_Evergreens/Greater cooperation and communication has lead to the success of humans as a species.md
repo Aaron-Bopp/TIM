@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 13
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Greater cooperation and communication has lead to the success of humans as a species]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Greater cooperation and communication has lead to the success of humans as a species]] 
 
 > Ever since the [[Cognitive Revolution]], [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate. 
 >

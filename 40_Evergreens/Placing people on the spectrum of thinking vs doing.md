@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 12
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Placing people on the spectrum of thinking vs doing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Placing people on the spectrum of thinking vs doing]] 
 
 ![[Journal#^0fb209]]
 

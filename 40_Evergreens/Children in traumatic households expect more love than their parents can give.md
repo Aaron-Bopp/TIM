@@ -8,8 +8,10 @@ sr-due: 2022-04-07
 sr-interval: 13
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Children in traumatic households expect more love than their parents can give]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Children in traumatic households expect more love than their parents can give]] 
 
 #TO/PONDER/IDEA what is a better title for this note. The child doesn't expect more
 How much love does a child expect?

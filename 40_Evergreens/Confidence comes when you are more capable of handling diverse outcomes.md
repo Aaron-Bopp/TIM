@@ -7,8 +7,10 @@ sr-due: 2022-04-24
 sr-interval: 39
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Confidence comes when you are more capable of handling diverse outcomes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Confidence comes when you are more capable of handling diverse outcomes]] 
 
 [[Confidence]] can also come when you are unaware of potential outcomes, but this confidence will quickly be shattered when things go wrong. In the long run being able to handle when things go wrong will give you much more peace of mind. 
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 83
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hope is not optimism it is a practice for producing change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hope is not optimism it is a practice for producing change]] 
 
 > [[Optimism]] looks at the evidence to see whether it allows us to infer whether we can do X or Y. [[Hope]] says I don't give a damn I'm gonna do it anyway
 >

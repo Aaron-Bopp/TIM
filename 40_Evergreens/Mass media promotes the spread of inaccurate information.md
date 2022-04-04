@@ -7,8 +7,10 @@ sr-due: 2022-05-01
 sr-interval: 57
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Mass media promotes the spread of inaccurate information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Mass media promotes the spread of inaccurate information]] 
 
 - [[Rise of Conspiracy Culture]]
 - [[Rise of Modern Conservatism]]

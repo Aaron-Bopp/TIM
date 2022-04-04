@@ -7,8 +7,10 @@ sr-due: 2022-03-22
 sr-interval: 11
 sr-ease: 242
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Readwise Export for Obsidian - Templates and Process]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Readwise Export for Obsidian - Templates and Process]] 
 
 #TO/TEND/WATER How [[Readwise (software)|Readwise]] influences how I hightlight
 #TO/PROGRAM A way to show off my Readwise templates

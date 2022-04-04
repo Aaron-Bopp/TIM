@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 15
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Theology preserves hierarchy through deific blessing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Theology preserves hierarchy through deific blessing]] 
 
 This has included [[Christianity|Christian]] theologians claiming that all Africans are descended from Noah's son Ham, and that Noah's curse was passed on them causing them to be slaves. 
 ^[Especially ironic since we now know that all [[homo sapiens]] are originally African]

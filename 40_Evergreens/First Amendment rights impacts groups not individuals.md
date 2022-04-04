@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 68
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[First Amendment rights impacts groups not individuals]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[First Amendment rights impacts groups not individuals]] 
 
 The five rights provided in the First Amendment are speech, [[religion]], press, assembly, right to petition (protest) the [[government]]. The rights are guaranteed at birth and no citizenship is required. This means that the founders considered these rights to be outside of American Citizenship and thus have little relationship to "being American." 
 

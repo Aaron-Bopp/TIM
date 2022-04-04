@@ -4,8 +4,10 @@ aliases:
   - null
 tags: created/2021/11/27, node/project
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-# [[Using spaced repetition for your conceptual notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+# [[Using spaced repetition for your conceptual notes]] 
 
 Over the last month I have worked through ~200 [[evergreen notes]] using [[spaced repetition]], and the process has been very fruitful. Overall, I doubled the average amount of links per note from 7 to 14, and created almost 20 notes just based on connections I was making within my existing notes.
 

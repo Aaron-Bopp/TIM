@@ -7,8 +7,10 @@ sr-due: 2022-04-28
 sr-interval: 27
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Graves of ancient mammoth-hunters were vastly decorated]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Graves of ancient mammoth-hunters were vastly decorated]] 
 
 > ![[books_Sapiens#^296601917]]
 

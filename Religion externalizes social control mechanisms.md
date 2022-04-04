@@ -15,8 +15,10 @@ sr-ease: 225
 > **about**:: [[social control]] and [[religion]]
 > 
 > #EVER/SPROUT `$=customJS.dv_funcs.mentionedIn(dv)`
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Religion externalizes social control mechanisms]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Religion externalizes social control mechanisms]] 
 
 This is 
 part of:: [[Religion promotes high social control]].

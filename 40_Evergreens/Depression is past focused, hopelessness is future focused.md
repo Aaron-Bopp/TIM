@@ -7,8 +7,10 @@ sr-due: 2022-05-04
 sr-interval: 38
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Depression is past focused, hopelessness is future focused]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Depression is past focused, hopelessness is future focused]] 
 
 [[Congruent Depression]] comes from observing your life up to this point and being disappointed.
 [[Hopelessness]] is giving up on your own ability to affect your life.

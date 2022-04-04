@@ -7,8 +7,10 @@ sr-due: 2022-05-16
 sr-interval: 42
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The advent of farming lead to increased prevalence of anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The advent of farming lead to increased prevalence of anxiety]] 
 
 enabled by:: [[Farming outcompeted foraging by allowing for higher populations]]
 

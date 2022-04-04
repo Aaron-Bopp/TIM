@@ -7,8 +7,10 @@ sr-due: 2022-05-07
 sr-interval: 40
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Patriarchy convinces young men that they can and should be oppressors]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Patriarchy convinces young men that they can and should be oppressors]] 
 
 %% #TO/DO/FIND psychology notes related to this%%
 

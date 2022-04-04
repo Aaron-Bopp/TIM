@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 27
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation helps us gain control over our emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation helps us gain control over our emotions]] 
 
 [[Meditation is a practice to gain control over your thoughts]], but it also deals directly with the systems that govern our [[emotions]].
 

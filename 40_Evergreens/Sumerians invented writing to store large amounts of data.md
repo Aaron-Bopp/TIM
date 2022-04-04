@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 26
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Sumerians invented writing to store large amounts of data]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Sumerians invented writing to store large amounts of data]] 
 
 > ![[books_Sapiens#^298648748]]
 > <cite>[[Yuval Noah Harari]]</cite>

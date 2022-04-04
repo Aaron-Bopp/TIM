@@ -5,8 +5,10 @@ sr-due: 2022-04-10
 sr-interval: 36
 sr-ease: 159
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Human's have an inability to admit that they are wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Human's have an inability to admit that they are wrong]] 
 
 Once the [[ego]] has internalized a [[belief]] as true it will work very hard to keep that view from being challenged because [[Our ego is our subconscious defense of our self]]. 
 Even though this is one of the reasons for [[human advancement]],

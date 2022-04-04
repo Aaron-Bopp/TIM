@@ -9,8 +9,10 @@ sr-ease: 221
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to solve the fundamental problem of social life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to solve the fundamental problem of social life]] 
 
 > ![[books_Darwin's Cathedral#^288457438]]
 

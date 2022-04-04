@@ -7,8 +7,10 @@ sr-due: 2022-04-24
 sr-interval: 33
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Belief helps us push through hardship]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Belief helps us push through hardship]] 
 
 This is 
 enabled by:: [[Belief can motivate adaptation]] 

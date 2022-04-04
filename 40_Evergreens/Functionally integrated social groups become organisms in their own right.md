@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 18
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Functionally integrated social groups become organisms in their own right]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Functionally integrated social groups become organisms in their own right]] 
 
 This requires a liberal use of the word social and strong understanding of the functional arrangement.
 One example given is that of chromosomes. 

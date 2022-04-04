@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 62
 sr-ease: 203
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Webs of thought provide heterarchical structure]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Webs of thought provide heterarchical structure]] 
 
 #TO/PONDER/IDEA 
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 3
 sr-ease: 229
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Natural selection is a designing agent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Natural selection is a designing agent]] 
 
 > ![[books_Darwin's Cathedral#^297089499]]
 

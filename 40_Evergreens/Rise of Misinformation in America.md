@@ -7,8 +7,10 @@ sr-due: 2022-05-11
 sr-interval: 94
 sr-ease: 247
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Rise of Misinformation in America]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Rise of Misinformation in America]] 
 
 Over the last forty years, misinformation has become so potent in [[America]], that [[anti-science]] culture has become the norm among republicans. This is closely linked to the [[Rise of Modern Conservatism]] and the [[Rise of Conspiracy Culture]].
 

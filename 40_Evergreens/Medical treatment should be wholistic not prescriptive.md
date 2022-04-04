@@ -7,8 +7,10 @@ sr-due: 2022-05-03
 sr-interval: 30
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Medical treatment should be wholistic not prescriptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Medical treatment should be wholistic not prescriptive]] 
 
 This does not mean that we should not be using medication to manage and treat [[mental illness]], but that [[medication]] should just be a tool and not the end all be all.
 

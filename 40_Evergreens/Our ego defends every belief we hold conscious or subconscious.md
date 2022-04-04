@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 16
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our ego defends every belief we hold conscious or subconscious]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our ego defends every belief we hold conscious or subconscious]] 
 
 #TO/TEND/WATER 
 - [[Our brain will do anything it can to protect itself]]

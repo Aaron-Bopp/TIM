@@ -7,8 +7,10 @@ sr-due: 2022-07-30
 sr-interval: 170
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Happiness is enlightenment and sadness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Happiness is enlightenment and sadness is delusion]] 
 
 [[Buddhism]] states that the cause of [[suffering]] is [[ignorance]] (not seeing the world as it actually is) and [[desire]] (wanting things that do not exist), but it also states that truth of suffering is that it exists; it has a cause; it has an end; and it has a cause to bring about its end. [^1]  The purpose of life is the pursuit of bliss, and it is delusion to avoid it.
 

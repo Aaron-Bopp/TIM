@@ -7,8 +7,10 @@ sr-due: 2022-04-29
 sr-interval: 27
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Anxiety stems from a lack of confidence for the future]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anxiety stems from a lack of confidence for the future]] 
 
 We know two things about our brains,
 [[Confidence comes when you are more capable of handling diverse outcomes]] and [[Your anxiety is telling you everything that could go wrong, not what will go wrong]].

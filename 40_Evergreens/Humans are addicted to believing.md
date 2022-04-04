@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 30
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans are addicted to believing]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans are addicted to believing]] 
 
 Humans want to believe because [[Humans have decided to reject an unjust world]]. We long for security in our life so that we can [[progress]], so we turn to [[belief]]. 
 ^[To be clear, this thinking isn't wrong,

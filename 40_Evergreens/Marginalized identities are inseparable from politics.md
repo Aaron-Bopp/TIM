@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 19
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Marginalized identities are inseparable from politics]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Marginalized identities are inseparable from politics]] 
 
 - [[The black identity has evolved past it's political origins]]
 - [[Race is a social construct]]

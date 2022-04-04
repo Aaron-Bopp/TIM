@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 31
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Conceptual notes vary in size and scope]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Conceptual notes vary in size and scope]] 
 
 > "Divide when Big."  
 > Sometimes a subject gets BIG. REALLY BIG.  

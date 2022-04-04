@@ -7,8 +7,10 @@ sr-due: 2022-07-15
 sr-interval: 115
 sr-ease: 215
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Neurodivergent people cannot stop their brain from solving problems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Neurodivergent people cannot stop their brain from solving problems]] 
 
 > ![[tweets_Tweets From Rory - ADHD Autistic OCD#263520467q]]
 >

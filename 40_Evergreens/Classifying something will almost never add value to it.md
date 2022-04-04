@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 26
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Classifying something will almost never add value to it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Classifying something will almost never add value to it]] 
 
 The very rare case that it does is when classifying something increases yours' and other's ability to access it, and then the value you add it to is proportional to the value it had to begin with.
 

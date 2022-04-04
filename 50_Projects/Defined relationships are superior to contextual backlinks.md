@@ -7,8 +7,10 @@ sr-due: 2022-05-17
 sr-interval: 69
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Defined relationships are superior to contextual backlinks]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Defined relationships are superior to contextual backlinks]] 
 
 > I always say good linking means that you
 > 1. place any link *manually*.

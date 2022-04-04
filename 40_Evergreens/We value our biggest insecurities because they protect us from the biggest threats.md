@@ -7,8 +7,10 @@ sr-due: 2022-05-02
 sr-interval: 65
 sr-ease: 191
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We value our biggest insecurities because they protect us from the biggest threats]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We value our biggest insecurities because they protect us from the biggest threats]] 
 
 With a small [[fear]], we are often annoyed at it, but for a large one, while we may wish it wasn't there, we know what the lack of it will mean.
 These large insecurities developed because 

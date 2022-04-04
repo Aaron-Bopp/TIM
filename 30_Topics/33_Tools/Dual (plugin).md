@@ -3,8 +3,10 @@
 created: 2021-06-13
 tags: created/2021/06/13, node/topic/tool
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Dual (plugin)]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Dual (plugin)]] 
 
 **Source Code**:: https://github.com/Psionica/Dual
 

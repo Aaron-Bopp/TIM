@@ -7,8 +7,10 @@ sr-due: 2022-04-26
 sr-interval: 78
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Communities are support systems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Communities are support systems]] 
 
 This is something we have lost as a part of [[Individualism|individualistic]] [[America|American]] [[Culture]].
 

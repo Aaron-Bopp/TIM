@@ -7,8 +7,10 @@ sr-due: 2022-04-29
 sr-interval: 43
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to deal with FOMO]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to deal with FOMO]] 
 
 - [[There is a limit to how much information you can process at once]]
 

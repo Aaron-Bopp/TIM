@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 40
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Anxiety prevents us from living in the present]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anxiety prevents us from living in the present]] 
 
 [[Anxiety]] is the future focused [[mind]], and if you dwell in your anxiety for too long you are going to stop living in the present and start living in the future.
 

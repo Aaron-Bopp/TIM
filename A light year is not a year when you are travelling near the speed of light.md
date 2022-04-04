@@ -8,8 +8,10 @@ sr-due: 2022-04-06
 sr-interval: 3
 sr-ease: 251
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A light year is not a year when you are travelling near the speed of light]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A light year is not a year when you are travelling near the speed of light]] 
 
 Plotting a trip to somewhere 25 [[lightyears]] away at 99% the [[speed of light]].
 > ![[books_What Is Relativity#^300340342]]

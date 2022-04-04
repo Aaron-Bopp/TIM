@@ -7,8 +7,10 @@ sr-due: 2022-05-19
 sr-interval: 68
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The history of meditation is a mixture of science and spirituality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The history of meditation is a mixture of science and spirituality]] 
 
 [[Eastern philosophy]] is often viewed as much more spiritual than [[Western philosophy]]
 ^[or at least seems to be to me, as [[Western philosophy]] is largely [[Christianity|Christian]] and [[Christianity]] is based in your relationship with [[god]]]

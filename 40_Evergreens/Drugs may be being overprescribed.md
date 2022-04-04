@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Drugs may be being overprescribed]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Drugs may be being overprescribed]] 
 
 #TO/DO/CITE who has said this? [[Dr. K]], others
 

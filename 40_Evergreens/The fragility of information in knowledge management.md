@@ -7,8 +7,10 @@ sr-due: 2022-08-10
 sr-interval: 136
 sr-ease: 192
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The fragility of information in knowledge management]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The fragility of information in knowledge management]] 
 
 In our [[memory]], if something is irrelevant it will slowly fade, but in our [[second brain]] nothing disappears. Rather, it becomes fragile, cluttering and distracting until it is destroyed. [^1] This is why the second brain needs help from the first, to remove clutter and to provide strong connections. 
 

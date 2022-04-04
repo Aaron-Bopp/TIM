@@ -7,8 +7,10 @@ sr-due: 2022-05-23
 sr-interval: 64
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the difference between blame and judgement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the difference between blame and judgement]] 
 
 %% You can blame someone for causing harm but not judge their actions (ex. You can blame someone for unconscious bias, but you can judge them as not having pre-meditated). %%
 

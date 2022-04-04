@@ -7,8 +7,10 @@ sr-due: 2022-07-24
 sr-interval: 186
 sr-ease: 290
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Q justifies conservatives discontent]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Q justifies conservatives discontent]] 
 
 [[Conservatism|Conservatives]] have lots of anger against change and against being forced to rethink their ideas or consider that they may be wrong. Because [[Rationalizations are defense-mechanisms against strong emotions]], organizations like [[Q (conspiracy)]] thrive off of hurt people.
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Foraging was a very sustainable lifestyle]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Foraging was a very sustainable lifestyle]] 
 
 [[Foraging]] was the main mode of life for hundreds of millennia of [[human evolution]]. It wasn't until [[Farming outcompeted foraging by allowing for higher populations]] that it dropped from the top spot, and that mainly because [[Farming prevented a return to foraging for early humans]].
 

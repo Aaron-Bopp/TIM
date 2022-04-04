@@ -5,8 +5,10 @@ sr-due: 2022-04-08
 sr-interval: 83
 sr-ease: 213
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You can be taught to invalidate your own emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can be taught to invalidate your own emotions]] 
 
 [[Our authority figures curate and reinforce what we are allowed to imitate]], and in [[childhood]] our most prominent authority figures are our [[parents]]. If our parents model [[emotional invalidation]] or invalidate us, we will learn this [[behavior]].
 

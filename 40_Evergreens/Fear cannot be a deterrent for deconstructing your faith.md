@@ -5,8 +5,10 @@ sr-due: 2022-06-06
 sr-interval: 92
 sr-ease: 185
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Fear cannot be a deterrent for deconstructing your faith]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Fear cannot be a deterrent for deconstructing your faith]] 
 
 [[Deconstructing your faith is like climbing through a jungle canopy]], and often you can't view [[Christianity]] objectively until you reach the top.
 Depending on your level of [[indoctrination]] and your continued involvement in the church you may have a more objective view of [[Christianity]] already,

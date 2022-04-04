@@ -7,8 +7,10 @@ sr-due: 2022-06-17
 sr-interval: 131
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Friction is a hindrance to learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Friction is a hindrance to learning]] 
 
 #TO/PONDER/IDEA about [[understanding]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]

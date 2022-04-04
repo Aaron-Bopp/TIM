@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 24
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You can't control what happens]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can't control what happens]] 
 
 This is the concept of [[Karma Fal]], which states that you are not entitled to the outcome of your action, only the action itself.
 

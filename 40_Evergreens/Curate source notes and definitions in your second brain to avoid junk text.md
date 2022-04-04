@@ -7,8 +7,10 @@ sr-due: 2022-05-16
 sr-interval: 45
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Curate source notes and definitions in your second brain to avoid junk text]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Curate source notes and definitions in your second brain to avoid junk text]] 
 
 #TO/TEND/WEED and #TO/TEND/WATER about how junk text effects search, plugins etc
 

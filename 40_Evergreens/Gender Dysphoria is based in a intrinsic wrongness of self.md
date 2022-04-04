@@ -7,8 +7,10 @@ sr-due: 2022-05-12
 sr-interval: 60
 sr-ease: 172
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Gender Dysphoria is based in a intrinsic wrongness of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Gender Dysphoria is based in a intrinsic wrongness of self]] 
 
 > [!warning]-
 > Remember, [[Any experience of gender dysphoria is acceptable]] and [[Any experience of gender is acceptable]] are still true. This is just one experience of [[gender dysphoria]].

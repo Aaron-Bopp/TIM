@@ -7,8 +7,10 @@ sr-due: 2022-06-23
 sr-interval: 80
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation is a practice to gain control over your thoughts]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation is a practice to gain control over your thoughts]] 
 
 When [[Western philosophy|western]] researcher's started studying the science behind [[meditation]] and [[Yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
 ^[[[notes_History of Meditation]]]

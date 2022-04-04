@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 17
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A conversion experience can help us reshape our sense of self]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A conversion experience can help us reshape our sense of self]] 
 
 > ![[books_Darwin's Cathedral#293875897q]]
 

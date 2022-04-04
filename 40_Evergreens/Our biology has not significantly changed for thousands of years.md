@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 21
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our biology has not significantly changed for thousands of years]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our biology has not significantly changed for thousands of years]] 
 
 [[Cultural evolution is not confined to the slow process of genetic evolution]] means that we are both incredibly different than our ancient ancestors and also incredibly the same. 
 The last 10,000 years

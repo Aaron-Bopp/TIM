@@ -7,8 +7,10 @@ sr-due: 2022-08-17
 sr-interval: 137
 sr-ease: 214
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Single issue voters are anti-democratic]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Single issue voters are anti-democratic]] 
 
 - [[Democracy is about an open forum of ideas]], and single issue votes are unconcerned with any other ideas 
 - [[Abortion and immigration are detrimental to white supremacy]] which is why they are so push as part of [[The Politicization of the Christian Church]]

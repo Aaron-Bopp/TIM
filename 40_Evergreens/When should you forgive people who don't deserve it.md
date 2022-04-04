@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 33
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[When should you forgive people who don't deserve it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[When should you forgive people who don't deserve it]] 
 
 > it’s funny how sometimes it really does take a decade to [[persuasion|persuade]] someone of something. 
 > at that sort of timescale it’s not even about direct engagement so much as it is about just living your best life in accordance with your principles in a sustainable way, and waiting for them to encounter difficulties their [[worldview]] and context 

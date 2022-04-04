@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 10
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How do we use writing to communicate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How do we use writing to communicate]] 
 
 Is writing just the symbols that represent [[language]] either partially ([[partial script]]) or fully ([[full script]])?
 

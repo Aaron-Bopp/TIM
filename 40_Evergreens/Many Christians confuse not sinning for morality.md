@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 20
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Many Christians confuse not sinning for morality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Many Christians confuse not sinning for morality]] 
 
 Just because you have no reason to sin and do not, does not mean you are any more moral than a person who has every reason to sin and does.
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-27
 sr-interval: 26
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Drugs work by effecting your chemical environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Drugs work by effecting your chemical environment]] 
 
 Both pharmaceutical [[drugs]] and [[herb]]s affect us by impacting the [[Neurotransmitter|neurotransmitters]] that transmit [[hormone|hormones]] like [[Dopamine]] and [[Serotonin]]. 
 ^[[[notes_Herbs for mental health]]] 

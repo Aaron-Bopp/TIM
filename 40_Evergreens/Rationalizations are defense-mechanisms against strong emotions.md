@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 41
 sr-ease: 174
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Rationalizations are defense-mechanisms against strong emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Rationalizations are defense-mechanisms against strong emotions]] 
 
 People assume that if they are not being emotional then they are being rational, and that if someone is being emotional then they are being irrational.
 If you are unable to feel your [[emotions]],

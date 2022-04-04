@@ -5,8 +5,10 @@ sr-due: 2022-06-21
 sr-interval: 88
 sr-ease: 188
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Choosing a note writing system is choosing a system for thought]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Choosing a note writing system is choosing a system for thought]] 
 
 Choosing a [[note writing]] system is not about finding the right [[software]] to write in,
 ^[For that see [The best note-taking app of 2021 | Capiche](https://capiche.com/e/best-note-taking-app-2021)]

@@ -7,8 +7,10 @@ sr-due: 2022-04-04
 sr-interval: 10
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[When luxury becomes a necessity it is no longer a luxury]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[When luxury becomes a necessity it is no longer a luxury]] 
 
 > ![[books_Sapiens#^297301087]]
 > <Cite>[[Yuval Noah Harari]]</Cite>

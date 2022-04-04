@@ -7,8 +7,10 @@ sr-due: 2022-05-22
 sr-interval: 127
 sr-ease: 246
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Anger fuels change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anger fuels change]] 
 
 Major factor in the [[Civil Rights]] movement. 
 

@@ -7,8 +7,10 @@ sr-due: 2022-05-19
 sr-interval: 59
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Wealth Inequality creates a need for change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Wealth Inequality creates a need for change]] 
 
 Studies have found that [[Wealth Inequality]] makes people generally unhappy and have a greater sense of unfairness and untrustworthiness toward others. [^1] 
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]

@@ -7,8 +7,10 @@ sr-due: 2022-07-16
 sr-interval: 141
 sr-ease: 243
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Most rights were denied to Americans at its founding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Most rights were denied to Americans at its founding]] 
 
 Many rights that now exist were denied to [[women]], [[black people]], and [[Indigenous]] peoples by our [[founding fathers]] like healthcare, housing, [[education]], fair trial, to vote, etc., 
 

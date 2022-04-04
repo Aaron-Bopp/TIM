@@ -5,8 +5,10 @@ sr-due: 2022-05-28
 sr-interval: 71
 sr-ease: 212
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Complex emotions are imperfect understandings of primal urges]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Complex emotions are imperfect understandings of primal urges]] 
 
 > ![[books_Darwin's Cathedral#^294094919]]
 > 

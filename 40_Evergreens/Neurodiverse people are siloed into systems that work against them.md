@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 57
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Neurodiverse people are siloed into systems that work against them]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Neurodiverse people are siloed into systems that work against them]] 
 
 Schooling and work systems are designed for [[neurotypical]] people, but as neurodivergent children are often gifted children, they are often pushed into these environments and expected to succeed despite them actively working against neurodivergent thought processes.
 

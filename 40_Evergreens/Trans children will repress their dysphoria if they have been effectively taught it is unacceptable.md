@@ -7,8 +7,10 @@ sr-due: 2022-10-02
 sr-interval: 196
 sr-ease: 231
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]] 
 
 %% #TO/PONDER/ME My experience %%
 

@@ -5,8 +5,10 @@ sr-due: 2022-04-17
 sr-interval: 43
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Anxiety should be a tool at your disposal not an impedance to your life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anxiety should be a tool at your disposal not an impedance to your life]] 
 
 Being paralyzed by your [[anxiety]] is not your brain's desired outcome.
 [[Our brains are built around survival]],

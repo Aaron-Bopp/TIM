@@ -5,8 +5,10 @@ sr-due: 2022-05-24
 sr-interval: 88
 sr-ease: 215
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our brains are built around survival]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our brains are built around survival]] 
 
 This is a biological fact reinforced by [[socialization]], [[natural selection]],  and is 
 part of:: [[Humans are a product of evolution]]

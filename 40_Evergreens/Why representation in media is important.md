@@ -7,8 +7,10 @@ sr-due: 2022-05-08
 sr-interval: 46
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Why representation in media is important]] `$=customjs.dv_funcs.evergreenheader(dv, this)`
+#### [[Why representation in media is important]] 
 > [!iframe] [[Lilly Singh]] talks about [[coming out]] on the [[internet]] and as an Indian
 > 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/UZSwDZ72Lp8?start=2820" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

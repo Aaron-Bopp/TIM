@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 73
 sr-ease: 223
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Stub notes are data structures for implicit knowledge gathering]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stub notes are data structures for implicit knowledge gathering]] 
 
 For me, making a [[stub notes|stub note]] is just making a small [[observation]] that something could be interesting. 
 I may not look at that stub for months or years, 

@@ -7,8 +7,10 @@ sr-due: 2022-05-30
 sr-interval: 59
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Mark Twain timed his death with Halley's comet]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Mark Twain timed his death with Halley's comet]] 
 
 > The American writer [[Mark Twain]], for instance, was born as the [[comets|comet]] blazed above the Missouri sky. Seventy-four years later, he wrote, “I came in with Halley’s Comet in 1835. It is coming again next year, and I expect to go out with it.” And he did, dying in 1910 as Halley reappeared. Twain had a hell of a gift for narrative structure, especially when it came to memoir. 
 ^[[[books_The Anthropocene Reviewed#285888564q]]]

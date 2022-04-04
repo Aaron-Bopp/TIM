@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 14
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the cognitive origin of social hierarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the cognitive origin of social hierarchy]] 
 
 Why do we compare ourselves against other people?  
 Why do we rank our crushes?  

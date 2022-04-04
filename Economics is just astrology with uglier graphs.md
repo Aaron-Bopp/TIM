@@ -7,8 +7,10 @@ sr-due: 2022-04-04
 sr-interval: 3
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Economics is just astrology with uglier graphs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Economics is just astrology with uglier graphs]] 
 
 source:: [why you can't buy this notebook - YouTube](https://www.youtube.com/watch?v=vTKPA7avpbM)
 

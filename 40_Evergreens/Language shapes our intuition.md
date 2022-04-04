@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 19
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Language shapes our intuition]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Language shapes our intuition]] 
 
 > ![[books_Sapiens#^299110285]]
 > <cite>[[Yuval Noah Harari]]</cite>

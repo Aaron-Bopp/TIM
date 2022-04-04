@@ -7,8 +7,10 @@ sr-due: 2022-05-20
 sr-interval: 95
 sr-ease: 215
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Searching for THE answer is dangerous]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Searching for THE answer is dangerous]] 
 
 If you only search for **THE** answer to your question
 (the one that will mean you don't have to keep thinking about it),

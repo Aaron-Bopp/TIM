@@ -7,8 +7,10 @@ sr-due: 2022-05-17
 sr-interval: 46
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The ethnic makeup of a community is a significant driver of change]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The ethnic makeup of a community is a significant driver of change]] 
 
 - [[political strategy]]
 - [[Wealth Inequality creates a need for change]]

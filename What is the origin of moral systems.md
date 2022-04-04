@@ -8,8 +8,10 @@ sr-due: 2022-04-04
 sr-interval: 2
 sr-ease: 232
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the origin of moral systems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the origin of moral systems]] 
 
 > ![[books_Darwin's Cathedral#^292537214]]
 

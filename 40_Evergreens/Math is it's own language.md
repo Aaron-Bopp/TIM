@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 11
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Math is it's own language]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Math is it's own language]] 
 
 This is true both in the fact that math is a [[partial script]],
 and also

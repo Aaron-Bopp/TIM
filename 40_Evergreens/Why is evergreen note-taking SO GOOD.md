@@ -7,8 +7,10 @@ sr-due: 2022-04-02
 sr-interval: 12
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Why is evergreen note-taking SO GOOD]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Why is evergreen note-taking SO GOOD]] 
 
 Have you ever spent the night going down a wikipedia rabbit hole only to forget most of what you had learned in the next days or weeks?
 Have you ever felt like you're relearning everything everytime I take a math or science class?

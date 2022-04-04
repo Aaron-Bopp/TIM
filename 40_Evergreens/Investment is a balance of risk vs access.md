@@ -7,8 +7,10 @@ sr-due: 2022-06-28
 sr-interval: 109
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Investment is a balance of risk vs access]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Investment is a balance of risk vs access]] 
 
 Long-term accounts like [[401k]] and [[Roth IRA]] provide little risk but little access, while investment accounts provide easier access for more risk.
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 84
 sr-ease: 287
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Realism must acknowledge optimism's existence and effectiveness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Realism must acknowledge optimism's existence and effectiveness]] 
 
 As a realistic person, you cannot fall into the trap that [[Sadness is enlightenment and happiness is delusion]]. You should ask yourself, **who do I look up to**: the people who's realistic view of the world leads them to *inaction*? or the people who's optimistic view of the world leads them to *action*?
 

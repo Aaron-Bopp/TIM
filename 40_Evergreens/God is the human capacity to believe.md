@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 15
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[God is the human capacity to believe]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[God is the human capacity to believe]] 
 
 In [[books_The Road|The Road by Cormac McCarthy]], we follow the story of a father and son, travelling through a barren, dangerous post-apocalyptic world. 
 There is little reason for [[hope]] on the road, except for one, God.

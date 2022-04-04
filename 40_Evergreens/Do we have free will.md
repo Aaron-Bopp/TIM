@@ -7,8 +7,10 @@ sr-due: 2022-05-06
 sr-interval: 40
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Do we have free will]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Do we have free will]] 
 
 I feel like we don't have [[free will]] to choose everything in our life. Our circumstances control 99% of our life, through limiting or opening up options, both internally and externally. But with even that 1% we can influence our life and set ourselves on the path to [[enlightenment]] or [[suffering]]: [[Buddhism outlines a path and practice to end suffering, but does not promise it]] 
 In [[eastern philosophy]] this idea is explored through [[Karma Fal]]. [[You can't control what happens]], but you have control of your actions.

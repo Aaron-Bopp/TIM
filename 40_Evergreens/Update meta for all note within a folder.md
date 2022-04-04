@@ -7,8 +7,10 @@ sr-due: 2022-05-16
 sr-interval: 68
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Update meta for all note within a folder]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Update meta for all note within a folder]] 
 
  **Add/Update Meta in all notes within a folder** **note: only works with folders in vault root. It won't find a nested folder**
 

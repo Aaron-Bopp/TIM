@@ -7,8 +7,10 @@ sr-due: 2022-06-09
 sr-interval: 69
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Why history is important]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Why history is important]] 
 
  
 Our history shapes us into who we are, as humans, as families and as nations. If we lose sight of our past we lose sight of who we are. Our triumphs, our ancestors, and most importantly how our [[struggle|struggles]] define us.

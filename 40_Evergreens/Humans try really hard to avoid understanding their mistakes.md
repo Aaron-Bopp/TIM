@@ -7,8 +7,10 @@ sr-due: 2022-05-14
 sr-interval: 66
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans try really hard to avoid understanding their mistakes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans try really hard to avoid understanding their mistakes]] 
 
 We answer to our urges first and our [[morality]] second.
 - answers:: [[What is the cognitive effect of living in an unjust world]]

@@ -7,8 +7,10 @@ sr-due: 2022-05-11
 sr-interval: 40
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Teenage boys are responsible for much of cave art]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Teenage boys are responsible for much of cave art]] 
 > ![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285753076q]]
 > ![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285756251q]]
 

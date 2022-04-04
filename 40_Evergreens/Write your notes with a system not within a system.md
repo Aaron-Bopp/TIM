@@ -7,8 +7,10 @@ sr-due: 2022-05-09
 sr-interval: 58
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Write your notes with a system not within a system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Write your notes with a system not within a system]] 
 
 [[Choosing a note writing system is choosing a system for thought]],
 but [[Organization systems are not mutually exclusive]].

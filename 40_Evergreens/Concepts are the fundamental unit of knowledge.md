@@ -7,8 +7,10 @@ sr-due: 2022-05-12
 sr-interval: 47
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Concepts are the fundamental unit of knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Concepts are the fundamental unit of knowledge]] 
 
 > ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190326q]]
 > ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190332q]]

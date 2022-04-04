@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 10
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[There is no direct relation between physical strength and social power]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[There is no direct relation between physical strength and social power]] 
 
 Strength and [[violence]] have always been seen as the root of [[Patriarchy]], 
 but the evidence behind that [[belief]] is lacking.

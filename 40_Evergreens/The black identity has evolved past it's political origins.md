@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 39
 sr-ease: 194
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The black identity has evolved past it's political origins]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The black identity has evolved past it's political origins]] 
 
 #TO/PONDER/SOCIETY everything is political, so it really isn't significant that the black identity has political origins because so does every race's [[identity]].
 ^[[[Race is a social construct]]]

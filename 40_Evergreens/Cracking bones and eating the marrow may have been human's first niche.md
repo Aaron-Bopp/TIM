@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Cracking bones and eating the marrow may have been human's first niche]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Cracking bones and eating the marrow may have been human's first niche]] 
 
 [[Homo sapiens]] earliest use of stone tools has been traced back to cracking open bones on the planes of [[Africa]]. Hundreds of thousands of years ago this would have been one of the few ways that we could compete with the numerous predators and scavengers that preceded us in the food chain. We could wait until the bones had been picked clean and were of little interest to anything else, come in with our stone or wooden
 ^[[[Stone age tools were primarily wooden]]]

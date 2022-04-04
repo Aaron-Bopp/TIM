@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 26
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Self-belief is fundamental to good karma]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Self-belief is fundamental to good karma]] 
 
 [[Karma is based in the law of cause and effect]], so every action we take has an impact in the world, but [[Karma Fal]] is the belief that we have no control over those impacts, only our actions:
 [[You can't control what happens]]

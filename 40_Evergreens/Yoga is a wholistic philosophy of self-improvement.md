@@ -7,8 +7,10 @@ sr-due: 2022-06-10
 sr-interval: 68
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Yoga is a wholistic philosophy of self-improvement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Yoga is a wholistic philosophy of self-improvement]] 
 
 [[Yoga]] involves the [[mind]], [[body]], and [[soul]] in the process of [[self-improvement]] and [[self-actualization]]. 
 It does this by helping us understand and connect the different parts of our being.

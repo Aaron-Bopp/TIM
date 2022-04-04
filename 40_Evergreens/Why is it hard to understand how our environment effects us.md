@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 9
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Why is it hard to understand how our environment effects us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Why is it hard to understand how our environment effects us]] 
 
 Why can't we realize that we live in an [[imagined order]]?
 

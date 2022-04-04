@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 35
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Purpose is derived from within, duty is derived from without]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Purpose is derived from within, duty is derived from without]] 
 
 Purpose is not something that can be given to us, it is something we have to choose. 
 [[How to discover your purpose in life]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 5
 sr-ease: 199
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Intentionality is not separate from functionality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Intentionality is not separate from functionality]] 
 
 > ![[books_Darwin's Cathedral#^298292979]]
 

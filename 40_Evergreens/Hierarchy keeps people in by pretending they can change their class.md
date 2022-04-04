@@ -7,8 +7,10 @@ sr-due: 2022-04-24
 sr-interval: 23
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hierarchy keeps people in by pretending they can change their class]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hierarchy keeps people in by pretending they can change their class]] 
 
 This was seen in the Hindu caste system, and especially preyed on the individual's need to remain pure.
 ^[[[The caste system preserved hierarchy through purity]]]

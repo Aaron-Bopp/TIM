@@ -7,8 +7,10 @@ sr-due: 2022-05-26
 sr-interval: 65
 sr-ease: 166
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Any experience of gender dysphoria is acceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Any experience of gender dysphoria is acceptable]] 
 
 [[Gender Dysphoria]] does not have to be a strong sense of being completely in the wrong body and completely the wrong [[gender]] with all the wrong body parts. Similar to [[Any experience of gender is acceptable]], any experience of [[gender dysphoria]] is acceptable and you don't need to feel dysphoria to be [[Transgender people|trans]]. People will experience [[gender]] differently and any inconsistency with other [[Transgender people|trans]] people does not invalidate their transness.
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 19
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Belief can motivate adaptation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Belief can motivate adaptation]] 
 
 In modern times we still cling to [[religion]] because [[Belief helps us push through hardship]], but the roots of this trait go beyond any individual [[religion]]. 
 

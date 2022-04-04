@@ -7,8 +7,10 @@ sr-due: 2022-04-26
 sr-interval: 51
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Sticky concepts connect disparate ideas]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Sticky concepts connect disparate ideas]] 
 
 [[Sticky concepts]] are terms that can apply to many different processes, and because of that they can connect ideas in unique ways. This causes that to stick in our [[brain]] because of [[How memory works]]
 

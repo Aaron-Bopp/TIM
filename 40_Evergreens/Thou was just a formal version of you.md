@@ -7,8 +7,10 @@ sr-due: 2022-04-24
 sr-interval: 21
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Thou was just a formal version of you]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Thou was just a formal version of you]] 
 
 > ![[tweets_Tweets From 🐸 Frog Time 🐸#261542754q]]
 

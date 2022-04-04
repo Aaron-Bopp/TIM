@@ -7,8 +7,10 @@ sr-due: 2022-04-23
 sr-interval: 38
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Do what you can for who you can]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Do what you can for who you can]] 
 
 …and sometimes that just means doing everything you can for yourself.
 

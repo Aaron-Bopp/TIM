@@ -7,8 +7,10 @@ sr-due: 2022-08-04
 sr-interval: 125
 sr-ease: 185
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Sometimes we can't grow until we change our environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Sometimes we can't grow until we change our environment]] 
 
 Sometimes we don't know what is hurting us until we cut it off, and we can't gain perspective until we take a step back. 
 [[Mental health is a reaction to one's environment]], so

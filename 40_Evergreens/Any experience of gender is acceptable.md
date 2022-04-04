@@ -7,8 +7,10 @@ sr-due: 2022-08-22
 sr-interval: 210
 sr-ease: 300
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Any experience of gender is acceptable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Any experience of gender is acceptable]] 
 
 > [[gender]], however, is a lot more… esoteric. There are a lot of different ways that people have attempted to illustrate the [[gender]] spectrum, but none have quite thoroughly captured it, because the spectrum is itself a very abstract concept.
 > 

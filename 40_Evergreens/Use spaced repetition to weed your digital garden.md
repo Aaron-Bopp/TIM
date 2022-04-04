@@ -7,8 +7,10 @@ sr-due: 2022-07-22
 sr-interval: 132
 sr-ease: 224
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Use spaced repetition to weed your digital garden]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Use spaced repetition to weed your digital garden]] 
 
 [[Often the best editing tool is time]], and [[spaced repetition]] creates perfect intervals for working on your notes. When you take a step back and look at a note in a new light, you will notice things that your mind did not before, and be able to increase the quality of your notes with less overhead. Over time, this means your notes will become more and more refined, as you edit wording, adjust structure, and keep notes concept-based.
 ^[[Evergreen notes should be concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)]

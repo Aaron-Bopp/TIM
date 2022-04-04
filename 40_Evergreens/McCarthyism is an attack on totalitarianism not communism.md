@@ -7,8 +7,10 @@ sr-due: 2022-06-15
 sr-interval: 116
 sr-ease: 229
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[McCarthyism is an attack on totalitarianism not communism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[McCarthyism is an attack on totalitarianism not communism]] 
 
 During the 1948 midterm elections, [[Joseph McCarthy]] performed a political stunt, claiming to have the names of 57 communists working with the [[United States]] government. 
 This note discusses this and other statements made by McCarthy and [[J. Edgar Hoover]] during this time.

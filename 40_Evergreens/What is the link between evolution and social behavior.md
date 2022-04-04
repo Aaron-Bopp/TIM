@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 10
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the link between evolution and social behavior]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the link between evolution and social behavior]] 
 
 [[Functionally integrated social groups become organisms in their own right]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
 

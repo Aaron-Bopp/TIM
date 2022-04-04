@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 24
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[There is a difference between thinking and creating]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[There is a difference between thinking and creating]] 
 
 #TO/PONDER/IDEA does this need a better title?
 

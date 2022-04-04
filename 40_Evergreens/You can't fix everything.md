@@ -7,8 +7,10 @@ sr-due: 2022-05-14
 sr-interval: 43
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You can't fix everything]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can't fix everything]] 
 
 [When You Can't Fix Everything... - YouTube](https://www.youtube.com/watch?v=OBtl7QtVP7k)
 

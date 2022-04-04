@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 8
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Human settlement allowed for social order to rapidly evolve]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Human settlement allowed for social order to rapidly evolve]] 
 
 [[Farming prevented a return to foraging for early humans]], meant that humans had little choice to accept that [[Farming domesticated humans|farming had domesticated them]].
 

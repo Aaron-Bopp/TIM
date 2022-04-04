@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 6
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Were hunter-gatherer societies egalitarian]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Were hunter-gatherer societies egalitarian]] 
 
 - from:: [[Did hunter-gatherers lead better lives than us]]
 - works with:: [[What is the origin of social hierarchy]]

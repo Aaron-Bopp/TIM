@@ -5,8 +5,10 @@ sr-due: 2022-04-23
 sr-interval: 98
 sr-ease: 268
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The three main questions of life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The three main questions of life]] 
 
 1. Where did we come from? 
 2. What happens when we die?

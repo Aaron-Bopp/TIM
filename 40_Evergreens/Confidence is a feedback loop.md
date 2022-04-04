@@ -5,8 +5,10 @@ sr-due: 2022-04-06
 sr-interval: 34
 sr-ease: 136
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Confidence is a feedback loop]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Confidence is a feedback loop]] 
 
 This [[feedback loop]] can either be in working for or against you. 
 

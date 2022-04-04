@@ -6,8 +6,10 @@ aliases:
 sr-due: 2022-09-24
 sr-interval: 184
 sr-ease: 270
----
-#### [[How Masculinity and the black identity model are represented in 'Moonlight']] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+---> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
+#### [[How Masculinity and the black identity model are represented in 'Moonlight']] 
 
 #TO/TEND/GRAFT into [[The black identity has evolved past it's political origins]] [[Black identity is inseparable from other identities]]
 

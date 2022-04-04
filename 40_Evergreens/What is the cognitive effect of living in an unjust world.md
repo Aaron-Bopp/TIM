@@ -8,8 +8,10 @@ sr-due: 2022-05-13
 sr-interval: 48
 sr-ease: 177
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the cognitive effect of living in an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the cognitive effect of living in an unjust world]] 
 
 > ![[books_The Dawn of Everything#261572339q]]
 %% #TO/DO/FIND story, Need to establish that the world is unjust%%

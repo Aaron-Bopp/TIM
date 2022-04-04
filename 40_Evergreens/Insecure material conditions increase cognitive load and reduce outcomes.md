@@ -7,8 +7,10 @@ sr-due: 2022-07-17
 sr-interval: 128
 sr-ease: 205
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Insecure material conditions increase cognitive load and reduce outcomes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Insecure material conditions increase cognitive load and reduce outcomes]] 
 
 [[Anxiety]] is a feeling of worry, nervousness, or unease about something with an uncertain outcome, so [[insecurity]] of any kind ([[food insecurity]], [[self-doubt]], etc) is going to increase it and result in a reduced ability to address your [[Hierarchy of needs]].
 

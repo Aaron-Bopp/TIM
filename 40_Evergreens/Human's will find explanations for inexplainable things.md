@@ -8,8 +8,10 @@ sr-due: 2022-07-08
 sr-interval: 106
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Human's will find explanations for inexplainable things]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Human's will find explanations for inexplainable things]] 
 
 [[Humans are designed to make certainty out of uncertainty]].
 This [[abstraction]] is what allow us to make progress everyday in a world where almost nothing make sense.

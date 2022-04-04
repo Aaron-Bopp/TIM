@@ -7,8 +7,10 @@ sr-due: 2022-05-27
 sr-interval: 85
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Use colors to create visual outlines]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Use colors to create visual outlines]] 
 
 This is especially effective in academic research papers, as they will usually contain consistent types and structures of information. Here is mine:
 - Claims: Yellow

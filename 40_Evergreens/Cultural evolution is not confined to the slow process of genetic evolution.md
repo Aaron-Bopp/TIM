@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 18
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Cultural evolution is not confined to the slow process of genetic evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Cultural evolution is not confined to the slow process of genetic evolution]] 
 
 > It is unfortunate that [[evolution]] is so often associated with genetic evolution, a slow process that gives the impression of an incapacity for change over the time scales that matter most to living people struggling with their problems. 
 > 

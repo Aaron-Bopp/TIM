@@ -5,8 +5,10 @@ sr-due: 2022-07-13
 sr-interval: 137
 sr-ease: 259
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[ADHD is not a lack of attention it is a misplacement of attention]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[ADHD is not a lack of attention it is a misplacement of attention]] 
 
 > "**Attention** is the cognitive process that weeds out most of the behaviors that are irrelevant to the child and <u>focuses on the few that are most relevant</u>" 
 > 

@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 15
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Once hierarchy is in place vested interests will keep it in place]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Once hierarchy is in place vested interests will keep it in place]] 
 
 part of:: [[What is the origin of social hierarchy]]
 

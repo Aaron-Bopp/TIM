@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 11
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the psychological origin of existential dread]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the psychological origin of existential dread]] 
 
 #TO/PONDER/IDEA What is [[existential dread]]?
 

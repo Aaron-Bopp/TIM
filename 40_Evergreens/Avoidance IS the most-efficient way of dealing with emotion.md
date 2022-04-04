@@ -5,8 +5,10 @@ sr-due: 2022-04-05
 sr-interval: 52
 sr-ease: 189
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Avoidance IS the most-efficient way of dealing with emotion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Avoidance IS the most-efficient way of dealing with emotion]] 
 
 [[Our brain will do anything it can to protect itself]], and if our [[emotions]] are going to impact our ability to succeed
 ^[and thus be selected against: [[Humans are a product of evolution]]]

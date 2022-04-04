@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 18
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to review books]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to review books]] 
 
 First:: [[The five star scale is for consumer and the ten point scale is for the critic]]
 

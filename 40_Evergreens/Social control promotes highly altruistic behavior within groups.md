@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 10
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Social control promotes highly altruistic behavior within groups]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social control promotes highly altruistic behavior within groups]] 
 
 
 > ![[books_Darwin's Cathedral#^289554239]]

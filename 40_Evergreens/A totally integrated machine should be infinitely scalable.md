@@ -7,8 +7,10 @@ sr-due: 2022-05-25
 sr-interval: 70
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A totally integrated machine should be infinitely scalable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A totally integrated machine should be infinitely scalable]] 
 
 If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must be [[infinite|infinitely]] scalable. Many systems are involved in this process.
 1. A [[web of thought]] serves as the representation of our [[second brain]] which allows us to access our [[knowledge]]

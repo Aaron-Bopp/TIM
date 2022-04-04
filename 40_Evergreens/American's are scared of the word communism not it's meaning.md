@@ -7,8 +7,10 @@ sr-due: 2022-06-25
 sr-interval: 108
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[American's are scared of the word communism not it's meaning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[American's are scared of the word communism not it's meaning]] 
 
 Studies have shown time and time again that polling for economically left issues are supported by super majorities of the populace. Additional studies have shown that people are happier when there is less income [[inequality]]
 ^[[[articleIncome Inequality Increases Unhappiness#^fed754]]]

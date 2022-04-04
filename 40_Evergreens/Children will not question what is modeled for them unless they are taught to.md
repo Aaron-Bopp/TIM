@@ -7,8 +7,10 @@ sr-due: 2022-05-27
 sr-interval: 69
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Children will not question what is modeled for them unless they are taught to]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Children will not question what is modeled for them unless they are taught to]] 
 
 Parent's need to be aware of how their behaviors can affect their children, 
 because:: [[Our authority figures curate and reinforce what we are allowed to imitate]].

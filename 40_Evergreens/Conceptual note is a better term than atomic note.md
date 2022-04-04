@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 31
 sr-ease: 132
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Conceptual note is a better term than atomic note]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Conceptual note is a better term than atomic note]] 
 
 At first thought (unless you're a chemist or physicist), an atom is a uniformly sized building block.
 It can vary a little bit in size, but overall it's virtue is in its uniformity.

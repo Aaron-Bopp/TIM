@@ -7,8 +7,10 @@ sr-due: 2022-05-02
 sr-interval: 76
 sr-ease: 194
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You can't blame people for failing to rise above their circumstances]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can't blame people for failing to rise above their circumstances]] 
 
 Most humans will not rise above their situation.
 ^[In fact, it could be said that no person does depending on your belief in [[free will]]: 

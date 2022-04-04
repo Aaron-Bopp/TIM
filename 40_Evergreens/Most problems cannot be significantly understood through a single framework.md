@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 23
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Most problems cannot be significantly understood through a single framework]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Most problems cannot be significantly understood through a single framework]] 
 
 Making connections is a really important part of [[learning]] see [[Active Recall]] and [[Blooms taxonomy]]
 

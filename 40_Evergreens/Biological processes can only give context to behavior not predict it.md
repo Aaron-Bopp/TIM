@@ -7,8 +7,10 @@ sr-due: 2022-04-26
 sr-interval: 33
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Biological processes can only give context to behavior not predict it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Biological processes can only give context to behavior not predict it]] 
 
 Many people believe existence to be a deterministic process. One action leads to the next, and really our choices are little more than predictable results of our environment.
 If only we could properly observe and understand the intricacies of our [[brain]], then 

@@ -7,8 +7,10 @@ sr-due: 2022-06-18
 sr-interval: 105
 sr-ease: 220
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Densely linked webs of thought provide intuitive access to knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Densely linked webs of thought provide intuitive access to knowledge]] 
 
 You should be able to crawl a [[web of thought]] without using any [[hierarchy|hierarchical]] [[structure]]. The thoughts should be so interconnected that you can easily flow from one topic to another, and if you return to your starting point you can start a completely new path that will lead to new insights. 
 

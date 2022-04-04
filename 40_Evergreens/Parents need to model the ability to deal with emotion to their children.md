@@ -8,8 +8,10 @@ sr-due: 2022-05-12
 sr-interval: 39
 sr-ease: 211
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Parents need to model the ability to deal with emotion to their children]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Parents need to model the ability to deal with emotion to their children]] 
 
 During [[childhood]], it is incredibly important that the [[parents]] model [[self-soothing]], [[self care]], [[self-love|self-validation]], but if [[parents]] fail to teach these things sometimes the opposite can be taught
 

@@ -5,8 +5,10 @@ sr-due: 2022-06-30
 sr-interval: 177
 sr-ease: 310
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Yang's political failure was due to lack of activism and political inefficacy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Yang's political failure was due to lack of activism and political inefficacy]] 
 
 [[Yang's political success was due to his appeal to common sense]] details the ideas and strategy that catapulted Yang into the mainstream of the political world. However, Yang would also come to discredit some of these things in the months after his campaign.
 

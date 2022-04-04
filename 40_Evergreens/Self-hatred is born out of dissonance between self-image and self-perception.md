@@ -5,8 +5,10 @@ sr-due: 2022-04-28
 sr-interval: 48
 sr-ease: 252
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Self-hatred is born out of dissonance between self-image and self-perception]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Self-hatred is born out of dissonance between self-image and self-perception]] 
 
 [[Self-image]] and [[self-perception]] are very closely related concepts, but they can both be influenced by outside factors and when they don't line up you end up with parts of your body and presentation you don't like.
 

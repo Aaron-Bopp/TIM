@@ -7,8 +7,10 @@ sr-due: 2022-05-30
 sr-interval: 74
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Creationism built an anti-science culture]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Creationism built an anti-science culture]] 
 
 - [[Rise of Modern Conservatism]]
 - [[Rise of Misinformation in America]]

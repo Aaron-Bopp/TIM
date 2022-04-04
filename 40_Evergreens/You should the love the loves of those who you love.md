@@ -7,8 +7,10 @@ sr-due: 2022-05-15
 sr-interval: 44
 sr-ease: 147
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You should the love the loves of those who you love]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You should the love the loves of those who you love]] 
 
 Mirroring the joy of your loved ones is a basic way of showing your love for them.
 This is the most basic form of [[empathy]], 

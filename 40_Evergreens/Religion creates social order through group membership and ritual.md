@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 10
 sr-ease: 211
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Religion creates social order through group membership and ritual]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Religion creates social order through group membership and ritual]] 
 
 This was proposed by [[Emile Durkheim]] as a [[functionalism|functionalist]] explanation for [[religious belief]].
 Religion would support beliefs and practices in line with the sacred 

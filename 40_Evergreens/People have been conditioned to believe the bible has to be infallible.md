@@ -5,8 +5,10 @@ sr-due: 2022-04-11
 sr-interval: 33
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[People have been conditioned to believe the bible has to be infallible]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[People have been conditioned to believe the bible has to be infallible]] 
 
 #TO/TEND/GRAFT 
 - [[The bible is god breathed]]

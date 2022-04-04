@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 20
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hammurabi's Code preserved hierarchy through deific justice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hammurabi's Code preserved hierarchy through deific justice]] 
 
 Hammurabi was ordained by the gods to be king and to have control. He was given the right to enforce the [[social hierarchy]] that the gods had laid out. Any punishment was not the decision of Hammurabi but his just following of the [[natural law]] set out by the gods.
 

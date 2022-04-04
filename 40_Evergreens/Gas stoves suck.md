@@ -7,8 +7,10 @@ sr-due: 2022-04-26
 sr-interval: 41
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Gas stoves suck]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Gas stoves suck]] 
 
 #TO/TEND/WATER 
 - [[video_Problems with gas stovetops - weak, dirty and dangerous]]

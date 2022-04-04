@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 10
 sr-ease: 204
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the origin of religion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the origin of religion]] 
 
 Prior to [[Emile Durkheim]] [[Animism]] and [[Naturism]] where the foremost theories of the origin of religion.
 Durkheim's main argument was that these theories were not adaptive enough to be a 

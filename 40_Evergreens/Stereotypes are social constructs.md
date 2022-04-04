@@ -7,8 +7,10 @@ sr-due: 2022-06-14
 sr-interval: 119
 sr-ease: 231
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Stereotypes are social constructs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stereotypes are social constructs]] 
 
 - [[Insecure material conditions increase cognitive load and reduce outcomes|Stereotype threat increases cognitive load and reduces outcomes]]
 - [[Stereotyping has the psychological goal of comprehension and self-enhancement]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 27
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Triggers activate stored emotional responses for certain situations]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Triggers activate stored emotional responses for certain situations]] 
 
 Certain stimuli will bring you back to a certain moment.
 Even if the moment it brings back to you wasn't specifically traumatic, the dissonance between that moment and your current beliefs may be triggering of other emotional reactions.

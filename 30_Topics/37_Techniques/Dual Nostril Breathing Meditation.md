@@ -5,8 +5,10 @@ sr-due: 2022-06-20
 sr-interval: 94
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Dual Nostril Breathing Meditation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Dual Nostril Breathing Meditation]] 
 
 Examples:: https://youtu.be/sXGhT4pJcj8?t=7801
 - Always switch on a full breath 

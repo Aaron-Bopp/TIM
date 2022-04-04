@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 10
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Why do humans have such a high capacity for cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Why do humans have such a high capacity for cognitive dissonance]] 
 
 - part of:: [[Is cognitive dissonance fundamental to the human experience]]
 - answer:: [[The ego is the brain's response to the realization that we are just another individual in the world]]

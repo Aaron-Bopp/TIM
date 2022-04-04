@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 23
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We all deserve help from a compassionate expert]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We all deserve help from a compassionate expert]] 
 
 > We all deserve to have our needs met by a [[compassionate expert]] - [[John Green]]
 

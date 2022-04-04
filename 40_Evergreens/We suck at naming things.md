@@ -7,8 +7,10 @@ sr-due: 2022-05-22
 sr-interval: 50
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We suck at naming things]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We suck at naming things]] 
 
 [Wannabe States of the United States - YouTube](https://www.youtube.com/watch?v=xgDF77EBGnY)
 - important because:: [[Names matter because they effect people's perception and understanding]] and [[Language shapes our intuition]]

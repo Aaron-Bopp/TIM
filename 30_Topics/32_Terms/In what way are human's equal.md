@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 14
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[In what way are human's equal]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[In what way are human's equal]] 
 
 > ![[books_Sapiens#^297681740]]
 > ![[books_Sapiens#^297681741]]

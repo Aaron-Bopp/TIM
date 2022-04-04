@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 9
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Emotions are how our brain stores thought processes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Emotions are how our brain stores thought processes]] 
 
 That gut feeling is a symbolization of past thought.
 

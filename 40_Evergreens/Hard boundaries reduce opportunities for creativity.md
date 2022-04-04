@@ -7,8 +7,10 @@ sr-due: 2022-04-29
 sr-interval: 33
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hard boundaries reduce opportunities for creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hard boundaries reduce opportunities for creativity]] 
 
 This is 
 part of:: [[Prioritize understanding over organization or categorization]] and [[Your second brain should be an inspirational hub of creativity]].

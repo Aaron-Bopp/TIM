@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 8
 sr-ease: 249
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Natural selection can be seen within generations]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Natural selection can be seen within generations]] 
 
 
 > ![[books_Darwin's Cathedral#^297089502]]

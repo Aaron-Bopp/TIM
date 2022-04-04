@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 33
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Disambiguation - empathy, sympathy, compassion, pity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Disambiguation - empathy, sympathy, compassion, pity]] 
 
 Many people misunderstand [[empathy]] as feeling what the other person is feeling, and [[sympathy]] as feeling bad for the person. If you are feeling what somebody is feeling purely because they are feeling it, that can be unhealthy. 
 ^[[[Having extreme and uncontrollable empathy is dangerous]]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 9
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Learning is NOT like riding a bicycle]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Learning is NOT like riding a bicycle]] 
 
 Or at least if it was we would never have to relearn anything.
 

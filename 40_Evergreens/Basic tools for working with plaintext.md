@@ -7,8 +7,10 @@ sr-due: 2022-06-29
 sr-interval: 124
 sr-ease: 232
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Basic tools for working with plaintext]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Basic tools for working with plaintext]] 
 
 Being able to programmatically process information can be an incredible boon for knowledge workers. Learning some of these tools will immediately expand the possibilities of what information you can access.  
 ^[[[Note storage is important because it defines how you access and retain knowledge]]]

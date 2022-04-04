@@ -5,8 +5,10 @@ sr-due: 2022-04-21
 sr-interval: 81
 sr-ease: 207
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Note structures should help curate knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Note structures should help curate knowledge]] 
 
 As you're writing, your note structures shouldn't be constricting your thought,
 they should be encouraging it.

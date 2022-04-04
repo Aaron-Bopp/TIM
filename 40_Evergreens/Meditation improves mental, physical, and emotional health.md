@@ -7,8 +7,10 @@ sr-due: 2022-06-02
 sr-interval: 61
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation improves mental, physical, and emotional health]] `$=customJS.dv_funcs.evergreenheader(dv, this)`
+#### [[Meditation improves mental, physical, and emotional health]] 
 
 [[Mental health is a reaction to one's environment]] and the [[mind-body complex]] is a interconnected web of [[hormone]]s, [[emotions]], [[Neurotransmitter]]s and so much more.
 ^[[[notes_Brain Gut Axis]]]

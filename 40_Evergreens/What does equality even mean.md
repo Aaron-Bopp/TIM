@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 10
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What does equality even mean]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What does equality even mean]] 
 
 first:: [[In what way are human's equal]]
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 10
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the origin of social hierarchy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What is the origin of social hierarchy]] 
 
 - part of:: [[What enables large scale social order]]
 - explains:: [[What maintains our social order]]

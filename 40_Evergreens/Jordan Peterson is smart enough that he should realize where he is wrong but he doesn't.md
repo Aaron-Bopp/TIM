@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Jordan Peterson is smart enough that he should realize where he is wrong but he doesn't]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Jordan Peterson is smart enough that he should realize where he is wrong but he doesn't]] 
 
 example of:: [[Experts are often far too confident in the effectiveness of their theories]]
 

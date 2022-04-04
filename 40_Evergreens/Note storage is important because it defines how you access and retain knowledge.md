@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 67
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Note storage is important because it defines how you access and retain knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Note storage is important because it defines how you access and retain knowledge]] 
 
 For a proper [[knowledge management|personal knowledge management]] system, this question is very important, and aligns with your values. 
 

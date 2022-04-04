@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 20
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Foragers suffered less from disease]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Foragers suffered less from disease]] 
 
 Most diseases that we have to deal with today are spread to us by close contact with farm animals and other humans.
 [[Hunter-gatherers]] didn't have to deal with this 

@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 8
 sr-ease: 205
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Religion is a rational bid for supernatural reward]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Religion is a rational bid for supernatural reward]] 
 
 This is 
 part of:: [[rational choice theory]]

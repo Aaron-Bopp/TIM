@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 9
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to understand the brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to understand the brain]] 
 
 [[Neuroscience]] is the incredible complex science of understanding the ins and outs of our [[brain]]. Unfortunately the a full [[Neuroscience]] understanding of the brain is beyond most people understandings. Additionally throughout [[history]] we have developed other methods of understanding the brain, and have used those in [[Psychology]].
 These models are not useless, and can be good scaffolding to help us understand the brain on a deeper level, eventually.

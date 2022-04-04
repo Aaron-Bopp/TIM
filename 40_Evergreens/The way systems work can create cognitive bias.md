@@ -7,8 +7,10 @@ sr-due: 2022-05-14
 sr-interval: 62
 sr-ease: 176
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The way systems work can create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The way systems work can create cognitive bias]] 
 
 %% #TO/PONDER/IDEA #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them %%
 - [[Hard rules create cognitive bias]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 50
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation is a practice to develop a stronger consciousness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation is a practice to develop a stronger consciousness]] 
 
 This is a
 part of:: [[Consciousness is our capacity to introspect]]

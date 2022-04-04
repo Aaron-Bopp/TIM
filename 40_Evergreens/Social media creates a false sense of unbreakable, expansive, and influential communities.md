@@ -7,8 +7,10 @@ sr-due: 2022-06-01
 sr-interval: 96
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Social media creates a false sense of unbreakable, expansive, and influential communities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social media creates a false sense of unbreakable, expansive, and influential communities]] 
 
 [[Social media]] uses [[algorithmic content]] to deliver you the content that you want, when you want it, and for as long as you want it. This can create a strong sense of [[community]] as you see the same content creators time and time again, and they start to recognize you, but this [[community]] is fragile.
 

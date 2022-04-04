@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 24
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The ultimate goal of the mind is to keep thinking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The ultimate goal of the mind is to keep thinking]] 
 
 Otherwise we wouldn't be here. This must be a
 result of:: [[Humans are a product of evolution]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 19
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The ego is the brain's response to the realization that we are just another individual in the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The ego is the brain's response to the realization that we are just another individual in the world]] 
 
 When we are child we are the center of our world. All we know is our [[perception]], and what we are perceiving is every person we know waiting on us hand and foot.
 You can see how when we realize that we are not the center of the universe, that can be quite a shock.

@@ -5,8 +5,10 @@ sr-due: 2022-04-24
 sr-interval: 109
 sr-ease: 247
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The church will fail if christians keep aligning themselves with hate instead of love]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The church will fail if christians keep aligning themselves with hate instead of love]] 
 
 ![](00_Meta/Attachments/1mlbpqjqyuma9i2skgqowa.png)
 [Source](https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/1mlbpqjqyuma9i2skgqowa.png)

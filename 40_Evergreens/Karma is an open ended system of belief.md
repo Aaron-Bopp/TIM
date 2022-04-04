@@ -7,8 +7,10 @@ sr-due: 2022-05-31
 sr-interval: 62
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Karma is an open ended system of belief]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Karma is an open ended system of belief]] 
 
 [[Karma]] defines how the world works, instead of how you should work in the world.
 This is what makes it an open-ended system of [[belief]] over [[Christianity]], or even some other [[eastern philosophy|eastern]] [[religion|religions]]. 

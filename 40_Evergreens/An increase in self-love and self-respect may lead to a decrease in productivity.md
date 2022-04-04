@@ -7,8 +7,10 @@ sr-due: 2022-04-04
 sr-interval: 2
 sr-ease: 221
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[An increase in self-love and self-respect may lead to a decrease in productivity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[An increase in self-love and self-respect may lead to a decrease in productivity]] 
 
 Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[motivation]], but it is natural for someone who has been being chased for their entire life to stop for a breather once they realize they are safe.
 

@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 14
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans long to know what to do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans long to know what to do]] 
 
 This is a
 result of:: [[Humans are designed to make certainty out of uncertainty]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 42
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The anti-vax movement is based off a white lie]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The anti-vax movement is based off a white lie]] 
 
 The original study that started the [[anti-vax]] movement has been rescinded by its author's, it has never been replicated, and had little support to begin with, yet it has spawned this movement.   #TO/DO/CITE 
 

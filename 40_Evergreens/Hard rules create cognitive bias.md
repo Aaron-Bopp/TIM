@@ -7,8 +7,10 @@ sr-due: 2022-05-20
 sr-interval: 49
 sr-ease: 153
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hard rules create cognitive bias]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hard rules create cognitive bias]] 
 
 
 > [!example]

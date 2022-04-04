@@ -7,8 +7,10 @@ sr-due: 2022-05-02
 sr-interval: 39
 sr-ease: 135
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A healthy second brain requires a surplus of entry points]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A healthy second brain requires a surplus of entry points]] 
 
 This relates to [[How to deal with FOMO]], because in [[knowledge management]], 
 there is often a large [[fear]] of losing [[information]]. 

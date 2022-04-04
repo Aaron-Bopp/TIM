@@ -7,8 +7,10 @@ sr-due: 2022-04-24
 sr-interval: 28
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Stone age tools were primarily wooden]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stone age tools were primarily wooden]] 
 
 > ![[books_Sapiens#294931430q]]
 

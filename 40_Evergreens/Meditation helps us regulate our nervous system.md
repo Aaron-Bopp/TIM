@@ -7,8 +7,10 @@ sr-due: 2022-05-22
 sr-interval: 66
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation helps us regulate our nervous system]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation helps us regulate our nervous system]] 
 
 [[Meditation]] can regulate the [[ANS]] by activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]] to keep them in balance.
 ^[[[notes_Science of Meditation#Meditation helps us regulate our nervous system]]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-27
 sr-interval: 59
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How memory works]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How memory works]] 
 
 
 > ![[books_Sapiens#^298648743]]

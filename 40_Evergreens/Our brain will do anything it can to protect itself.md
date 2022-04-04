@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 87
 sr-ease: 227
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our brain will do anything it can to protect itself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our brain will do anything it can to protect itself]] 
 %%
 
 ##### Autonomically

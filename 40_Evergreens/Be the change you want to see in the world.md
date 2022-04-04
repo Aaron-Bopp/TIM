@@ -7,8 +7,10 @@ sr-due: 2022-05-15
 sr-interval: 58
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Be the change you want to see in the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Be the change you want to see in the world]] 
 
 If you want to see change in the world it is not enough to stand by and [[hope]] for better times,
 because:: [[Hope is not optimism it is a practice for producing change]].

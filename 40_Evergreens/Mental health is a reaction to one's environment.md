@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 16
 sr-ease: 132
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Mental health is a reaction to one's environment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Mental health is a reaction to one's environment]] 
 
 This environment includes our physical environment (what our [[senses]] are returning),
 our chemical environment (the [[neurotransmitter]]s our [[brain]] and [[body]] produce and consume),

@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 30
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Frogs can see individual photons of light]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Frogs can see individual photons of light]] 
 
 > ![[books_The Fabric of Reality#288838122q]]
 > ![[books_The Fabric of Reality#288838126q]]

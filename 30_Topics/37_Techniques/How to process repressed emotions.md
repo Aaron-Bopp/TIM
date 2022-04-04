@@ -7,8 +7,10 @@ sr-due: 2022-07-01
 sr-interval: 91
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to process repressed emotions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to process repressed emotions]] 
 
 #TO/TEND/GRAFT [[notes_Working with Samskaras]]
 #TO/TEND/GRAFT 

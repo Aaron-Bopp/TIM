@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 9
 sr-ease: 198
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Symbolism increases human's capacity for cooperation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Symbolism increases human's capacity for cooperation]] 
 
 part of:: [[What enables large scale social order]] 
 similarly:: [[Social order is built off of a shared belief in an imagined reality]]

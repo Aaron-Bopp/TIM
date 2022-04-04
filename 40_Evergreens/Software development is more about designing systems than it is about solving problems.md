@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 31
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Software development is more about designing systems than it is about solving problems]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Software development is more about designing systems than it is about solving problems]] 
 
 Every meaningful piece of [[software]] will involve a variety of technologies. 
 Depending on the project some of these technologies may more or less relevant, 

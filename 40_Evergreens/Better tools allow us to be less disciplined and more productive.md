@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 40
 sr-ease: 137
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Better tools allow us to be less disciplined and more productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Better tools allow us to be less disciplined and more productive]] 
 
 Older generations are often shocked at the differences that they see in younger generations. Sometimes this results in disdain, sometimes in awe, and sometimes in wistfulness, wishing that they had not been [[We are confined to the tools of our time|confined to the tools of their time]]. Often, we have not surpassed our forbearers in skill, but our new tools have allowed us to achieve greater things because they are more powerful.
 

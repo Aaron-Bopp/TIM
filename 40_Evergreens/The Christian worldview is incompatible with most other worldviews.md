@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 36
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The Christian worldview is incompatible with most other worldviews]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The Christian worldview is incompatible with most other worldviews]] 
 
 > ![[books_Darwin's Cathedral#292537212q]]
 

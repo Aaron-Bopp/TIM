@@ -7,8 +7,10 @@ sr-due: 2022-04-27
 sr-interval: 26
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Evolution can create systems capable of natural selection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evolution can create systems capable of natural selection]] 
 
 %% 
 In a way evolutionary systems emerge out from each other, all the way down to some level? is that the level of basic physic almost certainly not but how far above the [[Standard Model]] do we need to go? you could use competition and selection to discuss chemical reactions, but I am not sure if this would make any sense to chemist  

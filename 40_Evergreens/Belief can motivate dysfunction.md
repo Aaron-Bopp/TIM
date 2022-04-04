@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 4
 sr-ease: 216
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Belief can motivate dysfunction]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Belief can motivate dysfunction]] 
 
 - Contrasts:: [[Belief can motivate adaptation]]
 - explains:: [[religious belief]]

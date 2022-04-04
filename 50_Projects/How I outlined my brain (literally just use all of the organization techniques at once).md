@@ -3,8 +3,10 @@ created: 2021-12-06
 aliases:
   - null
 tags: created/2021/12/06, node/project
----
-# [[How I outlined my brain (literally just use all of the organization techniques at once)]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+---> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
+# [[How I outlined my brain (literally just use all of the organization techniques at once)]] 
 
 Since I started my [[second brain]], 
 ^[[[Communities are knowledge graphs]]]

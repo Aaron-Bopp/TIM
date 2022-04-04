@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 17
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What maintains our social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What maintains our social order]] 
 
 What are the methods that keep our [[society]] from collapsing (or keep it in a state of perpetual collapse)?
 

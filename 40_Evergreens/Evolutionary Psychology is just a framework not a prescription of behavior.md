@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 18
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Evolutionary Psychology is just a framework not a prescription of behavior]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evolutionary Psychology is just a framework not a prescription of behavior]] 
 
 > ![[books_Darwin's Cathedral#292550153q]]
 > <cite>[[David Sloan Wilson]]</cite>

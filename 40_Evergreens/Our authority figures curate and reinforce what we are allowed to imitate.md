@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 32
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Our authority figures curate and reinforce what we are allowed to imitate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Our authority figures curate and reinforce what we are allowed to imitate]] 
 
 From:: [[Parents need to model the ability to deal with emotion to their children]]
 

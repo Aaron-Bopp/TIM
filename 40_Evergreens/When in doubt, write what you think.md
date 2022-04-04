@@ -5,8 +5,10 @@ sr-due: 2022-04-19
 sr-interval: 64
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[When in doubt, write what you think]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[When in doubt, write what you think]] 
 
 Starting to write notes can be intimidating for many reasons, one of which being that you don't know what to write about.
 The beauty is that [[A second brain should be an extension of your thought]]. This means you can write about anything that you are thinking about and soon *your thinking will be better:* 

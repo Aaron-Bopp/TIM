@@ -8,8 +8,10 @@ sr-due: 2022-04-29
 sr-interval: 69
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Buddhism is the study of happiness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Buddhism is the study of happiness through detachment]] 
 
 The nature of [[happiness]] is not doing what you [[love]] its [[emotional detachment|detachment]] from the decisions of the life.
 We can see a basis for this in [[Attachment fuels anxiety]].

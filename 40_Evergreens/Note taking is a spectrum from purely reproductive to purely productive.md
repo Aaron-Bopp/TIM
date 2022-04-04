@@ -7,8 +7,10 @@ sr-due: 2022-04-30
 sr-interval: 32
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Note taking is a spectrum from purely reproductive to purely productive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Note taking is a spectrum from purely reproductive to purely productive]] 
 
 possible kinds of notes
 - [[referential notes]] notes that are taken in the sequence of the thing they are notating like a lecture or book

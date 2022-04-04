@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 29
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to discover your purpose in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to discover your purpose in life]] 
 
 Get out a piece of paper and answer the question, "What is wrong with the world?" Once you have reached the end of the paper you have some idea of what you should be doing.
 

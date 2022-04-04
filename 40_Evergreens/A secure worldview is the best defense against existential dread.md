@@ -7,8 +7,10 @@ sr-due: 2022-04-23
 sr-interval: 27
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A secure worldview is the best defense against existential dread]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A secure worldview is the best defense against existential dread]] 
 
 #TO/TEND/GRAFT 
 - Counterpart to:: [[A secure identity is the best defense against social anxiety]]

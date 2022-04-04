@@ -7,8 +7,10 @@ sr-due: 2022-06-07
 sr-interval: 71
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Algorithmic Learning]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Algorithmic Learning]] 
 
 What if we could apply the same algorithms that make [[Youtube]] and [[Tiktok]] so addicting, and apply them to a base of educational content. 
 Could this surpass traditional [[education]]?

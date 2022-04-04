@@ -7,8 +7,10 @@ sr-due: 2022-05-26
 sr-interval: 82
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Consciousness is our capacity to introspect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Consciousness is our capacity to introspect]] 
 
 Many people think that [[consciousness]] is intrinsic to [[humanity]],
 but while humans are the only ones to achieve it,

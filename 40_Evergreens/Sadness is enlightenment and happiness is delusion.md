@@ -9,8 +9,10 @@ aliases:
   - "A intelligent view of the world is hopeless so hope is a delusion"
   - "The fallacy that sadness is enlightenment and happiness is delusion"
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Sadness is enlightenment and happiness is delusion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Sadness is enlightenment and happiness is delusion]] 
 
 If a person internalizes the narrative that negative emotions are a sign of intelligence, it can warp their [[realism|realistic]] [[perception]] of the world, because [[Human's have an inability to admit that they are wrong]].
 

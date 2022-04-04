@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 40
 sr-ease: 161
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Only categorize as much as your data requires]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Only categorize as much as your data requires]] 
 
 part of:: [[Prioritize understanding over organization or categorization]]
 

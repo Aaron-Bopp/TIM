@@ -5,8 +5,10 @@ sr-due: 2022-05-01
 sr-interval: 84
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Is your self-talk bullying you or bodyguarding you]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Is your self-talk bullying you or bodyguarding you]] 
 This is a practice exercise from [[books_You and Your Gender Identity|You and Your Gender Identity by Dara Hoffman-Fox]]
 
 > With enough practice, you'll be able to tell if your [[self]]-talk is coming from an Internal Bully or from your Bodyguard. The key is to ask yourself: 

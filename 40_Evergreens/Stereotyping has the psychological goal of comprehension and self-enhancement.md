@@ -7,8 +7,10 @@ sr-due: 2022-05-05
 sr-interval: 38
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Stereotyping has the psychological goal of comprehension and self-enhancement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stereotyping has the psychological goal of comprehension and self-enhancement]] 
 
 When we meet a new person or interact with a new situation, we fill in assumed information as a part of the process of learning about them. This is a normal process, [^1] but overreliance on it can lead to negative stereotyping and [[judgement]]s. Stereotyping another groups behavior as worse than our own personal behavior or the behavior of someone we admire is a form of self-enhancement. [^2]  This behavior leads to harm*less* distinctions and harm*ful* beliefs:
 [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]

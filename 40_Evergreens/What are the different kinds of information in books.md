@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 10
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What are the different kinds of information in books]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What are the different kinds of information in books]] 
 
 - The "did you know this?"'s
 - the "what does this mean?"'s

@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 90
 sr-ease: 226
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Communities are knowledge graphs]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Communities are knowledge graphs]] 
 
 When I first started looking for a [[note writing]] system, I did what anybody would do, I googled "Best note-taking apps 2021." Of course, I immediately stumbled upon an article that listed [[Notion]] as the highest and then [[Evernote]], [[Bear]], and [[Typora]], [^1] but then I scrolled to the bottom half of the list and saw an interesting app called [[Roam Research (software)|Roam Research]]. This is where I was first introduced to the concept of [[bi-directional links]] and the idea of a [[knowledge graph]]. I ended up using Roam for about a month, and during that time I started to get hooked into the [[knowledge management|personal knowledge management]] community. I started seeing articles that mentioned [[Zettelkasten]] or talked about how life changing "How to take smart notes" was. I said to myself, "I think I'm going to have to look into those." As I started to read more about [[Zettelkasten]], I saw [[Obsidian (software)|Obsidian]] pop up more and more, and eventually stumbled across [[Bryan Jenks]]' YouTube channel. This is where I really dove in, downloaded [[Obsidian (software)|Obsidian]] and started creating a [[second brain]].
 

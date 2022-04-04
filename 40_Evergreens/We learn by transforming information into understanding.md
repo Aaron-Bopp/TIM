@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 25
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We learn by transforming information into understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We learn by transforming information into understanding]] 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYNVownzJjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

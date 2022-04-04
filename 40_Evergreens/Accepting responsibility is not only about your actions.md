@@ -9,8 +9,10 @@ sr-due: 2022-07-27
 sr-interval: 144
 sr-ease: 242
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Accepting responsibility is not only about your actions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Accepting responsibility is not only about your actions]] 
 
 %%I wish I could have ancestors that I'm proud of. I wish I could look back and see [[Culture]] and history that I could draw from. But I can't. #TO/PONDER/ME %%
 

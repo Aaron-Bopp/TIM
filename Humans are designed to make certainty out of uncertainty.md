@@ -8,8 +8,10 @@ sr-due: 2022-04-04
 sr-interval: 1
 sr-ease: 207
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans are designed to make certainty out of uncertainty]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans are designed to make certainty out of uncertainty]] 
 
 - explains:: [[Human's will find explanations for inexplainable things]]
 - explains:: [[Human's have an inability to admit that they are wrong]]

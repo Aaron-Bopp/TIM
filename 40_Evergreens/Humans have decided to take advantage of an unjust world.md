@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 24
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans have decided to take advantage of an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans have decided to take advantage of an unjust world]] 
 
 - counters:: [[Humans have decided to reject an unjust world]]
 - [[Hierarchy enables oppression]]

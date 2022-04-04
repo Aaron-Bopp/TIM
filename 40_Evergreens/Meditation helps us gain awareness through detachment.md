@@ -7,8 +7,10 @@ sr-due: 2022-05-10
 sr-interval: 36
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation helps us gain awareness through detachment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation helps us gain awareness through detachment]] 
 
 [[Buddhism is the study of happiness through detachment]] talks about how we can obtain consistent [[happiness]] through detachment.
 This detachment is a state of mind that can be created and strengthened by [[meditation]].

@@ -7,8 +7,10 @@ sr-due: 2022-07-03
 sr-interval: 91
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Living in the present moment is valuable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Living in the present moment is valuable]] 
 
 #TO/TEND/WATER 
 - [[Anxiety prevents us from living in the present]]

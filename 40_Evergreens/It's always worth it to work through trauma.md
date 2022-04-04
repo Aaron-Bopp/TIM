@@ -5,8 +5,10 @@ sr-due: 2022-07-20
 sr-interval: 121
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[It's always worth it to work through trauma]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[It's always worth it to work through trauma]] 
 
 As we work through [[trauma]], it can often feel like we are losing so much of what makes us *[[self|us]]*. There can be many factors for this. Maybe you are cutting out toxic behaviors. Maybe you are ripping away the [[We value our biggest insecurities because they protect us from the biggest threats|insecurities that protect you most]], or maybe you are loving yourself more and hating yourself less. What you are actually feeling is the chipping away of [[childhood]] [[trauma]]: [[We carry our childhood wounds into adulthood]].
 

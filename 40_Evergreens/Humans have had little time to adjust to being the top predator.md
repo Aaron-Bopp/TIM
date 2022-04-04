@@ -7,8 +7,10 @@ sr-due: 2022-05-02
 sr-interval: 28
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans have had little time to adjust to being the top predator]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans have had little time to adjust to being the top predator]] 
 
 One of the boons of [[Evolution]]'s incredibly long periods of change is that everything in an [[ecosystem]] is given time to adapt to and understand the changes in other species. [[Homo sapiens]] completely ruins this. At break neck (evolutionary) speeds we have advanced
 from scavenger's

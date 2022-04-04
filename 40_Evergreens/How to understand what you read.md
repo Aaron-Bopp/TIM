@@ -7,8 +7,10 @@ sr-due: 2022-04-20
 sr-interval: 26
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to understand what you read]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to understand what you read]] 
 
 Reading well or reading widely are not
 how you read to understand, as

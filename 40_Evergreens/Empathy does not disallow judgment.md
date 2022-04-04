@@ -5,8 +5,10 @@ sr-due: 2022-06-16
 sr-interval: 124
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Empathy does not disallow judgment]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Empathy does not disallow judgment]] 
 
 We can [[sympathy|sympathize]] with why somebody did something without excusing their actions. This is an important part of [[non-punitive justice]] and why [[Prison abolition]] is possible. We cannot hope for someone if we have [[judgement|judged]] them and if we cannot hope for someone how can we [[human advancement|advance]].
 

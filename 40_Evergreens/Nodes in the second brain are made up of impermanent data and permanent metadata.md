@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 88
 sr-ease: 223
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Nodes in the second brain are made up of impermanent data and permanent metadata]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Nodes in the second brain are made up of impermanent data and permanent metadata]] 
 
 When you create a note in a system like [[Obsidian (software)|Obsidian]], you aren't just creating a file on your computer, or writing out some text, you are creating a universally accessible node that can have as much power as you give it. The data of this node is impermanent, it can be deleted at the click of a button, but once it has become integrated into the [[second brain]] it's metadata can no longer be easily destroyed, leading to [[The fragility of information in knowledge management]]
 

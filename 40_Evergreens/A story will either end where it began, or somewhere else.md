@@ -7,8 +7,10 @@ sr-due: 2022-04-29
 sr-interval: 64
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A story will either end where it began, or somewhere else]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A story will either end where it began, or somewhere else]] 
 
 this is about change and journey in our lives
 

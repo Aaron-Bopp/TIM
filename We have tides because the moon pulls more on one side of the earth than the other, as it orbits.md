@@ -8,8 +8,10 @@ sr-due: 2022-04-04
 sr-interval: 1
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We have tides because the moon pulls more on one side of the earth than the other, as it orbits]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We have tides because the moon pulls more on one side of the earth than the other, as it orbits]] 
 
 My understanding: 
 The [[Earth]] is always rotating so at any given point there is a side of the [[Earth]] that is closer to the moon than the other.

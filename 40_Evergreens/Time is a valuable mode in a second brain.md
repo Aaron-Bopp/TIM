@@ -7,8 +7,10 @@ sr-due: 2022-06-02
 sr-interval: 83
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Time is a valuable mode in a second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Time is a valuable mode in a second brain]] 
 
 [[A healthy second brain requires a surplus of entry points]] talks about how we should have many ways to enter our [[second brain]], and one of those entry points can be time. Whether this is time that something was created, modified, or needs to be looked at again. 
 

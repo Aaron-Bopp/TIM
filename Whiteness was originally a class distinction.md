@@ -8,8 +8,10 @@ sr-due: 2022-04-04
 sr-interval: 2
 sr-ease: 244
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Whiteness was originally a class distinction]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Whiteness was originally a class distinction]] 
 
 #TO/DO/CITE 
 - part of:: [[Race is a social construct]]

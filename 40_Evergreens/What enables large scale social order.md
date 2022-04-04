@@ -7,8 +7,10 @@ sr-due: 2022-04-15
 sr-interval: 13
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What enables large scale social order]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What enables large scale social order]] 
 
 part of:: [[What maintains our social order]]
 

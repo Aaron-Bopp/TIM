@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 6
 sr-ease: 246
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Culture affects stress levels around discussing interpersonal influence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Culture affects stress levels around discussing interpersonal influence]] 
 
 > ![[books_Behave#^304866741]]
 

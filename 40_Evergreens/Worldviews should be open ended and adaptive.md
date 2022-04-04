@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 24
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Worldviews should be open ended and adaptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Worldviews should be open ended and adaptive]] 
 
 #TO/TEND/WATER 
 - explained by:: [[Hard rules create cognitive bias]] and [[Religion promotes high social control]].

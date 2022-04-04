@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What would a world without gender look like]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What would a world without gender look like]] 
 
 - Can you do no gender and still have biological sex?
 	- [[Sex is a social construct]], a categorization of biological traits. You need to have motivation for the categorization to not be made

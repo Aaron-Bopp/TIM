@@ -7,8 +7,10 @@ sr-due: 2022-04-25
 sr-interval: 24
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Fishing villages are likely the most ancient human settlement]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Fishing villages are likely the most ancient human settlement]] 
 
 [[Hunter-gathers were capable of mass cooperation]], but fishing villages were one of the few instances of permanent [[human settlement]] before [[The Agricultural Revolution]].
 

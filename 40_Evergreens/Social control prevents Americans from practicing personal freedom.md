@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 15
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Social control prevents Americans from practicing personal freedom]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social control prevents Americans from practicing personal freedom]] 
 
 You are not free to leave America whenever you want you are not free to get a job that can support your family you are not free to do so many thing because of cultural and economic barriers.
 

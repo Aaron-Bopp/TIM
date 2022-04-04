@@ -7,8 +7,10 @@ sr-due: 2022-06-04
 sr-interval: 107
 sr-ease: 221
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We will evolve when we make learning as easy as thinking]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We will evolve when we make learning as easy as thinking]] 
 
 This is the aspiration of [[My TIM]], and is reflected in it's core goals:
 [[Your second brain should be frictionless access to a curated base of knowledge]]

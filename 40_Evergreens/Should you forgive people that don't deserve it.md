@@ -7,8 +7,10 @@ sr-due: 2022-05-06
 sr-interval: 35
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Should you forgive people that don't deserve it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Should you forgive people that don't deserve it]] 
 
 Probably, if you should then 
 [[When should you forgive people who don't deserve it]]

@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 25
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Where does intrinsic value come from]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Where does intrinsic value come from]] 
 
 **intrinsic**
 belonging to a thing by its very nature; "form was treated as something intrinsic, as the very essence of the thing"- John Dewey  

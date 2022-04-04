@@ -7,8 +7,10 @@ sr-due: 2022-05-03
 sr-interval: 29
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The actual path to being a good person isn't explored by Evangelicalism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The actual path to being a good person isn't explored by Evangelicalism]] 
 
 %% This is ironic as any Evangelical will tell you they believe man is inherently evil %%
 %% #TO/DO/FIND examples of evangelicalism failing in this way. %%

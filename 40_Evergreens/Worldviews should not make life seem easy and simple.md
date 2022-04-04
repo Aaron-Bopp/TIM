@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 37
 sr-ease: 168
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Worldviews should not make life seem easy and simple]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Worldviews should not make life seem easy and simple]] 
 
 [[You will never be pushed to understand marginalization unless you are part of a marginalized group]].
 If a [[worldview]] makes life seem easy, it will shape the way you view people who are struggling.

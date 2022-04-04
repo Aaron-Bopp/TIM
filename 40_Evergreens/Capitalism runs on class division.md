@@ -7,8 +7,10 @@ sr-due: 2022-04-23
 sr-interval: 31
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Capitalism runs on class division]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Capitalism runs on class division]] 
 
 [[Capitalism]] cannot function unless the people are separated into a class of workers and class of owners. 
 Said another way,

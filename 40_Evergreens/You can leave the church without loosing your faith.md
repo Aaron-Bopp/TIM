@@ -5,8 +5,10 @@ sr-due: 2022-05-16
 sr-interval: 65
 sr-ease: 192
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[You can leave the church without loosing your faith]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[You can leave the church without loosing your faith]] 
 
 Many [[Christianity|Christians]] have developed a relationship with what they see as a very empathetic god, but when they are confronted with the horrors that the Church has put people through, they have no choice but to either reconsider their relationship with god or their relationship with the church: [[The church will fail if christians keep aligning themselves with hate instead of love]]
 

@@ -7,8 +7,10 @@ sr-due: 2022-06-11
 sr-interval: 98
 sr-ease: 200
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Your second brain should be frictionless access to a curated base of knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Your second brain should be frictionless access to a curated base of knowledge]] 
 
 > [!summary]
 > Your priorities for collecting thought in your [[second brain]] should be: 

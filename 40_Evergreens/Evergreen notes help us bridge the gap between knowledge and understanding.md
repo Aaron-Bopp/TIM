@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 42
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Evergreen notes help us bridge the gap between knowledge and understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evergreen notes help us bridge the gap between knowledge and understanding]] 
 
 There is an initial hump to understanding any concept that makes it hard to passively learn things.
 This has given people the impressions that the only way they can learn is through a structured and purposeful attacking of the problem.

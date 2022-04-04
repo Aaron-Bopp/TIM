@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 13
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Being critical helps you develop understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Being critical helps you develop understanding]] 
 
 - why:: [[Searching for THE answer is dangerous]]
 - part of:: [[Look for understanding before you look for solutions]]

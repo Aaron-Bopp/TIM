@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 15
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Oppressors invent reasoning for their oppression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Oppressors invent reasoning for their oppression]] 
 
 This is 
 because:: [[Hierarchy enables oppression]]

@@ -8,8 +8,10 @@ sr-due: 2022-05-09
 sr-interval: 107
 sr-ease: 243
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Your second brain should be an inspirational hub of creativity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Your second brain should be an inspirational hub of creativity]] 
 
 If your primary goal is to create thought, then your system should be setup in a way that prioritizes that workflow. [[Write your notes like you're planting an evergreen forest]] is one such methodology, but your purposes and your mind will influence how you set up your [[second brain]]. Your mind may gravitate towards structure and routine, or it may yearn for the freedom of spontaneous creation. Either way, the act of creating your [[knowledge management|knowledge management system]] can be used as a catalyst or conduit to create thought: [[Learning how systems work can be a gateway to creating thought]]
 

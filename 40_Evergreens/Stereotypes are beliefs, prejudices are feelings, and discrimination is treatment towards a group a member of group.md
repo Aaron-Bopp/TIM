@@ -6,8 +6,10 @@ sr-interval: 122
 sr-ease: 226
 date modified: Monday, November 1st 2021, 2:26:21 pm
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]] 
 
 - [[stereotype threat]]
 - [[Insecure material conditions increase cognitive load and reduce outcomes]]

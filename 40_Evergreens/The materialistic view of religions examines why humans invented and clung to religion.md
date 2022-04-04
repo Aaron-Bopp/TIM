@@ -5,8 +5,10 @@ sr-due: 2022-04-24
 sr-interval: 63
 sr-ease: 246
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The materialistic view of religions examines why humans invented and clung to religion]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The materialistic view of religions examines why humans invented and clung to religion]] 
 
 If god doesn't exist,
 why do we have so many [[religion]]'s,

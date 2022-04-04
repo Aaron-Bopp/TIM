@@ -7,8 +7,10 @@ sr-due: 2022-10-16
 sr-interval: 213
 sr-ease: 252
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Every person has an experience of gender]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Every person has an experience of gender]] 
 
 While [[Gender is a social construct]] it still has very real impact on our [[human experience]] due to our [[gender schema]], because
 [[Our understanding of gender begins at a very early age]], 

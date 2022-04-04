@@ -7,8 +7,10 @@ sr-due: 2022-05-06
 sr-interval: 33
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Increases in scrutiny lead to increases in anxiety]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Increases in scrutiny lead to increases in anxiety]] 
 
 [[Scrutiny]] increases and decreases throughout our life. 
 We may be more sensitive to [[scrutiny]] at different points in our life like during puberty or a new job.

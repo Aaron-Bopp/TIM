@@ -7,8 +7,10 @@ sr-due: 2022-07-19
 sr-interval: 125
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Children make wide assumptions about the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Children make wide assumptions about the world]] 
 
 This is because of [[How memory works]],
 [[Negative influences impact us more than positive influences]],

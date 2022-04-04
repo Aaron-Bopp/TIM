@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 30
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation regulates your hormones and stress physiology]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation regulates your hormones and stress physiology]] 
 
 20 minutes of [[meditation]] every day or every other day will impact your [[stress]] physiology through turning off your [[Hypothalamic Pituitary Adrenal (HPA) Axis|Hypothalamic Pituitary Adrenal Axis]] which reduce stress inducing [[hormone]]s like [[Cortisol]]. This has a variety of positive impacts to your [[immune system]] and [[brain]].
 ^[[[notes_Science of Meditation]]]

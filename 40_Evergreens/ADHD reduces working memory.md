@@ -7,8 +7,10 @@ sr-due: 2022-07-09
 sr-interval: 134
 sr-ease: 255
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[ADHD reduces working memory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[ADHD reduces working memory]] 
 
 - [[ADHD is not a lack of attention it is a misplacement of attention]]
 - [[ADHD is primarily an executive function disorder]]

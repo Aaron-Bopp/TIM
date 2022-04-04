@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 10
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hierarchy enables oppression]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Hierarchy enables oppression]] 
 
 [[Social hierarchy]] enables the imbalance of power that [[oppression]] relies on. 
 

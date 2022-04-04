@@ -5,8 +5,10 @@ sr-due: 2022-08-09
 sr-interval: 130
 sr-ease: 192
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Faith can be a useful tool for grounding yourself]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Faith can be a useful tool for grounding yourself]] 
 
 I think that [[religion]] can be a healthy way to avoid the uncertainty of not knowing the answer to [[The three main questions of life]] and can lead to a happy and fruitful life. Especially 
 because:: [[Belief helps us push through hardship]].

@@ -7,8 +7,10 @@ sr-due: 2022-05-18
 sr-interval: 50
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Gen Z uses irony to navigate post internet communication]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Gen Z uses irony to navigate post internet communication]] 
 
 [[Gen Z]] has a knack for internet [[communication]] unlike any other generation. They easily slide in and out of [[irony]], latch onto and quickly let go of the current trends and inside jokes, and perceive subtlety with ease.
 However, this new dialect is one created and used primarily on the [[internet]]. This shapes the way that it can be used.

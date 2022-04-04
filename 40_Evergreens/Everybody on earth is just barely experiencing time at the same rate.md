@@ -7,8 +7,10 @@ sr-due: 2022-05-03
 sr-interval: 43
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Everybody on earth is just barely experiencing time at the same rate]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Everybody on earth is just barely experiencing time at the same rate]] 
 
 Source:: [General Relativity: Top 05 Mishaps  - YouTube](https://www.youtube.com/watch?v=Z4oy6mnkyW4)
 

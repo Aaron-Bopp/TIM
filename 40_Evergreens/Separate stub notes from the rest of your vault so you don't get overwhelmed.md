@@ -7,8 +7,10 @@ sr-due: 2022-07-25
 sr-interval: 166
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Separate stub notes from the rest of your vault so you don't get overwhelmed]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Separate stub notes from the rest of your vault so you don't get overwhelmed]] 
 
 Creating [[stub notes]] can be a really powerful thing in a [[web of thought]]
 and is important for it to function as a [[second brain]]. 

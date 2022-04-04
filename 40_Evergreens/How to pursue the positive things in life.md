@@ -7,8 +7,10 @@ sr-due: 2022-06-04
 sr-interval: 64
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to pursue the positive things in life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to pursue the positive things in life]] 
 
 **Why do we *stall* in life**? #TO/PONDER/SOCIETY 
 

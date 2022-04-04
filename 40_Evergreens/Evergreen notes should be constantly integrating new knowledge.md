@@ -7,8 +7,10 @@ sr-due: 2022-04-12
 sr-interval: 8
 sr-ease: 239
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Evergreen notes should be constantly integrating new knowledge]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evergreen notes should be constantly integrating new knowledge]] 
 
 When first [[learning]] about a subject, you are actually likely to make notes about the largest and most general concepts first,
 because experts in those subjects are likely to share their conclusions without requiring you to understand the mechanics behind them.

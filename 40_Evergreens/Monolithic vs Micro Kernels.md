@@ -6,8 +6,10 @@ tags: created/2021/10/14, review, node/evergreen/technique
 sr-due: 2022-10-03
 sr-interval: 225
 sr-ease: 290
----
-#### [[Monolithic vs Micro Kernels]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+---> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
+#### [[Monolithic vs Micro Kernels]] 
 
 I think that in the end the question comes down to use case. 
 [[Monolithic Kernel]]s are faster and more volatile but more difficult to extend, while [[Micro Kernel]]s are slower but more robust, smaller, and easier to extend. 

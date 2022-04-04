@@ -2,8 +2,10 @@
 created: 2021-06-13
 tags: created/2021/06/13, node/topic/tool
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Templater]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Templater]] 
 
 Source Code:: https://github.com/SilentVoid13/Templater
 

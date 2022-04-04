@@ -3,12 +3,14 @@ created: 2022-03-30T19:04:15
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 3
+sr-due: 2022-04-10
+sr-interval: 6
 sr-ease: 215
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Note titles should be abstractions of the note content]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Note titles should be abstractions of the note content]] 
 
 The note title is the most important part of any note, because it is the symbol of that concept in your [[second brain]]. 
 Notes in your [[second brain]] will have varying levels of detail in line with
@@ -16,7 +18,7 @@ Notes in your [[second brain]] will have varying levels of detail in line with
 but whatever level detail it is at,
 the note title should capture the concept that note is about.
 The only way to do this is through [[abstraction]]. 
-Your not title needs to be the most concise way of conveying what the note is about and means. 
+Your note title needs to be the most concise way of conveying what the note is about and means without loosing the meaning of the note. 
 
 ### <hr class="footnote"/>
 

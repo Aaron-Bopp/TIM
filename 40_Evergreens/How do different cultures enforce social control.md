@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 2
 sr-ease: 202
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How do different cultures enforce social control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How do different cultures enforce social control]] 
 
 Even if [[Most cultural differences are rooted in material differences]],
 [[Once hierarchy is in place vested interests will keep it in place]].

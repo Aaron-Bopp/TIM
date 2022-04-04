@@ -7,8 +7,10 @@ sr-due: 2022-04-19
 sr-interval: 22
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Prioritize understanding over organization or categorization]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Prioritize understanding over organization or categorization]] 
 
 > When you think in categories, you underestimate how different two facts are when they fall in the same category. When you think in categories, you overestimate how different they are when there happens to be a boundary in between them. And when you pay attention to categorical boundaries, you don't see big pictures. 
 > ^[[[course_Human Behavioral Biology]]]

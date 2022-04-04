@@ -5,8 +5,10 @@ aliases:
 - source
 - sources
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[source notes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[source notes]] 
 
 A source note is made up of notes taken while consuming some form of source such as a book, article, video, or podcast. A source note does not contain thoughts or ideas based on the source, just an organization of interesting moments and thoughts within the source.
 

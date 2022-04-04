@@ -7,8 +7,10 @@ sr-due: 2022-05-13
 sr-interval: 50
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation helps us detach negative attachments]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation helps us detach negative attachments]] 
 
 First we need to understand that [[Our brain actively inhibits us from processing repressed emotions]].
 This can lead to a variety of problems like carrying [[childhood]] [[trauma]] into adulthood,

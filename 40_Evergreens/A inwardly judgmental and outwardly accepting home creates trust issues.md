@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 42
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A inwardly judgmental and outwardly accepting home creates trust issues]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A inwardly judgmental and outwardly accepting home creates trust issues]] 
 
 #TO/TEND/WEED 
 When I was a kid I grew up in a very [[religion|religious]] household,

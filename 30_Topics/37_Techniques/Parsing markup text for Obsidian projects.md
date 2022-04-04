@@ -7,8 +7,10 @@ sr-due: 2022-06-03
 sr-interval: 90
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Parsing markup text for Obsidian projects]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Parsing markup text for Obsidian projects]] 
 
 When you are [[Converting existing file formats to plaintext]], you need to be considering the medium for which you are converting them.
 If you are converting them to use in [[Obsidian (software)|Obsidian]], there are several considerations you will want to make.

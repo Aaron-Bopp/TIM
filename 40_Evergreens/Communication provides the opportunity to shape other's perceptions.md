@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 24
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Communication provides the opportunity to shape other's perceptions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Communication provides the opportunity to shape other's perceptions]] 
 
 Shaping perceptions allows you to shape people's [[behavior]].
 

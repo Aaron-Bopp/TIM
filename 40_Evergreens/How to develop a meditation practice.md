@@ -7,8 +7,10 @@ sr-due: 2022-04-24
 sr-interval: 50
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to develop a meditation practice]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[How to develop a meditation practice]] 
 
 [[Consciousness is our capacity to introspect]], but the [[diversity]] of our experiences means that the ways that [[meditation]] will help us be introspective will differ.
 

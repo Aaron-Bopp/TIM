@@ -7,8 +7,10 @@ sr-due: 2022-07-31
 sr-interval: 155
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]] 
 
 With long form media you can take people on journeys to your conclusion, but with short form media you let people into your journey.
 

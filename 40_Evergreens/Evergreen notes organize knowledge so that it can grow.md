@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 61
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Evergreen notes organize knowledge so that it can grow]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evergreen notes organize knowledge so that it can grow]] 
 
 [[Evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.
 If you have a concept, write it down and see what you can link to it.

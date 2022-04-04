@@ -5,8 +5,10 @@ sr-due: 2022-05-11
 sr-interval: 53
 sr-ease: 142
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Your anxiety knows your insecurities better than you do]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Your anxiety knows your insecurities better than you do]] 
 
 When you are feeling [[anxiety]] it can often be very difficult to understand where the [[anxiety]] is coming from. In some situations it can be obvious (skydiving, flying, having a child, buying a house) while at other times it may seem obvious but be very nuanced, and it may feel impossible to discover the source of the [[anxiety]].
 

@@ -7,8 +7,10 @@ sr-due: 2022-05-20
 sr-interval: 65
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Karma is based in the law of cause and effect]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Karma is based in the law of cause and effect]] 
 
 - #TO/PONDER/ME how this has shaped my [[worldview]] [[Buddhism is the study of happiness through detachment]]
 - [ ] #TO/TEND/CONNECT [[The materialistic view of religions examines why humans invented and clung to religion]]

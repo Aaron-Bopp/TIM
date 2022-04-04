@@ -7,8 +7,10 @@ sr-due: 2022-05-14
 sr-interval: 40
 sr-ease: 199
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Trans people will look for any other solution than being trans]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Trans people will look for any other solution than being trans]] 
 
 - result of:: [[Self-repression is the most natural response for trans people in strongly gendered environments]]
 - leads to:: [[Why representation in media is important]]

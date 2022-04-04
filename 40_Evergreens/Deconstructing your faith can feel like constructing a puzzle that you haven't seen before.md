@@ -5,8 +5,10 @@ sr-due: 2022-04-05
 sr-interval: 83
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Deconstructing your faith can feel like constructing a puzzle that you haven't seen before]] 
 
 > I feel I am a giant box of puzzle pieces, but the box is full of like 20 puzzles and I have to find the right pieces for the right puzzle, without knowing which puzzle is the right one.
 >

@@ -7,8 +7,10 @@ sr-due: 2022-06-01
 sr-interval: 61
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Crows can only count to three]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Crows can only count to three]] 
 
 source:: [IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide | by Cody Burleson | Feb, 2022 | Medium](https://cody-burleson.medium.com/ia-for-pkm-crows-camels-concepts-and-the-cognitive-divide-7523c0bfa5eb)
 

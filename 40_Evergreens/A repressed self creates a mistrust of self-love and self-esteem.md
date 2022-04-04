@@ -5,8 +5,10 @@ sr-due: 2022-05-03
 sr-interval: 32
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[A repressed self creates a mistrust of self-love and self-esteem]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[A repressed self creates a mistrust of self-love and self-esteem]] 
 
 If your sense of self is [[repressed]] then it is unlikely that you have ever been able to interact with the world in a way that works.
 This means that you haven't developed an [[identity]] that lines up with your true [[self]] because

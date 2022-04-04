@@ -7,8 +7,10 @@ sr-due: 2022-06-09
 sr-interval: 97
 sr-ease: 211
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Republicans have become a true opposition party]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Republicans have become a true opposition party]] 
 
 No [[Republican]] since and including [[Reagan]] has balanced the budget or even reduced the deficit, but they have impeded progress on most everything in the name of it. 
 

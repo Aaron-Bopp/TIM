@@ -7,8 +7,10 @@ sr-due: 2022-04-05
 sr-interval: 14
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Gut health directly impacts mental health]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Gut health directly impacts mental health]] 
 
 This phenomena is now being referred to as the [[brain-gut axis]],
 but this has been a practice of [[Ayurveda]] for millennia.

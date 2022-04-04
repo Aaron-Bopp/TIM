@@ -7,8 +7,10 @@ sr-due: 2022-06-07
 sr-interval: 110
 sr-ease: 232
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Anti-government stances lead to economic crashes]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Anti-government stances lead to economic crashes]] 
 
 [[Reagan]]'s anti-[[government]] stance lead to a crash in 1982 do to over-spending and over-cutting (Lecture). This crash could have been worse but it was saved by regulations put in place after the [[great depression]]. The book gives credit to three things for this economic recovery: [[government]] spending, lower interest rates, and tax cuts. [^1]
 

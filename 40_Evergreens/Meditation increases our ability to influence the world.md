@@ -7,8 +7,10 @@ sr-due: 2022-04-14
 sr-interval: 48
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation increases our ability to influence the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation increases our ability to influence the world]] 
 
 If you want to [[Be the change you want to see in the world]], 
 [[How to develop a meditation practice]] could be a way for you to achieve that. 

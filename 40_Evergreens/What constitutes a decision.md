@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 8
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What constitutes a decision]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[What constitutes a decision]] 
 
 part of:: [[Do we have free will]]
 

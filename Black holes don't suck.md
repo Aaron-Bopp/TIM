@@ -8,8 +8,10 @@ sr-due: 2022-04-07
 sr-interval: 4
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Black holes don't suck]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Black holes don't suck]] 
 
 
 > ![[books_What Is Relativity#^299918287]]

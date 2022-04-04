@@ -7,8 +7,10 @@ sr-due: 2022-04-22
 sr-interval: 75
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Evangelicalism has commodified faith for profit]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Evangelicalism has commodified faith for profit]] 
 
 [[Evangelicalism]] is like a crooked salesman. They won't stop telling you how all you need to do is pray one little prayer will change your entire life until you walk away or give in.
 "Have [[faith]] and you will be saved. [[belief|Believe]] in the lord god and he will make your pain go away. All you need is one little prayer and your life will be so much better!"

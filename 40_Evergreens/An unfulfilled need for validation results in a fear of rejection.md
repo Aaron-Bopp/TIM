@@ -7,8 +7,10 @@ sr-due: 2022-04-21
 sr-interval: 36
 sr-ease: 186
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[An unfulfilled need for validation results in a fear of rejection]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[An unfulfilled need for validation results in a fear of rejection]] 
 
 We seek out validation from other's because it reinforces our [[self-perception]]. 
 If we don't have a strong sense of [[self-image]] or [[self-love|self-worth]],

@@ -7,8 +7,10 @@ sr-due: 2022-06-26
 sr-interval: 86
 sr-ease: 250
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Why I don't believe in simulation theory]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Why I don't believe in simulation theory]] 
 
 #TO/TEND/WATER summary of [[simulation theory]]
 

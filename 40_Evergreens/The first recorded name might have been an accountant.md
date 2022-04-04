@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 13
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The first recorded name might have been an accountant]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The first recorded name might have been an accountant]] 
 
 enabled by:: [[Sumerians invented writing to store large amounts of data]] 
 example of:: [[Empires are born through conquest and maintained by bureaucracy]]

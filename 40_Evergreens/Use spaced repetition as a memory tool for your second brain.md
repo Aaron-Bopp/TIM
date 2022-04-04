@@ -7,8 +7,10 @@ sr-due: 2022-06-05
 sr-interval: 88
 sr-ease: 179
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Use spaced repetition as a memory tool for your second brain]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Use spaced repetition as a memory tool for your second brain]] 
 
 [[Nodes in the second brain are an abstraction of our first brain]], but there are some key differences, one of them being the way that we memorize things.
 We remember things by connecting them to different contexts,

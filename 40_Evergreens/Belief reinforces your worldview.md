@@ -7,8 +7,10 @@ sr-due: 2022-04-06
 sr-interval: 5
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Belief reinforces your worldview]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Belief reinforces your worldview]] 
 
 Depending on your worldview this
 results in:: [[Belief helps us push through hardship]] or [[Sadness is enlightenment and happiness is delusion]].

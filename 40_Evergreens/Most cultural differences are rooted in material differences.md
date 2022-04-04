@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 5
 sr-ease: 228
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Most cultural differences are rooted in material differences]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Most cultural differences are rooted in material differences]] 
 
 Humans are incredibly similar biologically. Other than the variation that is inherent in our species, there isn't any part of sect of [[humanity]] that is fundamentally different than any other part. However, we do find statistically significant variation in different populations.
 While there have been many explanations for these differences through [[history]], 

@@ -7,8 +7,10 @@ sr-due: 2022-04-29
 sr-interval: 49
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Names matter because they effect people's perception and understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Names matter because they effect people's perception and understanding]] 
 
 How something is named effects people's [[perception]] of it.
 

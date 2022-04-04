@@ -5,8 +5,10 @@ sr-due: 2022-04-20
 sr-interval: 33
 sr-ease: 194
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Most anxiety isn't irrational it's just overcompensation]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Most anxiety isn't irrational it's just overcompensation]] 
 
 %%
 #TO/TEND/MULCH 

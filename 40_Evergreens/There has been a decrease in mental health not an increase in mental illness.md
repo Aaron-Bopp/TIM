@@ -7,8 +7,10 @@ sr-due: 2022-05-02
 sr-interval: 31
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[There has been a decrease in mental health not an increase in mental illness]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[There has been a decrease in mental health not an increase in mental illness]] 
 
 Many people are disturbed by the increase in diagnosis of [[disorder]]'s like [[GAD|Generalized Anxiety Disorder]] and [[SAD|Social Anxiety Disorder]], but the amount of people with these disorders likely has not changed. 
 Instead the increase in access to medical terminology and an increase in [[anxiety]] culturally has lead to more people recognizing and looking help for these symptoms.

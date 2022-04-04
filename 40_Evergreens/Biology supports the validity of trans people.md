@@ -7,8 +7,10 @@ sr-due: 2022-06-10
 sr-interval: 146
 sr-ease: 252
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Biology supports the validity of trans people]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Biology supports the validity of trans people]] 
 
 > Present evidence seems to suggest that a person’s [[gender]] is established during gestation while the [[cerebral cortex]] of the brain is forming
 > 

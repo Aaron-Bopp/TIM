@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 40
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The more mistakes you've fixed the more bad decisions you can afford]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The more mistakes you've fixed the more bad decisions you can afford]] 
 
 ![['Don't be the reason that rules exist' - Nathan Eloe#qoute]]
 

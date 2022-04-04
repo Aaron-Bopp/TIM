@@ -7,8 +7,10 @@ sr-due: 2022-05-04
 sr-interval: 32
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Motivation and obsession are indistinguishable to an outside perspective]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Motivation and obsession are indistinguishable to an outside perspective]] 
 
 What is the inner feeling behind [[motivation]]? What is the inner feeling behind [[obsession]]?
 

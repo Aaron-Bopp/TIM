@@ -7,8 +7,10 @@ sr-due: 2022-04-08
 sr-interval: 6
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Religion promotes high social control]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Religion promotes high social control]] 
 
 This allows [[religion]] to create either very positive or very negative behaviors in groups.
 

@@ -7,8 +7,10 @@ sr-due: 2022-05-05
 sr-interval: 55
 sr-ease: 165
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We carry our childhood wounds into adulthood]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We carry our childhood wounds into adulthood]] 
 
 [[Children make wide assumptions about the world]] and 
 negative experiences cause us to make the largest assumptions 

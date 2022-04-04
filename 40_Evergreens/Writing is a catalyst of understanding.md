@@ -7,8 +7,10 @@ sr-due: 2022-04-25
 sr-interval: 45
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Writing is a catalyst of understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Writing is a catalyst of understanding]] 
 
 Writing requires you to engage with the content on a higher level by introducing positive [[friction]]:
 [[Good friction causes the brain to engage]]

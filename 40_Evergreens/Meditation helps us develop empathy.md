@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 43
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Meditation helps us develop empathy]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Meditation helps us develop empathy]] 
 
 This has been studied but isn't a solid conclusion.
 ^[[[notes_Science of Meditation]]]

@@ -7,8 +7,10 @@ sr-due: 2022-07-05
 sr-interval: 104
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Look for understanding before you look for solutions]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Look for understanding before you look for solutions]] 
 
 Solutions oriented people are too often focused on sharing rather than listening,
 and instead of actually engaging with the [[material conditions]] of the situation

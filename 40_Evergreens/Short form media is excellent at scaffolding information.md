@@ -7,8 +7,10 @@ sr-due: 2022-04-18
 sr-interval: 16
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Short form media is excellent at scaffolding information]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Short form media is excellent at scaffolding information]] 
 
 This is counterintuitive, but is shown by the [[success]] of educational content on [[Youtube]] and [[Tiktok]]. 
 

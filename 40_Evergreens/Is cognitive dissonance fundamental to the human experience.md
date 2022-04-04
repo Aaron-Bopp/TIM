@@ -7,8 +7,10 @@ sr-due: 2022-05-04
 sr-interval: 67
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Is cognitive dissonance fundamental to the human experience]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Is cognitive dissonance fundamental to the human experience]] 
 
 Our brains are not designed for correcting the dissonance between thoughts and conclusions, this is 
 why:: [[Human's will find explanations for inexplainable things]].

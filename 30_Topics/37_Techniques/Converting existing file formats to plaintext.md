@@ -7,8 +7,10 @@ sr-due: 2022-04-16
 sr-interval: 63
 sr-ease: 206
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-# [[Converting existing file formats to plaintext]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+# [[Converting existing file formats to plaintext]] 
 
 Most text editing program have some way of formatting text. The two most common are [[markup]] text formatting and [[rich text formatting]]. [[rich text formatting]] usually relies on a proprietary software, i.e. Word, Pages, etc., but [[markup]] is designed to work with plaintext that can be read by any computer without specific software.
 

@@ -5,8 +5,10 @@ sr-due: 2022-10-01
 sr-interval: 189
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Tips for concentration]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Tips for concentration]] 
 
 Concentration is limited resource in the modern world. Cause for lack of concentration range from simple distraction, to illness's like [[depression]], to [[neurodiversity|neurodiverse]] minds.
 ^[[[ADHD is not a lack of attention it is a misplacement of attention]]]

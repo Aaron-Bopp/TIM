@@ -5,8 +5,10 @@ sr-due: 2022-04-11
 sr-interval: 75
 sr-ease: 272
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] 
 
 One of the core belief's of [[Christianity]] is that we have [[free will]]. This is important for a couple of reasons, we must have the [[free will]] to choose God's [[love]], and we must have the [[free will]] to choose to sin. This is the basis of the genesis story and our "sin nature." This belief is also the main reason [[Fear of hell is baked into Christianity for vulnerable believers]]. Hell is allowed to be such a horrible place because you choose to be in it by refusing god's grace. 
 ^[This is a very complicated relationship, #TO/PONDER relationship with [[Do we have free will]]]

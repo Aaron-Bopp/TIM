@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 70
 sr-ease: 188
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Faith is an abstraction of cognitive dissonance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Faith is an abstraction of cognitive dissonance]] 
 
 > [!summary]
 > 

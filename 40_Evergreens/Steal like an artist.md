@@ -7,8 +7,10 @@ sr-due: 2022-05-07
 sr-interval: 51
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Steal like an artist]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Steal like an artist]] 
 
 This is perhaps stealing in the best way possible: in order to create something new. Something that is larger than the sum of it's parts. Perhaps this type of theft is really present across all realms of thought that are truly productive, but art is by far the one that is most recognized for it.
 

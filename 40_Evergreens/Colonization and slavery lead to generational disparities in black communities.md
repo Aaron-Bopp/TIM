@@ -7,8 +7,10 @@ sr-due: 2022-04-27
 sr-interval: 47
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Colonization and slavery lead to generational disparities in black communities]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Colonization and slavery lead to generational disparities in black communities]] 
 
 - [[Race is a social construct]]
 - [[You can't blame people for failing to rise above their circumstances]]

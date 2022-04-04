@@ -7,8 +7,10 @@ sr-due: 2022-04-13
 sr-interval: 12
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Social order is built off of a shared belief in an imagined reality]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social order is built off of a shared belief in an imagined reality]] 
 
 > ![[books_Sapiens#294248534q]]
 

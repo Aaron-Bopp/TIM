@@ -7,8 +7,10 @@ sr-due: 2022-05-21
 sr-interval: 66
 sr-ease: 175
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Identity is your understanding of yourself vs your interaction with the world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Identity is your understanding of yourself vs your interaction with the world]] 
 
 At the core of your [[identity]] is how you view yourself ([[self-image]]) vs how you understand the world's view of you ([[self-perception]]).
 If you have a weak [[self-image]] then how the world views you will completely win, resulting in little to no sense of [[self]]

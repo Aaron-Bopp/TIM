@@ -5,8 +5,10 @@ sr-due: 2022-05-21
 sr-interval: 104
 sr-ease: 270
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Convert words docs (docx) to markdown (md) with powershell and pandoc]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Convert words docs (docx) to markdown (md) with powershell and pandoc]] 
 
 This will convert all word docs in a folder (non-recursive) to Markdown when used in windows [[powershell]].
 

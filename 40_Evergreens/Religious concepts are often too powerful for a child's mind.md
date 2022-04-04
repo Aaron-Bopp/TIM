@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 54
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Religious concepts are often too powerful for a child's mind]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Religious concepts are often too powerful for a child's mind]] 
 
 [[Fear of hell is baked into Christianity for vulnerable believers]], if it is instilled from a young age that your eternal fate is at stake. %% #TO/TEND/WEED %%
 ^[[[Children will not question what is modeled for them unless they are taught to]]]

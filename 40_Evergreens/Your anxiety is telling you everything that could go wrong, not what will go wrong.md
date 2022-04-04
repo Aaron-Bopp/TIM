@@ -5,8 +5,10 @@ sr-due: 2022-05-09
 sr-interval: 38
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Your anxiety is telling you everything that could go wrong, not what will go wrong]] 
 
 [[You don't want to jump off the cliff you're just afraid of falling]], you don't want to drive into traffic you're just staying vigilant, those thoughts are just warning signs from the [[brain]].
 Really all anxious thoughts are just warning signs

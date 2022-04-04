@@ -7,8 +7,10 @@ sr-due: 2022-04-27
 sr-interval: 41
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[The immune system is adaptive]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[The immune system is adaptive]] 
 
 This is because it is a highly active microcosm of [[Evolution]]: [[Evolution can create systems capable of natural selection]]
 

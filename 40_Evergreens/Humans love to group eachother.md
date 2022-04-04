@@ -7,8 +7,10 @@ sr-due: 2022-05-03
 sr-interval: 68
 sr-ease: 199
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans love to group eachother]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans love to group eachother]] 
 
 [[There is a limit to the size of a group ordered purely by personal communication]]
 

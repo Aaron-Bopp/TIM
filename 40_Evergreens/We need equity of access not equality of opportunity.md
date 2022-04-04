@@ -7,8 +7,10 @@ sr-due: 2022-04-11
 sr-interval: 14
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[We need equity of access not equality of opportunity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[We need equity of access not equality of opportunity]] 
 
 > Talent exists everywhere, opportunity does not.
 > 

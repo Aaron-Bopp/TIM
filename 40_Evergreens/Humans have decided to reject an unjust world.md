@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 18
 sr-ease: 130
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans have decided to reject an unjust world]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans have decided to reject an unjust world]] 
 
 We have decided to flatly refuse to believe that there is no purpose to life, no justice in death, and no hope for the future. Whether these [[belief]]s are true or not does not matter, because in the grand scheme of things it is only our resolve to push forward action by action that matters. 
 

@@ -7,8 +7,10 @@ sr-due: 2022-05-01
 sr-interval: 30
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans are a product of evolution]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans are a product of evolution]] 
 
 If we see [[human behavior]] manifesting regardless of upbringing and in multiple environment's,
 we can start to look for a evolutionary explanation for that [[behavior]].

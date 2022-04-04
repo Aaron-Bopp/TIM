@@ -7,8 +7,10 @@ sr-due: 2022-04-09
 sr-interval: 36
 sr-ease: 194
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Studies show early acceptance of trans children normalizes mental health outcomes with peers]] 
 
 The authors state that their research supports the presence of three *trajectories* of [[gender identity]] development in their [[Transgender people]] sample. 
 ^[[[Sansfacon et al. (2020) - I Knew That I Wasn't Cis 1.pdf]] ]

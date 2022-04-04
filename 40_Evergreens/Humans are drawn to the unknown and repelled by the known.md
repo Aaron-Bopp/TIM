@@ -7,8 +7,10 @@ sr-due: 2022-05-29
 sr-interval: 58
 sr-ease: 170
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans are drawn to the unknown and repelled by the known]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans are drawn to the unknown and repelled by the known]] 
 
 > ![[books_Darwin's Cathedral#294094913q]]
 

@@ -5,8 +5,10 @@ sr-due: 2022-06-04
 sr-interval: 69
 sr-ease: 184
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[My worldview is not about conversion it is about acceptance]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[My worldview is not about conversion it is about acceptance]] 
 
 While I am an atheist, I don't really try to convert people, I still have lots of good relationships with Christians, and I still see value in [[faith]]. When I discuss [[belief]] and [[worldview]] with other people, I want to learn about how they see and understand the world so that I can better understand them and update my [[worldview]].
 

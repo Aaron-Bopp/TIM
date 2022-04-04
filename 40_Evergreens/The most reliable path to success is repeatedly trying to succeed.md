@@ -6,8 +6,10 @@ tags: created/2021/10/23, review, node/evergreen/claim
 sr-due: 2022-05-04
 sr-interval: 102
 sr-ease: 230
----
-#### [[The most reliable path to success is repeatedly trying to succeed]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+---> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
+#### [[The most reliable path to success is repeatedly trying to succeed]] 
 
 > Do it 100 times 
 ^[https://twitter.com/visakanv/status/1330985556872818689?s=20]

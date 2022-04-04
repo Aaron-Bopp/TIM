@@ -7,8 +7,10 @@ sr-due: 2022-06-06
 sr-interval: 70
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Republican voters do not hold their leaders accountable]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Republican voters do not hold their leaders accountable]] 
 
 This is a fact of the [[Rise of Modern Conservatism]] and 
 part of:: how [[Ronald Reagan invented modern conservatism]].

@@ -5,8 +5,10 @@ sr-due: 2022-04-08
 sr-interval: 7
 sr-ease: 224
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Knowledge of an unjust world is painful]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Knowledge of an unjust world is painful]] 
 
 This 
 answers:: [[What is the cognitive effect of living in an unjust world]],

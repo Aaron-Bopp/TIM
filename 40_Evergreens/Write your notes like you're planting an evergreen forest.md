@@ -7,8 +7,10 @@ sr-due: 2022-07-10
 sr-interval: 121
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Write your notes like you're planting an evergreen forest]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Write your notes like you're planting an evergreen forest]] 
 
 Knowledge changes over time and so do we, so why do we expect our notes to stay the same forever. It is impossible to know everything about anything, so how can we expect that of ourselves when we are writing. If you want to have a [[knowledge management|knowledge management system]] full of complex thought, you need to start with the seeds. 
 [[Fear is the number one hindrance to trying]] so 

@@ -7,8 +7,10 @@ sr-due: 2022-04-10
 sr-interval: 9
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans are addicted to understanding]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans are addicted to understanding]] 
 
 - part of:: [[Humans transfer their wonder into creativity]]
 - explained by:: [[Wonder motivates us to interact with the world around us]]

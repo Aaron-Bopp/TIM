@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 20
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Social anxiety is a fear of social consequence]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Social anxiety is a fear of social consequence]] 
 
 #TO/TEND/GRAFT 
 - [[Increases in scrutiny lead to increases in anxiety]]

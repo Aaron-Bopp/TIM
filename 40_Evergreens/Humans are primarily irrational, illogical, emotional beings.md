@@ -7,8 +7,10 @@ sr-due: 2022-05-08
 sr-interval: 105
 sr-ease: 231
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Humans are primarily irrational, illogical, emotional beings]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Humans are primarily irrational, illogical, emotional beings]] 
 
 The [[human experience]] is one that cannot be distilled into any small set of elements,
 but over time general patterns and behaviors can be observed,

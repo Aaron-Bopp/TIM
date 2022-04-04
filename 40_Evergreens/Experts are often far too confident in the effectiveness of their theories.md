@@ -7,8 +7,10 @@ sr-due: 2022-05-10
 sr-interval: 46
 sr-ease: 210
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Experts are often far too confident in the effectiveness of their theories]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Experts are often far too confident in the effectiveness of their theories]] 
 
 Many would say that [[Evolution]] is the greatest idea ever invented,
 due to the many complex systems it has described.

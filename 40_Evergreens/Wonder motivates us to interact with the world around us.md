@@ -7,8 +7,10 @@ sr-due: 2022-04-07
 sr-interval: 6
 sr-ease: 190
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Wonder motivates us to interact with the world around us]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Wonder motivates us to interact with the world around us]] 
 
 From birth we are desperate for understanding of the world around us, 
 often the cries of child can be solved just by giving them something new to look at. 

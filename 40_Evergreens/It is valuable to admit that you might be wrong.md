@@ -7,8 +7,10 @@ sr-due: 2022-04-04
 sr-interval: 26
 sr-ease: 150
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[It is valuable to admit that you might be wrong]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[It is valuable to admit that you might be wrong]] 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=6711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 

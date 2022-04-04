@@ -7,8 +7,10 @@ sr-due: 2022-04-25
 sr-interval: 87
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Race is a social construct]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Race is a social construct]] 
 
 - [[Race is a social construct]]
 - [[The black identity has evolved past it's political origins]]

@@ -7,8 +7,10 @@ sr-due: 2022-05-29
 sr-interval: 121
 sr-ease: 243
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Buddhism outlines a path and practice to end suffering, but does not promise it]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Buddhism outlines a path and practice to end suffering, but does not promise it]] 
 
 If we believe [[Hope is not optimism it is a practice for producing change]] and [[Knowledge of an unjust world is painful]], then our only conclusion can be that [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 

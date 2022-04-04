@@ -7,8 +7,10 @@ sr-due: 2022-04-17
 sr-interval: 22
 sr-ease: 230
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Cooking allowed prehistoric humans to spend less energy on digesting]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
+#### [[Cooking allowed prehistoric humans to spend less energy on digesting]] 
 
 In order to digest unprocessed plant and animal matter you need to have a long and powerful intestinal tract and spend lots of energy chewing. This is a feature of many species from cows to chimpanzee's, but not of the chimpanzee's close relative, humans. This adaptation may be linked to cooking and and have allowed for larger brains.
 
