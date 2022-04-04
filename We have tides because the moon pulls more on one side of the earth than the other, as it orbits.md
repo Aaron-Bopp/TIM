@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, review, node/evergreen/example/fun
-sr-due: 2022-04-04
-sr-interval: 1
+sr-due: 2022-04-06
+sr-interval: 2
 sr-ease: 230
 ---
 > [!infobox]
@@ -14,6 +14,7 @@ sr-ease: 230
 #### [[We have tides because the moon pulls more on one side of the earth than the other, as it orbits]] 
 
 My understanding: 
+
 The [[Earth]] is always rotating so at any given point there is a side of the [[Earth]] that is closer to the moon than the other.
 
 Due to [[gravity]],

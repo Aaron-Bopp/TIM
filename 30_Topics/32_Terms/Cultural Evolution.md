@@ -3,8 +3,8 @@ created: 2022-03-03T09:34:08
 aliases:
   - null
 tags: created/2022/03/03, review, node/topic/term
-sr-due: 2022-04-02
-sr-interval: 7
+sr-due: 2022-04-22
+sr-interval: 18
 sr-ease: 214
 ---
 > [!infobox]
@@ -24,22 +24,29 @@ In [[books_Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] descri
 3. These mechanisms can be distributed among many individuals ^[[[books_Darwin's Cathedral#293875894q]]]
 4. Cultural evolution takes place at the group level ^[[[books_Darwin's Cathedral#293875895q]]] 
 
-
 ^68bb63
 
 He concludes that [[Cultural evolution is not confined to the slow process of genetic evolution]]
 
-> ![[books_Sapiens#294931431q]]
-
-**See**:: [[Evolution]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+> ![[books_Sapiens#294931431q]]

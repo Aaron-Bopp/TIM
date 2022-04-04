@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/claim, ever/sprout
-sr-due: 2022-04-04
-sr-interval: 2
+sr-due: 2022-04-09
+sr-interval: 5
 sr-ease: 225
 ---
 
@@ -15,8 +15,6 @@ sr-ease: 225
 > **about**:: [[social control]] and [[religion]]
 > 
 > #EVER/SPROUT `$=customJS.dv_funcs.mentionedIn(dv)`
-> [!infobox]
-`$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Religion externalizes social control mechanisms]] 
 

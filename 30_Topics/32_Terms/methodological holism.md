@@ -3,14 +3,16 @@ created: 2022-03-26T14:05:26
 aliases:
   - holism in science
 tags: created/2022/03/26, node/topic/term
-sr-due: 2022-04-02
-sr-interval: 6
+sr-due: 2022-04-21
+sr-interval: 17
 sr-ease: 231
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[methodological holism]]</s>
+
+Part of:: [[Holism]]
 
 > [!wikipedia] [holism in science](https://en.wikipedia.org/wiki/Holism%20in%20science)
 > 
@@ -23,7 +25,6 @@ In contrast to:: [[methodological individualism]]
 
 Similarly:: [[emergence]]
 
-Part of:: [[Holism]]
 
 ##### ^dataviews
 

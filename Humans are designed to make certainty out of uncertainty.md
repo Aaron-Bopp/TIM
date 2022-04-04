@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 1
+sr-due: 2022-04-06
+sr-interval: 2
 sr-ease: 207
 ---
 > [!infobox]
@@ -17,7 +17,6 @@ sr-ease: 207
 - explains:: [[Human's have an inability to admit that they are wrong]]
 - explains:: [[Humans long to know what to do]]
 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -27,4 +26,5 @@ sr-ease: 207
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
+
 ![[video_Existential Dread#Our brains design]]

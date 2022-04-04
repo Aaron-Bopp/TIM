@@ -3,8 +3,8 @@ created: 2021-12-08
 aliases:
   - null
 tags: created/2021/12/08, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 2
+sr-due: 2022-04-08
+sr-interval: 4
 sr-ease: 221
 ---
 > [!infobox]
@@ -14,12 +14,13 @@ sr-ease: 221
 
 Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[motivation]], but it is natural for someone who has been being chased for their entire life to stop for a breather once they realize they are safe.
 
-The problem is that you have been running for your entire life just and now that you are taking a break everybody else  looks at you like you are a failure for not keeping up up with your "potential".
+The problem is that you have been running for your entire life just and now that you are taking a break everybody else looks at you like you are a failure for not keeping up up with your "potential".
 
-- required for:: [[Neurodiverse people can use their brain to their advantage]] only if they are able to foster self-love
-- result of:: [[Neurodiverse people are siloed into systems that work against them]]
-- [[Neurodivergent people cannot stop their brain from solving problems]] often contributes to this. We put our brain's to work people-pleasing instead of prioritizing ourselves.
-- [[How can parent's best help their children]], set their children up with proper self-love and respect early on
+- [[neurodiversity]]
+- part of:: [[Neurodiverse people are siloed into systems that work against them]]
+	- [[Neurodiverse people can use their brain to their advantage]] *sustainably* only if they are able to foster [[self-love]]
+	- [[Neurodivergent people cannot stop their brain from solving problems]] often contributes to this. We put our brain's to work people-pleasing instead of prioritizing ourselves.
+- part of:: [[How can parent's best help their children]], set their children up with proper self-love and respect early on
 - part of:: [[How to pursue the positive things in life]]
 
 ### <hr class="footnote"/>

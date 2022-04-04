@@ -32,3 +32,7 @@ But how does this interact with [[Knowledge of an unjust world is painful]]
 
 **Topics**:: [[Life principles]], [[hope]], [[hopelessness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvYcunuF3Eo?start=6711" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 

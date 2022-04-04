@@ -8,8 +8,8 @@ aliases:
   - light-years
   - light years
 tags: created/2022/04/03, node/topic/term
-sr-due: 2022-04-03
-sr-interval: 2
+sr-due: 2022-04-10
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,8 +20,6 @@ sr-ease: 231
 > 
 > A light-year, alternatively spelled lightyear, is a large unit of length used to express astronomical distances and is equivalent to about 9.46 trillion kilometers (9.46×1012 km), or 5.88 trillion miles (5.88×1012 mi). As defined by the International Astronomical Union (IAU), a light-year is the distance that light travels in a vacuum in one Julian year (365.25 days). Because it includes the time-measurement word "year", the term light-year is sometimes misinterpreted as a unit of time.The light-year is most often used when expressing distances to stars and other distances on a galactic scale, especially in non-specialist contexts and popular science publications. The unit most commonly used in professional astronomy is the parsec (symbol: pc, about 3.26 light-years) which derives from astrometry; it is the distance at which one astronomical unit subtends an angle of one second of arc.
 >
-
-
 
 ##### ^dataviews
 
