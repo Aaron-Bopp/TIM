@@ -3,40 +3,29 @@ created: 2021-10-19
 aliases:
   - Evangelicalism doesn't explore the path to being a good person
 tags: created/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 22
+sr-due: 2022-05-03
+sr-interval: 29
 sr-ease: 130
 ---
 
 #### [[The actual path to being a good person isn't explored by Evangelicalism]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 %% This is ironic as any Evangelical will tell you they believe man is inherently evil %%
+%% #TO/DO/FIND examples of evangelicalism failing in this way. %%
 
+[[Evangelicalism]] hides the work and the struggle so that it can convert and control more people.
 While the bible does talk about how to be a good person,
 (the ethics and success of it's teachings are up for debate)
 they have largely abandoned this doctrine 
-because [[Evangelicalism has commodified faith for profit]].
+because:: [[Evangelicalism has commodified faith for profit]].
 
-[[Faith is an abstraction of cognitive dissonance]], which means that it is using [[faith]] to help deal with 
-[[What is the cognitive effect of living in an unjust world|The cognitive effect of living in an unjust world]]
-instead of focusing on improving the the lives of [[Christianity|Christians]]. 
-
-#TO/DO/FIND examples of evangelicalism failing in this way.
-
-[[Evangelicalism]] hides the work and the struggle so that it can convert and control more people:
-[[Worldviews should not make life seem easy and simple]]
-
-This is a large part of [[The church will fail if christians keep aligning themselves with hate instead of love]].
+This is a large 
+part of:: [[The church will fail if christians keep aligning themselves with hate instead of love]].
 The Evangelical church didn't teach people how to be good so it is failing (and it is spreading this rot to the rest of [[Christianity]]).
+[[Worldviews should not make life seem easy and simple]], and we are seeing the results of [[worldview]] doing just that.
 
-%%
-#TO/TEND/MULCH 
-[[Human's have an inability to admit that they are wrong]], and because [[Christianity]] is taught so early in childhood [^1] this is even more impactful: [[Religious concepts are often too powerful for a child's mind]]
-
-[^1]: [[Children make wide assumptions about the world]]
-
-[[Human's will find explanations for inexplainable things]], and if we believe are saved we cannot comprehend choosing damnation: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
-%%
+- leads to:: [[What are the blindspots of the Christian worldview]]
+- explained by::  [[Faith is an abstraction of cognitive dissonance]]
 
 ### <hr class="footnote"/>
 

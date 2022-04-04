@@ -37,7 +37,11 @@ you would have reviewed it as you learned new perspectives,
 and would have given it up much sooner. 
 In this way I think evergreen notes would be better for allowing new ideas:
 [[Evergreen notes should be constantly integrating new knowledge]]
- 
+
+%%
+#TO/PONDER/IDEA [How Can I Believe You? - YouTube](https://www.youtube.com/watch?v=cVuKitl6qWA)
+%%
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 

@@ -3,8 +3,8 @@ created: 2022-02-09T17:29:39
 aliases:
   - null
 tags: created/2022/02/09, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 3
+sr-due: 2022-04-14
+sr-interval: 10
 sr-ease: 263
 ---
 
@@ -19,11 +19,11 @@ If the artist prescribes the audience's reaction they are losing out on so much 
 I think that a lot of people look to the artist for a interpretation because they think that other people are not giving the art the reverence it deserves, or they just don't like how other people view the are they like. 
 I think this is lazy, you are appealing to authority, rather than adapting to this other opinion.
 
-- [[Communication provides the opportunity to shape other's perceptions]]
+- part of:: [[Communication provides the opportunity to shape other's perceptions]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[art]], [[perception]], [[intention]], [[media]]

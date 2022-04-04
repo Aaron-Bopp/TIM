@@ -3,8 +3,8 @@ created: 2022-01-23T18:12:59
 aliases:
   - null
 tags: created/2022/01/23, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 38
+sr-due: 2022-06-23
+sr-interval: 80
 sr-ease: 210
 ---
 
@@ -14,6 +14,7 @@ When [[Western philosophy|western]] researcher's started studying the science be
 ^[[[notes_History of Meditation]]]
 
 There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and controlling your [[mind]] so that we can better live in the current moment.
+^[[[Living in the present moment is valuable]]]
 [[Consciousness is our capacity to introspect]]
 and [[Meditation is a practice to develop a stronger consciousness]],
 so it follows that
@@ -23,8 +24,8 @@ In [[Vedic Psychology]], the [[mind]] is divided into five layers, and understan
 ^[[[The history of meditation is a mixture of science and spirituality]]]
 These five layers of the [[brain]] interact to create [[consciousness]].
 This allows us to process information from our [[Indriya|sensory organs]] and [[unconscious]], and to observe the intellectual [[mind]] and [[ego]].
-Because [[Mental health is a reaction to one's environment]], a practice that improves our awareness of our internal environment is going to be very impactful:
-[[Meditation helps us gain awareness through detachment]]
+Because [[Mental health is a reaction to one's environment]], a practice that improves our awareness of our internal environment is going to be very impactful.
+^[One such example is [[Meditation helps us gain awareness through detachment]] but all [[meditation]] helps this in some way.]
 
 Modern science has shown that these ancient practices have very powerful [[Neuroscience|neurological]] mechanisms in the [[brain]], and the [[meditation]] can have powerful impacts on our [[mental health]]. 
 ^[[[notes_Science of Meditation]]]
@@ -35,7 +36,7 @@ Gaining control over your thoughts does not merely lie in the [[brain]] as there
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN 
 *edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[human experience]]

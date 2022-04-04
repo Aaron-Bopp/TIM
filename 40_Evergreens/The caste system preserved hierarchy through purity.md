@@ -3,19 +3,19 @@ created: 2022-03-19T13:54:20
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/example/observation
-sr-due: 2022-04-04
-sr-interval: 10
+sr-due: 2022-04-26
+sr-interval: 22
 sr-ease: 210
 ---
 
 #### [[The caste system preserved hierarchy through purity]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`
 
 The [[Hinduism|Hindu]] caste system 
-works with:: [[Theology preserves hierarchy through deific blessing]]
+part of:: [[Theology preserves hierarchy through deific blessing]]
 but adds on an additional layer of purity to the deity ordained classes.
 This means that not only are the lowest classes lesser in the eyes of the gods, they are unclean and contagious.
 Making loss of your class possible by mere contact with lower classes is an
-example of:: [[Hierarchy enables oppression]] and [[Oppressors invent reasoning for their oppression]]
+example of:: [[Hierarchy keeps people in by pretending they can change their class]]
 
 enabled by:: [[Religion promotes high social control]]
 

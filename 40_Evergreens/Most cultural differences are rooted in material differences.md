@@ -3,8 +3,8 @@ created: 2022-03-30T14:33:32
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/claim
-sr-due: 2022-04-04
-sr-interval: 2
+sr-due: 2022-04-09
+sr-interval: 5
 sr-ease: 228
 ---
 
@@ -20,12 +20,15 @@ the only real explanation we have for these differences are the opportunities an
 > ![[books_Behave#^304866746]]
 
 - displayed in:: [[Colonization and slavery lead to generational disparities in black communities]]
+
+%% #TO/TEND/MULCH 
 We can see this in the origin of whiteness.
 [[Whiteness was originally a class distinction]]
 but then because [[Once hierarchy is in place vested interests will keep it in place]]
 over time is was justified
-^[justified === [[subjective]] understanding not objective reality]
+^[justified in the eyes of the oppressors: [[Oppressors invent reasoning for their oppression]]]
 through various different frameworks.
+%%
 
 ### <hr class="footnote"/>
 
