@@ -3,8 +3,8 @@ created: 2022-03-28T11:53:32
 aliases:
   - enquiry-based learning
 tags: created/2022/03/28, node/topic/term
-sr-due: 2022-04-03
-sr-interval: 6
+sr-due: 2022-05-11
+sr-interval: 37
 sr-ease: 231
 ---
 > [!infobox]

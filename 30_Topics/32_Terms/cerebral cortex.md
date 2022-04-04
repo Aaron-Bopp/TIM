@@ -3,8 +3,8 @@ created: 2022-03-27T20:09:12
 aliases:
   - cortex
 tags: created/2022/03/27, node/topic/term
-sr-due: 2022-04-04
-sr-interval: 7
+sr-due: 2022-04-20
+sr-interval: 16
 sr-ease: 231
 ---
 > [!infobox]

@@ -4,17 +4,15 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, node/topic/term
-sr-due: 2022-04-03
-sr-interval: 2
+sr-due: 2022-04-11
+sr-interval: 7
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Fermi estimate]]</s>
 
-
 > ![[articles_Fermi Estimates and Dyson Designs#^305784496]]
-
 
 ##### ^dataviews
 

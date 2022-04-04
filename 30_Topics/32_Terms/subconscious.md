@@ -3,6 +3,9 @@ created: 2021-07-02
 tags: created/2021/07/02, node/topic/term
 aliases:
 - subconsciously
+sr-due: 2022-04-10
+sr-interval: 6
+sr-ease: 237
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,12 +20,21 @@ the **subconscious** would be that part of [[consciousness]] that is not current
 [[Sigmund Freud]] abandoned this term for [[unconscious]].
 ^[[subconscious](https://en.wikipedia.org/wiki/Subconscious)]
 
-
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

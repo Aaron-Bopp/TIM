@@ -6,16 +6,17 @@ aliases:
 - Self-Realization
 - God-Realization
 - nirvikalpa
+sr-due: 2022-04-06
+sr-interval: 2
+sr-ease: 225
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[enlightenment]]</s> 
 
-enlightenment, [[liberation]], [[self]]-Realization, God-Realization, nirvikalpa, [[samadhi]] and [[Moksha]]
-
-**See**:: [[Buddhism]], [[human advancement]], [[self-actualization]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+In:: [[eastern philosophy]],
+[[liberation]], [[self]]-Realization, God-Realization, nirvikalpa, [[samadhi]] or [[Moksha]].
 
 %% DO NOT EDIT BELOW %%
 

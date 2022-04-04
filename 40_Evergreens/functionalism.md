@@ -3,15 +3,18 @@ created: 2022-03-26T13:02:46
 aliases:
   - null
 tags: created/2022/03/26, node/topic/term
-sr-due: 2022-04-03
-sr-interval: 7
+sr-due: 2022-04-23
+sr-interval: 19
 sr-ease: 231
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[functionalism]]</s>
 
 Functionalism is a [[paradigm]] that looks for the relations and uses of parts in a system.
+
+#### How to use functionalism 
 
 Functionalism is mainly useful in systems where there is some sort of selection at work that creates an environment where more useful parts are prioritized over less useful parts.
 
@@ -23,6 +26,8 @@ Wilson solves this through a revised understanding of [[group selection]], and s
 ^[[[Cultural evolution is not confined to the slow process of genetic evolution]]] ^7e0ca9
 
 This view of functionalism may better be understood in the [[social sciences]] by applying a philosophical understanding of [[Holism]].
+
+#### Different types of functionalism
 
 > [!wikipedia]- [Structural functionalism](https://en.wikipedia.org/wiki/Structural%20functionalism)
 > 

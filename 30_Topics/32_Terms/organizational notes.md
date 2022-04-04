@@ -12,6 +12,7 @@ tags: created/2022/03/22, node/topic/term
 
 In [[note writing]], notes that are used to organize other notes or information, i.e [[index note]], [[structural notes]], [[topic notes]]
 
+
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
@@ -24,3 +25,8 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+> ![[articles_A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244870]]
+
+> ![[articles_A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244871]]

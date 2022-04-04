@@ -1,8 +1,9 @@
 ---
 created: 2021-10-23
 tags: created/2021/10/23, node/topic/term
-aliases:
-  
+sr-due: 2022-04-08
+sr-interval: 4
+sr-ease: 211
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,7 +16,9 @@ aliases:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

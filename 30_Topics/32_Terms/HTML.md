@@ -3,6 +3,9 @@ created: 2021-11-16
 aliases:
   - null
 tags: created/2021/11/16, node/topic/term
+sr-due: 2022-04-09
+sr-interval: 5
+sr-ease: 246
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,13 +18,3 @@ tags: created/2021/11/16, node/topic/term
 > 
 > HTML is a [[markup]] languages so it provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as `<img />` and `<input />` directly introduce content into the page. Other tags such as `<p>` surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.  
 
-**See**:: [[programming]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

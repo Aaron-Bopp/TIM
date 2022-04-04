@@ -1,22 +1,33 @@
 ---
 created: 2021-10-17
 tags: created/2021/10/17, node/topic/term
+sr-due: 2022-04-09
+sr-interval: 5
+sr-ease: 241
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[prejudice]]</s>
 
-A generalized feeling towards a group or a member of group  [^1]
+A generalized feeling towards a group or a member of group  
+^[[[course_Psychology of Race and Gender]]]
 
-**See**:: [[prejudice]], [[discrimination]], [[Psychology]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%
-[^1]: [[course_Psychology of Race and Gender]]

@@ -2,8 +2,8 @@
 created: 2021-10-23
 aliases:
 tags: created/2021/10/23, node/topic/term
-sr-due: 2022-04-04
-sr-interval: 7
+sr-due: 2022-04-18
+sr-interval: 14
 sr-ease: 205
 ---
 > [!infobox]
@@ -38,7 +38,6 @@ sr-ease: 205
 > 
 > Some indigenous academics have speculated that his theories, including the hierarchy, may have been influenced by teachings and philosophy of the Blackfeet tribe, where he spent several weeks doing fieldwork in 1938.
 > 
-
 
 ##### ^dataviews
 

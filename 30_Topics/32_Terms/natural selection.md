@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - null
 tags: created/2021/10/19, review, node/topic/term
-sr-due: 2022-04-04
-sr-interval: 16
+sr-due: 2022-05-13
+sr-interval: 39
 sr-ease: 241
 ---
 > [!infobox]
@@ -28,7 +28,9 @@ The process whereby organisms better adapted to their environment tend to surviv
 **See**:: [[Evolution]], [[Biology]]
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
