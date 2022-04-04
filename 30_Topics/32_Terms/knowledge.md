@@ -3,10 +3,11 @@ created: 2022-01-02T11:51:51
 aliases:
   - null
 tags: created/2022/01/02, node/topic/term
-sr-due: 2022-04-02
-sr-interval: 6
+sr-due: 2022-04-21
+sr-interval: 18
 sr-ease: 244
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[knowledge]]</s>

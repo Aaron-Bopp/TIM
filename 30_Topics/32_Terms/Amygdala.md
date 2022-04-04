@@ -7,6 +7,7 @@ sr-due: 2022-04-06
 sr-interval: 5
 sr-ease: 211
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Amygdala]]</s>

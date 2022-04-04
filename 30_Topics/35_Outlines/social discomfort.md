@@ -3,6 +3,7 @@ created: 2021-06-16
 tags: created/2021/06/16, node/topic/term
 parent: [[anxiety]]
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[social discomfort]]</s>

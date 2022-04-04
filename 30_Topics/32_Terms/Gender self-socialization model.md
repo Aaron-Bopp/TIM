@@ -4,6 +4,7 @@ tags: created/2021/10/19, node/topic/term
 aliases:
   - gender self-socialization
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Gender self-socialization model]]</s> 

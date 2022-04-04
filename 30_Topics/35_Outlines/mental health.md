@@ -10,6 +10,7 @@ embedded:
 
 tags: created/2021/05/29, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[mental health]]</s>

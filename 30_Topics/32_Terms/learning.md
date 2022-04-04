@@ -4,6 +4,7 @@ aliases:
   - to learn
 tags: created/2022/01/02, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[learning]]</s>

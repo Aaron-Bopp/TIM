@@ -5,6 +5,7 @@ aliases:
 - anxious
 date modified: Wednesday, October 6th 2021, 2:34:37 pm
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[anxiety]]</s> 

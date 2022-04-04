@@ -2,10 +2,11 @@
 created: 2021-08-01
 tags: created/2021/08/01, node/topic/term
 aliases:
-sr-due: 2022-04-01
-sr-interval: 9
+sr-due: 2022-04-25
+sr-interval: 22
 sr-ease: 216
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[internet]]</s>
@@ -15,9 +16,9 @@ the internet is a marvel of [[infrastructure]] and engineering,
 allowing for almost instantaneous [[communication]] across the globe.
 The power and dangers of the internet can not be overstated.
 
-In:: the [[human experience]],
+In:: the [[human experience]] and [[history]],
 the internet is probably the most influential invention ever.
-The internet has changed how we lead almost every second of our lives, from competing the Wordle the second we wake up to listening to a podcast as we fall asleep, 
+The internet has changed how we lead almost every second of our lives, from completing the Wordle the second we wake up to listening to a podcast as we fall asleep, 
 all without physically interacting with another person.
 
 In:: [[Psychology]],

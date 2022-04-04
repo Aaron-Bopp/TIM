@@ -7,6 +7,7 @@ sr-due: 2022-04-03
 sr-interval: 15
 sr-ease: 247
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[perception]]</s> 

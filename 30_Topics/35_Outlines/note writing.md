@@ -4,6 +4,7 @@ tags: created/2021/06/27, node/topic/outline
 aliases:
   - note taking
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # <s class="topic-title">[[note writing]]</s>

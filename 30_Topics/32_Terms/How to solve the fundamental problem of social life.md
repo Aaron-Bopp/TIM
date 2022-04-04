@@ -7,6 +7,7 @@ sr-due: 2022-04-07
 sr-interval: 11
 sr-ease: 221
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[How to solve the fundamental problem of social life]] `$=customJS.dv_funcs.evergreenHeader(dv, this)`

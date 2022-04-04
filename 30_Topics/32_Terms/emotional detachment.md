@@ -7,6 +7,7 @@ sr-due: 2022-04-07
 sr-interval: 10
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[emotional detachment]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-04-11
 sr-interval: 8
 sr-ease: 224
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Parasympathetic Nervous System]]</s>

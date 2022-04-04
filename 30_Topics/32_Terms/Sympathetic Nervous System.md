@@ -7,6 +7,7 @@ sr-due: 2022-04-14
 sr-interval: 11
 sr-ease: 219
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Sympathetic Nervous System]]</s>

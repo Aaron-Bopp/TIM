@@ -5,6 +5,7 @@ aliases:
   - Abolitionism
 date modified: Tuesday, September 28th 2021, 9:59:34 am
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Abolition]]</s>

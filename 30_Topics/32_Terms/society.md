@@ -3,10 +3,11 @@ created: 2021-10-23
 aliases:
   - societal
 tags: created/2021/10/23, node/topic/term
-sr-due: 2022-04-01
-sr-interval: 5
+sr-due: 2022-04-19
+sr-interval: 16
 sr-ease: 230
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[society]]</s>
@@ -44,3 +45,7 @@ Alternatively:: [[social order]].
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+> ![[books_Darwin's Cathedral#^292550146]]

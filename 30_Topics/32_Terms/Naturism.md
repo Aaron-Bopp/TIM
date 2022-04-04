@@ -7,6 +7,7 @@ sr-due: 2022-04-02
 sr-interval: 6
 sr-ease: 231
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Naturism]]</s>

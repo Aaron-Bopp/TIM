@@ -7,6 +7,7 @@ sr-due: 2022-04-13
 sr-interval: 12
 sr-ease: 203
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[web of thought]]</s>

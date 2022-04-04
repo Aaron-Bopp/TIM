@@ -7,6 +7,7 @@ sr-due: 2022-04-07
 sr-interval: 11
 sr-ease: 216
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[human evolution]]</s>

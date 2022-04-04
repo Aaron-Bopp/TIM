@@ -4,10 +4,11 @@ aliases:
   - eastern system
   - eastern
 tags: created/2021/07/03, node/topic/term
-sr-due: 2022-04-01
-sr-interval: 10
+sr-due: 2022-05-01
+sr-interval: 28
 sr-ease: 234
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[eastern philosophy]]</s>

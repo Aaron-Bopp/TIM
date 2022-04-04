@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2022/02/08, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[gravitational singularity]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-05-18
 sr-interval: 45
 sr-ease: 280
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[cosmology]]</s>

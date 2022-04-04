@@ -7,6 +7,7 @@ sr-due: 2022-04-01
 sr-interval: 10
 sr-ease: 232
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # <s class="topic-title">[[communication]]</s>

@@ -2,6 +2,7 @@
 created: 2021-10-19
 tags: created/2021/10/19, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[gender constancy]]</s>

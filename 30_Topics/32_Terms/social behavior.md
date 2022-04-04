@@ -7,6 +7,7 @@ sr-due: 2022-04-05
 sr-interval: 4
 sr-ease: 188
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[social behavior]]</s>

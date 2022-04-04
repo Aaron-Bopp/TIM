@@ -3,10 +3,11 @@ created: 2022-03-26T10:46:37
 aliases:
   - null
 tags: created/2022/03/26, node/topic/term/process
-sr-due: 2022-04-01
-sr-interval: 6
+sr-due: 2022-04-20
+sr-interval: 17
 sr-ease: 231
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Software Development]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-04-25
 sr-interval: 29
 sr-ease: 259
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[metaphysics]]</s>

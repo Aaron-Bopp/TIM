@@ -5,6 +5,7 @@ sr-due: 2022-04-15
 sr-interval: 12
 sr-ease: 242
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[personality]]</s>

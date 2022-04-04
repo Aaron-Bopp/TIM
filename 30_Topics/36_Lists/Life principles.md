@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/12/26, node/topic/list
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Life principles]]</s>

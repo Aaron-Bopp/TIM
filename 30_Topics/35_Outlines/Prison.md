@@ -4,6 +4,7 @@ tags: created/2021/08/15, node/topic/term
 aliases:
 - prisons
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Prison]]</s>

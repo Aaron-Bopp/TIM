@@ -7,6 +7,7 @@ sr-due: 2022-04-30
 sr-interval: 56
 sr-ease: 225
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Yoga]]</s> 

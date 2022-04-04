@@ -4,6 +4,7 @@ tags: created/2021/06/28, node/topic/outline
 aliases:
   - Christian
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Christianity]]</s>

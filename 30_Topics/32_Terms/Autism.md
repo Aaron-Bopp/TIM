@@ -7,6 +7,7 @@ sr-due: 2022-04-23
 sr-interval: 22
 sr-ease: 239
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Autism]]</s>

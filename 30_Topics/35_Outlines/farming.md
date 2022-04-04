@@ -3,10 +3,11 @@ created: 2022-03-11T09:00:31
 aliases:
   - null
 tags: created/2022/03/11, review, node/topic/term
-sr-due: 2022-04-02
-sr-interval: 8
+sr-due: 2022-04-19
+sr-interval: 16
 sr-ease: 190
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[farming]]</s>

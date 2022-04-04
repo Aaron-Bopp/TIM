@@ -4,6 +4,7 @@ aliases:
   - traumatized
 tags: created/2021/06/12, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[trauma]]</s>

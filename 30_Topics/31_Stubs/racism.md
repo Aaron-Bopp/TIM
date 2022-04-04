@@ -5,6 +5,7 @@ sr-due: 2022-04-13
 sr-interval: 10
 sr-ease: 226
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[racism]]</s>

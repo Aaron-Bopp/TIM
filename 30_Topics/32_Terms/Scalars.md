@@ -2,6 +2,7 @@
 created: 2021-10-16
 tags: created/2021/10/16, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Scalars]]</s>

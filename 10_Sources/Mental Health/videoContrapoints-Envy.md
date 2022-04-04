@@ -28,6 +28,6 @@ sr-ease: 230
 	- we need to turn our [[envy]] away from [[morality]] and towards utopia
 	- What is the balance between incremental progress and dreams that produce hope and progress?
 - Identity politics should be centered around [[self]]-determination [01:44:16](https://www.youtube.com/watch?v=aPhrTOg1RUk#t=6256.9368528092655)
-- you can't use society to excuse your own misery [01:37:23](https://www.youtube.com/watch?v=aPhrTOg1RUk#t=5843.420436851226)
+- you can't use [[society]] to excuse your own misery [01:37:23](https://www.youtube.com/watch?v=aPhrTOg1RUk#t=5843.420436851226)
 	- [[Sadness is enlightenment and happiness is delusion]]
 	- [[Realism must acknowledge optimism's existence and effectiveness]]

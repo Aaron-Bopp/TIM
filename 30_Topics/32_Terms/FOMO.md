@@ -8,6 +8,7 @@ sr-due: 2022-04-08
 sr-interval: 7
 sr-ease: 231
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[FOMO]]</s>

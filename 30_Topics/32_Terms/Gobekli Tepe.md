@@ -7,6 +7,7 @@ sr-due: 2022-03-29
 sr-interval: 9
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Gobekli Tepe]]</s>

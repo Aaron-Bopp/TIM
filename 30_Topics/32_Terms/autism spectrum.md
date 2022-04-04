@@ -7,6 +7,7 @@ sr-due: 2022-04-11
 sr-interval: 10
 sr-ease: 245
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[autism spectrum]]</s>

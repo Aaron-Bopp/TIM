@@ -7,6 +7,7 @@ sr-due: 2022-05-08
 sr-interval: 37
 sr-ease: 248
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Africa]]</s>

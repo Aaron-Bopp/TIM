@@ -7,6 +7,7 @@ sr-due: 2022-04-11
 sr-interval: 31
 sr-ease: 194
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[childhood]]</s>

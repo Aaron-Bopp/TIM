@@ -7,6 +7,7 @@ sr-due: 2022-04-22
 sr-interval: 25
 sr-ease: 230
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[market-based economy]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-04-10
 sr-interval: 9
 sr-ease: 241
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[ethics]]</s>

@@ -2,6 +2,7 @@
 created: 2021-10-18
 tags: created/2021/10/18, node/topic/tool
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[DnD (Dungeons and Dragons)]]</s>

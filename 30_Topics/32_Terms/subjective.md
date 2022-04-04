@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2022/01/02, review, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[subjective]]</s>

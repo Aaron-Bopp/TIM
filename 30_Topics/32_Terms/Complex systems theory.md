@@ -7,6 +7,7 @@ sr-due: 2022-04-09
 sr-interval: 8
 sr-ease: 230
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Complex systems theory]]</s>

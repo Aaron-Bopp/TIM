@@ -7,6 +7,7 @@ sr-due: 2022-04-23
 sr-interval: 49
 sr-ease: 289
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Initial singularity]]</s> 

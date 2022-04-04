@@ -7,6 +7,7 @@ aliases:
 - God-Realization
 - nirvikalpa
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[enlightenment]]</s> 

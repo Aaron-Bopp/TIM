@@ -7,6 +7,7 @@ sr-due: 2022-04-04
 sr-interval: 16
 sr-ease: 241
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[natural selection]]</s>

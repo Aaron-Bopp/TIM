@@ -2,6 +2,7 @@
 created: 2021-07-03
 tags: created/2021/07/03, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[pessimism]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-04-04
 sr-interval: 8
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[political science]]</s>

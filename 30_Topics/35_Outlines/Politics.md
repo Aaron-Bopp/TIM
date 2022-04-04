@@ -2,6 +2,7 @@
 created: 2021-10-06
 tags: created/2021/10/06, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Politics]]</s>
@@ -14,7 +15,7 @@ tags: created/2021/10/06, node/topic/outline
 > 
 > A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising force, including warfare against adversaries. Politics is exercised on a wide range of social levels, from clans and tribes of traditional societies, through modern local governments, companies and institutions up to sovereign states, to the international level. In modern nation states, people often form political parties to represent their ideas. Members of a party often agree to take the same position on many issues and agree to support the same changes to law and the same leaders. An election is usually a competition between different parties.
 > 
-> A political system is a framework which defines acceptable political methods within a society. The history of political thought can be traced back to early antiquity, with seminal works such as Plato's Republic and Aristotle's Politics in the West, and Confucius's political manuscripts and Chanakya's Arthashastra in the East.
+> A political system is a framework which defines acceptable political methods within a [[society]]. The history of political thought can be traced back to early antiquity, with seminal works such as Plato's Republic and Aristotle's Politics in the West, and Confucius's political manuscripts and Chanakya's Arthashastra in the East.
 >
 
 

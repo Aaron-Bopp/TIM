@@ -5,6 +5,7 @@ aliases:
   - null
 ---
 
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Regex]]</s>

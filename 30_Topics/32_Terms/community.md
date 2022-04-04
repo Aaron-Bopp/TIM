@@ -4,6 +4,7 @@ tags: created/2021/10/23, node/topic/term
 aliases:
   
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[community]]</s>

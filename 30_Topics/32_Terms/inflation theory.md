@@ -7,6 +7,7 @@ sr-due: 2022-04-18
 sr-interval: 24
 sr-ease: 264
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[inflation theory]]</s> 

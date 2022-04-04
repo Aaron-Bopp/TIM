@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2022/03/24, node/topic/bridge
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[hierarchy]]</s>

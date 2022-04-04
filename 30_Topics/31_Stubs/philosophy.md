@@ -4,6 +4,7 @@ aliases:
   - philosophies 
 tags: created/2021/10/31, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[philosophy]]</s>

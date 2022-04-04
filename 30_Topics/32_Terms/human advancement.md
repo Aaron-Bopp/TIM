@@ -7,6 +7,7 @@ sr-due: 2022-04-08
 sr-interval: 7
 sr-ease: 202
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # <s class="topic-title">[[human advancement]]</s>

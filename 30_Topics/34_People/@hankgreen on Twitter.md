@@ -5,6 +5,7 @@ aliases:
 tags:
  created/2022/01/01, node/topic/person
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[@hankgreen on Twitter]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-05-13
 sr-interval: 40
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Ayurveda]]</s>

@@ -3,15 +3,22 @@ created: 2022-03-27T16:35:10
 aliases:
   - null
 tags: created/2022/03/27, node/topic/term
-sr-due: 2022-04-01
-sr-interval: 5
-sr-ease: 231
+sr-due: 2022-04-06
+sr-interval: 3
+sr-ease: 211
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[interpersonal relationships]]</s>
 
-Behavior is in the moment, relationship is over time.
+In:: [[social behavior]] and [[human behavior]],
+interpersonal relationships are the bonds formed through interaction over time. 
+
+In:: [[Psychology]],
+interpersonal relationships are the [[emotional attachment]]'s or lack their of you have with other people.
+
+[[Behavior]] is in the moment, relationship is over time.
 
 Formed through [[inter-personal communication]]
 

@@ -5,6 +5,7 @@ sr-due: 2022-04-09
 sr-interval: 8
 sr-ease: 225
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[mindfulness]]</s> 

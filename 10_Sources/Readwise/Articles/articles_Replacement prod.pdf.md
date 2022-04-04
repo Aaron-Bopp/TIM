@@ -173,7 +173,7 @@ Another possible reason relates to belonging. Diversity tends to be associated w
 
 
 
-It seems multiculturalism has complex effects on society  
+It seems multiculturalism has complex effects on [[society]]  
 
 ###### ^217721947q
 

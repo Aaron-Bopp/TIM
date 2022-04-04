@@ -7,6 +7,7 @@ sr-due: 2022-05-05
 sr-interval: 32
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[justified belief]]</s>

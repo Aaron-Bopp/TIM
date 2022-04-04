@@ -5,6 +5,7 @@ aliases:
   - Inka Empire
 tags: created/2022/03/23, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Inca Empire]]</s>

@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/12/29, node/topic/person
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[F.D Signifier]]</s>

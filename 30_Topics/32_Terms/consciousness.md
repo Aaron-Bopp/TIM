@@ -4,10 +4,11 @@ tags: created/2021/07/05, node/topic/term
 aliases:
 - conscious
 - consciously
-sr-due: 2022-04-01
-sr-interval: 5
+sr-due: 2022-04-18
+sr-interval: 15
 sr-ease: 225
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[consciousness]]</s> 
@@ -27,7 +28,9 @@ Consciousness is:
 > It may be awareness, awareness of awareness, or self-awareness either continuously changing or not. There might be different levels or orders of consciousness, or different kinds of consciousness, or just one kind with different features. Other questions include whether only humans are conscious, all animals, or even the whole universe. The disparate range of research, notions and speculations raises doubts about whether the right questions are being asked. 
 > 
 
-In:: [[Yoga|Yogic]] [[philosophy]], 
+#### Other views of consciousness
+
+In:: [[Yoga|Yogic philosophy]], 
 consciousness is the observer of thought, or the ability to observe.
 If something is observing the action of [[mind]], it must be outside the mind. 
 [[Sakshi Bhava]] or [[mindfulness]] is the capacity to observe this objectively
@@ -36,6 +39,7 @@ We can see this exemplified in [[Vedic Psychology]], which does not include cons
 
 Other philosophical disciplines may say that the ability to observe ones thoughts is instead [[self-awareness]] or [[qualia]], and that consciousness is an inherent state rather than an ability. Perhaps this is solved by making consciousness and inherent but variable ability: [[Consciousness is our capacity to introspect]]
 
+In:: [[eastern philosophy]],
 [[Consciousness is the fundamental unit of existence]] or [[Brahman]].
 
 ##### ^dataviews
@@ -58,4 +62,5 @@ Other philosophical disciplines may say that the ability to observe ones thought
 %% DO NOT EDIT ABOVE %%
 
 #### Discussion
+
 [The Scientific Problem of Consciousness - YouTube](https://www.youtube.com/watch?v=CJhSSPO8Ulk)

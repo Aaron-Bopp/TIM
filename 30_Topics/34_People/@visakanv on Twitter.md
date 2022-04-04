@@ -4,6 +4,7 @@ aliases:
   - visakanv
 tags: created/2021/11/02, node/topic/person
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[@visakanv on Twitter]]</s>

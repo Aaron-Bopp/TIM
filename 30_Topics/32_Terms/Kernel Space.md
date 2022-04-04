@@ -2,6 +2,7 @@
 created: 2021-10-13
 tags: created/2021/10/13, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Kernel Space]]</s>

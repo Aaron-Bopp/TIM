@@ -3,10 +3,11 @@ created: 2022-03-25T19:36:35
 aliases:
   - attachment
 tags: created/2022/03/25, node/topic/term
-sr-due: 2022-03-31
-sr-interval: 4
+sr-due: 2022-04-17
+sr-interval: 14
 sr-ease: 221
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[emotional attachment]]</s>

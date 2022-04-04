@@ -7,6 +7,7 @@ aliases:
   - EQ
 tags: created/2022/01/16, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Emotional Intelligence]]</s>

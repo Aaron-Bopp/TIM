@@ -2,6 +2,7 @@
 created: 2021-10-20
 tags: created/2021/10/20, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Masculinism]]</s>

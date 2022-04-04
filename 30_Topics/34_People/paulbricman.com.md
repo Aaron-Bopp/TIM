@@ -4,6 +4,7 @@ aliases:
   - Paul Bricman
 tags: created/2021/12/12, node/topic/person 
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[paulbricman.com]]</s>

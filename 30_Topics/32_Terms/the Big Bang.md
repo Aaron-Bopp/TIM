@@ -7,6 +7,7 @@ sr-due: 2022-07-14
 sr-interval: 119
 sr-ease: 265
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[the Big Bang]]</s> 

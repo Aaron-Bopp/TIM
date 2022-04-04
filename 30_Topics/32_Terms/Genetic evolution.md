@@ -7,6 +7,7 @@ sr-due: 2022-04-04
 sr-interval: 7
 sr-ease: 243
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Genetic evolution]]</s>

@@ -4,6 +4,7 @@ aliases:
   - Readwise
 tags: created/2022/01/03, node/topic/tool
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Readwise (software)]]</s>

@@ -7,6 +7,7 @@ sr-due: 2022-04-20
 sr-interval: 24
 sr-ease: 237
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[climate change]]</s>

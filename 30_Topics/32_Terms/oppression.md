@@ -4,13 +4,14 @@ aliases:
   - null
 tags: created/2022/03/19, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[oppression]]</s>
 
 > [!wikipedia] [oppression](https://en.wikipedia.org/wiki/Oppression)
 > 
-> Oppression is malicious or unjust treatment or exercise of [[power]], often under the guise of governmental authority or cultural opprobrium. Oppression may be overt or covert, depending on how it is practiced. Oppression refers to discrimination when the injustice does not target and may not directly afflict everyone in society but instead targets or disproportionately impacts specific groups of people.
+> Oppression is malicious or unjust treatment or exercise of [[power]], often under the guise of governmental authority or cultural opprobrium. Oppression may be overt or covert, depending on how it is practiced. Oppression refers to discrimination when the injustice does not target and may not directly afflict everyone in [[society]] but instead targets or disproportionately impacts specific groups of people.
 > 
 > No universally accepted model or terminology has yet emerged to describe oppression in its entirety, although some scholars cite evidence of different types of oppression, such as social oppression, cultural, political, religious/belief,  institutional oppression, and economic oppression.
 > 

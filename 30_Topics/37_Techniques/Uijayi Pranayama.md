@@ -7,6 +7,7 @@ sr-due: 2022-04-26
 sr-interval: 61
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Uijayi Pranayama]]</s> 

@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/12/31, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[belief]]</s>

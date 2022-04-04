@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/11/04, node/topic/tool
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Wikipedia (plugin, obsidian)]]</s>

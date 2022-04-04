@@ -4,6 +4,7 @@ aliases:
   - totally integrated machine
 tags: created/2021/12/31, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[TIM]]</s>

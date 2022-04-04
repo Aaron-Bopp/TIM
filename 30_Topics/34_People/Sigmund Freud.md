@@ -4,6 +4,7 @@ aliases:
   - Freud
 tags: created/2022/01/03, node/topic/person
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Sigmund Freud]]</s>

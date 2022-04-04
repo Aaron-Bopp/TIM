@@ -7,6 +7,7 @@ sr-due: 2022-05-18
 sr-interval: 68
 sr-ease: 306
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Neuroscience]]</s>

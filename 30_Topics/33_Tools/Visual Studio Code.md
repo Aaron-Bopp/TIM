@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/11/16, node/topic/tool
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Visual Studio Code]]</s>

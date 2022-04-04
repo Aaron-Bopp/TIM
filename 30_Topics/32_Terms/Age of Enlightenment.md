@@ -5,6 +5,7 @@ aliases:
   - Age of Reason
 tags: created/2022/03/20, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Age of Enlightenment]]</s>

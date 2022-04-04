@@ -5,6 +5,7 @@ sr-due: 2023-02-19
 sr-interval: 374
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[America]]</s>

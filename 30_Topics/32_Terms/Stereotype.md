@@ -4,6 +4,7 @@ aliases:
   - stereotyped
 tags: created/2021/10/17, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[stereotype]]</s>

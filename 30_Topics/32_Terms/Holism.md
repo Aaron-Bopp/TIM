@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2022/03/13, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Holism]]</s>

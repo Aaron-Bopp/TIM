@@ -3,10 +3,11 @@ created: 2022-03-13T13:24:25
 aliases:
   - null
 tags: created/2022/03/13, node/topic/term
-sr-due: 2022-04-02
-sr-interval: 1
+sr-due: 2022-04-06
+sr-interval: 3
 sr-ease: 225
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[molecular genetics]]</s>

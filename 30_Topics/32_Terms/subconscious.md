@@ -4,6 +4,7 @@ tags: created/2021/07/02, node/topic/term
 aliases:
 - subconsciously
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[subconscious]]</s>

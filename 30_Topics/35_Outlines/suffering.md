@@ -5,6 +5,7 @@ sr-due: 2022-04-23
 sr-interval: 70
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[suffering]]</s> 

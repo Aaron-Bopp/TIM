@@ -3,6 +3,7 @@ created: 2021-08-08
 tags: created/2021/08/08, node/topic/outline
 date modified: Saturday, September 25th 2021, 3:18:35 pm
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[gender]]</s>

@@ -4,6 +4,7 @@ aliases:
   - feeling of impending doom
 tags: created/2022/03/18, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[sense of impending doom]]</s>

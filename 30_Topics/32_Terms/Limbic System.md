@@ -7,6 +7,7 @@ sr-due: 2022-04-07
 sr-interval: 6
 sr-ease: 193
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Limbic System]]</s>

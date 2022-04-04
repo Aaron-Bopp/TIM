@@ -4,6 +4,7 @@ aliases:
 -
 tags: created/2021/05/22, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # <s class="topic-title">[[index note]]</s>

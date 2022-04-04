@@ -7,6 +7,7 @@ sr-due: 2022-05-09
 sr-interval: 38
 sr-ease: 275
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[expanding universe]]</s> 

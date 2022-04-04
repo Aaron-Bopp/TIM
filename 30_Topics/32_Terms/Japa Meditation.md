@@ -7,6 +7,7 @@ sr-due: 2022-04-13
 sr-interval: 48
 sr-ease: 270
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Japa Meditation]]</s> 

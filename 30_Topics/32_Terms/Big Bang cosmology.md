@@ -7,6 +7,7 @@ sr-due: 2022-05-11
 sr-interval: 40
 sr-ease: 274
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Big Bang cosmology]]</s>

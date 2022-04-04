@@ -7,6 +7,7 @@ sr-due: 2022-04-19
 sr-interval: 16
 sr-ease: 225
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[networked thinking]]</s>

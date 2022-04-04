@@ -5,6 +5,7 @@ aliases:
   - Obsessive Compulsive Disorder 
 tags: created/2021/06/16, node/topic/term:
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[OCD]]</s>

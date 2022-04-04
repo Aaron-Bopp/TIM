@@ -1,10 +1,11 @@
 ---
 created: 2021-08-12
 tags: created/2021/08/12, node/topic/term
-sr-due: 2022-04-02
-sr-interval: 5
+sr-due: 2022-04-18
+sr-interval: 15
 sr-ease: 239
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Psychology]]</s>

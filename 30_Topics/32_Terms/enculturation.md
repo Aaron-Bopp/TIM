@@ -7,6 +7,7 @@ sr-due: 2022-04-12
 sr-interval: 11
 sr-ease: 231
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[enculturation]]</s>

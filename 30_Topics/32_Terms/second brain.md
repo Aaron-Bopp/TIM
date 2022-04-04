@@ -2,6 +2,7 @@
 created: 2021-05-22
 tags: created/2021/05/22, node/topic/outline
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # <s class="topic-title">[[second brain]]</s>

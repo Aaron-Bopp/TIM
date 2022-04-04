@@ -3,6 +3,7 @@ created: 2021-06-07
 tags: created/2021/06/07, node/topic/outline
 
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # <s class="topic-title">[[My TIM]]</s>

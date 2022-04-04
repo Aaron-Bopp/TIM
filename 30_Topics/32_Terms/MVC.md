@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/12/02, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[MVC]]</s>

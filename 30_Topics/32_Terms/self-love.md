@@ -5,6 +5,7 @@ aliases:
 - self-care
 - self-validation
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[self-love]]</s>

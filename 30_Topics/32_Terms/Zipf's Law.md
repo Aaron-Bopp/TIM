@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2022/02/14, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Zipf's Law]]</s>

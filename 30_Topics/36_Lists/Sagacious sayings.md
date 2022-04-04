@@ -4,6 +4,7 @@ aliases:
   - null
 tags: node/topic/list
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Sagacious sayings]]</s>

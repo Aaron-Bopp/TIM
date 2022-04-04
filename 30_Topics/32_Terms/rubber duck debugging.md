@@ -7,6 +7,7 @@ sr-due: 2022-04-14
 sr-interval: 13
 sr-ease: 252
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[rubber duck debugging]]</s>

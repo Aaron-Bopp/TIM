@@ -3,6 +3,7 @@ created: 2021-06-25
 tags: created/2021/06/25, node/topic/term
 date modified: Monday, October 4th 2021, 12:40:55 am
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[social anxiety]]</s>

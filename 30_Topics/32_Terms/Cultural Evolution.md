@@ -7,6 +7,7 @@ sr-due: 2022-04-02
 sr-interval: 7
 sr-ease: 214
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Cultural Evolution]]</s>

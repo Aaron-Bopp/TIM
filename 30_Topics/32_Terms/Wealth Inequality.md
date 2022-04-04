@@ -2,6 +2,7 @@
 created: 2021-07-21
 tags: created/2021/07/21, node/topic/term
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Wealth Inequality]]</s>

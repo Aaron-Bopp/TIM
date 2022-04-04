@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2022/01/30, node/topic/person
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Robert M. Sapolsky]]</s> 

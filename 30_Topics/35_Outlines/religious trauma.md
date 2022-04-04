@@ -3,6 +3,7 @@ created: 2021-06-29
 tags: created/2021/06/29, node/topic/term
 date modified: Monday, October 4th 2021, 12:06:19 am
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[religious trauma]]</s>

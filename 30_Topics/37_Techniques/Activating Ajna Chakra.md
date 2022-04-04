@@ -7,6 +7,7 @@ sr-due: 2022-06-08
 sr-interval: 88
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Activating Ajna Chakra]]</s> 

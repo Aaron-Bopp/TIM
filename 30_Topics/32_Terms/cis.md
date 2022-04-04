@@ -4,6 +4,7 @@ tags: created/2021/10/23, node/topic/term
 aliases:
   - cisgender
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[cis]]</s>

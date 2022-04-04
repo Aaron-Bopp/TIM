@@ -7,6 +7,7 @@ sr-due: 2022-04-26
 sr-interval: 30
 sr-ease: 256
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Planck epoch]]</s>

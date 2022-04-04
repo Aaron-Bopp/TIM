@@ -3,10 +3,11 @@ created: 2022-03-24T23:23:12
 aliases:
   - null
 tags: created/2022/03/24, node/topic/term
-sr-due: 2022-03-31
-sr-interval: 6
+sr-due: 2022-04-21
+sr-interval: 18
 sr-ease: 230
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[policy]]</s>

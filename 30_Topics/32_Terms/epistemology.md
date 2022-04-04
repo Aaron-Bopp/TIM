@@ -7,6 +7,7 @@ sr-due: 2022-04-28
 sr-interval: 27
 sr-ease: 250
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[epistemology]]</s>

@@ -4,6 +4,7 @@ aliases:
   - null
 tags: created/2021/12/08, node/topic/person
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Frank Herbert]]</s>

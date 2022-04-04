@@ -7,6 +7,7 @@ sr-due: 2022-04-30
 sr-interval: 27
 sr-ease: 200
 ---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[foraging]]</s>
