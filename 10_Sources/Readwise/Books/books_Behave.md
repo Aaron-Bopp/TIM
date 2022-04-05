@@ -809,3 +809,17 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4680
 
 ^306490134
 
+# New highlights added April 5, 2022 at 5:28 PM
+### Nine Centuries to Millennia Before
+#### COLLECTIVIST VERSUS INDIVIDUALIST CULTURES
+##### ^306511809
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B01IAUGC5S&location=4688  
+
+###### ^306511809q
+
+the 7R variant, producing a receptor less responsive to dopamine in the cortex, associated with novelty seeking, extroversion, and impulsivity. ... the descendants of folks who made it all the way to the Amazon basin—the Ticuna, Surui, and Karitiana—with a roughly 70 percent incidence of 7R, the highest in the world. 
+
+^306511809
+

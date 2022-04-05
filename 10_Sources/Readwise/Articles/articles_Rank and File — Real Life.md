@@ -54,3 +54,29 @@ He told me that he grew up in a house without books. When he arrived at universi
 
 ^306377894
 
+# New highlights added April 5, 2022 at 5:28 PM
+##### ^306906899
+
+
+
+I think a good warning that you always need to questioning yourself and contrasting your ideas with others  
+
+###### ^306906899q
+
+Seeing the shape of your ideas is not the same as having new ideas. Creating a too-comprehensive portrait of your own thoughts can amount to locking yourself into a labyrinth of your own preconceptions 
+
+^306906899
+
+##### ^306906900
+
+highlight_tags:: [[note writing]], [[Zettelkasten]]   
+
+I am starting to think the Zettelkasten is impossible for most people. Luhmann worked on his manically, as do I. That isn't sustainable or the goal for most, increased magical efficiency is, and is does not seem that technology has been able to make it more accessible.
+Still though, I cannot believe that their note taking practice produced no value. Even if it failed to write the dissertation, where would they have been without it? I guess that they wish they had spent their time on something different, but what would that have been and would if have inspired them like their professor's note archive?  
+
+###### ^306906900q
+
+I had to admit that once again my attempts to disrupt thinking with a technology of note-taking had only resulted in an enormous, useless accumulation of busywork. 
+
+^306906900
+

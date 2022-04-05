@@ -1,12 +1,13 @@
 ---
-created: 2022-03-29
-tags: created/2022/03/29, node/source/books
+created: 2022-04-04
+edited:
+tags: created/2022/04/04, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-03-29
+sr-due: 2022-04-04
 sr-interval: 2
 sr-ease: 230
 ---
@@ -59,7 +60,7 @@ What is the nature of human society? Is it a collection of self-seeking individu
 
 ##### ^287471879
 
-highlight_tags:: [[pink]]   
+highlight_tags:: [[blue]], [[pink]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=73  
 
 ###### ^287471879q
@@ -235,7 +236,7 @@ a tendency for fitness-enhancing phenotypic traits to increase in frequency over
 
 ##### ^292550149
 
-highlight_tags:: [[pink]]   
+highlight_tags:: [[blue]], [[pink]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=143  
 
 The power of explanation as in [[books_The Fabric of Reality]]  
@@ -338,6 +339,36 @@ Refering to groups of birds. Callers refering to birds that let out warning crie
 When we compare the fitness of callers and noncallers within each group, we see that callers are the losers in both cases. However, the group with more callers fares better than the group with fewer callers. This is the classic group selection scenario that began with Darwin. 
 
 ^288878740
+
+##### ^305945983
+
+highlight_tags:: [[qa]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=256  
+
+What are the three steps to apply group selection?
+1. Identify the relevant groups
+2. Compare fitness of individuals within groups
+3. Compare fitness of groups in the total population
+By combining these we can see what evolves.  
+
+###### ^305945983q
+
+One noncaller has a survival probability of 100 percent and nine have a survival probability of 50 percent for an average of 55 percent. One caller has a survival probability of 25 percent and nine have a survival probability of 75 percent for an average of 70 percent. ... Employing this procedure for our bird flock example, the groups are flocks, callers are less fit than noncallers within flocks, but flocks with more callers are more fit than flocks with fewer callers. When the variation among groups is as extreme as in my example (one caller in the first group and nine callers in the second group) group selection is by far the strongest evolutionary force and the calling behavior evolves despite its selective disadvantage within groups. 
+
+^305945983
+
+##### ^305945982
+
+highlight_tags:: [[qa]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=269  
+
+What is "the averaging fallacy" according to Elliot Sober and David Sloan Wilson?  
+
+###### ^305945982q
+
+If we define “individual selection” in terms of fitness averaged across groups rather than fitness within single groups, we have defined group selection out of existence, making “individual selection” a vacuous term for “whatever evolves.” 
+
+^305945982
 
 ##### ^304185840
 
@@ -1108,6 +1139,8 @@ it would be wrong to conclude that the general thesis of functionalism was simil
 
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1044  
 
+Evans-Pritchards greatest contribution  
+
 ###### ^295490294q
 
 segmentation: the organization of leaderless tribes into a nested hierarchy of groups that can become functionally organized at any level, depending on the scale of the environmental challenge (usually warfare). 
@@ -1733,6 +1766,8 @@ Calvin’s catechism is shown in table 3.1. It includes the familiar injunctions
 highlight_tags:: [[orange]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1656  
 
+from Calvin  
+
 ###### ^304185841q
 
 it is fitting to endure those who insolently abuse their power, until freed from their yoke by a lawful order. For as a good prince is proof of divine beneficence for the preservation of human welfare, so a bad and wicked ruler is his whip to chastise the peoples’ transgressions. 
@@ -1973,6 +2008,274 @@ No matter how powerful, a belief system by itself is probably insufficient to tu
 
 ^304449617
 
+##### ^305405754
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1883  
+
+###### ^305405754q
+
+Calvinism was structured to control the leadership as effectively as the average member of the church. Pastors were not only selected with care but also were carefully supervised, with weekly meetings to insure purity of doctrine and quarterly meetings whose express purpose was for the pastors to criticize each other. 
+
+^305405754
+
+##### ^305930679
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1903  
+
+In early Calvinism in a Geneva  
+
+###### ^305930679q
+
+Elders, like pastors, were chosen by a procedure insuring that they were acceptable to the city government in addition to those who were to be overseen. In fact, all of the elders were also members of the city government. 
+
+^305930679
+
+##### ^306962097
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1939  
+
+###### ^306962097q
+
+In contrast to what the phrase “turn the other cheek” implies when taken out of context, Calvin’s church was elaborately protected by a system of social controls designed to eliminate deviant behavior. It was highly resistant to exploitation, even by its own most powerful members. 
+
+^306962097
+
+##### ^306962126
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1945  
+
+###### ^306962126q
+
+Geneva also had an infrastructure, and the burden of supporting it was probably greater for the average citizen then than now. ... God’s will for citizens of Geneva was to shoulder the burden of the city’s infrastructure. 
+
+^306962126
+
+##### ^306962100
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1953  
+
+###### ^306962100q
+
+Decisions were made by consensus among the pastors during weekly meetings without any formal status differences. For disagreements that could not be resolved, the decision-making circle was widened to include first the elders and ultimately the city council. This structure realized the benefits of group-level decision making (reviewed by Wilson 1997) and also made it difficult for any single individual to impose his will on the community. 
+
+^306962100
+
+##### ^306962101
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1965  
+
+###### ^306962101q
+
+Money was raised for charity and distributed on a case-by-case basis according to need. Both the raising and spending of money were monitored by accounting procedures that made it difficult to cheat, 
+
+^306962101
+
+##### ^306962102
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1968  
+
+###### ^306962102q
+
+The duty of attending to dying plague victims provides a good illustration of how the pastors solved problems in an egalitarian fashion using mechanisms that are difficult to subvert from within. This life-threatening task was decided by lottery. 
+
+^306962102
+
+#### THE DARK SIDE OF CALVINISM
+##### ^306962104
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1985  
+
+###### ^306962104q
+
+Calvin attempted to implement a high degree of social control in Geneva. Families were visited once a year to have their spiritual health examined. Church attendance was required, and playing a game of skittles on Easter Sunday was sufficient to send the son of a prominent family to prison. 
+
+^306962104
+
+##### ^306962105
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2013  
+
+###### ^306962105q
+
+We have seen that Calvinism fostered a degree of mutual criticism, differences of opinion, and the internal checks and balances that are required for a group to make intelligent decisions and to prevent subversion from within. However, dissension from outside the church elicited another kind of reaction altogether. A menacing placard placed in the pulpit of St. Peter’s cathedral led to the arrest of one Jacques Gruet, a friend of the powerful Favre family. Gruet confessed under torture, and a search of his house revealed more incriminating evidence. 
+
+^306962105
+
+##### ^306962106
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2020  
+
+###### ^306962106q
+
+Gruet, says Roget, was a free thinker and a liberal in the modern sense. He distinguished between offences against God, with which the magistrate need not concern himself, and offences against society, which ought to be repressed. As Choisy has pointed out, Calvin could not understand the distinction. 
+
+^306962106
+
+##### ^306962107
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2058  
+
+###### ^306962107q
+
+Calvin was not a paragon of virtue, but his moral failings occurred in exactly the contexts predicted by multilevel selection theory: social control within groups and conduct toward members of other groups. 
+
+^306962107
+
+##### ^306962108
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2082  
+
+###### ^306962108q
+
+The design features that identify the object as a can opener provide such a strong argument that we don’t even call it an argument; we call it self-evident. 
+
+^306962108
+
+##### ^306962109
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2085  
+
+###### ^306962109q
+
+The more we know about the various parts of the object in relation to each other and their environment (the can), the more obvious their functional nature becomes. Similarly, the absence of function becomes more obvious with every new detail for objects that truly have no function. 
+
+^306962109
+
+#### Innate psychology and cultural evolution
+##### ^306962111
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2144  
+
+###### ^306962111q
+
+An innate psychological architecture is required to have a moral system, but the specific contents can vary and therefore adapt to recent environments. 
+
+^306962111
+
+##### ^306962112
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2153  
+
+###### ^306962112q
+
+Calvinism shares with hunter-gatherer morality a fundamental distrust of human nature, a distrust that expects and guards against exploitation at all levels of the social hierarchy it creates. 
+
+^306962112
+
+##### ^306962113
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2160  
+
+###### ^306962113q
+
+Forgiveness and faith are two examples of capacities that are part of the psychological toolkit of all normal humans and that have obvious functions outside the context of religion, which are put to new use by a culturally constructed religious belief system. 
+
+^306962113
+
+##### ^306962114
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2164  
+
+###### ^306962114q
+
+Max Weber (1930), who famously proposed that Calvinism gave rise to the Protestant work ethic and the spirit of capitalism that now pervades modern life. Weber’s thesis illustrates the other side of the tinkerer metaphor—not the old parts, but the new structure that can be explained only in terms of modern history and by no means as an adaptation to ancestral environments. 
+
+^306962114
+
+##### ^306962115
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2172  
+
+###### ^306962115q
+
+It is important to separate the question of design from the question of the designing agent(s), which is why I think that Elster’s concept of intentional explanation should be regarded as a type of functional explanation. 
+
+^306962115
+
+##### ^306962116
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2177  
+
+###### ^306962116q
+
+Calvin and his contemporaries were in part hard-headed realists who talked explicitly about the ingredients required to hold a community together. However, it is unlikely that conscious intentionality can explain all of the functionality of Calvinism or other religions. 
+
+^306962116
+
+##### ^306962129
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2179  
+
+###### ^306962129q
+
+Calvin evidently believed to the depth of his soul that Christ’s return to earth was imminent, requiring urgent preparation on the part of the church. Similar beliefs in imminent events have arisen repeatedly in religions around the world and have a clear latent function (motivating action) that differs from their manifest function. ... The beliefs that motivate religious people to behave as they do in their own minds (the manifest functions) often depart from the adaptive consequences that ultimately sustain the beliefs (the latent functions). 
+
+^306962129
+
+##### ^306962119
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2194  
+
+###### ^306962119q
+
+Barring theological explanations, all designing agents must ultimately be traced back to a process of blind variation and selective retention 
+
+^306962119
+
+##### ^306962120
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2205  
+
+###### ^306962120q
+
+people who stand outside of religion often regard its seemingly irrational nature as more interesting and important to explain than its communal nature. Rational thought is treated as the gold standard against which religious belief is found so wanting that it becomes well-nigh inexplicable. Evolution causes us to think about the subject in a completely different way. Adaptation becomes the gold standard against which rational thought must be measured alongside other modes of thought. In a single stroke, rational thought becomes necessary but not sufficient to explain the length and breadth of human mentality, and the so-called irrational features of religion can be studied respectfully as potential adaptations in their own right rather than as idiot relatives of rational thought. 
+
+^306962120
+
+##### ^306962121
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2221  
+
+###### ^306962121q
+
+a strong and shared sense of morality is required to galvanize and orient a human community toward a common purpose—for modern societies no less than for hunter-gatherer groups. 
+
+^306962121
+
+##### ^306962122
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2239  
+
+###### ^306962122q
+
+When a scientific hypothesis is on the right track, it is strengthened rather than weakened by additional information, even if minor amendments are required along the way. 
+
+^306962122
+
 ##### ^304171996
 
 highlight_tags:: [[blue]]   
@@ -2152,71 +2455,4 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4445
 Idealized religion is close to what one expects on the basis of pure group selection, or so I claim. Religion as practiced often deviates from the ideal, but these deviations tend to be regarded as “corruptions” rather than as a part of the religion itself. It is useful to retain this distinction ... The idealized form was designed to establish an organismic community, and the realized form partially succeeded. 
 
 ^303892934
-
-# New highlights added March 30, 2022 at 2:11 PM
-##### ^304866748
-
-highlight_tags:: [[blue]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1883  
-
-###### ^304866748q
-
-Calvinism was structured to control the leadership as effectively as the average member of the church. 
-
-^304866748
-
-# New highlights added April 2, 2022 at 10:39 AM
-##### ^305945983
-
-highlight_tags:: [[qa]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=256  
-
-What are the three steps to apply group selection?
-1. Identify the relevant groups
-2. Compare fitness of individuals within groups
-3. Compare fitness of groups in the total population
-By combining these we can see what evolves.  
-
-###### ^305945983q
-
-One noncaller has a survival probability of 100 percent and nine have a survival probability of 50 percent for an average of 55 percent. One caller has a survival probability of 25 percent and nine have a survival probability of 75 percent for an average of 70 percent. ... Employing this procedure for our bird flock example, the groups are flocks, callers are less fit than noncallers within flocks, but flocks with more callers are more fit than flocks with fewer callers. When the variation among groups is as extreme as in my example (one caller in the first group and nine callers in the second group) group selection is by far the strongest evolutionary force and the calling behavior evolves despite its selective disadvantage within groups. 
-
-^305945983
-
-##### ^305945982
-
-highlight_tags:: [[qa]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=269  
-
-What is "the averaging fallacy" according to Elliot Sober and David Sloan Wilson?  
-
-###### ^305945982q
-
-If we define “individual selection” in terms of fitness averaged across groups rather than fitness within single groups, we have defined group selection out of existence, making “individual selection” a vacuous term for “whatever evolves.” 
-
-^305945982
-
-##### ^305405754
-
-
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1883  
-
-###### ^305405754q
-
-Calvinism was structured to control the leadership as effectively as the average member of the church. Pastors were not only selected with care but also were carefully supervised, with weekly meetings to insure purity of doctrine and quarterly meetings whose express purpose was for the pastors to criticize each other. 
-
-^305405754
-
-##### ^305930679
-
-highlight_tags:: [[blue]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=1903  
-
-In early Calvinism in a Geneva  
-
-###### ^305930679q
-
-Elders, like pastors, were chosen by a procedure insuring that they were acceptable to the city government in addition to those who were to be overseen. In fact, all of the elders were also members of the city government. 
-
-^305930679
 
