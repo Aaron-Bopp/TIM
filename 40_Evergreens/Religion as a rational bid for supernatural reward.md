@@ -10,7 +10,7 @@ sr-ease: 205
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Religion is a rational bid for supernatural reward]] 
+#### [[Religion as a rational bid for supernatural reward]] 
 
 This is 
 part of:: [[rational choice theory]]

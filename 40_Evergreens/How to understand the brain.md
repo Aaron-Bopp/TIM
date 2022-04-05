@@ -30,7 +30,7 @@ These models are not useless, and can be good scaffolding to help us understand 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[brain]], [[mind]], [[Neuroscience]], [[Psychology]]

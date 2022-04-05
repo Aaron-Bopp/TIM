@@ -22,7 +22,7 @@ part of:: [[Rise of Conspiracy Culture]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[political strategy]], [[cooperation]], [[Conservatism]], [[conspiracy]]

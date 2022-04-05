@@ -24,7 +24,7 @@ part of:: [[Concepts are the fundamental unit of knowledge]]
 answers:: [[What is the origin of social hierarchy]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[understanding]], [[organization]], [[categorization]] 

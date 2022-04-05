@@ -1,3 +1,6 @@
+[[source notes]] are what other people know
+[[topic notes]] are what I know about what other people know
+[[evergreen notes]] are what I know about what I know
 
 ![[model2.webp]]
 Refactoring ![[refactoring.webp]]
@@ -15,7 +18,7 @@ interesting example of escaping the [[alt-right pipeline]]: [i had a ben shapiro
 #TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
-#TO/EXPLORE/CONCEPTUALIZE [Three Basic Elements of Note-taking - YouTube](https://www.youtube.com/watch?v=e2uaqleh9W0) 
+[[video_Three Basic Elements of Note-taking]]
 
 #TO/EXPLORE/RESEARCH 
 > On a related note, I think the process of realizing what’s relevant for a particular difficult problem is also another way to say “that’s an insight”. I’ve read a bit into the Insight Problem Solving literature, and insight can be thought of as a representational change that leads to solutions, which is maybe a more rigorous way to say that “you suddenly notice what’s relevant to the problem at hand”.
@@ -53,4 +56,4 @@ they are like sticky notes if you stumble back across them and a search key if y
 
 #TO/PROGRAM [Academic Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-[[dataview]]-workflow/15536)
 
-#TO/EXPLORE/READ good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]
+#TO/EXPLORE/READ good gpt resources [What Can Huge Neural Networks do? - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ) [[Machine Learning]]`

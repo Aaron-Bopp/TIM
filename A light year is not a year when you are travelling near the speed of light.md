@@ -18,7 +18,7 @@ Plotting a trip to somewhere 25 [[lightyears]] away at 99% the [[speed of light]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[speed of light]], [[spacetime]], [[physics]], [[general relativity]], [[lightyears]]

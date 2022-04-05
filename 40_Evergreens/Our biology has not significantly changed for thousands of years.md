@@ -23,6 +23,7 @@ but our genetic environment is almost unchanged.
 - part of:: [[Evolutionary Psychology is just a framework not a prescription of behavior]]
 - next:: [[Biological processes can only give context to behavior not predict it]]
 - [[Mental health is a reaction to one's environment]]
+- explains:: [[Humans have had little time to adjust to being the top predator]]
 
 ### <hr class="footnote"/>
 

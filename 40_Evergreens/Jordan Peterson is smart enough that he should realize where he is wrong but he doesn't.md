@@ -24,7 +24,7 @@ example of:: [[Searching for THE answer is dangerous]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[logic]], [[introspection]], [[Psychology]] 

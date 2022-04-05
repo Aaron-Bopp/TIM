@@ -20,7 +20,7 @@ first:: [[In what way are human's equal]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[equality]], [[inequality]], [[social order]]

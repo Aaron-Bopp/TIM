@@ -16,7 +16,7 @@ source:: [IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide | by 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[math]], [[crows]], [[animals]], [[cognition]] 

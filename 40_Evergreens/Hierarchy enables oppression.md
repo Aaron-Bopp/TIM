@@ -23,7 +23,7 @@ how:: [[Oppressors invent reasoning for their oppression]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[oppression]], [[marginalization]], [[social hierarchy]]

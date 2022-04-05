@@ -32,7 +32,7 @@ in addition to::[[You need to teach yourself what you read]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[reading]], [[understanding]]

@@ -12,13 +12,18 @@ sr-ease: 230
 
 #### [[Most problems cannot be significantly understood through a single framework]] 
 
-Making connections is a really important part of [[learning]] see [[Active Recall]] and [[Blooms taxonomy]]
+This is seen in [[Evolutionary Psychology is just a framework not a prescription of behavior]].
+[[Evolutionary Psychology]] isn't the holy grail of predicting [[human behavior]], it just acknowledges that [[Humans are a product of evolution]]
+is a powerful influence on what kind of behavior we are capable.
+[[Neuroscience]] is the study of how behavior is produced, but it cannot answer [[The three main questions of life]].
+Most of the problems in modern society cannot be understood, let alone solved by any one thing alone,
+and yet
+[[Experts are often far too confident in the effectiveness of their theories]].
 
-- [[Experts are often far too confident in the effectiveness of their theories]]
-- [[Evergreen notes should be constantly integrating new knowledge]]
+[[evergreen notes]] try to be wary against this: [[Evergreen notes should be constantly integrating new knowledge]]
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge work]], [[understanding]]

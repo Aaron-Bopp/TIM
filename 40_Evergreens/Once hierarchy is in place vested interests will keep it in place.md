@@ -23,7 +23,7 @@ Over time people will start to benefit more and more from the hierarchy and even
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social hierarchy]], [[social order]], [[exploitation]]

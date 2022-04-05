@@ -24,7 +24,7 @@ part of:: [[Hierarchy keeps people in by pretending they can change their class]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religion]], [[social hierarchy]]

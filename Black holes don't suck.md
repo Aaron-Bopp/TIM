@@ -23,7 +23,7 @@ The only way to get "sucked" into a black hole is to be travelling a trajectory 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Black holes]], [[gravity]]

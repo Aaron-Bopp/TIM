@@ -27,7 +27,7 @@ In [[Darwin's Cathedral by David Sloan Wilson]], [[religion]] is discussed throu
 
 Religion as adaptive:
 - A group-level adaptation [[Religion creates social order through group membership and ritual]]
-- An individual level adaptation [[Religion is a rational bid for supernatural reward]]
+- An individual level adaptation [[Religion as a rational bid for supernatural reward]]
 - A cultural parasite that takes advantage of humans [[Evangelicalism has commodified faith for profit]]
 
 Religion as non-adaptive

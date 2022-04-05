@@ -19,7 +19,7 @@ sr-ease: 244
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[whiteness]], [[race]], [[class]]

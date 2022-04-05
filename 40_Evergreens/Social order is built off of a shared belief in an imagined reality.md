@@ -34,7 +34,7 @@ Perhaps in this case [[Social media]] is maladaptive.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Culture]], [[belief]], [[social order]], [[humanity]]

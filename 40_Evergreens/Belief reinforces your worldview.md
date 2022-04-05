@@ -34,7 +34,7 @@ explains:: [[What are the blindspots of the Christian worldview|the blindspots i
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[belief]], [[worldview]]

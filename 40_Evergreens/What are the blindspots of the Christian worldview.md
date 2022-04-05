@@ -33,7 +33,7 @@ The question is if there is a version of the Christian worldview that does not h
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[worldview]], [[Christianity]]

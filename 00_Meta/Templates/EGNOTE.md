@@ -1,5 +1,7 @@
 <% tp.file.include("[[META]]") %> created/<% tp.date.now("YYYY/MM/DD") %>, review, node/evergreen/claim
 ---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)
 
 <% tp.file.include("[[EVERGREEN_HEADER]]") %>
 

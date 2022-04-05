@@ -30,7 +30,7 @@ sr-ease: 250
 
 ##### in [[religion]]
 
-[[Religion is a rational bid for supernatural reward]]
+[[Religion as a rational bid for supernatural reward]]
 
 
 > ![[books_Darwin's Cathedral#^298292990]]

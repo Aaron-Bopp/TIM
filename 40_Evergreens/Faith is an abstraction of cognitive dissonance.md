@@ -33,7 +33,7 @@ We are built to believe in something better: [[Humans have decided to reject an 
 This has been built into our psyche for millennia.
 ^[Which means this trait is something that is selected for because [[Humans are a product of evolution]]
 and is one of the reasons behind why the [[The brain is powerful enough to create supernatural experiences]].]
-Our brain created these stories to help us understand the thunder and lightning, push ourselves to survive, and to find meaning after we have lost loved ones. [[Religion is a rational bid for supernatural reward]]
+Our brain created these stories to help us understand the thunder and lightning, push ourselves to survive, and to find meaning after we have lost loved ones. [[Religion as a rational bid for supernatural reward]]
 
 %%
 #TO/PONDER/IDEA something about how we are born into this world not knowing anything, and are repeatedly told that everything has a meaning when it doesn't unless we give it a meaning

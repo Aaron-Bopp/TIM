@@ -22,7 +22,7 @@ Your note title needs to be the most concise way of conveying what the note is a
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[abstraction]], [[note writing]], [[knowledge management]], [[conceptual notes]] 
