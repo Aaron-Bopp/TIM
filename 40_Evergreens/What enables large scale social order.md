@@ -46,7 +46,7 @@ These were two revolutionary systems of social organization.
 
 If the [[social order]] we are talking about is [[capitalism]] then the origin is assumed to be our cynical egotistic nature. 
 
-> [!cite]- [[reference_The Dawn of Everything#citation]]
+> [!cite]- [[The Dawn of Everything by David Graeber]]
 > 
 > ![[books_The Dawn of Everything#^261572334]]
 

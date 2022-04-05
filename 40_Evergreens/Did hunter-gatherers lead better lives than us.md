@@ -3,8 +3,8 @@ created: 2022-03-26T15:51:45
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/question
-sr-due: 2022-04-05
-sr-interval: 2
+sr-due: 2022-04-11
+sr-interval: 6
 sr-ease: 242
 ---
 > [!infobox]
@@ -12,7 +12,7 @@ sr-ease: 242
 
 #### [[Did hunter-gatherers lead better lives than us]] 
 
-leads to:: [[Were hunter-gatherer societies egalitarian]]
+includes:: [[Were hunter-gatherer societies egalitarian]]
 
 This has been a question since [[Age of Enlightenment|the Enlightenment]] and has survived to this day as the myth of the [[noble savage]].
 
@@ -20,7 +20,6 @@ Today this is a combination of this idea that [[hunter-gatherers]] were primaril
 ^[Almost certainly not true: [[Hunter-gatherer societies were very diverse]] but still a common question [[Were hunter-gatherer societies egalitarian]]]
 and a newer idea spawned by [[Neuroscience]],
 that since [[Our biology has not significantly changed for thousands of years]] our brains would be more accustomed to a hunter-gatherer lifestyle.
-
 
 ### <hr class="footnote"/>
 

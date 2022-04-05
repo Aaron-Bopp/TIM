@@ -3,9 +3,9 @@ created: 2022-03-27T17:16:48
 aliases:
   - null
 tags: created/2022/03/27, review, node/evergreen/claim
-sr-due: 2022-04-05
+sr-due: 2022-04-09
 sr-interval: 4
-sr-ease: 216
+sr-ease: 196
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,6 +14,7 @@ sr-ease: 216
 
 - Contrasts:: [[Belief can motivate adaptation]]
 - explains:: [[religious belief]]
+- explains:: [[Belief reinforces your worldview]]
 
 ### <hr class="footnote"/>
 

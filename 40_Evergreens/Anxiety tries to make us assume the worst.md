@@ -32,7 +32,7 @@ it is information that has a seed of truth.
 ^[[[Most anxiety isn't irrational it's just overcompensation]]]
 That is what makes [[anxiety]] so dangerous for our [[relationships]],
 especially when there are other strong [[emotions]] 
-^[and [[repressed]] [[emotions]] ([[Samskara]])]
+^[and [[self-repression|repressed]] [[emotions]] ([[Samskara]])]
 at play.
 ^[[[Triggers activate stored emotional responses for certain situations]]]
 

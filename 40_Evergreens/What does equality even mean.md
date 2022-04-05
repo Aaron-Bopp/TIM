@@ -28,6 +28,6 @@ first:: [[In what way are human's equal]]
 
 #### References
 
-![[reference_The Dawn of Everything#citation]]
+![[The Dawn of Everything by David Graeber#citation]]
 
 > ![[books_The Dawn of Everything#^261572339]]

@@ -16,7 +16,7 @@ This environment includes our physical environment (what our [[senses]] are retu
 our chemical environment (the [[neurotransmitter]]s our [[brain]] and [[body]] produce and consume),
 and our emotional environment (how our [[mind]] is reacting to our physical and chemical environments).
 Whether through chemical imbalances 
-or [[repressed]] [[emotions]] 
+or [[self-repression|repressed]] [[emotions]] 
 it makes sense that these internal stimuli 
 would reflect our environment,
 but sometimes external stimuli like societal structure 

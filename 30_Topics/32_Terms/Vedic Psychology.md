@@ -23,7 +23,7 @@ The five layers of the [[mind]]
 - [[Ahamkara]] - [[ego]]
 	- [[identity]], [[ego]], sense of I
 - [[Samskara]] - [[memory]]
-	- memory impression, [[repressed]] memory, emotional reaction
+	- memory impression, [[self-repression|repressed]] memory, emotional reaction
 - [[Citta]] - [[unconscious]]  
 	- backdrop of the mind, where [[Samskara]] are stored
 

@@ -41,5 +41,5 @@ If our goal is [[equality]] or [[equity]], we need to ask
 
 > ![[books_Sapiens#^297681755]]
 
-![[reference_The Dawn of Everything#citation]]
+![[The Dawn of Everything by David Graeber#citation]]
 > ![[books_The Dawn of Everything#^71a788]]

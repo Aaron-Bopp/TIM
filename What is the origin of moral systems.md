@@ -13,7 +13,7 @@ sr-ease: 212
 
 #### [[What is the origin of moral systems]] 
 
-> ![[books_Darwin's Cathedral#^292537214]]
+
 
 > ![[books_Darwin's Cathedral#^292550150]]
 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - defense-mechanism
 tags: created/2022/04/05, node/topic/term
-sr-due: 2022-04-05
-sr-interval: 2
+sr-due: 2022-04-11
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -23,7 +23,7 @@ sr-ease: 231
 > - identification - incorporating an object or thought into oneself
 > - [[rationalizations]] - justification of one's behavior and motivations
 > 
-> Healthy people normally use different Defense mechanisms throughout life. A Defense mechanism becomes pathological only when its persistent use leads to maladaptive [[behavior]] such that the physical or [[mental health]] of the individual is adversely affected. Among the purposes of defense mechanisms is to protect the [[mind]]/[[self]]/[[ego]] from [[anxiety]] or social sanctions or to provide a refuge from a situation with which one cannot currently cope.
+> Healthy people normally use different Defense mechanisms throughout life. A defense mechanism becomes pathological only when its persistent use leads to maladaptive [[behavior]] such that the physical or [[mental health]] of the individual is adversely affected. Among the purposes of defense mechanisms is to protect the [[mind]]/[[self]]/[[ego]] from [[anxiety]] or social sanctions or to provide a refuge from a situation with which one cannot currently cope.
 > 
 > 
 >

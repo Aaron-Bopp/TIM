@@ -29,6 +29,6 @@ part of:: [[Foraging was a very sustainable lifestyle]]
 
 #### References
 
-![[reference_The Dawn of Everything#citation]]
+![[The Dawn of Everything by David Graeber#citation]]
 
 > ![[books_The Dawn of Everything#^265135476]]

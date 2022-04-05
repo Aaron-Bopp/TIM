@@ -17,7 +17,7 @@
 | [[self-love]] | 10 |
 | [[self-hate]] | 4 |
 | [[self-esteem]] | 1 |
-| [[repressed]] | 1 |
+| [[self-repression|repressed]] | 1 |
 | [[knowledge management]] | 20 |
 | [[identity]] | 3 |
 | [[social anxiety]] | 3 |

@@ -45,6 +45,6 @@ important for:: correctly understanding [[The Indigenous Critique]] and [[Hunter
 
 #### References
 
-![[reference_The Dawn of Everything#citation]]
+![[The Dawn of Everything by David Graeber#citation]]
 
 > ![[books_The Dawn of Everything#^261572339]]

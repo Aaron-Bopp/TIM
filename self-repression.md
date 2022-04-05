@@ -3,9 +3,11 @@ created: 2022-04-05T13:17:50
 edited: 
 aliases:
   - repression
+  - repressed self
+  - repressed
 tags: created/2022/04/05, node/topic/term
-sr-due: 2022-04-05
-sr-interval: 2
+sr-due: 2022-04-11
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

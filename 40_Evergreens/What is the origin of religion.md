@@ -36,6 +36,10 @@ Religion as non-adaptive
 	- They viewed the complexity of the world and assumed their must be a designing agent. They weren't wrong: [[Natural selection is a designing agent]]
 
 
+The origin of religion must be both psychological and cultural. We need to have a reason to want to believe, and a reason to convince other's that they should believe.
+
+> [!qoute]- 
+> ![[books_Darwin's Cathedral#^292537214]]
 
 > ![[books_Darwin's Cathedral#^295490295]]
 

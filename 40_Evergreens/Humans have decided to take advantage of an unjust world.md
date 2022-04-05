@@ -3,33 +3,27 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/2021/12/24, review, node/evergreen/behavior
-sr-due: 2022-04-05
-sr-interval: 24
-sr-ease: 130
+sr-due: 2022-05-23
+sr-interval: 48
+sr-ease: 150
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Humans have decided to take advantage of an unjust world]] 
 
-- counters:: [[Humans have decided to reject an unjust world]]
-- [[Hierarchy enables oppression]]
-	- [[Oppressors invent reasoning for their oppression]]
-- [[What is the cognitive effect of living in an unjust world]]
+- answers:: [[What is the origin of social hierarchy]]
+	- [[Hierarchy enables oppression]]
+		- [[Oppressors invent reasoning for their oppression]]
+- answers:: [[What is the cognitive effect of living in an unjust world]]
 	- [[Is cognitive dissonance the reason for harmful behaviors]]
-- [[The Politicization of the Christian Church]]
-	- [[Faith is an abstraction of cognitive dissonance]]
-		- [[People have been conditioned to believe the bible has to be infallible]]
-		- [[Evangelicalism has commodified faith for profit]]
-		- [[Does cognitive dissonance increase your capacity for endurance]]
-- [[The way systems work can create cognitive bias]]
-	- [[Race is a social construct]]
-	- [[To those with privilege, losing it feels like oppression]]
+- explains:: [[The Politicization of the Christian Church]]
+- counters:: [[Humans have decided to reject an unjust world]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human behavior]]
+**Topics**:: [[human behavior]], [[social hierarchy]], [[injustice]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

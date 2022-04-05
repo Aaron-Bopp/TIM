@@ -45,7 +45,7 @@ sr-ease: 250
 		- [[identity]], [[ego]], sense of I
 		- different quality from [[Manas]] and [[Buddhi]]
 	- [[Samskara]]
-		- memory impression, [[repressed]] memory, emotional reaction
+		- memory impression, [[self-repression|repressed]] memory, emotional reaction
 	- [[Citta]]
 		- backdrop of the mind, where [[Samskara]] are stored
 - Girl, dog, ice cream example

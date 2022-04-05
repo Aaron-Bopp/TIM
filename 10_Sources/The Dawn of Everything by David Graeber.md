@@ -5,7 +5,7 @@ aliases:
 tags: created/2022/03/20, node/source/notes
 ---
 
-#### [[reference_The Dawn of Everything]]
+#### [[The Dawn of Everything by David Graeber]]
 **Creator**:: [[David Graeber]], [[David Wengrow]]
  
 **Source**:: [[books_The Dawn of Everything]]

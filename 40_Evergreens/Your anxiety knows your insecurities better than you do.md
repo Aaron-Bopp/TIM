@@ -24,7 +24,7 @@ including the reasons for these emotions.
 The actual sources of these [[defense-mechanisms]] are usually the hardest to discover
 and for many it takes years of [[self-actualization|introspection]], [[therapy]], and sometimes a moment of realization.
  
- ##### Cause:: [[repressed]] [[identity]]
+ ##### Cause:: [[self-repression|repressed]] [[identity]]
  
 
 
