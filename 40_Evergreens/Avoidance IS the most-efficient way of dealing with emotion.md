@@ -1,8 +1,8 @@
 ---
 created: 2021-06-24
 tags: created/2021/06/24, review, node/evergreen/claim
-sr-due: 2022-04-05
-sr-interval: 52
+sr-due: 2022-07-12
+sr-interval: 98
 sr-ease: 189
 ---
 > [!infobox]
@@ -16,20 +16,24 @@ sr-ease: 189
 #TO/EXPLORE/RESEARCH is there a relationship between this and [[PTSD]]
 %%
 
-This is because avoidance can be almost immediate, and is an instinctual response.
-After [[fear]], avoidance is the first response that we learn as children, and if better [[coping-mechanisms]] are not learned can become our only [[coping-mechanisms]] later in life.
+%% #TO/TEND/WEED  %%
+When experience a strong negative emotion,
+avoidance can be almost immediate, and is an instinctual response.
+After [[fear]], avoidance is the first response that we learn as children, and if better [[coping-mechanisms]] are not learned it can become our only coping-mechanism later in life.
 Avoidance can be enforced by the [[subconscious]] without our [[consciousness|conscious]] [[knowledge]] or [[consent]],
 and if your [[subconscious]] has learned how to completely tune out [[emotions]], it will start to use it at will.
 This can lead to a person feeling disconnected and out of control of their emotions, unable to feel certain emotions, or entirely [[dissociation|disassociated]].
+
+This can also result from being told that are [[emotions]] aren't acceptable,
+which could mean that not just negative emotions, but all emotions could start being avoided.
 
 One manifestation of this is our [[ego]], because this 
 works with:: [[Rationalizations are defense-mechanisms against strong emotions]].
 Rationalizing an emotion away without actually feeling it is avoidance.
 
-Another manifestation is [[dissociation]] or [[self-repression]].
-Another is a [[repressed]] [[identity]] which impacts your ability to understand and respond to your environment:
-^[[[Mental health is a reaction to one's environment]]]
-[[A repressed self creates a mistrust of self-love and self-esteem]]
+Other manifestations are [[dissociation]] or [[self-repression]] and are often the result of highly hostile environments.
+^[This is
+displayed by:: [[Self-repression is the most natural response for trans people in strongly gendered environments]]]
 
 %%For me this was realized as being unable to understand why I was the way that I was, because my brain was repressing so many emotions and memories.%%
 

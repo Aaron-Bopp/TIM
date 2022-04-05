@@ -3,8 +3,8 @@ created: 2022-03-19T14:23:29
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-04-05
-sr-interval: 11
+sr-due: 2022-05-02
+sr-interval: 27
 sr-ease: 230
 ---
 > [!infobox]
@@ -30,5 +30,5 @@ This seems to be a problem ran into much more by [[Computer Science|Computer Sci
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[math]], [[language]], [[communication]]
+**Topics**:: [[math]], [[language]], [[communication]], [[intuition]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

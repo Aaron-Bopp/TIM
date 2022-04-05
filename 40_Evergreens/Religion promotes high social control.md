@@ -22,7 +22,7 @@ Spiritual beliefs can promote [[behavior]] that is positive to the group without
 Perhaps religion allows an easier to way to pass on practices without them being questioned, which would mean this
 leads to:: [[Social order is built off of a shared belief in an imagined reality]]
 
-explained by::[[Theology preserves hierarchy through deific blessing]] 
+displayed by:: [[Theology preserves hierarchy through deific blessing]] 
 
 Explanations:
  - [[Religion externalizes social control mechanisms]] 
@@ -30,6 +30,7 @@ Explanations:
  - [[Social control promotes highly altruistic behavior within groups]]
 
 #TO/PONDER/IDEA what is the relationship between individual's [[belief]] and [[religion]]'s social control. They can motivate similar behaviors, but come from different sources?
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -39,4 +40,5 @@ Explanations:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
+
 > ![[books_Darwin's Cathedral#^298292991]]

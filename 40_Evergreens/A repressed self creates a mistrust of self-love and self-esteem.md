@@ -10,7 +10,7 @@ sr-ease: 130
 
 #### [[A repressed self creates a mistrust of self-love and self-esteem]] 
 
-If your sense of self is [[repressed]] then it is unlikely that you have ever been able to interact with the world in a way that works.
+If your sense of self is repressed then it is unlikely that you have ever been able to interact with the world in a way that works.
 This means that you haven't developed an [[identity]] that lines up with your true [[self]] because
 [[Identity is your understanding of yourself vs your interaction with the world]].
 At this point your [[ego]] may construct an [[identity]] that matches your interaction with the world: 
@@ -25,7 +25,7 @@ But if you have a repressed [[identity]], you were never able to develop that [[
 
 This is 
 part of how:: [[We value our biggest insecurities because they protect us from the biggest threats]].
-The [[ego]] used our [[insecurity|insecurities]] to construct our [[identity]] because our true [[self]] was [[repressed]].
+The [[ego]] used our [[insecurity|insecurities]] to construct our [[identity]] because our true [[self]] was [[self-repression|repressed]].
 
 Reasons for this likely come from the home, as that is where a lot of initial invalidation can happen: 
 [[A inwardly judgmental and outwardly accepting home creates trust issues]]
@@ -39,5 +39,5 @@ important to remember:: [[Presentation is the realization of our self-perception
 **Status**:: #EVER/SAPLING
 *edited January 25, 2022*
 
-**Topics**:: [[self]], [[self-love]], [[self-hate]], [[self-esteem]], [[repressed]]
+**Topics**:: [[self-repression]], [[self-love]], [[self-hate]], [[self-esteem]] 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

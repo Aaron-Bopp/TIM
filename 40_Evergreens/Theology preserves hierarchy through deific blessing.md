@@ -3,8 +3,8 @@ created: 2022-03-19T13:57:56
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-04-05
-sr-interval: 15
+sr-due: 2022-05-14
+sr-interval: 39
 sr-ease: 230
 ---
 > [!infobox]
@@ -17,10 +17,11 @@ This has included [[Christianity|Christian]] theologians claiming that all Afric
 
 Less obviously some creation stories will prescribe certain races to soil or mud depending on their place in the [[social order]]. 
 This not only separates classes in through deific blessing, but also through physical traits like purity.
-[[The caste system preserved hierarchy through purity]] is an example of this, as purity was both a physical reality and enforced by [[religion]].
+This is 
+displayed by:: [[The caste system preserved hierarchy through purity]].
 
-part of:: [[Oppressors invent reasoning for their oppression]]
-part of:: [[Hierarchy keeps people in by pretending they can change their class]]
+- explained by:: [[Religion externalizes social control mechanisms]]
+- part of:: [[Oppressors invent reasoning for their oppression]]
 
 ### <hr class="footnote"/>
 
