@@ -9,24 +9,21 @@ tags: created/2022/03/23, node/topic/term
 
 #### <s class="topic-title">[[quipus]]</s>
 
+> [!wikipedia] [quipus](https://en.wikipedia.org/wiki/Quipu)
+> 
+> Quipu (also spelled khipu) are recording devices fashioned from strings historically used by a number of cultures in the region of Andean South America. Knotted strings for collecting data, government management and keeping records were also used by the ancient Chinese, Tibetans and Japanese, but such practices should not be confused with the quipu, which refers only to the Andean method.
+> 
 
-> [!infobox nt]
+> [!infobox right]
 > ![[450px-Inca_Quipu.jpg]]
 > An example of a _quipu_ from the Inca Empire, currently in the [Larco Museum](https://en.wikipedia.org/wiki/Larco_Museum "Larco Museum") Collection.
 
-
-> [!wikipedia] [quipus](https://en.wikipedia.org/wiki/Quipu)
-> 
-> Quipu (also spelled khipu) are recording devices fashioned from strings historically used by a number of cultures in the region of Andean South America. Knotted strings for collecting data, government management and keeping records were  also used by  the ancient Chinese, Tibetans and Japanese, but such practices should not be confused with the quipu, which refers only to the Andean method.
-> 
-
-> [!infobox nt]
-> ![[450px-Quipo_in_the_Museo_Machu_Picchu,_Casa_Concha,_Cusco.jpg]]
-> Quipu in the Museo Machu Picchu, Casa Concha, Cusco
-
-
 > [!wikipedia]
 > A quipu usually consisted of cotton or camelid fiber strings. The Inca people used them for collecting data and keeping records, monitoring tax obligations, properly collecting census records, calendrical information, and for military organization. The cords stored numeric and other values encoded as knots, often in a base ten positional system. A quipu could have only a few or thousands of cords. The configuration of the quipus has been "compared to string mops." Archaeological evidence has also shown the use of finely carved wood as a supplemental, and perhaps sturdier, base to which the color-coded cords would be attached. A relatively small number have survived.
+
+> [!infobox right]
+> ![[450px-Quipo_in_the_Museo_Machu_Picchu,_Casa_Concha,_Cusco.jpg]]
+> Quipu in the Museo Machu Picchu, Casa Concha, Cusco
 
 > [!wikipedia]
 > 
@@ -51,4 +48,3 @@ tags: created/2022/03/23, node/topic/term
 > ```
 
 %% DO NOT EDIT ABOVE %%
-

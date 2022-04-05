@@ -10,23 +10,24 @@ sr-ease: 189
 
 #### [[Avoidance IS the most-efficient way of dealing with emotion]] 
 
-[[Our brain will do anything it can to protect itself]], and if our [[emotions]] are going to impact our ability to succeed
-^[and thus be selected against: [[Humans are a product of evolution]]]
-it is going to deal with those emotions as quickly as possible, but this does not mean it will affectively deal with those [[emotions]]:
-[[Our brain actively inhibits us from processing repressed emotions]]
-
+- explained by:: [[Our brain actively inhibits us from processing repressed emotions]]
+- part of:: [[Our brain will do anything it can to protect itself]]
 %%
 #TO/EXPLORE/RESEARCH is there a relationship between this and [[PTSD]]
 %%
 
 This is because avoidance can be almost immediate, and is an instinctual response.
 After [[fear]], avoidance is the first response that we learn as children, and if better [[coping-mechanisms]] are not learned can become our only [[coping-mechanisms]] later in life.
-^[[[Our brain actively inhibits us from processing repressed emotions]]]
 Avoidance can be enforced by the [[subconscious]] without our [[consciousness|conscious]] [[knowledge]] or [[consent]],
 and if your [[subconscious]] has learned how to completely tune out [[emotions]], it will start to use it at will.
 This can lead to a person feeling disconnected and out of control of their emotions, unable to feel certain emotions, or entirely [[dissociation|disassociated]].
 
-One manifestation of this is our [[ego]], because [[Our ego is our subconscious defense of our self]]. Another is a [[repressed]] [[identity]] which impacts your ability to understand and respond to your environment:
+One manifestation of this is our [[ego]], because this 
+works with:: [[Rationalizations are defense-mechanisms against strong emotions]].
+Rationalizing an emotion away without actually feeling it is avoidance.
+
+Another manifestation is [[dissociation]] or [[self-repression]].
+Another is a [[repressed]] [[identity]] which impacts your ability to understand and respond to your environment:
 ^[[[Mental health is a reaction to one's environment]]]
 [[A repressed self creates a mistrust of self-love and self-esteem]]
 

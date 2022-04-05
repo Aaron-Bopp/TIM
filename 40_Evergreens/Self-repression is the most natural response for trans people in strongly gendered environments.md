@@ -28,5 +28,5 @@ This is why thoughts like [[You're never sure if you're trans]] are so difficult
 **Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Transgender people]], [[gender dysphoria]], [[childhood]]
+**Topics**:: [[Transgender people]], [[gender dysphoria]], [[childhood]], [[self-repression]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
