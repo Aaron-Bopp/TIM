@@ -12,6 +12,10 @@ sr-ease: 210
 
 #### [[Hunter-gatherer societies were very diverse]] 
 
+This is an
+answer to:: [[Were hunter-gatherer societies egalitarian]].
+
+
 > ![[books_The Dawn of Everything#^258309239]]
 
 > ![[books_Sapiens#^297089486]]
