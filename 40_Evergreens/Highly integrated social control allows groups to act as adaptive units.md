@@ -10,13 +10,18 @@ sr-ease: 190
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Functionally integrated social groups become organisms in their own right]] 
+#### [[Highly integrated social control allows groups to act as adaptive units]] 
 
-This requires a liberal use of the word social and strong understanding of the functional arrangement.
+This is an argument made in [[Darwin's Cathedral by David Sloan Wilson]] and requires an understanding of how [[group selection]] allows for traits to be selected for based on competition between groups rather than individuals.
+Wilson uses this to make strong arguments for [[Religion as a group level adaptation]] and [[Cultural Evolution]],
+but he grounds this thought in organisms that are capable of much higher levels of [[social control]] than humans.
+
 One example given is that of chromosomes. 
 The genes that are stored on the chromosomes are physically inseparable from each other forcing them to replicate as a unit. This allows the process of [[natural selection]] to take place at a higher level (no longer among genes but among cells).
-Another example is social insects.
-> [!example]
+
+Another is of how [[eukaryotic]] cells are actually connected networks of [[bacteria]] working together in ways unlike other bacteria.
+
+> [!cite]
 > 
 > [[Lynn Margulis]] invented the first unified theory of eukaryogenesis (the way in which [[eukaryotic]] cells formed from [[prokaryotic]] cells) 
 > for more:: [Lynn Margulis and the endosymbiont hypothesis: 50 years later | Molecular Biology of the Cell](https://www.molbiolcell.org/doi/10.1091/mbc.e16-07-0509)
@@ -31,7 +36,7 @@ In [[human behavior]], this is seen as [[Social control promotes highly altruist
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolution]], [[group selection]], [[Cultural Evolution]]
+**Topics**:: [[adaptation]], [[group selection]], [[social control]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
@@ -39,3 +44,4 @@ In [[human behavior]], this is seen as [[Social control promotes highly altruist
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^288936970]]
+

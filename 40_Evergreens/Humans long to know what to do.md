@@ -13,7 +13,11 @@ sr-ease: 130
 #### [[Humans long to know what to do]] 
 
 This is a
-result of:: [[Humans are designed to make certainty out of uncertainty]]
+result of:: [[Humans are designed to make certainty out of uncertainty]].
+We would much rather have a path laid out in front of us, 
+no matter how impossible,
+that be faced with an impossible decision.
+
 - leads to:: [[Human's have an inability to admit that they are wrong]]
 - explains:: [[Humans are addicted to believing]]
 	- [[Belief reinforces your worldview]]
@@ -23,7 +27,7 @@ result of:: [[Humans are designed to make certainty out of uncertainty]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited January 23, 2022*
 
 **Topics**:: [[human experience]]

@@ -12,15 +12,13 @@ sr-ease: 198
 
 #### [[Symbolism increases human's capacity for cooperation]] 
 
-part of:: [[What enables large scale social order]] 
-similarly:: [[Social order is built off of a shared belief in an imagined reality]]
+- part of:: [[What enables large scale social order]] 
+- similarly:: [[Social order is built off of a shared belief in an imagined reality]]
 
-> ![[books_Darwin's Cathedral#^295490288]]
-
-[[What is the link between evolution and social behavior]]
-> ![[books_Darwin's Cathedral#^295490290]]
+Whether it is a idea of people we are unrelated to being our "brothers" or a marriage vow pushing us to stay faithful through the hard times
 
 leads to:: [[Greater cooperation and communication has lead to the success of humans as a species]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -28,3 +26,15 @@ leads to:: [[Greater cooperation and communication has lead to the success of hu
 
 **Topics**:: [[religion]], [[Symbolism]], [[cooperation]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
+
+> ![[books_Darwin's Cathedral#^295490290]]
+
+> ![[books_Darwin's Cathedral#^295490288]]
+
+![[Sapiens by Yuval Noah Harari#citation]]
+
+> ![[books_Sapiens#^294248528]]

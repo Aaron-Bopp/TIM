@@ -12,7 +12,7 @@ sr-ease: 190
 
 #### [[What is the link between evolution and social behavior]] 
 
-[[Functionally integrated social groups become organisms in their own right]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
+[[Highly integrated social control allows groups to act as adaptive units]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
 
  [[How to solve the fundamental problem of social life]]
  

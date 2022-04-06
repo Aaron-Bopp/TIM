@@ -29,7 +29,7 @@ first you must understand and properly apply the rules of [[group selection]],
 then you must understand that
 [[Social control promotes highly altruistic behavior within groups]]
 which leads to
-[[Functionally integrated social groups become organisms in their own right]]
+[[Highly integrated social control allows groups to act as adaptive units]]
 and finally that
 [[Individual selection is an emergent mechanic of group selection]].
 

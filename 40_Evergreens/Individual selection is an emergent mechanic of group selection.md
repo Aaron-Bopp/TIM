@@ -15,7 +15,7 @@ sr-ease: 210
 
 > ![[books_The Fabric of Reality#^288838107]]
 
-[[Functionally integrated social groups become organisms in their own right]] 
+[[Highly integrated social control allows groups to act as adaptive units]] 
 and 
 [[Social control promotes highly altruistic behavior within groups]]
 lead to this fact.
