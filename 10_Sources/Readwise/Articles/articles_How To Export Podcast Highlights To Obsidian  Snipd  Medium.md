@@ -25,7 +25,6 @@ sr-ease: 230
 
 Goto: https://blog.snipd.com/how-to-export-your-podcast-highlights-to-obsidian-54208c06d491?__readwiseLocation=0%2F1%2F0%2F0%2F1%2F0%2F2%2F2%2F3%2F0%2F0%3A0%2C0%2F1%2F0%2F0%2F1%2F0%2F2%2F2%2F3%2F0%2F0%3A134#:~:text=Podcasts%20are%20one%20of%20the%2Cknowledge%20has%20been%20quite%20cumbersome.  
 
-#TO/EXPLORE/READ  
 
 ###### ^244470597q
 

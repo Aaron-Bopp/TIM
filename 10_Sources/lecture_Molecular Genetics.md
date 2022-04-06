@@ -18,7 +18,16 @@ sr-ease: 246
 #### Notes
 - Heritability
 - Adaptation
-- [[hormone]]s and [[Neurotransmitter]]s are like a lock and a key
-- [[enzymes]] are [[catalyst]]s 
+- [[hormones]] and [[Neurotransmitter]]s are like a lock and a key
+- [[proteins]] are the workhorses of what have cells.
+	- made up of Amino acids
+		- amino acids relationships with water determines how they fit together and the shape of the protein
+	- [[DNA]] coding for a sequence of amino acids create a protein
+	- Everything about [[protein function is about shape]]
+		- also about when their shape can change
+- [[enzymes]] are [[catalyst|catalysts]] 
 	- enzymes fit things together pull them apart,
-	- enzymes are usually [[protein]]s
+		- make this happen faster
+	- enzymes are usually proteins
+- [[Retro viruses]] are when [[RNA]] get's turned back into [[DNA]] by an enzyme
+	- This discovery was significant because it disrupted the flow of information that was accepted pre-1970s, i.e DNA is always the source of truth

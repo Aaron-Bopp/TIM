@@ -13,9 +13,10 @@ sr-ease: 244
 
 #### [[Whiteness was originally a class distinction]] 
 
-#TO/DO/CITE 
 - part of:: [[Race is a social construct]]
 - explained by:: [[Most cultural differences are rooted in material differences]]
+
+#TO/DO/CITE 
 
 ### <hr class="footnote"/>
 
@@ -24,3 +25,9 @@ sr-ease: 244
 
 **Topics**:: [[whiteness]], [[race]], [[class]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[^^historians such as Oscar and Mary 
+
+> ![[^^in the words of Eric williams

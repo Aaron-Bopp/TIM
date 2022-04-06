@@ -34,7 +34,7 @@ sr-ease: 250
 	- [[individual selection]]
 		- behavior is how to preserve ones life and genes through reproduction ("selfish genes")
 		- sexual selection would be a subset of this
-	- inclusive fitness/[[kin selection]]
+	- [[inclusive fitness]]/[[kin selection]]
 		- helping those you are closest related to in any situation
 		- the more closely related you are with someone, the more genes you share with them
 		- leads to us vs them thinking - [[Humans love to group eachother]]
