@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/question
-sr-due: 2022-04-07
-sr-interval: 2
+sr-due: 2022-04-11
+sr-interval: 4
 sr-ease: 212
 ---
 > [!infobox]

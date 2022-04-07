@@ -18,7 +18,6 @@ interesting example of escaping the [[alt-right pipeline]]: [i had a ben shapiro
 #TO/EXPLORE/WATCH [There is No Algorithm for Truth - with Tom Scott - YouTube](https://www.youtube.com/watch?v=leX541Dr2rU)
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
-[[video_Three Basic Elements of Note-taking]]
 
 #TO/EXPLORE/RESEARCH 
 > On a related note, I think the process of realizing what’s relevant for a particular difficult problem is also another way to say “that’s an insight”. I’ve read a bit into the Insight Problem Solving literature, and insight can be thought of as a representational change that leads to solutions, which is maybe a more rigorous way to say that “you suddenly notice what’s relevant to the problem at hand”.

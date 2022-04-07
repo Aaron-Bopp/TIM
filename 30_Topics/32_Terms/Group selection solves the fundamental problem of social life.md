@@ -3,14 +3,16 @@ created: 2022-03-13T12:27:41
 aliases:
   - the fundamental problem of social life
 tags: created/2022/03/13, review, node/evergreen/discussion
-sr-due: 2022-04-07
-sr-interval: 11
-sr-ease: 221
+sr-due: 2022-04-13
+sr-interval: 6
+sr-ease: 201
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[How to solve the fundamental problem of social life]] 
+#### [[Group selection solves the fundamental problem of social life]] 
+
+answers:: [[What is the link between evolution and social behavior]]
 
 > ![[books_Darwin's Cathedral#^288457438]]
 
@@ -35,7 +37,7 @@ and finally that
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolution]], [[group selection]], [[natural selection]], 

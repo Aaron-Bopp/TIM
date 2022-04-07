@@ -30,7 +30,7 @@ Wilson, D. (2002) *Darwin's Cathedral: Evolution, Religion, and the Nature of So
 This chapter concerns itself with orientating the reader to be ready for the rest of the book. This includes dispelling preconceived notions that people familiar with the field have, as well as defining several core concepts.
 This book seems to be a rather influential in that it pushed for and re-popularized the power of [[group selection]] (or at least [[David Sloan Wilson]] did) after a period of intellectual vitriol from the scientific [[community]]. 
 
-#### [[How to solve the fundamental problem of social life]] ^[[[books_Darwin's Cathedral#THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE]]]
+#### [[Group selection solves the fundamental problem of social life]] ^[[[books_Darwin's Cathedral#THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE]]]
 
 > ![[books_Darwin's Cathedral#^288457438]]
 
@@ -78,7 +78,7 @@ Wilson first reviews his reasons for approaching the subject of [[religion]], po
 
 He first covers the [[rational choice theory]] of [[religion]].
 A theory that states [[Religion as a rational bid for supernatural reward]].
-Wilson quickly points on that this view is non-adaptive due to it not delivering on this bid and that it does not solve [[How to solve the fundamental problem of social life|the fundamental problem of social life]].
+Wilson quickly points on that this view is non-adaptive due to it not delivering on this bid and that it does not solve [[Group selection solves the fundamental problem of social life|the fundamental problem of social life]].
 
 Wilson then dives into the history of [[functionalism]], how [[Emile Durkheim]] studied religion through it, and how and why it has been left behind by rational choice theorists.
 The functionalist view of [[What is the origin of religion]] pushes back against previous spiritual explanations of [[religious belief]] such as [[Animism]] and [[Naturism]] in favor of [[Religion creates social order through group membership and ritual]].

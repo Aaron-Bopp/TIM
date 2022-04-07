@@ -3,16 +3,16 @@ created: 2022-01-28T15:21:18
 aliases:
   - null
 tags: created/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-04-07
-sr-interval: 20
-sr-ease: 150
+sr-due: 2022-04-18
+sr-interval: 11
+sr-ease: 130
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Social anxiety is a fear of social consequence]] 
 
-#TO/TEND/GRAFT 
+#TO/TEND/GRAFT #TO/TEND/WATER 
 - [[Increases in scrutiny lead to increases in anxiety]]
 - [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 	- [[Anxiety stems from a lack of confidence for the future]]
@@ -25,7 +25,7 @@ sr-ease: 150
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social anxiety]], [[inter-personal communication]], 

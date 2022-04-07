@@ -12,11 +12,6 @@ sr-ease: 150
 
 #### [[When should you forgive people who don't deserve it]] 
 
-> it’s funny how sometimes it really does take a decade to [[persuasion|persuade]] someone of something. 
-> at that sort of timescale it’s not even about direct engagement so much as it is about just living your best life in accordance with your principles in a sustainable way, and waiting for them to encounter difficulties their [[worldview]] and context 
-^[[[tweets_It’s Funny How Sometimes...|It’s Funny How Sometimes... by @visakanv on Twitter]]]
->
-> <cite>[[@visakanv on Twitter|visakanv]]</cite>
 
 [[We are confined to the tools of our time]]. If someone isn't ready to hear what we know they need to hear, sometimes the only thing we can do is wait.
 

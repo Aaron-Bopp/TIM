@@ -15,7 +15,7 @@ sr-ease: 190
 [[Highly integrated social control allows groups to act as adaptive units]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
 
 #TO/TEND/WATER 
-- [[How to solve the fundamental problem of social life]]
+- [[Group selection solves the fundamental problem of social life]]
 
 leads to:: [[Evolution can create systems capable of natural selection]]
 
