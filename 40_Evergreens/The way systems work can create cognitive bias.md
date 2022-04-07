@@ -12,7 +12,7 @@ sr-ease: 176
 
 #### [[The way systems work can create cognitive bias]] 
 
-[[Social constructs are material manifestations of shared belief]].
+[[Social constructs are material manifestations of shared belief]]. #TO/TEND/WATER 
 
 - [[Hard rules create cognitive bias]]
 - In [[knowledge work]]

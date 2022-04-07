@@ -4,8 +4,8 @@ aliases:
   - basolateral amygdala (BLA)
   - basolateral amygdala
 tags: created/2022/03/27, node/topic/term
-sr-due: 2022-04-06
-sr-interval: 5
+sr-due: 2022-04-21
+sr-interval: 14
 sr-ease: 211
 ---
 > [!infobox]

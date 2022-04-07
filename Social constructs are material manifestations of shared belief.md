@@ -10,11 +10,12 @@ tags: created/2022/04/07, review, node/evergreen/claim
 
 #### [[Social constructs are material manifestations of shared belief]]
 
+If you took away the shared belief in a social construct, it's physical manifestations would remain, and in time we would likely relearn that belief through those manifestations.
+
 #TO/TEND/DEOBFUSCATE 
 > ![[What maintains our social order#^5d2266]]
 
 explained by:: [[Social order is built off of a shared belief in an imagined reality]]
-
 
 
 ### <hr class="footnote"/>
@@ -22,7 +23,7 @@ explained by:: [[Social order is built off of a shared belief in an imagined rea
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[social construct]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

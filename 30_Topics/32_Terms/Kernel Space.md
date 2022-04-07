@@ -1,12 +1,14 @@
 ---
 created: 2021-10-13
 tags: created/2021/10/13, node/topic/term
+sr-due: 2022-04-10
+sr-interval: 3
+sr-ease: 253
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Kernel Space]]</s>
-
 
 memory locations the kernel and other processes (that have no restrictions in access to hardware, instructions or memory locations) execute from [^1]
 
@@ -14,7 +16,9 @@ memory locations the kernel and other processes (that have no restrictions in ac
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

@@ -17,7 +17,7 @@ sr-ease: 230
 
 **Source**:: [Social Constructs | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=koud7hgGyQ8)
 
-**Covers**:: [[metaphysics]], [[social construct]], [[homeostatic property cluster]]
+**Covers**:: [[metaphysics]], [[social construct]], [[homeostatic property cluster]], [[philosophy]], [[Politics]], 
 
 Watches:: 1
 
@@ -27,7 +27,7 @@ Watches:: 1
 
 # Notes
 
-- Metaphysics - looks at existence [01:26](https://www.youtube.com/watch?v=koud7hgGyQ8#t=86.12755913351441)
+- [[Metaphysics]] - looks at existence [01:26](https://www.youtube.com/watch?v=koud7hgGyQ8#t=86.12755913351441)
 	- What is 'x'? 
 	- How many parts can we take away till the object is gone
 	- instrinsic vs relational properties
@@ -37,7 +37,7 @@ Watches:: 1
 	- Earth negative one - there are no natural properties, only vibes
 	- If we erased our memories of social constructs we would could reconstruct them based on our environment [08:48](https://www.youtube.com/watch?v=koud7hgGyQ8#t=528.4117546848381)
 - Strike analogy [12:51](https://www.youtube.com/watch?v=koud7hgGyQ8#t=771.0898409237061)
-- Homestatic property cluster - properties which make something a "thing" if they have enough
+- [[Homeostatic property cluster]] - properties which make something a "thing" if they have enough
 	- the point of classify animals is to be able to predict and describe things around them. 
-- we debate social constructs because the are inherinetly able to change [19:30](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1170.58278) and because they are the foundations of many of our rights [20:18](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1218.0759227711528)
-- when you leave the classroom poltics metaphysics and politics combine 
+- we debate social constructs because the are inherently able to change [19:30](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1170.58278) and because they are the foundations of many of our rights [20:18](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1218.0759227711528)
+- when you leave the classroom [[politics]] and [[metaphysics]] combine 

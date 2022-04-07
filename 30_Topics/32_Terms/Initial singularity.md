@@ -12,7 +12,9 @@ sr-ease: 289
 
 #### <s class="topic-title">[[Initial singularity]]</s> 
 
-The unavoidable impossibility at the beginning of the [[universe]] that we cannot avoid. This theory is a result of observing [[cosmic microwave background radiation]] and reverse-engineering the state of the universe all the way back to [[the Big Bang]].
+#TO/EXPLORE/RESEARCH this is an outdated idea
+
+The unavoidable impossibility at the beginning of the [[universe]]. This theory is a result of observing [[cosmic microwave background radiation]] and reverse-engineering the state of the universe all the way back to [[the Big Bang]].
 
 > [!wikipedia] [Initial singularity](https://en.wikipedia.org/wiki/Initial%20singularity)
 > 

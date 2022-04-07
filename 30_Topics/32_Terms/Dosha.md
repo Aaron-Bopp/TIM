@@ -3,6 +3,9 @@ created: 2021-12-29
 aliases:
   - doshic
 tags: created/2021/12/29, node/topic/term
+sr-due: 2022-04-09
+sr-interval: 2
+sr-ease: 249
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

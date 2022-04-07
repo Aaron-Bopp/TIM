@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - null
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-06
-sr-interval: 5
+sr-due: 2022-04-21
+sr-interval: 14
 sr-ease: 211
 ---
 > [!infobox]
@@ -13,7 +13,7 @@ sr-ease: 211
 #### <s class="topic-title">[[Amygdala]]</s>
 
 A collection of cells near the base of the [[brain]]. There are two, one in each hemisphere or side of the brain. This is where [[emotions]] are given meaning, remembered, and attached to associations and responses to them (emotional memories). 
-> [!wikipedia] [Amygdala](https://en.wikipedia.org/wiki/Amygdala)
+> [!wikipedia]- [Amygdala](https://en.wikipedia.org/wiki/Amygdala)
 > 
 > The amygdala is one of two almond-shaped clusters of nuclei located deep and medially within the [[temporal lobes]] of the brain's [[cerebrum]] in complex vertebrates, including humans. Shown to perform a primary role in the processing of [[memory]], [[decision making]], and emotional responses (including [[fear]], [[anxiety]], and [[aggression]]), the amygdalae are considered part of the [[limbic system]]. 
 >

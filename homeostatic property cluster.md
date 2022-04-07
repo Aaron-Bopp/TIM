@@ -4,16 +4,22 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, node/topic/term
-sr-due: 2022-04-07
-sr-interval: 2
+sr-due: 2022-04-13
+sr-interval: 6
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[homeostatic property cluster]]</s>
 
-Homeostatic property clusters (HPCs) **occur when mechanisms exist that cause the properties to cluster by ensuring that deviations from the cluster have a low chance of persisting**; the presence of some of the properties in the cluster favours the presence of the others
-^[[Natural Kinds (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/natural-kinds/)]
+The properties that make something a "thing" if it has enough of them.
+^[[[video_Social Constructs Philosophy Tube]]]
+
+> Homeostatic property clusters (HPCs) **occur when mechanisms exist that cause the properties to cluster by ensuring that deviations from the cluster have a low chance of persisting**; the presence of some of the properties in the cluster favors the presence of the others.
+^[[Natural Kinds (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/natural-kinds)]
+
+In:: [[social construct]] theory,
+these property clusters are the properties around an object that have been agree upon by some section of [[society]].
 
 
 ##### ^dataviews

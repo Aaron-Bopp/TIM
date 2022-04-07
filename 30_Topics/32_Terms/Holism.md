@@ -3,6 +3,9 @@ created: 2022-03-13T15:21:35
 aliases:
   - null
 tags: created/2022/03/13, node/topic/term
+sr-due: 2022-04-09
+sr-interval: 2
+sr-ease: 241
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,9 +21,7 @@ tags: created/2022/03/13, node/topic/term
 
 > ![[books_The Fabric of Reality#^288838100]]
 
-
 > ![[books_Darwin's Cathedral#^297089495]]
-
 
 > ![[books_Darwin's Cathedral#^297089496]]
 

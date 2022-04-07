@@ -3,8 +3,8 @@ created: 2022-03-27T16:35:10
 aliases:
   - null
 tags: created/2022/03/27, node/topic/term
-sr-due: 2022-04-06
-sr-interval: 3
+sr-due: 2022-04-15
+sr-interval: 8
 sr-ease: 211
 ---
 > [!infobox]
@@ -24,7 +24,11 @@ Formed through [[inter-personal communication]]
 
 > [!wikipedia] [social relation](https://en.wikipedia.org/wiki/Social%20relation)
 > 
-> In social science, a social relation or social interaction is any relationship between two or more individuals. Social relations derived from individual agency form the basis of social structure and the basic object for analysis by social scientists. Fundamental inquiries into the nature of social relations feature in the work of sociologists such as [[Max Weber]] in his theory of social action. Social relationships are composed of both positive (affiliative) and negative (antagonistic) interactions, representing opposing effects.
+> In::
+> [[social sciences|social science]],
+> a social relation or social interaction is any relationship between two or more individuals. Social relations derived from individual agency form the basis of social structure and the basic object for analysis by social scientists.
+> 
+> Fundamental inquiries into the nature of social relations feature in the work of sociologists such as [[Max Weber]] in his theory of social action. Social relationships are composed of both positive (affiliative) and negative (antagonistic) interactions, representing opposing effects.
 > 
 
 
