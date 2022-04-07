@@ -3,26 +3,29 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-05-20
-sr-interval: 65
-sr-ease: 190
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Karma is based in the law of cause and effect]] 
 
-- #TO/PONDER/ME how this has shaped my [[worldview]] [[Buddhism is the study of happiness through detachment]]
-- [ ] #TO/TEND/CONNECT [[The materialistic view of religions examines why humans invented and clung to religion]]
-- [ ] #TO/TEND/CONCEPTUALIZE source note [[articleKarma and Reincarnation in Hinduism]]
+For every action there is a reaction.
+If we trace reactions back we can find the actions that caused them, and if we look we can see that those actions were in themselves reactions.
+Doing this we can see why *everything happens for a reason*.
+That doesn't mean it's a good thing or that is was purposeful, but there was a cause for that effect.
+This is [[karma]] at it's core.
+If we do repeatedly do good things in our lives, they should have positive affects on our lives.
+Of course not everybody comes into life equal. 
+That is why [[karma]] transfers across lifetimes.
+^[[[articleKarma and Reincarnation in Hinduism]]]
 
-- [[Karma is an open ended system of belief]]
-- [[Consciousness is the fundamental unit of existence]]
-- [[The history of meditation is a mixture of science and spirituality]]
+leads to:: [[Karma is an open ended system of belief]]
+
+explains:: [[Buddhism outlines a path and practice to end suffering, but does not promise it]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Buddhism]], [[karma]]

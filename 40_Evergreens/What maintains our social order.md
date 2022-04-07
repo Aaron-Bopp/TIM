@@ -24,7 +24,7 @@ While the social order was built through shared imagination, it cannot be change
 
 ##### [[social construct]]
 
-I would argue that once a [[Imagined reality]] has become a [[social construct]] it will have *non*-imagined (or material) effects on the world. Once this has happened, letting go of that [[belief]] will not affect that [[social construct]], we need to tear it down.
+I would argue that once a [[Imagined reality]] has become a [[social construct]] it will have *non*-imagined (or material) effects on the world. Once this has happened, letting go of that [[belief]] will not affect that [[social construct]], we need to tear it down. ^5d2266
 
 ##### [[violence]]
 

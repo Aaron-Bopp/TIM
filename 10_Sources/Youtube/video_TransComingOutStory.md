@@ -11,7 +11,7 @@ sr-interval: 37
 sr-ease: 270
 ---
 
-#### [[videoTransComingOutStory ]]
+#### [[video_TransComingOutStory ]]
 
 **Creator**:: [[Abigail Thorn]]
 

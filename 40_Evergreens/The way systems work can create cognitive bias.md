@@ -12,7 +12,8 @@ sr-ease: 176
 
 #### [[The way systems work can create cognitive bias]] 
 
-%% #TO/PONDER/IDEA #TO/EXPLORE/WATCH social construct video from [[Abigail Thorn]] and how the structures caused by inequity in our world would recreate [[stereotype]]s even if we completely forgot them %%
+[[Social constructs are material manifestations of shared belief]].
+
 - [[Hard rules create cognitive bias]]
 - In [[knowledge work]]
 	- [[Prioritize understanding over organization or categorization]]

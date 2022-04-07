@@ -1,15 +1,8 @@
 ---
-sr-due: 2022-02-11
-sr-interval: 1
-sr-ease: 210
----
-
----
 created: 2021-10-23
 aliases:
 - Social Constructs | Philosophy Tube - YouTube 
 - Philosophy Tube 
-
 tags: created/2021/10/23, node/source/videos
 type:
 - 
@@ -18,15 +11,22 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-#### [[videoSocial Constructs Philosophy Tube]]
+#### [[video_Social Constructs Philosophy Tube]]
 
-**Creator**::
+**Creator**:: [[Abigail Thorn]]
 
 **Source**:: [Social Constructs | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=koud7hgGyQ8)
 
-**Covers**:: 
+**Covers**:: [[metaphysics]], [[social construct]], [[homeostatic property cluster]]
+
+Watches:: 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/koud7hgGyQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+^video
 
 # Notes
+
 - Metaphysics - looks at existence [01:26](https://www.youtube.com/watch?v=koud7hgGyQ8#t=86.12755913351441)
 	- What is 'x'? 
 	- How many parts can we take away till the object is gone
@@ -41,6 +41,3 @@ sr-ease: 230
 	- the point of classify animals is to be able to predict and describe things around them. 
 - we debate social constructs because the are inherinetly able to change [19:30](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1170.58278) and because they are the foundations of many of our rights [20:18](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1218.0759227711528)
 - when you leave the classroom poltics metaphysics and politics combine 
-
-
-

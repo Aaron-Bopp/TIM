@@ -28,6 +28,11 @@ but sometimes you need to stray off the path: [[You need to take what you read o
 [[Dan Alloso]] thinks that the paragraph is the fundamental unit.
 ^[[[video_Three Basic Elements of Note-taking]]]
 
+
+> ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190325]]
+> 
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

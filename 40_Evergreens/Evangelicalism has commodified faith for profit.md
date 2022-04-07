@@ -18,23 +18,29 @@ But when people come back to the salesman because they believed and didn't have 
 "You should find it easy to be a good person because your a good Christian,
 here say the prayer again!" 
 
-[[The actual path to being a good person isn't explored by Evangelicalism]]
+This is
+why:: [[The actual path to being a good person isn't explored by Evangelicalism]].
+[[Christianity]] has commodified supernatural experiences for monetary gain rather than for actually helping people lead better lives. 
+^[ #TO/DO/CITE ]
+While the roots of this can be seen back to the [[Catholic Church]],
+[[Capitalism]] has accelerated this and created the modern [[Evangelicalism|charismatic church]] service, televangelists, and summer camp services with just enough smoke and repetitive singing to drive everyone into sensory overload.
 
-While [[The brain is powerful enough to create supernatural experiences]], [[Christianity]] has commodified supernatural experiences for monetary gain. [[Capitalism]] has accelerated this and created the modern [[Evangelicalism|charismatic church]] service which is the perfect environments for [[dissociation]] and [[panic attacks]]. It's all powered by [[guilt]], legitimate belief in a all-powerful god, and often emotional [[trauma]], and lots and lots of money. This is why Charismatic church's are especially prone to [[religious trauma]]: [[Religious concepts are often too powerful for a child's mind]] 
+> [!example] 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/8kkgccLG1Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [[The Politicization of the Christian Church]] #TO/TEND/GRAFT 
-	- [[People have been conditioned to believe the bible has to be infallible]]
-	- [[Single issue voters are anti-democratic]]
-		- [[Abortion and immigration are detrimental to white supremacy]]
-	- [[The anti-vax movement is based off a white lie]]
+[[The brain is powerful enough to create supernatural experiences]],
+but these kinds of services are perfectly crafted to overload us enough to believe we are being filled with the spirit or our that our pain is healed.
 
-Not every modern Christian practice is bad: [[Faith can be a useful tool for grounding yourself]], but 
-[[The church will fail if christians keep aligning themselves with hate instead of love]]
+This is 
+part of:: [[The Politicization of the Christian Church]],
+where [[Christianity|Christian]]'s faith has been taken advantage of to get a variety of leaders into office.
+
+This is not to say that Christian's [[belief]] is unfounded, but you cannot ignore the way that [[Christianity]] has been twisted, see [[You can leave the church without loosing your faith]].
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
-**Topics**::  [[Evangelicalism]], [[capitalism]]
+**Topics**::  [[Christianity]], [[Evangelicalism]], [[capitalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

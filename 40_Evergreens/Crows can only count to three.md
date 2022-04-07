@@ -14,6 +14,9 @@ sr-ease: 250
 
 source:: [IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide | by Cody Burleson | Feb, 2022 | Medium](https://cody-burleson.medium.com/ia-for-pkm-crows-camels-concepts-and-the-cognitive-divide-7523c0bfa5eb)
 
+
+> ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190331]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

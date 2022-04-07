@@ -2,7 +2,7 @@
 created: 2022-01-01T19:18:34 
 aliases:
   - null
-tags: created/2022/01/01, review, node/evergreen/claim
+tags: created/2022/01/01, review, node/evergreen/question
 sr-due: 2022-04-09
 sr-interval: 24
 sr-ease: 130
@@ -10,9 +10,7 @@ sr-ease: 130
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[There is a difference between thinking and creating]] 
-
-#TO/PONDER/IDEA does this need a better title?
+#### [[There is a difference between thinking and creating|What is the difference between thinking and creating]] 
 
 Many task requires thought, remembering how you did something before, understanding the limitations and requirements of the task at hand, even just figuring out what you want to do, but creating is much more than that. It is the thinking that produces something new into this world.
 
@@ -21,19 +19,6 @@ We can see this difference demonstrated by [[Steal like an artist]]. There is a 
 Of course this is complicated by [[capitalism]] and copyright, and we have seen this influence art in recent years. #TO/DO/FIND example
 At it's core though, art is detached from the things that influenced it, partially be the fact that the most important part of art is the observation of it: [[The audience's perception is more important than the artist's intention]] ^oieshi
 
-#TO/TEND/GRAFT 
- - [[We will evolve when we make learning as easy as thinking]]
- - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
- - [[We learn by transforming information into understanding]]
- - [[Evergreen notes organize knowledge so that it can grow]]
- - [[Note taking is a spectrum from purely reproductive to purely productive]]
- - [[Writing is a catalyst of understanding]]
- - [[Our understanding of gender begins at a very early age]]
- - [[Humans transfer their wonder into creativity]]
- - [[Humans try really hard to avoid understanding their mistakes]]
-
-> ![[books_Darwin's Cathedral#292550148q]]
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
@@ -41,3 +26,5 @@ At it's core though, art is detached from the things that influenced it, partial
 
 **Topics**:: [[knowledge work]],
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+> ![[books_Darwin's Cathedral#^292550148]]
