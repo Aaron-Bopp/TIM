@@ -3,8 +3,8 @@ created: 2022-01-01T02:27:15
 aliases:
   - null
 tags: created/2022/01/01, review, node/evergreen/claim
-sr-due: 2022-04-06
-sr-interval: 50
+sr-due: 2022-07-22
+sr-interval: 106
 sr-ease: 210
 ---
 > [!infobox]
@@ -27,7 +27,7 @@ how:: [[Meditation increases our ability to influence the world]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited January 23, 2022*
 
 **Topics**:: [[meditation]], [[mindfulness]], [[consciousness]]

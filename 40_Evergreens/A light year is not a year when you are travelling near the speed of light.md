@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, review, node/evergreen/example/fun
-sr-due: 2022-04-06
-sr-interval: 3
+sr-due: 2022-04-17
+sr-interval: 10
 sr-ease: 251
 ---
 > [!infobox]

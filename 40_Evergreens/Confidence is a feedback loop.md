@@ -1,8 +1,8 @@
 ---
 created: 2021-10-23
 tags: created/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-04-06
-sr-interval: 34
+sr-due: 2022-05-24
+sr-interval: 47
 sr-ease: 136
 ---
 > [!infobox]
@@ -31,6 +31,7 @@ If we fail to get out of this [[feedback loop]] it will distort our [[self-image
 
 ##### Working for you
 
+#TO/TEND/WATER 
 [[Confidence comes when you are more capable of handling diverse outcomes]]
 
 ### <hr class="footnote"/>

@@ -3,9 +3,9 @@ created: 2022-03-21T09:04:51
 aliases:
   - null
 tags: created/2022/03/21, review, node/evergreen/question
-sr-due: 2022-04-06
-sr-interval: 11
-sr-ease: 230
+sr-due: 2022-04-14
+sr-interval: 7
+sr-ease: 210
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -22,6 +22,7 @@ This could be seen as an
 example of:: [[molecular genetics]] and [[Experts are often far too confident in the effectiveness of their theories]]
 
 
+#TO/TEND/GRAFT 
 > ![[books_Darwin's Cathedral#^297089498]]
 
 

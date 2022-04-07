@@ -3,8 +3,8 @@ created: 2022-03-12T10:25:15
 aliases:
   - null
 tags: created/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-04-07
-sr-interval: 6
+sr-due: 2022-04-19
+sr-interval: 12
 sr-ease: 190
 ---
 > [!infobox]
@@ -19,7 +19,6 @@ This
 works with:: [[Humans are drawn to the unknown and repelled by the known]]
 and could 
 explain:: [[Human's will find explanations for inexplainable things]].
-
 
 This can be seen as a 
 result of:: [[Humans are a product of evolution]]

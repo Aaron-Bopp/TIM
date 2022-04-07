@@ -3,9 +3,9 @@ created: 2021-11-09
 aliases:
   - fear of trying
 tags: created/2021/11/09, review, node/evergreen/claim
-sr-due: 2022-04-06
-sr-interval: 81
-sr-ease: 228
+sr-due: 2022-05-18
+sr-interval: 41
+sr-ease: 208
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,6 +16,7 @@ sr-ease: 228
 >
 > <cite>[[Frank Herbert]]</cite>
 
+#TO/TEND/GRAFT 
 - [[The most reliable path to success is repeatedly trying to succeed]]
 	- [[Friction is a hindrance to learning]]	
 	- [[Write your notes like you're planting an evergreen forest]]

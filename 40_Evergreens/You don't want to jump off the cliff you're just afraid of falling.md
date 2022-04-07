@@ -3,8 +3,8 @@ created: 2021-10-23
 aliases:
   - null
 tags: created/2021/10/23, review, node/evergreen/claim
-sr-due: 2022-04-07
-sr-interval: 98
+sr-due: 2022-12-08
+sr-interval: 245
 sr-ease: 250
 ---
 > [!infobox]

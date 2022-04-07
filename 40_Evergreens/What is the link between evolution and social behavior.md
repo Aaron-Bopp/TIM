@@ -3,8 +3,8 @@ created: 2022-03-05T17:26:42
 aliases:
   - null
 tags: created/2022/03/05, review, node/evergreen/question
-sr-due: 2022-04-06
-sr-interval: 10
+sr-due: 2022-04-27
+sr-interval: 20
 sr-ease: 190
 ---
 > [!infobox]
@@ -14,8 +14,8 @@ sr-ease: 190
 
 [[Highly integrated social control allows groups to act as adaptive units]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
 
- [[How to solve the fundamental problem of social life]]
- 
+#TO/TEND/WATER 
+- [[How to solve the fundamental problem of social life]]
 
 leads to:: [[Evolution can create systems capable of natural selection]]
 

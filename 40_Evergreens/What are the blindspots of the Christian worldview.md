@@ -3,8 +3,8 @@ created: 2022-03-27T15:02:13
 aliases:
   - the blindspots in the Christian worldview
 tags: created/2022/03/27, review, node/evergreen/question
-sr-due: 2022-04-06
-sr-interval: 3
+sr-due: 2022-04-17
+sr-interval: 10
 sr-ease: 224
 ---
 > [!infobox]

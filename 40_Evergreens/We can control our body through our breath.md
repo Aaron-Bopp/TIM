@@ -3,8 +3,8 @@ created: 2022-03-12T16:28:34
 aliases:
   - null
 tags: created/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-04-06
-sr-interval: 15
+sr-due: 2022-05-10
+sr-interval: 33
 sr-ease: 210
 ---
 > [!infobox]
@@ -16,7 +16,7 @@ Our breath is the pathway to controlling the biological mechanisms that govern o
 ^[[[notes_Breath and Mind]]]
 or we can even use it to override our natural instincts and push our body farther than it could go alone.
 
-[[Pranayama]], [[Qi Gong]], and the [[Wim Hof Method]] are methods that are focused on this, but all methods of [[meditation]]
+[[Pranayama]], [[Qi Gong]], and the [[Wim Hof Method]] are practives that are focused on this, but all methods of [[meditation]]
 interact with it in some way.
 Through this we can take control of our systems of [[homeostasis]]:
 [[Meditation helps us regulate our nervous system]]

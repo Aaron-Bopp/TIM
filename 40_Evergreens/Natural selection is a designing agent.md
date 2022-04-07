@@ -3,8 +3,8 @@ created: 2022-03-26T14:25:00
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/claim
-sr-due: 2022-04-06
-sr-interval: 3
+sr-due: 2022-04-16
+sr-interval: 9
 sr-ease: 229
 ---
 > [!infobox]
@@ -24,7 +24,7 @@ Selection is a complicated process that involves aspects at every level of compl
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[natural selection]], [[Evolution]]

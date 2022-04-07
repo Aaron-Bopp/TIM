@@ -4,8 +4,8 @@ tags: created/2021/07/05, review, node/evergreen/claim
 aliases:
   - Parents will not be able to protect their children from every source of
     trauma
-sr-due: 2022-04-07
-sr-interval: 13
+sr-due: 2022-04-24
+sr-interval: 17
 sr-ease: 130
 ---
 > [!infobox]
