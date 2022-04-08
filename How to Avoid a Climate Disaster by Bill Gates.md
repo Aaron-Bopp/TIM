@@ -11,6 +11,9 @@ tags: created/2022/04/08, node/source/reference
  
 **Source**:: [[books_How to Avoid a Climate Disaster]]
 
+Gates, B. (2021). *How to avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need*
+
+^citation
 
 #### Summary
 [[How to understand climate change]]

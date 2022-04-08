@@ -97,3 +97,26 @@ The essence of selfhood is neither a rational mind nor an immaterial soul. It is
 
 ^308153753
 
+# New highlights added April 8, 2022 at 4:06 PM
+##### ^308344258
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08W2J9WWD&location=144  
+
+###### ^308344258q
+
+The essence of selfhood is neither a rational mind nor an immaterial soul. It is a deeply embodied biological process, a process that underpins the simple feeling of being alive that is the basis for all our experiences of self, indeed for any conscious experience at all. 
+
+^308344258
+
+##### ^308344259
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B08W2J9WWD&location=151  
+
+###### ^308344259q
+
+our conscious experiences of the world and the self are forms of brain-based prediction—“controlled hallucinations”—that arise with, through, and because of our living bodies. 
+
+^308344259
+

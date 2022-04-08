@@ -16,7 +16,7 @@ sr-ease: 236
 
 ###### ^citation
 
-Harari, Y. (2015) *Sapiens: A Brief History of Humankind*
+Harari, Y. (2015). *Sapiens: A Brief History of Humankind*
 
 #### Key Concepts
 

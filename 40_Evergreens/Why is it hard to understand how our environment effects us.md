@@ -12,6 +12,12 @@ sr-ease: 170
 
 #### [[Why is it hard to understand how our environment effects us]] 
 
+> ![[books_How to Avoid a Climate Disaster#^308344233]]
+> 
+> <cite>[[David Foster Wallace]]</cite>
+
+
+
 Why can't we realize that we live in an [[imagined order]]?
 
 This is a question posed in [[Sapiens by Yuval Noah Harari|Sapiens by Yuval Noah Harari]], that closely 
@@ -51,3 +57,4 @@ I think that in modern times we have for the most part realized that we live in 
 > ![[books_Darwin's Cathedral#^298292985]]
 
 > ![[books_Darwin's Cathedral#^298292987]]
+

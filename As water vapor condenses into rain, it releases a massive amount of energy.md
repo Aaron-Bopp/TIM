@@ -14,7 +14,6 @@ tags: created/2022/04/08, review, node/evergreen/example/observation
 vapor has high [[energy]], coalesces into water droplets, which then fall because of [[gravity]] and energy goes into the ground.
 Where does the energy go when it is falling?
 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -22,3 +21,9 @@ Where does the energy go when it is falling?
 
 **Topics**:: [[conservation of energy]], [[physics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+[[How to Avoid a Climate Disaster by Bill Gates#^citation]]
+
+> ![[books_How to Avoid a Climate Disaster#^306587593]]

@@ -3,12 +3,16 @@ created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: created/2021/06/15, review, node/evergreen/claim
+sr-due: 2022-04-10
+sr-interval: 2
+sr-ease: 222
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Write your notes like you're planting an evergreen forest]] 
 
+You don't need to know how to cut down a forest when you start spreading seeds.
 It can often be intimidating to start a [[note writing]] practice,
 but the end there are no rules, and you won't find what works for you until you try.
 %% #TO/TEND/MULCH 
@@ -23,25 +27,21 @@ you won't know which kind of seeds to plant and how to foster them.
 %%
 Having an unattended forest can be very overwhelming,
 but it can also provide the [[knowledge]] and context you need in order to choose the correct system.
-This is why
-looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]],
-because [[Choosing a note writing system is choosing a system for thought]].
+Looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]],
+because [[Learning how systems work can be a gateway to creating thought]].
 
 You will need to strike a balance between the stress of having an unorganized system 
 and the stress of having to design your system.
-While [[Learning how systems work can be a gateway to creating thought]],
-making too elaborate system can distract you from your work.
+While [[Choosing a note writing system is choosing a system for thought]],
+spending to much time on an elaborate system can distract you from your work.
 ^[[[Powerful tools make dangerous toys]]]
-As you are building your [[systems for thought]] remember to
+As you are building your [[second brain]],
 [[Prioritize understanding over organization or categorization]]
 and to 
-[[Write your notes with a system not within a system]]
+[[Write your notes with a system not within a system]].
+Soon you will be drawn into the world and be surprised at how fast you are [[learning]]
+because [[Communities are knowledge graphs]].
 
-You don't need to know how to cut down a forest when you start spreading seeds, 
-but if you spend too much time in a system that won't be able to flourish into an evergreen forest, you will be reluctant to switch.
-Entering the world of [[knowledge management]] can be a very intimidating thing,
-but you will soon be drawn into the world and be surprised at how fast you are [[learning]]:
-[[Communities are knowledge graphs]]
 
 ### <hr class="footnote"/>
 
