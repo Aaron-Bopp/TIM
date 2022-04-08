@@ -3,9 +3,9 @@ created: 2021-11-30
 aliases:
   - null
 tags: created/2021/11/30, review, node/evergreen/claim
-sr-due: 2022-04-08
-sr-interval: 30
-sr-ease: 130
+sr-due: 2022-06-07
+sr-interval: 60
+sr-ease: 150
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -27,8 +27,9 @@ Most of the time, organization systems don't even conflict because they are comp
 ^[Usually if have to use only one organization system it is because you are working as a team at a organization or university, whether or not that system is good is one thing, but having everyone use the same system has it's advantages]
 
 You can take advantage of the [[Densely linked webs of thought provide intuitive access to knowledge|intuitive access of a web of thought]] while also benefitting from the [[Decimal based organization systems provide the easiest access to common notes|easy top level access that decimal based systems provide]]. You can [[Use Obsidian tags as temporal classifiers]] and to organize knowledge, or you can forego tags entirely and just use [[topic notes]].
-In my vault I make use of the [[Johnny Decimal System]], [[MOC]]s, outlines, tags, indexes and folders. I have folders that are made up by the type of note, this structure is mirrored in tags, but there are some small differences (my personal notes are in a different folder from my [[evergreen notes]], but they still have the evergreen tag) that make having both valuable. I can use either tags or file paths to do queries. 
-I use the [[Johnny Decimal System]] for my top level folders and some notes, but most notes are kept in flat without numbers in the titles.
+In my vault I make use of the [[Johnny Decimal System]], [[MOC]]s, outlines, tags, indexes and folders. I have folders that are made up by the type of note, this structure is mirrored in tags, but there are some small differences 
+^[my personal notes are in a different folder from my [[evergreen notes]], but they still have the evergreen tag]
+that make having both valuable.
 
 A good first step is, [[Only organize as much as your data requires]]. If you don't even have a enough notes to overflow your file explorer, you probably don't need to be thinking to hard about [[organization]].
 For me the next step was to [[Using spaced repetition for your conceptual notes]], but depending on your use case this might be different.

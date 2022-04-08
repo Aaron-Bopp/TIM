@@ -1738,3 +1738,180 @@ When the natives questioned Cortés as to why the Spaniards had such a passion f
 
 ^300585574
 
+# New highlights added April 8, 2022 at 9:53 AM
+##### ^308153757
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2700  
+
+###### ^308153757q
+
+barter is effective only when exchanging a limited range of products. It cannot form the basis for a complex economy. 
+
+^308153757
+
+##### ^308153758
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2713  
+
+###### ^308153758q
+
+In a barter economy, every day the shoemaker and the apple grower will have to learn anew the relative prices of dozens of commodities. If one hundred different commodities are traded in the market, then buyers and sellers will have to know 4,950 different exchange rates. And if 1,000 different commodities are traded, buyers and sellers must juggle 499,500 different exchange rates! 
+
+^308153758
+
+##### ^308153759
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2725  
+
+###### ^308153759q
+
+Money was created many times in many places. Its development required no technological breakthroughs – it was a purely mental revolution. It involved the creation of a new inter-subjective reality that exists solely in people’s shared imagination. 
+
+^308153759
+
+##### ^308153760
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2727  
+
+###### ^308153760q
+
+Money is anything that people are willing to use in order to represent systematically the value of other things for the purpose of exchanging goods and services. 
+
+^308153760
+
+##### ^308153761
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2744  
+
+###### ^308153761q
+
+the sum total of coins and banknotes is less than $6 trillion.7 More than 90 per cent of all money – more than $50 trillion appearing in our accounts – exists only on computer servers. 
+
+^308153761
+
+##### ^308153762
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2754  
+
+###### ^308153762q
+
+Money is thus a universal medium of exchange that enables people to convert almost everything into almost anything else. 
+
+^308153762
+
+##### ^308153763
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2780  
+
+###### ^308153763q
+
+money is the most universal and most efficient system of mutual trust ever devised. What created this trust was a very complex and long-term network of political, social and economic relations. 
+
+^308153763
+
+##### ^308153776
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2809  
+
+###### ^308153776q
+
+Unlike the barley sila, the silver shekel had no inherent value. ... When they are used for anything, silver and gold are made into jewellery, crowns and other status symbols – luxury goods that members of a particular culture identify with high social status. Their value is purely cultural. 
+
+^308153776
+
+##### ^308153766
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2823  
+
+###### ^308153766q
+
+counterfeiting money has always been considered a much more serious crime than other acts of deception. Counterfeiting is not just cheating – it’s a breach of sovereignty, an act of subversion against the power, privileges and person of the king. The legal term is lese-majesty (violating majesty), and was typically punished by torture and death. 
+
+^308153766
+
+##### ^308153767
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2839  
+
+###### ^308153767q
+
+The Indians had such a strong confidence in the denarius and the image of the emperor that when local rulers struck coins of their own they closely imitated the denarius, down to the portrait of the Roman emperor! The name ‘denarius’ became a generic name for coins. Muslim caliphs Arabicised this name and issued ‘dinars’. The dinar is still the official name of the currency in Jordan, Iraq, Serbia, Macedonia, Tunisia and several other countries. 
+
+^308153767
+
+##### ^308153768
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2848  
+
+###### ^308153768q
+
+People continued to speak mutually incomprehensible languages, obey different rulers and worship distinct gods, but all believed in gold and silver and in gold and silver coins. 
+
+^308153768
+
+##### ^308153769
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2860  
+
+###### ^308153769q
+
+Merchants travelling between India and the Mediterranean would notice the difference in the value of gold. In order to make a profit, they would buy gold cheaply in India and sell it dearly in the Mediterranean. Consequently, the demand for gold in India would skyrocket, as would its value. At the same time the Mediterranean would experience an influx of gold, whose value would consequently drop. Within a short time the value of gold in India and the Mediterranean would be quite similar. The mere fact that Mediterranean people believed in gold would cause Indians to start believing in it as well. Even if Indians still had no real use for gold, the fact that Mediterranean people wanted it would be enough to make the Indians value it. 
+
+^308153769
+
+##### ^308153770
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2874  
+
+###### ^308153770q
+
+Money is based on two universal principles: a. Universal convertibility: with money as an alchemist, you can turn land into loyalty, justice into health, and violence into knowledge. b. Universal trust: with money as a go-between, any two people can cooperate on any project. 
+
+^308153770
+
+##### ^308153771
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2878  
+
+###### ^308153771q
+
+When everything is convertible, and when trust depends on anonymous coins and cowry shells, it corrodes local traditions, intimate relations and human values, replacing them with the cold laws of supply and demand. 
+
+^308153771
+
+##### ^308153772
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2888  
+
+###### ^308153772q
+
+although money builds universal trust between strangers, this trust is invested not in humans, communities or sacred values, but in money itself and in the impersonal systems that back it. We do not trust the stranger, or the next-door neighbour – we trust the coin they hold. If they run out of coins, we run out of trust. As money brings down the dams of community, religion and state, the world is in danger of becoming one big and rather heartless marketplace. 
+
+^308153772
+
+##### ^308153777
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2905  
+
+###### ^308153777q
+
+A small, insignificant mountain town called Numantia, inhabited by the peninsula’s native Celts, had dared to throw off the Roman yoke. ... in 134 BC, Roman patience snapped. The Senate decided to send Scipio Aemilianus, Rome’s foremost general and the man who had levelled Carthage, to take care of the Numantians. ... he encircled Numantia with a line of fortifications, blocking the town’s contact with the outside world. Hunger did his work for him. After more than a year, the food supply ran out. When the Numantians realised that all hope was lost, they burned down their town; according to Roman accounts, most of them killed themselves so as not to become Roman slaves. 
+
+^308153777
+

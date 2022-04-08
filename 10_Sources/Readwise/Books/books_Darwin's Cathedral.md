@@ -2456,3 +2456,84 @@ Idealized religion is close to what one expects on the basis of pure group selec
 
 ^303892934
 
+# New highlights added April 8, 2022 at 9:53 AM
+#### EXAMPLE 1: THE WATER TEMPLE SYSTEM OF BALI
+##### ^307812355
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2264  
+
+###### ^307812355q
+
+At the summit of a volcano on the island of Bali stands an immense temple for the worship of Dewi Danu, goddess of the waters that are thought to emanate from the volcano’s crater lake. The temple is inhabited by twenty-four priests, chosen as children by a virgin priestess to be lifelong servants of the goddess. The high priest is called the Jero Gde and is thought to be an earthly representative of the goddess herself. The Jero Gde is always dressed in white and wears his hair long. By day he offers sacrifices on behalf of the farmers who rely on water to irrigate their rice crops. By night he receives guidance from the goddess in his dreams. ... The rain that falls on the mountain tumbles down to the sea in rivers that cut deeply into the soft volcanic rock. To use the water for irrigation, the Balinese have created a vast system of aqueducts, often running through tunnels a kilometer or more in length, that shunt the water from the rivers to the rice terraces, also sculpted by human labor from the steep mountain slopes. Below the grand temple of the crater lake stand smaller temples at every branch of the irrigation system, ending with the smallest temples where the channels empty onto the fields. ... In addition to the water temples there are other temples, large and small; in houses, market places, villages, palaces, throughout the island of Bali, whose deities are drawn from the original indigenous religion and from the more recent religions that arrived by trade, migration, and invasion. 
+
+^307812355
+
+##### ^307812356
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2282  
+
+###### ^307812356q
+
+The smallest social unit responsible for this miracle of pre-industrial engineering is the subak, an association of farmers that shares the water emerging from a terminal branch of the irrigation system. ... its members operate in a democratic fashion, making decisions by consensus and electing their leader from among their own ranks. 
+
+^307812356
+
+##### ^307812350
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2317  
+
+###### ^307812350q
+
+There are fourteen of these temples, fourteen subaks all of which meet together as one here. They meet at the Temple Er Jeruk. Every decision, every rule concerning planting seasons and so forth, is always discussed here. Then, after the meeting here, decisions are carried down to each subak. The subaks each call all their members together: “In accord with the meetings we held at the Temple Er Jeruk, we must fix our planting dates, beginning on day one through day ten.” 
+
+^307812350
+
+##### ^307812351
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2328  
+
+###### ^307812351q
+
+the Jero Gde resolved a dispute between a downstream Subak that destroyed the dam of an upstream subak to increase their share of water. Another example involved a village that wanted to start a new subak by building a channel from a newly discovered spring (80–81). The temple priests inspected the spring before granting permission to see if the project was feasible and if it would reduce water flow to the existing subaks. They then provided practical advice for the construction of the new irrigation system and fields. 
+
+^307812351
+
+##### ^307812352
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2353  
+
+###### ^307812352q
+
+these metaphysical elements are not a veneer but evidently are required for the system to work in a practical sense. Religious belief gives an authority to the system that it would not have as a purely secular institution (Rappaport 1979). In general terms, this authority is stated in a manuscript kept at the temple of the crater lake: “Because the Goddess makes the waters flow, those who do not follow her laws may not possess her rice terraces” (Lansing 1991, 73). The same principle is used in more specific ways to collect taxes from each village.3 In the minds of Balinese farmers, the authority of religion appears to be experienced as sincere belief, 
+
+^307812352
+
+##### ^307812353
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2374  
+
+###### ^307812353q
+
+Stark assumed that multiple gods compete with each other by offering the same service to a group of religious consumers, which should drive down prices according to the laws of supply and demand. This assumption is violated for the water temple system because each deity provides a separate service. Thus, the water temple system does not violate rational choice and economic theory in any general sense, but it does show how they go wrong when they ignore group-level functionalism. 
+
+^307812353
+
+##### ^307812354
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4497  
+
+I feel the only explanation is that the highly functional system of today is survivor of many less functional systems of the past. In the past non religous groups of farmers where outcompeted by religious groups untilt he the religious system over took the whole mountain. Judt as the religous system dealt with pests it could have dealt with other groups that ran against its interests and eventually out survive them  
+
+###### ^307812354q
+
+The process of selection that gave rise to the water temple system of Bali is currently less well understood than the functionality of the system itself. 
+
+^307812354
+

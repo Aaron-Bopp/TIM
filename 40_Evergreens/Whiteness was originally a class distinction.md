@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/claim
-sr-due: 2022-04-08
-sr-interval: 4
+sr-due: 2022-04-19
+sr-interval: 11
 sr-ease: 244
 ---
 > [!infobox]
@@ -28,6 +28,6 @@ sr-ease: 244
 
 #### References
 
-> ![[^^historians such as Oscar and Mary 
+> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487383]]
 
-> ![[^^in the words of Eric williams
+> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487384]]
