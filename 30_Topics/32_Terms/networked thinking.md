@@ -23,7 +23,7 @@ this is seen as the rising mode of thought in [[science]] and [[knowledge work]]
 In short,
 networked thinking is based on divergence (branching out from a concept) and [[emergence]] (bringing branches together into a higher level concept).
 Networked thinking is thought to be more similar to how the brain works 
-^[Which is similar to [[Nodes in the second brain are an abstraction of our first brain]]]
+^[Which is similar to [[A second brain should mirror how we think]]]
 
 
 ##### ^dataviews

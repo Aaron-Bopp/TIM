@@ -18,7 +18,7 @@ tags: created/2021/12/14, node/topic/term
 > In fact, each level in a hierarchical system is composed of a potentially heterarchical group which contains its constituent elements.
 > 
 > The concept of heterarchy was first employed in a modern context by Warren McCulloch in 1945. As Carole L. Crumley has summarized, "[h]e examined alternative cognitive structure(s), the collective organization of which he termed heterarchy. He demonstrated that the human brain, while reasonably orderly was not organized hierarchically. 
-> ^[[[Nodes in the second brain are an abstraction of our first brain]]]
+> ^[[[A second brain should mirror how we think]]]
 > This understanding revolutionized the neural study of the brain and solved major problems in the fields of [[AI|artificial intelligence]] and computer design."
 
 

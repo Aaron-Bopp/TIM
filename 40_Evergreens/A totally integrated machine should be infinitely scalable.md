@@ -24,7 +24,7 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 	- [[There is a limit to how much information you can process at once]]
 		- [[Densely linked webs of thought provide intuitive access to knowledge]]
 		- [[A healthy second brain requires a surplus of entry points]]
-	- [[A second brain should be an extension of your thought]]
+	- [[A second brain should mirror how we think]]
 		- [[Use spaced repetition as a memory tool for your second brain]]
 		- [[A totally integrated machine should automate as much of the thinking process as possible]]
 

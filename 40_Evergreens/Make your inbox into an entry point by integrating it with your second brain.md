@@ -16,7 +16,7 @@ In a typical inbox you may have things you haven't read, have skimmed but want t
 ^[[[my TO(DO) and EVER(GREEN) structure]] allows for this]
 
 #TO/TEND/PRUNE 
-However, because [[Nodes in the second brain are an abstraction of our first brain#Nodes in the second brain are more fragile than thoughts in the first brain]], 
+However, because [[A second brain should mirror how we think#Nodes in the second brain are more fragile than thoughts in the first brain]], 
 by making your inbox a part of your [[second brain]] 
 you are subjecting it to [[The fragility of information in knowledge management]].
 Remember, [[Friction is a hindrance to learning]], 

@@ -11,7 +11,7 @@ sr-ease: 230
 #### [[When in doubt, write what you think]] 
 
 Starting to write notes can be intimidating for many reasons, one of which being that you don't know what to write about.
-The beauty is that [[A second brain should be an extension of your thought]]. This means you can write about anything that you are thinking about and soon *your thinking will be better:* 
+The beauty is that [[A second brain should mirror how we think]]. This means you can write about anything that you are thinking about and soon *your thinking will be better:* 
 [[Writing is a catalyst of understanding]]
 
 This doesn't mean your [[second brain]] has to be a journal, or a planner, or about you, it can just be whatever you're thinking about. This could mean it is where you put down your school notes, your [[TTRPG]] notes, your dreams, anything. 

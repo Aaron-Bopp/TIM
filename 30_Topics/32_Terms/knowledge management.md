@@ -51,7 +51,7 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 		- [[Readwise Export for Obsidian - Templates and Process]]
 	- [[note writing]]
 - Emotional design
-	- [[A second brain should be an extension of your thought]]
+	- [[A second brain should mirror how we think]]
 	- [[Communities are knowledge graphs]]
 	- [[Your second brain should be frictionless access to a curated base of knowledge]]
 - Other considerations

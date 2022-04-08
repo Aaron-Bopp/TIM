@@ -46,7 +46,7 @@ I fall into this boat. Until I found a note system that suited my brain and a so
 - [[Using spaced repetition for your conceptual notes]]
 - [[Note structures should help curate knowledge]]
 - [[Friction is a hindrance to learning]]
-- [[Nodes in the second brain are an abstraction of our first brain]]
+- [[A second brain should mirror how we think]]
 - [[A totally integrated machine should automate as much of the thinking process as possible]]
 
 ### <hr class="footnote"/>

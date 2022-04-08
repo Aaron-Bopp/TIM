@@ -17,7 +17,7 @@ sr-ease: 190
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 - [[Writing is a catalyst of understanding]]
 - [[There is a difference between thinking and creating]]
-- [[Nodes in the second brain are an abstraction of our first brain]]
+- [[A second brain should mirror how we think]]
 - [[Writing is a catalyst of understanding]]
 - [[How memory works]]
  

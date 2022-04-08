@@ -17,7 +17,7 @@
 		- [[Make your inbox into an entry point by integrating it with your second brain]]
 		- [[Curate source notes and definitions in your second brain to avoid junk text]]
 		- [[The fragility of information in knowledge management]]
-		- [[Nodes in the second brain are an abstraction of our first brain]]
+		- [[A second brain should mirror how we think]]
 		- [[Densely linked webs of thought provide intuitive access to knowledge]]
 		- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 		- [[Stub notes are data structures for implicit knowledge gathering]]

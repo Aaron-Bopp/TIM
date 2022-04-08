@@ -26,7 +26,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 		- [[Use Obsidian tags as temporal classifiers]]
 		- [[my TO(DO) and EVER(GREEN) structure]]
 - What is the goal?
-	- [[Nodes in the second brain are an abstraction of our first brain]]
+	- [[A second brain should mirror how we think]]
 	- [[Densely linked webs of thought provide intuitive access to knowledge]]
 	- [[Evergreen notes organize knowledge so that it can grow]]
 	- Write all the time

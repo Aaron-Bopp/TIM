@@ -19,7 +19,7 @@ from: [[@hankgreen on Twitter|Hank Green]]
 
 - [[Humans try really hard to avoid understanding their mistakes]] makes it hard for us to accept new [[information]]
 - [[How to understand what you read]] integral in getting new information
-- [[Nodes in the second brain are an abstraction of our first brain]], what is understanding in the [[brain]]? #TO/PONDER/IDEA 
+- [[A second brain should mirror how we think]], what is understanding in the [[brain]]? #TO/PONDER/IDEA 
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Writing is a catalyst of understanding]]
 

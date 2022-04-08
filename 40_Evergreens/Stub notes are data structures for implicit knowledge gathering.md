@@ -27,7 +27,7 @@ and the unlinked show places where the relation to the stub could be a unique in
 - [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 - [[Evergreen notes organize knowledge so that it can grow]]
-- [[Nodes in the second brain are an abstraction of our first brain]]
+- [[A second brain should mirror how we think]]
 - [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
 
 ### <hr class="footnote"/>

@@ -19,7 +19,7 @@ then paragraph's are amino acids, notes are cells, and books are organisms.
 [[Evergreen notes]] are like single-celled organisms.
 [[knowledge management|Knowledge management systems]] are more complex organisms, and [[AI]]'s are conscious organisms. 
 
-- [[Nodes in the second brain are an abstraction of our first brain]]
+- [[A second brain should mirror how we think]]
 - [[We will evolve when we make learning as easy as thinking]]
 
 Books are paths through evergreen forests: [[What are the different kinds of information in books]].

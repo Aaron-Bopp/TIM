@@ -12,7 +12,7 @@ sr-ease: 179
 
 #### [[Use spaced repetition as a memory tool for your second brain]] 
 
-[[Nodes in the second brain are an abstraction of our first brain]], but there are some key differences, one of them being the way that we memorize things.
+[[A second brain should mirror how we think]], but there are some key differences, one of them being the way that we memorize things.
 We remember things by connecting them to different contexts,
 whether that be an acronym, a song, or just remembering something in sequence,
 ^[this is how we memorize long passages, we are connecting one sequence to the next: [[How memory works]]]

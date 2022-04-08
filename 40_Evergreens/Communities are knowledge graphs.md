@@ -21,7 +21,7 @@ All it took was one node that linked into the graph for me to start crawling the
 
 This is the power of the knowledge graph. It expands your learning by placing thoughts in context. [^2] You can use that context to find and learn the concepts directly, or you can let them implicitly make you smarter: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
 
-[^2]: [[Nodes in the second brain are an abstraction of our first brain]]
+[^2]: [[A second brain should mirror how we think]]
 
 ### <hr class="footnote"/>
 

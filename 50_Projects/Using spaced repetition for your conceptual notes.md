@@ -17,7 +17,7 @@ I decided early on that I would use spaced repetition as a memory tool for my [[
  
 This process heavily leverages [[my TO(DO) and EVER(GREEN) structure]], and the interlinked nature of [[evergreen notes]]
 ^[[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)]
-to create connections and structures that work with our brain rather than against our brain: [[Nodes in the second brain are an abstraction of our first brain]]
+to create connections and structures that work with our brain rather than against our brain: [[A second brain should mirror how we think]]
 
 ## How I rate notes during daily spaced repetition review
 

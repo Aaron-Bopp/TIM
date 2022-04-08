@@ -34,7 +34,7 @@ sr-ease: 250
 	- if you're lucky everything will sink into the [[unconscious]], but usually you have to read it multiple times
 - [[Yogi]]s believe all [[knowledge]] comes from within
 	- When we study the lightbulb going off is us discovering that knowledge in our [[mind]] 
-		- is this just connection of neurons? [[Nodes in the second brain are an abstraction of our first brain]]
+		- is this just connection of neurons? [[A second brain should mirror how we think]]
 	- [[How to understand what you read]]
 		-  we need to read and study at a time when our [[consciousness|conscious]] is calm
 	- [[Evergreen notes organize knowledge so that it can grow]]

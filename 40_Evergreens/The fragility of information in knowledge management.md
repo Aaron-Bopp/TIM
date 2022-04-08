@@ -30,7 +30,7 @@ part of:: why [[Often the best editing tool is time]] and how [[Your second brai
 [[topic notes|Topics]] rarely become irrelevant but can easily become clutter. Any simple idea can have large affects on the world, but that does not mean they will all have large effects in our mind specifically. I treat [[topic notes]] like Wikipedia pages. Meaning they should be the most stable, [[objective]] [[information]] about a subject. This allows for easy access to general [[knowledge]] while my [[understanding]] is growing in [[evergreen notes]].
 
 [[evergreen notes|Evergreens]] are the [[conceptual notes|concepts]] that our brain's latch onto.
-^[[[Nodes in the second brain are an abstraction of our first brain]]]
+^[[[A second brain should mirror how we think]]]
 Each one provides context and receives context from others, but can still stand on their own. [[Evergreen notes organize knowledge so that it can grow]] and thus are the most free form.
 
 There are more subcategorizations that provide clarification on what a node will do:
