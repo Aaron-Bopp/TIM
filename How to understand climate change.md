@@ -12,21 +12,9 @@ tags: created/2022/04/08, review, node/evergreen/question
 
 ##### Put average temperature into perspective
 
-> ![[books_How to Avoid a Climate Disaster#^306587584]]
+[[Small changes in average global temperature have exponential effects ]]
 
-> ![[books_How to Avoid a Climate Disaster#^306644845]]
-
-
-> ![[books_How to Avoid a Climate Disaster#^306644846]]
-
-
-##### Warming isn't consistent
-
-> ![[books_How to Avoid a Climate Disaster#^306587585]]
-
-[[Greenhouse gases absord only specific wavelengths of energy]]
-[[Climate change increases the likelyhood of extreme weather events]]
-[[Clean electricity solves a lot of problems]]
+[[Global warming isn't consistent]]
 
 1. Understand everything as percentage of 51 billion - the amount of emissions that we emit per year as of 2019
 2. We need net-zero emissions - we won't be able to get rid of all greenhouse gas emission, but we need to reduce it to the point that we can extract the remaining emission
@@ -36,5 +24,5 @@ tags: created/2022/04/08, review, node/evergreen/question
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[climate change]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -12,7 +12,7 @@ tags: created/2022/04/08, review, node/evergreen/claim
 
 Natural disaster has always been a part of living on planet [[Earth]], but we now have growing evidence that [[climate change]] is making the disasters quite a bit less natural.
 As the temperature rises so does the number of hot days which is highly impactful for the fire season both in number of fires and amount of damage.
-We also have evidence that this making storms and more intense, causing increasing damage all across the world, especially in 
+We also have evidence that this making storms and more intense, causing increasing damage all across the world, especially in places like [[Bangladesh]] which don't have the [[infrastructure]] to deal with it.
 
 > ![[books_How to Avoid a Climate Disaster#^306587591]]
 

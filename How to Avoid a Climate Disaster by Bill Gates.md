@@ -14,3 +14,6 @@ tags: created/2022/04/08, node/source/reference
 
 #### Summary
 [[How to understand climate change]]
+[[Greenhouse gases absorb only specific wavelengths of energy]]
+[[Climate change increases the likelyhood of extreme weather events]]
+[[Clean electricity solves a lot of problems]]
