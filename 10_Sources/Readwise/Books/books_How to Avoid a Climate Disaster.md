@@ -137,7 +137,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=410
 
 ###### ^306587593q
 
-As water vapor condenses into rain, it releases a massive amount of energy, 
+[[As water vapor condenses into rain, it releases a massive amount of energy]], 
 
 ^306587593
 

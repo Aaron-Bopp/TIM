@@ -1,0 +1,24 @@
+---
+created: 2022-04-08T11:49:03 
+edited: 
+aliases:
+  - null
+tags: created/2022/04/08, review, node/evergreen/example/observation
+---
+> [!infobox]
+`$=customJS.dv_funcs.mentionedIn(dv)`
+
+#### [[As water vapor condenses into rain, it releases a massive amount of energy]]
+
+#TO/EXPLORE/RESEARCH does it work like
+vapor has high [[energy]], coalesces into water droplets, which then fall because of [[gravity]] and energy goes into the ground.
+Where does the energy go when it is falling?
+
+
+### <hr class="footnote"/>
+
+**Status**:: #EVER/SPROUT
+*edited `=this.file.mtime`*
+
+**Topics**:: [[conservation of energy]], [[physics]]
+*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
