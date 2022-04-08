@@ -9,15 +9,18 @@ tags: created/2021/06/15, review, node/evergreen/claim
 
 #### [[Write your notes like you're planting an evergreen forest]] 
 
+It can often be intimidating to start a [[note writing]] practice,
+but the end there are no rules, and you won't find what works for you until you try.
+%% #TO/TEND/MULCH 
 [[Evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.
 If you have a concept, write it down and see what you can link to it.
 Often times an imperative, descriptive title and backlinks are all a note needs to have longevity, other time you may need a sentence or two of context so that you don't forget what you were thinking.
-[[Fear is the number one hindrance to trying]], but evergreen notes should not inspire fear,
-they should inspire [[creativity]]:
-[[Your second brain should be an inspirational hub of creativity]]
+%%
 
+%%
 However, if you don't know what an evergreen forest looks like, 
 you won't know which kind of seeds to plant and how to foster them.
+%%
 Having an unattended forest can be very overwhelming,
 but it can also provide the [[knowledge]] and context you need in order to choose the correct system.
 This is why
@@ -29,8 +32,8 @@ and the stress of having to design your system.
 While [[Learning how systems work can be a gateway to creating thought]],
 making too elaborate system can distract you from your work.
 ^[[[Powerful tools make dangerous toys]]]
-As you are building your [[systems for thought]] remember that 
-[[Organization systems are not mutually exclusive]] 
+As you are building your [[systems for thought]] remember to
+[[Prioritize understanding over organization or categorization]]
 and to 
 [[Write your notes with a system not within a system]]
 
