@@ -12,6 +12,8 @@ sr-ease: 170
 
 #### [[Evergreen notes help us bridge the gap between knowledge and understanding]] 
 
+part of:: [[Evergreen notes organize knowledge so that it can grow]]
+
 There is an initial hump to understanding any concept that makes it hard to passively learn things.
 This has given people the impressions that the only way they can learn is through a structured and purposeful attacking of the problem.
 This isn't untrue, but there are ways that we can cross that hump without doing all of the work at once.
@@ -27,7 +29,6 @@ This is a gift and a curse.
 - [[Writing is a catalyst of understanding]]
 - [[Humans try really hard to avoid understanding their mistakes]]
 
-- [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
 - [[How to understand what you read]]
 - [[The joy of learning is contagious]]

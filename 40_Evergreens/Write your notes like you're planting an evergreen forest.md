@@ -3,24 +3,18 @@ created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: created/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-07-10
-sr-interval: 121
-sr-ease: 210
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Write your notes like you're planting an evergreen forest]] 
 
-Knowledge changes over time and so do we, so why do we expect our notes to stay the same forever. It is impossible to know everything about anything, so how can we expect that of ourselves when we are writing. If you want to have a [[knowledge management|knowledge management system]] full of complex thought, you need to start with the seeds. 
-[[Fear is the number one hindrance to trying]] so 
-[[When in doubt, write what you think]] and
-soon you will have a forest of knowledge at your fingertips.
-
-If you want my advice, start with [[evergreen notes]],
-because [[Evergreen notes organize knowledge so that it can grow]].
-Previous writing is just fertilizer for evergreen notes,
-and writing evergreen notes is just practice for future thought. 
+[[Evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.
+If you have a concept, write it down and see what you can link to it.
+Often times an imperative, descriptive title and backlinks are all a note needs to have longevity, other time you may need a sentence or two of context so that you don't forget what you were thinking.
+[[Fear is the number one hindrance to trying]], but evergreen notes should not inspire fear,
+they should inspire [[creativity]]:
+[[Your second brain should be an inspirational hub of creativity]]
 
 However, if you don't know what an evergreen forest looks like, 
 you won't know which kind of seeds to plant and how to foster them.

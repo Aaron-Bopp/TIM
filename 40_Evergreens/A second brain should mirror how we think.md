@@ -3,9 +3,6 @@ created: 2021-11-07
 aliases:
   - null
 tags: created/2021/11/07, review, node/evergreen/claim
-sr-due: 2022-04-10
-sr-interval: 56
-sr-ease: 190
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -51,15 +48,5 @@ I latched onto the term [[second brain]] not as any concrete system, but as a lo
 
 **Topics**:: [[second brain]], [[web of thought]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
-There are three types of [[knowledge]]:
-- What other people know
-- What you know other people know
-- What you know
-
-The only way we can learn is by transforming [[information]] from being what other people know, to what we know,
-making this
-part of:: [[Your second brain should be frictionless access to a curated base of knowledge]].
 
 
