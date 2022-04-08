@@ -3,8 +3,8 @@ created: 2022-03-04T18:23:06
 aliases:
   - null
 tags: created/2022/03/04, review, node/evergreen/claim
-sr-due: 2022-04-08
-sr-interval: 13
+sr-due: 2022-05-08
+sr-interval: 30
 sr-ease: 210
 ---
 > [!infobox]
@@ -12,9 +12,9 @@ sr-ease: 210
 
 #### [[Greater cooperation and communication has lead to the success of humans as a species]] 
 
-> Ever since the [[Cognitive Revolution]], [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate. 
+> Ever since the [[Cognitive Revolution]], [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate.  ^[[[books_Sapiens#^294248540]]]
 >
-> <cite>[[books_Sapiens|Sapiens by Yuval Noah Harari]]</cite>
+> <cite>[[Sapiens by Yuval Noah Harari]]</cite>
 
 [[Cultural evolution is not confined to the slow process of genetic evolution]], partially because 
 cooperation and communication are the cornerstones of [[group selection]] and [[reciprocal altruism]].

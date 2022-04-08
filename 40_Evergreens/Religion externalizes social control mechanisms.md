@@ -26,3 +26,8 @@ While there are many other aspect
 
 results in:: [[Theology preserves hierarchy through deific blessing]]
 
+> [!cite] God as the moderator of spirited debate from [[Darwin's Cathedral by David Sloan Wilson]]
+> 
+> ![[books_Darwin's Cathedral#^301317595]]
+> ![[books_Darwin's Cathedral#^301114706]]
+> ![[books_Darwin's Cathedral#^294094920]]
