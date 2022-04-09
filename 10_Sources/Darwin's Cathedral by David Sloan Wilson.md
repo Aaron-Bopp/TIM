@@ -25,20 +25,16 @@ Wilson, D. (2002) *Darwin's Cathedral: Evolution, Religion, and the Nature of So
 
 ### Chapter 1
 
-#### Church as an organism ^[[[books_Darwin's Cathedral#CHURCH AS ORGANISM]]]
-
 This chapter concerns itself with orientating the reader to be ready for the rest of the book. This includes dispelling preconceived notions that people familiar with the field have, as well as defining several core concepts.
 This book seems to be a rather influential in that it pushed for and re-popularized the power of [[group selection]] (or at least [[David Sloan Wilson]] did) after a period of intellectual vitriol from the scientific [[community]]. 
 
-#### [[Group selection solves the fundamental problem of social life]] ^[[[books_Darwin's Cathedral#THE FUNDAMENTAL PROBLEM OF SOCIAL LIFE]]]
+[[Group selection solves the fundamental problem of social life]]
 
 > ![[books_Darwin's Cathedral#^288457438]]
 
-#### DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM ^[[[books_Darwin's Cathedral#DARWIN’S SOLUTION TO THE FUNDAMENTAL PROBLEM]]]
 
 His examination of this problem includes looking at Darwin's solution, the reason it became a problem in later years, and then a thorough discussion of how to solve it.
 
-#### EVOLUTIONARY THEORY’S WRONG TURN ^[[[books_Darwin's Cathedral#EVOLUTIONARY THEORY’S WRONG TURN]]]
 
 Wilson doesn't fully discredit the pushback against [[group selection]] but rather clarifies what it is and how it works, in light of the many problems and solutions that came as a result of rejecting [[group selection]].
 
@@ -67,8 +63,6 @@ This leads him fully into [[Cultural Evolution]], a process that does not change
 
 This leads to [[Cultural evolution is not confined to the slow process of genetic evolution]]
 and [[Greater cooperation and communication has lead to the success of humans as a species]].
-
-#### THE RELIGIOUS EXPRESSION OF MORALITY ^[[[books_Darwin's Cathedral#THE RELIGIOUS EXPRESSION OF MORALITY]]]
 
 Finally this leads him to start directly connecting these ideas to [[religion]], through the idea that [[Belief can motivate adaptation]] and [[Religion promotes high social control]]
 
@@ -117,4 +111,7 @@ with the caveat that is hard that this selection is not always conscious or that
 [[Why is it hard to understand how our environment effects us]]
 
 This leads him back to [[rational choice theory]], and how it's statement that [[religion]] is a byproduct is weak, and proposes how it could be included.
+
+### Chapter 3
+
 

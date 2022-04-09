@@ -17,7 +17,7 @@ part of:: [[What is the origin of religion]]
 and is 
 explained by:: [[rational choice theory]].
 It would posit that the origin of [[religious belief]] is in human intentionality to get obtain rewards that we cannot get on our own. 
-We do this all the time to conserve energy, i.e why do something yourself when there is someone our there who can do it better,
+We do this all the time to conserve energy, i.e. why do something yourself when there is someone our there who can do it better,
 but for things like life after death and or even better weather for [[farming]] 
 or good fortune in battle,
 religion can be seen as a rational attempt to do this.
@@ -25,19 +25,10 @@ This is also unique because it is a explanation of [[religion]] that some believ
 While they would usually not say that they only believe for this reward,
 they would definitely cite it as something they are looking forward to or are thankful for.
 
-[[Darwin's Cathedral by David Sloan Wilson]] points out that this view of religion is not adaptive, as the reward is never actually delivered because of [[belief]], but as a byproduct. While this is a valid explanation, and supported by evidence like [[Belief can motivate adaptation]],
+[[Darwin's Cathedral by David Sloan Wilson]] points out that this view of religion is not adaptive, as the reward is never actually delivered because of [[belief]],
+but as a byproduct. While this is a valid explanation, and supported by evidence like [[Belief can motivate adaptation]],
 there may be a better solution such as 
 [[Religion as a group level adaptation]].
-
-
-> ![[books_Darwin's Cathedral#^295428836]]
-
-> ![[books_Darwin's Cathedral#^295428837]]
-
-The counterpoint to this is that the bid is not *actually* for a material reward 
-^[Believers view it as such, but we have no way to verify if they receive this reward]
-but rather an exchange in favor of the adaptational benefit of [[belief]]:
-[[Belief can motivate adaptation]]
 
 ### <hr class="footnote"/>
 
@@ -54,3 +45,7 @@ but rather an exchange in favor of the adaptational benefit of [[belief]]:
 > ![[books_Darwin's Cathedral#^294570949]]
 
 > ![[books_Darwin's Cathedral#^298292989]]
+
+> ![[books_Darwin's Cathedral#^295428836]]
+
+> ![[books_Darwin's Cathedral#^295428837]]

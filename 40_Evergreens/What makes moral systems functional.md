@@ -11,12 +11,21 @@ sr-ease: 212
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[What is the origin of moral systems]] 
+#### [[What makes moral systems functional]] 
 
 Is there a difference between this and [[What is the origin of religion]]
 
+##### Features that make moral systems work
 
-> ![[books_Darwin's Cathedral#^292550150]]
+- conformity
+- docility
+- detection of cheating
+- punishment of cheating
+- symbolic thought
+- explicit consensus decision making
+
+##### Why do these work?
+
 
 > ![[books_Darwin's Cathedral#^292550152]]
 
@@ -32,3 +41,6 @@ Answers:
 
 **Topics**:: [[social control]], [[morality]], [[social order]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+
+> ![[books_Darwin's Cathedral#^292550150]]

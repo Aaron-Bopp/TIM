@@ -25,7 +25,7 @@ displayed by:: [[Theology preserves hierarchy through deific blessing]]
 
 Explanations:
  - [[Religion externalizes social control mechanisms]] 
- - [[What is the origin of moral systems]]
+ - [[What makes moral systems functional]]
  - [[Social control promotes highly altruistic behavior within groups]]
 
 #TO/PONDER/IDEA what is the relationship between individual's [[belief]] and [[religion]]'s social control. They can motivate similar behaviors, but come from different sources?

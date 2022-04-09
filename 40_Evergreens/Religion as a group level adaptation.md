@@ -16,6 +16,8 @@ sr-ease: 226
 - contrasts:: [[Religion as a rational bid for supernatural reward]]
 - answers:: [[What is the origin of religion]] 
 
+> ![[books_Darwin's Cathedral#^303892933]]
+
 Argued in:: [[Darwin's Cathedral by David Sloan Wilson]]
 The ability to believe in a God is a trait reinforced by [[group selection]] and molded by [[Cultural Evolution]].
 

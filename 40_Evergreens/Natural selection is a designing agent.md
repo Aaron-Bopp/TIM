@@ -35,3 +35,5 @@ Selection is a complicated process that involves aspects at every level of compl
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books_Darwin's Cathedral#^298293000]]
+
+> ![[books_Darwin's Cathedral#^302856334]]
