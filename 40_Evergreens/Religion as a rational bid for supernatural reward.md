@@ -13,11 +13,22 @@ sr-ease: 205
 #### [[Religion as a rational bid for supernatural reward]] 
 
 This is 
-part of:: [[rational choice theory]]
+part of:: [[What is the origin of religion]]
+and is 
+explained by:: [[rational choice theory]].
+It would posit that the origin of [[religious belief]] is in human intentionality to get obtain rewards that we cannot get on our own. 
+We do this all the time to conserve energy, i.e why do something yourself when there is someone our there who can do it better,
+but for things like life after death and or even better weather for [[farming]] 
+or good fortune in battle,
+religion can be seen as a rational attempt to do this.
+This is also unique because it is a explanation of [[religion]] that some believers would agree with.
+While they would usually not say that they only believe for this reward,
+they would definitely cite it as something they are looking forward to or are thankful for.
 
-> ![[books_Darwin's Cathedral#^294570949]]
+[[Darwin's Cathedral by David Sloan Wilson]] points out that this view of religion is not adaptive, as the reward is never actually delivered because of [[belief]], but as a byproduct. While this is a valid explanation, and supported by evidence like [[Belief can motivate adaptation]],
+there may be a better solution such as 
+[[Religion as a group level adaptation]].
 
-[[David Sloan Wilson]] points out in [[books_Darwin's Cathedral|Darwin's Cathedral]] that this view of religion is not adaptive.
 
 > ![[books_Darwin's Cathedral#^295428836]]
 
@@ -35,3 +46,11 @@ but rather an exchange in favor of the adaptational benefit of [[belief]]:
 
 **Topics**:: [[religion]], [[rational choice theory]], [[belief]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
+
+> ![[books_Darwin's Cathedral#^294570949]]
+
+> ![[books_Darwin's Cathedral#^298292989]]
