@@ -3,14 +3,15 @@ created: 2021-11-07
 aliases:
   - null
 tags: created/2021/11/07, review, node/evergreen/outline
-sr-due: 2022-04-09
-sr-interval: 87
+sr-due: 2022-10-23
+sr-interval: 197
 sr-ease: 227
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Our brain will do anything it can to protect itself]] 
+
 %%
 
 ##### Autonomically
@@ -18,9 +19,11 @@ sr-ease: 227
 ##### Emotionally
 
 ##### Intellectually
+
 %%
 
-Possibly an answer to [[What is the cognitive effect of living in an unjust world]]
+Possibly an 
+answer to:: [[What is the cognitive effect of living in an unjust world]]
 - [[Evolutionary Psychology]]
 	- [[Humans are a product of evolution]]
 	- [[Our brains are built around survival]]

@@ -23,3 +23,4 @@ interval: 1
 | [[Our ego is our subconscious defense of our self]]                        |       44 |       |        1 | 2022-02-16 |
 | [[Humans are addicted to believing]]                                       |        0 |       |        0 | 2022-03-26 |
 | [[Our ego defends every belief we hold conscious or subconscious]] | | | | |
+| [[Our brain will do anything it can to protect itself]] | | | | |
