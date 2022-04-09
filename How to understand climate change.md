@@ -20,7 +20,7 @@ tags: created/2022/04/08, review, node/evergreen/question
 
 Climate predictions have usually been accurate, and when they haven't bee it is because there have been outside factors
 
-> [!cite]-  [[Simon Clark]]
+> [!cite]- [[video_Why have climate change predictions been so WRONG]]
 >
 > ![[video_Why have climate change predictions been so WRONG#^video]]
 
