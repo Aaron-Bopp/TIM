@@ -31,3 +31,5 @@ The ability to believe in a God is a trait reinforced by [[group selection]] and
 
 **Topics**:: [[religion]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+> ![[books_Darwin's Cathedral#^306962120]]

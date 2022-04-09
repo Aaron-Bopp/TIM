@@ -43,6 +43,8 @@ The origin of religion must be both psychological and cultural. We need to have 
 
 > ![[books_Darwin's Cathedral#^295490295]]
 
+> ![[books_Darwin's Cathedral#^306962113]]
+
 - [[Social control promotes highly altruistic behavior within groups]]
 - [[Religion promotes high social control]]
 

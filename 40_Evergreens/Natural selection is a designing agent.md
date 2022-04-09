@@ -37,3 +37,7 @@ Selection is a complicated process that involves aspects at every level of compl
 > ![[books_Darwin's Cathedral#^298293000]]
 
 > ![[books_Darwin's Cathedral#^302856334]]
+
+> ![[books_Darwin's Cathedral#^306962119]]
+
+> ![[books_Darwin's Cathedral#^304185872]]

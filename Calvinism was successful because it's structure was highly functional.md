@@ -49,6 +49,10 @@ How were these displayed in Calvinism?
 > ![[books_Darwin's Cathedral#^304449614]]
 
 
+> ![[books_Darwin's Cathedral#^306962104]]
+
+
+
 ##### Docility
 
 > ![[books_Darwin's Cathedral#^304185841]]
@@ -63,6 +67,12 @@ How were these displayed in Calvinism?
 
 > ![[books_Darwin's Cathedral#^304185843]]
 
+> ![[books_Darwin's Cathedral#^305405754]]
+
+
+> ![[books_Darwin's Cathedral#^306962101]]
+
+
 ##### Punishment of cheating
 
 > ![[books_Darwin's Cathedral#^304185853]]
@@ -70,6 +80,8 @@ How were these displayed in Calvinism?
 
 > ![[books_Darwin's Cathedral#^304185854]]
 
+
+> ![[books_Darwin's Cathedral#^306962097]]
 
 
 ##### Symbolic thought
@@ -79,6 +91,20 @@ How were these displayed in Calvinism?
 ##### Forgiveness
 > ![[books_Darwin's Cathedral#^304185844]] 
 
+
+
+##### Consensus decision making
+
+> ![[books_Darwin's Cathedral#^305930679]]
+
+
+> ![[books_Darwin's Cathedral#^306962126]]
+
+
+> ![[books_Darwin's Cathedral#^306962100]]
+
+
+> ![[books_Darwin's Cathedral#^306962102]]
 
 
 ##### How did Calvinism organize the [[social order]]

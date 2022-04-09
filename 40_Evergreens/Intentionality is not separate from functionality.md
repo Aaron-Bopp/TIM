@@ -12,8 +12,8 @@ sr-ease: 199
 
 #### [[Intentionality is not separate from functionality]] 
 
-> ![[books_Darwin's Cathedral#^298292979]]
 
+A behavior can be unintentional and functional and it can also be intentional and dysfunctional.
 This is an argument and distinction made by [[David Sloan Wilson]] in [[Darwin's Cathedral by David Sloan Wilson#Chapter 2]]. 
 [[rational choice theory]] relies on human intentionality 
 
@@ -30,3 +30,7 @@ part of:: [[Human behavior is selective]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 > ![[books_Darwin's Cathedral#^298293001]]
+
+> ![[books_Darwin's Cathedral#^306962115]]
+
+> ![[books_Darwin's Cathedral#^306962116]]
