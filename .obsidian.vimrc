@@ -7,4 +7,5 @@ nmap [[ :pHead
 nmap j gj
 nmap k gk
 
+nmap Y y$
 set clipboard=unnamed

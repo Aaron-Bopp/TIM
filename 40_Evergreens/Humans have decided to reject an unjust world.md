@@ -12,7 +12,14 @@ sr-ease: 130
 
 #### [[Humans have decided to reject an unjust world]] 
 
-We have decided to flatly refuse to believe that there is no purpose to life, no justice in death, and no hope for the future. Whether these [[belief]]s are true or not does not matter, because in the grand scheme of things it is only our resolve to push forward action by action that matters. 
+We have flatly refused to believe that there is
+no purpose to life,
+no justice in death, and
+no hope for the future.
+Whether these [[belief]]s are true or not does not matter,
+because in the grand scheme of things 
+it is only our resolve 
+to push forward action by action that matters. 
 
 That said, flat rejection leads to dismissiveness of the [[struggle]] that is required to persist in this world.
 ^[This is why [[pessimism]] cannot be a result of [[Knowledge of an unjust world is painful]] if we how to [[Be the change you want to see in the world]]]
