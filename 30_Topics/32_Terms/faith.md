@@ -28,3 +28,7 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+> ![[books_Darwin's Cathedral#^304185857]]

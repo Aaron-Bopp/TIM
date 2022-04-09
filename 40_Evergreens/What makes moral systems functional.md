@@ -44,3 +44,17 @@ Answers:
 
 
 > ![[books_Darwin's Cathedral#^292550150]]
+
+> [!cite] [[David Sloan Wilson]]'s view of [[belief systems]]
+> 
+> ![[books_Darwin's Cathedral#^304185847]]
+> ![[books_Darwin's Cathedral#^304185848]]
+> ![[books_Darwin's Cathedral#^304185849]]
+> ![[books_Darwin's Cathedral#^304185850]]
+> ![[books_Darwin's Cathedral#^304185851]]
+> ![[books_Darwin's Cathedral#^304185852]]
+
+
+
+
+

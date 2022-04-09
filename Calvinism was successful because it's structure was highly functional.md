@@ -4,11 +4,16 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
+sr-due: 2022-04-10
+sr-interval: 1
+sr-ease: 208
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Calvinism was successful because it's structure was highly functional]]
+
+> ![[books_Darwin's Cathedral#^304449615]]
 
 This is an
 example of:: [[Religion as a group level adaptation]] and is
@@ -33,10 +38,50 @@ First lets look at the basics of [[What makes moral systems functional]]:
 How were these displayed in Calvinism?
 
 ##### Conformity
+> ![[books_Darwin's Cathedral#^304185842]]
+
+
+> ![[books_Darwin's Cathedral#^304185871]]
+
+> ![[books_Darwin's Cathedral#^304449611]]
+
+
+> ![[books_Darwin's Cathedral#^304449614]]
+
+
+##### Docility
+
+> ![[books_Darwin's Cathedral#^304185841]]
+
+> ![[books_Darwin's Cathedral#^304185858]]
+
+
+> ![[books_Darwin's Cathedral#^304449635]]
+
+
+##### Detection of cheating
+
+> ![[books_Darwin's Cathedral#^304185843]]
+
+##### Punishment of cheating
+
+> ![[books_Darwin's Cathedral#^304185853]]
+
+
+> ![[books_Darwin's Cathedral#^304185854]]
+
+
 
 ##### Symbolic thought
 
-> ![[^^
+> ![[books_Darwin's Cathedral#^303892916]]
+
+##### Forgiveness
+> ![[books_Darwin's Cathedral#^304185844]] 
+
+
+
+##### How did Calvinism organize the [[social order]]
 
 
 ### <hr class="footnote"/>

@@ -1581,7 +1581,8 @@ The human mind is a melange of adaptations and spandrels that have accumulated o
 
 ^298292995
 
-### CHAPTER 3 CALVINISM An Argument from Design
+### CHAPTER 3 CALVINISM 
+#### An Argument from Design
 ##### ^302856334
 
 

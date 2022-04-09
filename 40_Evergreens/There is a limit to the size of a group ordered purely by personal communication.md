@@ -19,6 +19,8 @@ sr-ease: 230
 
 > ![[books_Sapiens#^297301077]]
 
+> ![[books_Darwin's Cathedral#^304185845]]
+
 - part of:: [[What is the link between evolution and social behavior]]
 - This is why [[Religion promotes high social control]] is so important.
 	- [[Social control promotes highly altruistic behavior within groups]]
