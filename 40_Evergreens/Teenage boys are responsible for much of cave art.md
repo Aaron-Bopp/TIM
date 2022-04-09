@@ -11,14 +11,16 @@ sr-ease: 210
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Teenage boys are responsible for much of cave art]] 
-> ![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285753076q]]
-> ![[articles_Ancient Cave Art Full of Teenage Graffiti  Live Science#285756251q]]
+
+> ![[articles_Ancient Cave Art Full of Teenage Graffiti Live Science#285753076q]]
+> ![[articles_Ancient Cave Art Full of Teenage Graffiti Live Science#285756251q]]
 
 Different cave
 > ![[books_The Anthropocene Reviewed#287295946q]]
 
-
 > ![[books_Sapiens#^296601910]]
+
+[Very good cave paintings - YouTube](https://www.youtube.com/watch?v=PE0vmzJq_Cs)
 
 ### <hr class="footnote"/>
 
