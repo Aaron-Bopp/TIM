@@ -24,7 +24,7 @@ sr-ease: 231
 > In 2016, there were an estimated 619 million evangelicals in the world, meaning that one in four Christians would be classified as evangelical. The United States has the largest proportion of evangelicals in the world. American evangelicals are a quarter of that nation's population and its single largest religious group. As a trans-denominational coalition, evangelicals can be found in nearly every Protestant denomination and tradition, particularly within the Reformed ([[Calvinism|Calvinist]]), Baptist, Methodist (Wesleyan-Arminian), Moravian, Mennonite, Pentecostal and charismatic churches.
 >
 
-Because of Evangelicalism's close tie with American charismatic's is often used synonymously with [[Charistmaticism]]
+Because of Evangelicalism's close tie with American charismatic's is often used synonymously with [[Charistmaticism]] in opposition to [[Calvinism]]
 
 ##### ^dataviews
 
