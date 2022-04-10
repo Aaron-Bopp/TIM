@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, node/topic/term
-sr-due: 2022-04-10
-sr-interval: 2
+sr-due: 2022-04-14
+sr-interval: 4
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,7 +21,9 @@ sr-ease: 231
 > Protestantism is diverse, being more divided theologically and ecclesiastically than the Catholic Church, Eastern Orthodoxy or Oriental Orthodoxy. A majority of Protestants are members of a handful of Protestant denominational families: Adventists, Anabaptists, Anglicans/Episcopalians, Baptists, [[Calvinism|Calvinist]]/Reformed, Lutherans, Methodists,  Nondenominational, [[Charistmaticism|Charismatic]], Independent, and other churches are on the rise, and constitute a significant part of Protestantism.
 >
 
-Protestantism is often confused with [[Evangelicalism]].
+Protestantism is often confused with [[Evangelicalism]]. 
+While both are inter-denominational and have large amounts of overlap, Protestantism is a predecessors of [[Evangelicalism]] and most evangelicals would be considered Protestants.
+
 > [!wikipedia]- Beliefs
 > 
 > Protestants originating in the Reformation reject the Roman Catholic doctrine of papal supremacy, but disagree among themselves regarding the number of sacraments, the real presence of Christ in the Eucharist, and matters of ecclesiastical polity and apostolic succession. 

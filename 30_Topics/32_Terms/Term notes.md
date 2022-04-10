@@ -1,23 +1,18 @@
 ---
 created: 2021-10-11
 tags: created/2021/10/11, node/topic/term
+sr-due: 2022-04-12
+sr-interval: 2
+sr-ease: 226
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Term notes]]</s>
 
+In:: [[knowledge management]] and [[note writing]],
+term notes or definition notes are short informational notes about what a term means and how it is used.
 
-Term notes are characterized by a list topics that cover than note. Term notes are not [[evergreen notes|evergreen]] in that they are not designed to develop over time. Once Einstein discovered **e = mc<sup>2</sup>** he didn't seek to redefine it, he started to build on it. Unfortunately I am not defining things as consistent as Einstein but nevertheless I am trying to define despite the fact that I know I will have to redefine so many things
-
-**See**:: [[knowledge work]], [[note writing]], [[topic notes]], [[stub notes]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
+In:: [[My TIM]]
+term notes would be considered a distinction of [[topic notes]]
 [1]:

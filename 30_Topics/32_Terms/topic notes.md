@@ -11,30 +11,17 @@ sr-ease: 227
 
 #### <s class="topic-title">[[topic notes]]</s> 
 
-Topic notes come in many shapes and sizes.
-Some topic notes are cover swaths of knowledge, and could be applied broadly as the main topics of evergreen notes, e.g. [[anxiety]], [[human experience]].
-These topic notes are best used as jumping off points to organize your various ideas. 
-These notes may lay dormant for a long time but as you build up knowledge around them you they can grow almost naturally.
+In:: [[knowledge management]],
+topic notes are blend of many similar concepts such as structure notes ([[Zettelkasten]]) or maps of contents and are characterized by their focus on organizing other notes.
+Topic notes can be used in substitution for or addition to tags depending on the system.
+Distinctions that would be included within topic notes would be [[Term notes]] and [[stub notes]].
 
-Topic notes can also be focused, these are more similar to terms, but they can still have [[evergreen notes]] written about them.
+In:: [[My TIM]] and [[note writing]],
+Topic notes are good places to classify what you know about what other people know, 
+which means that they can take a different voice than [[evergreen notes]] or [[source notes]].
+Topic notes used in this way are similar to Wikipedia articles, providing relatively unopinionated [[information]].
+
+Topic notes can also be good places to define what a term means and how it is used specific to your notes.
 
 Topic notes should be able to form naturally from your other notes so they should be titled however they would be naturally written. It should be titled as `Firstname Lastname`, `ACRONYM`, and as simply as possible i.e `[[second brain]]` instead of `The Second Brain`.  
 
-A topic note can come to be in two ways:
-1. In the creation of an outline for a topic I would like to writing about
-2. Through repeated mentions in other notes
-3. By adding brackets around an interesting term.
-
-### <hr class="footnote"/>
-
-**See**:: [[My TIM]], [[note writing]], [[knowledge management]], [[Term notes]], [[stub notes]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

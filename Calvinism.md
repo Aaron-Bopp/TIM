@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, node/topic/term
-sr-due: 2022-04-09
-sr-interval: 2
+sr-due: 2022-04-17
+sr-interval: 7
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +16,9 @@ In:: the history of [[religion]]
 
 > [!wikipedia] [Calvinism](https://en.wikipedia.org/wiki/Calvinism)
 > 
-> Calvinism is a major branch of Protestantism that follows the theological tradition and forms of Christian practice set down by [[John Calvin]] and other Reformation-era theologians. 
+> Calvinism is a major branch 
+> of:: [[Protestantism]] 
+> that follows the theological tradition and forms of Christian practice set down by [[John Calvin]] and other Reformation-era theologians. 
 > 
 > Calvinists broke from the Roman Catholic Church in the 16th century. Calvinists differ from Lutherans (another major branch of the Reformation) on the spiritual real presence of Christ in the Lord's Supper, theories of worship, the purpose and meaning of baptism, and the use of God's law for believers, among other points. 
 > 

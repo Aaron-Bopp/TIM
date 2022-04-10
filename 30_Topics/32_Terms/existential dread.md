@@ -1,8 +1,8 @@
 ---
 created: 2021-10-18
 tags: created/2021/10/18, review, node/topic/term
-sr-due: 2022-04-09
-sr-interval: 15
+sr-due: 2022-05-09
+sr-interval: 29
 sr-ease: 186
 ---
 > [!infobox]
@@ -11,7 +11,10 @@ sr-ease: 186
 #### <s class="topic-title">[[existential dread]]</s>
 
 Perhaps somewhat like a ongoing [[existential crisis]], existential dread is a nebulous term, probably best described as a kind of [[anxiety]]. 
-Typically it includes questioning the answers to [[The three main questions of life]], but in lieu of satisfactory answers to those questions, or repeated events that make you question them, it will latch on to uncontrollable threats like [[war]] or [[climate change]], or a general lack of [[hope]].
+Typically it includes questioning the answers to [[The three main questions of life]], but in lieu of satisfactory answers to those questions, or repeated events that make you question them will inrease in intensity.
+While prolonged feelings of existential dread may lead someone to [[nihilism]] or [[existentialism]], one does not have to subscribe to any kind of philosophical ideology to feel existential dread.
+For many this feeling will
+latch onto uncontrollable threats like [[war]] or [[climate change]], or a general lack of [[hope]].
 
 - [[What is the psychological origin of existential dread]]
 - [[A secure worldview is the best defense against existential dread]]
