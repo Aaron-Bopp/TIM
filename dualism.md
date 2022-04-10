@@ -4,14 +4,13 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, node/topic/term
-sr-due: 2022-04-10
-sr-interval: 2
+sr-due: 2022-04-15
+sr-interval: 5
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[dualism]]</s>
-
 
 > [!wikipedia] [Cosmological dualism](https://en.wikipedia.org/wiki/Dualism%20in%20cosmology)
 > 
@@ -26,7 +25,6 @@ sr-ease: 231
 > 
 
 includes:: [[Zoroastrianism]]
-
 
 ##### ^dataviews
 

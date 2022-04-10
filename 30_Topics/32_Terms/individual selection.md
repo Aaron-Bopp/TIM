@@ -3,6 +3,9 @@ created: 2022-02-10T18:20:14
 aliases:
   - null
 tags: created/2022/02/10, node/topic/term
+sr-due: 2022-04-15
+sr-interval: 5
+sr-ease: 246
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,15 +16,21 @@ tags: created/2022/02/10, node/topic/term
 > 
 > Ecological selection (or environmental selection or survival selection or individual selection or asexual selection) refers to [[natural selection]] without [[sexual selection]], i.e. strictly ecological processes that operate on a species' inherited traits without reference to mating or secondary sex characteristics.  The variant names describe varying circumstances where sexual selection is wholly suppressed as a mating factor. Ecologists often study ecological selection when examining the abundance of individuals per population across regions, and what governs such abundances.
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

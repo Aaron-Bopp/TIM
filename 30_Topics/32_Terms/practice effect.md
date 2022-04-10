@@ -3,6 +3,9 @@ created: 2022-03-26T10:20:11
 aliases:
   - null
 tags: created/2022/03/26, node/topic/term
+sr-due: 2022-04-13
+sr-interval: 3
+sr-ease: 250
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +19,6 @@ Defined in the APA Dictionary of Psychology as "any change or improvement that r
 > 
 > A practice effect is the outcome/performance change resulting from repeated testing. This is best described by the [Power Law of Practice](https://en.wikipedia.org/wiki/Power_Law_of_Practice "Power Law of Practice"): If multiple levels or some other variable variation are tested repeatedly (which is the case in between-group experiments), the subjects within each sub-group become more familiarized with testing conditions, thus increasing responsiveness and performance.
 >
-
 
 ##### ^dataviews
 

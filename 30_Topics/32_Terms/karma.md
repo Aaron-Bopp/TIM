@@ -3,13 +3,16 @@ created: 2021-07-05
 aliases:
   - null
 tags: created/2021/07/05, node/topic/term
+sr-due: 2022-04-16
+sr-interval: 6
+sr-ease: 230
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[karma]]</s>
 
-is basically the belief that that good actions bring [[happiness]] and bad actions bring sadness IN THE LONG RUN
+Karma is the belief that that good actions bring [[happiness]] and bad actions bring sadness IN THE LONG RUN
 
 The [[Yoga|Yogic]] principle of cause and effect.
 
@@ -17,7 +20,9 @@ The [[Yoga|Yogic]] principle of cause and effect.
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

@@ -3,6 +3,9 @@ created: 2022-03-26T10:00:47
 aliases:
   - null
 tags: created/2022/03/26, node/topic/term
+sr-due: 2022-04-14
+sr-interval: 4
+sr-ease: 246
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,7 +20,6 @@ tags: created/2022/03/26, node/topic/term
 >
 
 Inversely:: [[long-term memory]]
-
 
 ##### ^dataviews
 

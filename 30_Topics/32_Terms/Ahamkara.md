@@ -3,6 +3,9 @@ created: 2021-12-29
 aliases:
   - null
 tags: created/2021/12/29, node/topic/term
+sr-due: 2022-04-15
+sr-interval: 5
+sr-ease: 233
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,7 +18,9 @@ The "I" feeling, or the sense of [[self]] (not the true self), commonly translat
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

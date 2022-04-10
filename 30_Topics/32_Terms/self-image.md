@@ -1,6 +1,9 @@
 ---
 created: 2021-08-01
 tags: created/2021/08/01, node/topic/term
+sr-due: 2022-04-14
+sr-interval: 4
+sr-ease: 220
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -27,12 +30,13 @@ tags: created/2021/08/01, node/topic/term
 > A more technical term for self-image that is commonly used by social and cognitive psychologists is self-schema. Like any schema, self-schemas store information and influence the way we think and remember. For example, research indicates that [[information]] which refers to the self is preferentially encoded and recalled in memory tests, a phenomenon known as "[[self-referential encoding]]". Self-schemas are also considered the traits people use to define themselves, they draw information about the self into a coherent scheme.
 >
 
-
 **See**:: [[self]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)

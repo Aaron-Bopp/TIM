@@ -3,6 +3,9 @@ created: 2022-03-17T21:02:01
 aliases:
   - null
 tags: created/2022/03/17, node/topic/term
+sr-due: 2022-04-19
+sr-interval: 9
+sr-ease: 253
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,19 +20,25 @@ tags: created/2022/03/17, node/topic/term
 > 
 > There are numerous mathematical descriptions of the electromagnetic field. Most prominently, Maxwell's equations describe how electric and magnetic fields are generated and altered by each other and by charges and currents.
 > 
-> The theoretical implications of electromagnetism, particularly the establishment of the speed of light based on properties of the "medium" of propagation (permeability and permittivity), led to the development of special relativity by Albert Einstein in 1905.
+> The theoretical implications of electromagnetism, particularly the establishment of the [[speed of light]] based on properties of the "medium" of propagation (permeability and permittivity), led to the development of special relativity by Albert Einstein in 1905.
 >
 
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

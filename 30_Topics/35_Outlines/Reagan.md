@@ -1,24 +1,14 @@
 ---
 created: 2021-10-06
 tags: created/2021/10/06, node/topic/term
+sr-due: 2022-04-12
+sr-interval: 2
+sr-ease: 243
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Reagan]]</s>
-
-
-**See**:: [[Politics]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-```dataview
-LIST
-FROM #node/evergreen 
-WHERE contains(topics, [[Reagan]])
-```
-%% DO NOT EDIT ABOVE %%
-#### [[Reagan]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - Beliefs
 	- [[supply-side economics]]
@@ -39,7 +29,21 @@ WHERE contains(topics, [[Reagan]])
 	- [[Red Scare]]
 		- [[McCarthyism is an attack on totalitarianism not communism]]
 
-### <hr class="dataviews"/>
+##### ^dataviews
 
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
+%% DO NOT EDIT ABOVE %%
