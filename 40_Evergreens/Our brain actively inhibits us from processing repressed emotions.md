@@ -3,8 +3,8 @@ created: 2022-01-06T09:55:29
 aliases:
   - null
 tags: created/2022/01/06, review, node/evergreen/claim
-sr-due: 2022-04-09
-sr-interval: 41
+sr-due: 2022-06-26
+sr-interval: 78
 sr-ease: 190
 ---
 > [!infobox]
@@ -17,6 +17,7 @@ sr-ease: 190
 [[Meditation helps us detach negative attachments]] by getting us past the brain's [[defense-mechanisms]].
 
 - part of:: [[We carry our childhood wounds into adulthood]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
@@ -24,5 +25,3 @@ sr-ease: 190
 
 **Topics**:: [[brain]], [[Neuroscience]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-
