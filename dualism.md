@@ -25,7 +25,7 @@ sr-ease: 231
 > Alternatively, in ontological dualism, the world is divided into two overarching categories. The opposition and combination of the universe's two basic principles of yin and yang is a large part of Chinese philosophy, and is an important feature of [[Taoism]]. It is also discussed in Confucianism.
 > 
 
-includes:: 
+includes:: [[Zoroastrianism]]
 
 
 ##### ^dataviews

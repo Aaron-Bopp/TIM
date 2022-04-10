@@ -13,8 +13,12 @@ sr-ease: 203
 #### [[Webs of thought provide heterarchical structure]] 
 
 #TO/PONDER/IDEA 
+part of:: [[Do we think more naturally in hierarchy or heterarchy]]
 
-![[heterarchy]]
+In a [[heterarchy]], items can be related to each other in countless different ways. This could mean be involved in multiple different hierarchies, multiple different taxonomies, or any combination of the two.
+
+At it's core a [[web of thought]] has only one system of organization which is unnamed, unweighted, one way relationships between items. However this allows for any number of other organization systems to be placed on top of it without clashing. A web of thought is unopinionated.
+You can add backlinks, name relationships, place notes in strict hierarchies or use multiple hierarchies, and you can always com back to the core of linking items.
 
 - [[Organization systems are not mutually exclusive]]
 - [[Densely linked webs of thought provide intuitive access to knowledge]]
