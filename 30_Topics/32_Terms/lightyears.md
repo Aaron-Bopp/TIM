@@ -8,8 +8,8 @@ aliases:
   - light-years
   - light years
 tags: created/2022/04/03, node/topic/term
-sr-due: 2022-04-10
-sr-interval: 6
+sr-due: 2022-04-26
+sr-interval: 16
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`

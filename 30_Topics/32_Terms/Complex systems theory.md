@@ -3,8 +3,8 @@ created: 2022-03-13T15:25:14
 aliases:
   - complex systems
 tags: created/2022/03/13, node/topic/term
-sr-due: 2022-04-09
-sr-interval: 8
+sr-due: 2022-06-03
+sr-interval: 54
 sr-ease: 230
 ---
 > [!infobox]
