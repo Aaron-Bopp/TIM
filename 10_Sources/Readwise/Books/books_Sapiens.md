@@ -1915,3 +1915,739 @@ A small, insignificant mountain town called Numantia, inhabited by the peninsula
 
 ^308153777
 
+# New highlights added April 10, 2022 at 8:03 AM
+##### ^308475511
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2942  
+
+###### ^308475511q
+
+An empire need not emerge from military conquest. The Athenian Empire began its life as a voluntary league, and the Habsburg Empire was born in wedlock, cobbled together by a string of shrewd marriage alliances. Nor must an empire be ruled by an autocratic emperor. The British Empire, the largest empire in history, was ruled by a democracy. 
+
+^308475511
+
+##### ^308475512
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2949  
+
+###### ^308475512q
+
+the Aztec Empire, if we can trust its taxation records, ruled 371 different tribes and peoples. 
+
+^308475512
+
+##### ^308475513
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2987  
+
+###### ^308475513q
+
+When the Romans invaded Scotland in AD 83, they were met by fierce resistance from local Caledonian tribes, and reacted by laying waste to the country. In reply to Roman peace offers, the chieftain Calgacus called the Romans ‘the ruffians of the world’, and said that ‘to plunder, slaughter and robbery they give the lying name of empire; they make a desert and call it peace’. 
+
+^308475513
+
+##### ^308475514
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=2993  
+
+###### ^308475514q
+
+A significant proportion of humanity’s cultural achievements owe their existence to the exploitation of conquered populations. The profits and prosperity brought by Roman imperialism provided Cicero, Seneca and St Augustine with the leisure and wherewithal to think and write; the Taj Mahal could not have been built without the wealth accumulated by Mughal exploitation of their Indian subjects; and the Habsburg Empire’s profits from its rule over its Slavic, Hungarian and Romanian-speaking provinces paid Haydn’s salaries and Mozart’s commissions. 
+
+^308475514
+
+##### ^308475515
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3018  
+
+###### ^308475515q
+
+The kings of Assyria always remained the kings of Assyria. Even when they claimed to rule the entire world, it was obvious that they were doing it for the greater glory of Assyria, and they were not apologetic about it. Cyrus, on the other hand, claimed not merely to rule the whole world, but to do so for the sake of all people. ‘We are conquering you for your own benefit,’ said the Persians. Cyrus wanted the peoples he subjected to love him and to count themselves lucky to be Persian vassals. The most famous example of Cyrus’ innovative efforts to gain the approbation of a nation living under the thumb of his empire was his command that the Jewish exiles in Babylonia be allowed to return to their Judaean homeland and rebuild their temple. He even offered them financial assistance. Cyrus did not see himself as a Persian king ruling over Jews – he was also the king of the Jews, and thus responsible for their welfare. 
+
+^308475515
+
+##### ^308475516
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3029  
+
+###### ^308475516q
+
+In the language of the Dinka people of the Sudan, ‘Dinka’ simply means ‘people’. People who are not Dinka are not people. The Dinka’s bitter enemies are the Nuer. What does the word Nuer mean in Nuer language? It means ‘original people’. Thousands of miles from the Sudan deserts, in the frozen ice-lands of Alaska and north-eastern Siberia, live the Yupiks. What does Yupik mean in Yupik language? It means ‘real people’. 
+
+^308475516
+
+##### ^308475517
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3041  
+
+###### ^308475517q
+
+According to traditional Chinese political theory, Heaven (Tian) is the source of all legitimate authority on earth. Heaven chooses the most worthy person or family and gives them the Mandate of Heaven. This person or family then rules over All Under Heaven (Tianxia) for the benefit of all its inhabitants. Thus, a legitimate authority is – by definition – universal. 
+
+^308475517
+
+##### ^308475518
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3051  
+
+###### ^308475518q
+
+In contradiction to the modern Western view that a just world is composed of separate nation states, in China periods of political fragmentation were seen as dark ages of chaos and injustice. 
+
+^308475518
+
+##### ^308475519
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3060  
+
+###### ^308475519q
+
+empires have justified their actions – whether road-building or bloodshed – as necessary to spread a superior culture from which the conquered benefit even more than the conquerors. 
+
+^308475519
+
+##### ^308475520
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3065  
+
+###### ^308475520q
+
+The Mandate of Heaven was bestowed upon the emperor not in order to exploit the world, but in order to educate humanity. The Romans, too, justified their dominion by arguing that they were endowing the barbarians with peace, justice and refinement. 
+
+^308475520
+
+##### ^308475521
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3112  
+
+###### ^308475521q
+
+The empire’s new citizens adopted Roman imperial culture with such zest that, for centuries and even millennia after the empire itself collapsed, they continued to speak the empire’s language, to live by the empire’s laws and to believe in the Christian God that the empire had adopted from one of its Levantine provinces. 
+
+^308475521
+
+##### ^308475522
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3126  
+
+###### ^308475522q
+
+The ultimate achievement of the Chinese Empire is that it is still alive and kicking, yet it is hard to see it as an empire except in outlying areas such as Tibet and Xinjiang. More than 90 per cent of the population of China are seen by themselves and by others as Han. 
+
+^308475522
+
+##### ^308475523
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3132  
+
+When a successful empire falls in name it doesnt truly fall, as its culture lives on in the people who are now "free" but choose to continue the culture of the empire  
+
+###### ^308475523q
+
+The Imperial Cycle 
+
+^308475523
+
+##### ^308475524
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3146  
+
+###### ^308475524q
+
+All human cultures are at least in part the legacy of empires and imperial civilisations, and no academic or political surgery can cut out the imperial legacies without killing the patient. 
+
+^308475524
+
+##### ^308475525
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3150  
+
+###### ^308475525q
+
+many Indians adopted, with the zest of converts, Western ideas such as self-determination and human rights, and were dismayed when the British refused to live up to their own declared values by granting native Indians either equal rights as British subjects or independence. 
+
+^308475525
+
+### 12
+#### The Law of Religion
+##### ^308475527
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3215  
+
+###### ^308475527q
+
+Since all social orders and hierarchies are imagined, they are all fragile, and the larger the society, the more fragile it is. The crucial historical role of religion has been to give superhuman legitimacy to these fragile structures. 
+
+^308475527
+
+##### ^308475624
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3219  
+
+###### ^308475624q
+
+Religion can thus be defined as a system of human norms and values that is founded on a belief in a superhuman order. This involves two distinct criteria: 1. Religion is an entire system of norms and values, rather than an isolated custom or belief. Knocking on wood for good luck isn’t a religion. Even a belief in reincarnation does not constitute a religion, as long as it does not validate certain behavioral standards. 2. To be considered a religion, the system of norms and values must claim to be based on superhuman laws rather than on human decisions. ... a religion must possess two further qualities. First, it must espouse a universal superhuman order that is true always and everywhere. Second, it must insist on spreading this belief to everyone. 
+
+^308475624
+
+##### ^308475530
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3230  
+
+###### ^308475530q
+
+the majority of ancient religions were local and exclusive. Their followers believed in local deities and spirits, and had no interest in converting the entire human race. 
+
+^308475530
+
+##### ^308475531
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3244  
+
+###### ^308475531q
+
+The fact that man hunted sheep did not make sheep inferior to man, just as the fact that tigers hunted man did not make man inferior to tigers. Beings communicated with one another directly and negotiated the rules governing their shared habitat. In contrast, farmers owned and manipulated plants and animals, and could hardly degrade themselves by negotiating with their possessions. 
+
+^308475531
+
+##### ^308475532
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3254  
+
+###### ^308475532q
+
+Much of ancient mythology is in fact a legal contract in which humans promise everlasting devotion to the gods in exchange for mastery over plants and animals 
+
+^308475532
+
+##### ^308475533
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3265  
+
+###### ^308475533q
+
+Animism did not entirely disappear at the advent of polytheism. Demons, fairies, ghosts, holy rocks, holy springs and holy trees remained an integral part of almost all polytheist religions. 
+
+^308475533
+
+##### ^308819695
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3269  
+
+###### ^308819695q
+
+Animists thought that humans were just one of many creatures inhabiting the world. Polytheists, on the other hand, increasingly saw the world as a reflection of the relationship between gods and humans. Our prayers, our sacrifices, our sins and our good deeds determined the fate of the entire ecosystem. 
+
+^308819695
+
+### Polytheism does not necessarily dispute the existence of a single power or law governing the entire universe.
+#### In classical Greek polytheism, Zeus, Hera, Apollo and their colleagues were subject to an omnipotent and all-encompassing power – Fate (Moira, Ananke). Nordic gods, too, were in thrall to fate, which doomed them to perish in the cataclysm of Ragnarök (the Twilight of the Gods). In the polytheistic religion of the Yoruba of West Africa, all gods were born of the supreme god Olodumare, and remained subject to him. In Hindu polytheism, a single principle, Atman, controls the myriad gods and spirits, humankind, and the biological and physical world. Atman is the eternal essence or soul of the entire universe, as well as of every individual and every phenomenon.
+##### ^308819698
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3284  
+
+###### ^308819698q
+
+The fundamental insight of polytheism, which distinguishes it from monotheism, is that the supreme power governing the world is devoid of interests and biases, and therefore it is unconcerned with the mundane desires, cares and worries of humans. 
+
+^308819698
+
+##### ^308819699
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3290  
+
+###### ^308819699q
+
+some Hindus, known as Sadhus or Sannyasis, devote their lives to uniting with Atman, thereby achieving enlightenment. 
+
+^308819699
+
+##### ^308819700
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3294  
+
+###### ^308819700q
+
+Precisely because their powers are partial rather than all-encompassing, gods such as Ganesha, Lakshmi and Saraswati have interests and biases. Humans can therefore make deals with these partial powers and rely on their help in order to win wars and recuperate from illness. 
+
+^308819700
+
+##### ^308819701
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3298  
+
+###### ^308819701q
+
+Since polytheists believe, on the one hand, in one supreme and completely disinterested power, and on the other hand in many partial and biased powers, there is no difficulty for the devotees of one god to accept the existence and efficacy of other gods. Polytheism is inherently open-minded, and rarely persecutes ‘heretics’ and ‘infidels’. 
+
+^308819701
+
+##### ^308819702
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3308  
+
+###### ^308819702q
+
+The Roman Empire did not require the Christians to give up their beliefs and rituals, but it did expect them to pay respect to the empire’s protector gods and to the divinity of the emperor. This was seen as a declaration of political loyalty. 
+
+^308819702
+
+##### ^308819747
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3311  
+
+###### ^308819747q
+
+In the 300 years from the crucifixion of Christ to the conversion of Emperor Constantine, polytheistic Roman emperors initiated no more than four general persecutions of Christians. ... in these three centuries, the polytheistic Romans killed no more than a few thousand Christians. 
+
+^308819747
+
+##### ^308819705
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3324  
+
+###### ^308819705q
+
+On 23 August 1572, French Catholics who stressed the importance of good deeds attacked communities of French Protestants who highlighted God’s love for humankind. In this attack, the St Bartholomew’s Day Massacre, between 5,000 and 10,000 Protestants were slaughtered in less than twenty-four hours. When the pope in Rome heard the news from France, he was so overcome by joy that he organised festive prayers to celebrate the occasion and commissioned Giorgio Vasari to decorate one of the Vatican’s rooms with a fresco of the massacre 
+
+^308819705
+
+##### ^308819706
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3340  
+
+###### ^308819706q
+
+Judaism, for example, argued that the supreme power of the universe has interests and biases, yet His chief interest is in the tiny Jewish nation and in the obscure land of Israel. 
+
+^308819706
+
+##### ^308819707
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3361  
+
+###### ^308819707q
+
+Today most people outside East Asia adhere to one monotheist religion or another, and the global political order is built on monotheistic foundations. 
+
+^308819707
+
+##### ^308819708
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3363  
+
+###### ^308819708q
+
+In theory, once a person believes that the supreme power of the universe has interests and biases, what’s the point in worshipping partial powers? Who would want to approach a lowly bureaucrat when the president’s office is open to you? 
+
+^308819708
+
+##### ^308819709
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3378  
+
+###### ^308819709q
+
+The Christian saints did not merely resemble the old polytheistic gods. Often they were these very same gods in disguise. For example, the chief goddess of Celtic Ireland prior to the coming of Christianity was Brigid. When Ireland was Christianised, Brigid too was baptised. She became St Brigit, who to this day is the most revered saint in Catholic Ireland. 
+
+^308819709
+
+##### ^308819710
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3382  
+
+###### ^308819710q
+
+Dualistic religions espouse the existence of two opposing powers: good and evil. 
+
+^308819710
+
+##### ^308819711
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3383  
+
+###### ^308819711q
+
+Unlike monotheism, dualism believes that evil is an independent power, neither created by the good God, nor subordinate to it. Dualism explains that the entire universe is a battleground between these two forces, and that everything that happens in the world is part of the struggle. 
+
+^308819711
+
+##### ^308819712
+
+highlight_tags:: [[qa]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3386  
+
+What is the problem of evil?  
+
+###### ^308819712q
+
+‘Why is there evil in the world? Why is there suffering? Why do bad things happen to good people?’ Monotheists 
+
+^308819712
+
+##### ^308819713
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3394  
+
+###### ^308819713q
+
+For dualists, it’s easy to explain evil. Bad things happen even to good people because the world is not governed single-handedly by a good God. There is an independent evil power loose in the world. The evil power does bad things. 
+
+^308819713
+
+##### ^308819714
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3396  
+
+###### ^308819714q
+
+Dualism has its own drawbacks. While solving the Problem of Evil, it is unnerved by the Problem of Order. If the world was created by a single God, it’s clear why it is such an orderly place, where everything obeys the same laws. But if Good and Evil battle for control of the world, who enforces the laws governing this cosmic war? 
+
+^308819714
+
+##### ^308819715
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3400  
+
+###### ^308819715q
+
+monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He’s evil. But nobody in history has had the stomach for such a belief. 
+
+^308819715
+
+##### ^308819716
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3405  
+
+###### ^308819716q
+
+Zoroastrians saw the world as a cosmic battle between the good god Ahura Mazda and the evil god Angra Mainyu. Humans had to help the good god in this battle. Zoroastrianism was an important religion during the Achaemenid Persian Empire (550–330 BC) and later became the official religion of the Sassanid Persian Empire (AD 224–651). 
+
+^308819716
+
+##### ^308819717
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3413  
+
+###### ^308819717q
+
+Nevertheless, the rising tide of monotheism did not really wipe out dualism. Jewish, Christian and Muslim monotheism absorbed numerous dualist beliefs and practices, and some of the most basic ideas of what we call ‘monotheism’ are, in fact, dualist in origin and spirit. 
+
+^308819717
+
+##### ^308819718
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3418  
+
+###### ^308819718q
+
+humans have a wonderful capacity to believe in contradictions. 
+
+^308819718
+
+##### ^308819719
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3421  
+
+###### ^308819719q
+
+Another key dualistic concept, particularly in Gnosticism and Manichaeanism, was the sharp distinction between body and soul, between matter and spirit. Gnostics and Manichaeans argued that the good god created the spirit and the soul, whereas matter and bodies are the creation of the evil god. Man, according to this view, serves as a battleground between the good soul and the evil body. 
+
+^308819719
+
+##### ^308819720
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3427  
+
+###### ^308819720q
+
+Belief in heaven (the realm of the good god) and hell (the realm of the evil god) was also dualist in origin. 
+
+^308819720
+
+##### ^308819721
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3430  
+
+###### ^308819721q
+
+The average Christian believes in the monotheist God, but also in the dualist Devil, in polytheist saints, and in animist ghosts. 
+
+^308819721
+
+##### ^308819722
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3433  
+
+###### ^308819722q
+
+Syncretism might, in fact, be the single great world religion. 
+
+^308819722
+
+##### ^308819723
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3436  
+
+###### ^308819723q
+
+During the first millennium BC, religions of an altogether new kind began to spread through Afro-Asia. The newcomers, such as Jainism and Buddhism in India, Daoism and Confucianism in China, and Stoicism, Cynicism and Epicureanism in the Mediterranean basin, were characterised by their disregard of gods. 
+
+^308819723
+
+##### ^308819724
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3440  
+
+###### ^308819724q
+
+Some of these natural-law religions continued to espouse the existence of gods, but their gods were subject to the laws of nature no less than humans, animals and plants were. 
+
+^308819724
+
+##### ^308819748
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3443  
+
+###### ^308819748q
+
+The central figure of Buddhism is not a god but a human being, Siddhartha Gautama. ... Gautama’s insight was that no matter what the mind experiences, it usually reacts with craving, and craving always involves dissatisfaction. When the mind experiences something distasteful it craves to be rid of the irritation. When the mind experiences something pleasant, it craves that the pleasure will remain and will intensify. Therefore, the mind is always dissatisfied and restless. 
+
+^308819748
+
+##### ^308819727
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3469  
+
+###### ^308819727q
+
+If, when the mind experiences something pleasant or unpleasant, it simply understands things as they are, then there is no suffering. If you experience sadness without craving that the sadness go away, you continue to feel sadness but you do not suffer from it. There can actually be richness in the sadness. If you experience joy without craving that the joy linger and intensify, you continue to feel joy without losing your peace of mind. 
+
+^308819727
+
+##### ^308819728
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3478  
+
+###### ^308819728q
+
+state of perfect contentment and serenity, known as nirvana (the literal meaning of which is ‘extinguishing the fire’). 
+
+^308819728
+
+##### ^308819729
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3482  
+
+###### ^308819729q
+
+Gautama himself attained nirvana and was fully liberated from suffering. Henceforth he was known as ‘Buddha’, which means ‘The Enlightened One’. 
+
+^308819729
+
+##### ^308819730
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3483  
+
+###### ^308819730q
+
+Buddha spent the rest of his life explaining his discoveries to others so that everyone could be freed from suffering. He encapsulated his teachings in a single law: suffering arises from craving; the only way to be fully liberated from suffering is to be fully liberated from craving; and the only way to be liberated from craving is to train the mind to experience reality as it is. This law, known as dharma or dhamma, is seen by Buddhists as a universal law of nature. 
+
+^308819730
+
+##### ^308819731
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3489  
+
+###### ^308819731q
+
+The first principle of monotheist religions is ‘God exists. What does He want from me?’ The first principle of Buddhism is ‘Suffering exists. How do I escape it?’ 
+
+^308819731
+
+##### ^308819732
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3490  
+
+###### ^308819732q
+
+Buddhism does not deny the existence of gods – they are described as powerful beings who can bring rains and victories – but they have no influence on the law that suffering arises from craving. If the mind of a person is free of all craving, no god can make him miserable. Conversely, once craving arises in a person’s mind, all the gods in the universe cannot save him from suffering. 
+
+^308819732
+
+##### ^308819733
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3495  
+
+###### ^308819733q
+
+99 per cent of Buddhists did not attain nirvana, and even if they hoped to do so in some future lifetime, they devoted most of their present lives to the pursuit of mundane achievements. So they continued to worship various gods, such as the Hindu gods in India, the Bon gods in Tibet, and the Shinto gods in Japan. 
+
+^308819733
+
+##### ^308819734
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3507  
+
+###### ^308819734q
+
+the rise of a number of new natural-law religions, such as liberalism, Communism, capitalism, nationalism and Nazism. 
+
+^308819734
+
+##### ^308819735
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3512  
+
+###### ^308819735q
+
+Whereas Buddhists believe that the law of nature was discovered by Siddhartha Gautama, Communists believed that the law of nature was discovered by Karl Marx, Friedrich Engels and Vladimir Ilyich Lenin. 
+
+^308819735
+
+##### ^308819736
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3523  
+
+###### ^308819736q
+
+Note the difference between ‘superhuman’ and ‘supernatural’. The Buddhist law of nature and the Marxist laws of history are superhuman, since they were not legislated by humans. Yet they are not supernatural.) 
+
+^308819736
+
+##### ^308819737
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3538  
+
+###### ^308819737q
+
+Theist religions sanctify the gods. Humanist religions sanctify humanity, 
+
+^308819737
+
+##### ^308819738
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3544  
+
+###### ^308819738q
+
+Today, the most important humanist sect is liberal humanism, which believes that ‘humanity’ is a quality of individual humans, and that the liberty of individuals is therefore sacrosanct. 
+
+^308819738
+
+##### ^308819739
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3551  
+
+###### ^308819739q
+
+Attending gruesome executions was a favourite pastime for Londoners and Parisians in the era of Shakespeare and Molière. In today’s Europe, murder is seen as a violation of the sacred nature of humanity. 
+
+^308819739
+
+##### ^308819740
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3558  
+
+###### ^308819740q
+
+Without recourse to eternal souls and a Creator God, it becomes embarrassingly difficult for liberals to explain what is so special about individual Sapiens. 
+
+^308819740
+
+##### ^308819741
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3559  
+
+###### ^308819741q
+
+socialist humanism. Socialists believe that ‘humanity’ is collective rather than individualistic. 
+
+^308819741
+
+##### ^308819742
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3565  
+
+###### ^308819742q
+
+The idea that all humans are equal is a revamped version of the monotheist conviction that all souls are equal before God. 
+
+^308819742
+
+##### ^308819749
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3566  
+
+###### ^308819749q
+
+The only humanist sect that has actually broken loose from traditional monotheism is evolutionary humanism, whose most famous representatives were the Nazis. ... In contrast to other humanists, the Nazis believed that humankind is not something universal and eternal, but rather a mutable species that can evolve or degenerate. Man can evolve into superman, or degenerate into a subhuman. 
+
+^308819749
+
+### 13 The Secret of Success

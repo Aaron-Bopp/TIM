@@ -31,9 +31,7 @@ I think we can see this in how [[Buddhism]] was spread vs other [[religion|relig
 ^[[[The materialistic view of religions examines why humans invented and clung to religion]]]
 
 
-> ![[tweets_Clarifying It Seems Lik...#^247463812]]
-
-> ![[books_Darwin's Cathedral#^288175132]]
+part of:: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 
 
 - explains:: [[Happiness is enlightenment and sadness is delusion]]
@@ -46,3 +44,19 @@ I think we can see this in how [[Buddhism]] was spread vs other [[religion|relig
 
 **Topics**:: [[Buddhism]], [[happiness]], [[emotional detachment]], [[spirituality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[Sapiens by Yuval Noah Harari#citation]]
+
+
+> ![[books_Sapiens#^308819748]]
+
+> ![[books_Sapiens#^308819727]]
+
+
+
+
+> ![[tweets_Clarifying It Seems Lik...#^247463812]]
+
+> ![[books_Darwin's Cathedral#^288175132]]

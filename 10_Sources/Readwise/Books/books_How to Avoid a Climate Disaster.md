@@ -505,3 +505,413 @@ HOW WE KEEP COOL AND STAY WARM 7 percent of 51 billion tons a year
 
 ^308344256
 
+# New highlights added April 10, 2022 at 8:03 AM
+##### ^308667891
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1662  
+
+###### ^308667891q
+
+electrification, which is the technique of using electricity instead of fossil fuels for some industrial processes. 
+
+^308667891
+
+##### ^308667892
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1675  
+
+###### ^308667892q
+
+In effect, we’d find a way to take carbon out of the air (using plants or some other method) and put it into a bottle or other plastic product, where it would stay for decades or centuries, with no additional emissions. 
+
+^308667892
+
+##### ^308667893
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1704  
+
+###### ^308667893q
+
+With agriculture, the main culprit isn’t carbon dioxide but methane—which causes 28 times more warming per molecule than carbon dioxide over the course of a century—and nitrous oxide, which causes 265 times more warming. All told, each year’s emissions of methane and nitrous oxide are the equivalent of more than 7 billion tons of carbon dioxide, or more than 80 percent of all the greenhouse gases in this ag/forestry/land use sector. 
+
+^308667893
+
+##### ^308667894
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1735  
+
+###### ^308667894q
+
+As Borlaug’s semi-dwarf wheat spread around the world, and as other breeders did similar work on corn and rice, yields tripled in most areas. Starvation plummeted, and today Borlaug is widely credited with saving a billion lives. 
+
+^308667894
+
+##### ^308667895
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1749  
+
+###### ^308667895q
+
+We need to produce much more food than we do today, but if we keep producing it with the same methods we use now, it will be a disaster for the climate. Assuming we don’t make any improvements in the amount of food we get per acre of pasture or cropland, growing enough to feed 10 billion people will drive up food-related emissions by two-thirds. 
+
+^308667895
+
+##### ^308667896
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1768  
+
+###### ^308667896q
+
+enteric fermentation, bacteria inside the cow’s stomach break down the cellulose in the plant, fermenting it and producing methane as a result. The cow belches away most of the methane, though a little comes out the other end 
+
+^308667896
+
+##### ^308667897
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1777  
+
+###### ^308667897q
+
+When poop decomposes, it releases a mix of powerful greenhouse gases—mostly nitrous oxide, plus some methane, sulfur, and ammonia. About half of poop-related emissions come from pig manure, and the rest from cow manure. There’s so much animal poop that it’s actually the second-biggest cause of emissions in agriculture, behind enteric fermentation. 
+
+^308667897
+
+##### ^308667898
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1789  
+
+###### ^308667898q
+
+better veterinary care and higher-quality feed, which means it’ll produce less methane. 
+
+^308667898
+
+##### ^308667899
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1791  
+
+###### ^308667899q
+
+The same is true for handling manure; rich-world farmers have access to various techniques that get rid of the manure while producing fewer emissions. As these techniques become more affordable, they’ll spread to poor farmers, and we’ll improve our odds of driving emissions down. 
+
+^308667899
+
+##### ^308667900
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1865  
+
+###### ^308667900q
+
+For millennia, humans fed their crops extra nitrogen by applying natural fertilizers like manure and bat guano. The big breakthrough came in 1908, when two German chemists named Fritz Haber and Carl Bosch figured out how to make ammonia from nitrogen and hydrogen in a factory. 
+
+^308667900
+
+##### ^308667901
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1881  
+
+###### ^308667901q
+
+fertilizers were responsible for roughly 1.3 billion tons of greenhouse gas emissions in 2010, 
+
+^308667901
+
+##### ^308667902
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1884  
+
+###### ^308667902q
+
+we could get rid of the emissions involved in making fertilizer by using clean electricity instead of fossil fuels to synthesize ammonia, but that’s an expensive process that would raise the price of fertilizer considerably. In the United States, for example, using this process to make the nitrogen-based fertilizer urea would raise its cost by more than 20 percent. 
+
+^308667902
+
+##### ^308667903
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1897  
+
+###### ^308667903q
+
+one company has developed genetically modified microbes that fix nitrogen; in effect, instead of adding nitrogen via fertilizer, you add bacteria to the soil that always produce nitrogen even when it’s already present. 
+
+^308667903
+
+##### ^308667904
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1938  
+
+###### ^308667904q
+
+On balance, trees in snowy areas cause more warming than cooling, because they’re darker than the snow and ice beneath them and dark things absorb more heat than light things do. On the other hand, trees in tropical forests cause more cooling than warming, because they release a lot of moisture, which becomes clouds, which reflect sunlight. Trees in the midlatitudes—between the tropics and the polar circles—are more or less a wash. 
+
+^308667904
+
+##### ^308667905
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=1990  
+
+###### ^308667905q
+
+Although transportation isn’t the biggest cause of emissions worldwide, it is number one in the United States, 
+
+^308667905
+
+##### ^308667906
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2083  
+
+###### ^308667906q
+
+Corn-based ethanol isn’t zero carbon, and depending on how it’s made, it may not even be low carbon. 
+
+^308667906
+
+##### ^308667907
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2139  
+
+###### ^308667907q
+
+Medium-duty vehicles, like garbage trucks and city buses, are generally lightweight enough that electricity is a viable option for them. They also have the advantage of running relatively short routes and parking in the same place every night, so it’s easy to set up charging stations for them. 
+
+^308667907
+
+##### ^308667908
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2151  
+
+###### ^308667908q
+
+According to a 2017 study by two mechanical engineers at Carnegie Mellon University, an electric cargo truck capable of going 600 miles on a single charge would need so many batteries that it would have to carry 25 percent less cargo. And a truck with a 900-mile range is out of the question: It would need so many batteries that it could hardly carry any cargo at all. 
+
+^308667908
+
+##### ^308667909
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2154  
+
+###### ^308667909q
+
+a typical truck running on diesel can go more than 1,000 miles without refueling. 
+
+^308667909
+
+##### ^308667910
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2300  
+
+###### ^308667910q
+
+We should also be exploring nuclear-powered container ships. The risks here are real (for example, you have to make sure the nuclear fuel doesn’t get released if the ship sinks), but many of the technical challenges have already been solved. After all, military submarines and aircraft carriers run on nuclear power already. 
+
+^308667910
+
+##### ^308667911
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2351  
+
+###### ^308667911q
+
+although A/C units demand the most electricity, they’re not the largest consumers of energy in American homes and businesses. That honor goes to our furnaces and water heaters. 
+
+^308667911
+
+##### ^308667912
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2385  
+
+###### ^308667912q
+
+their demand for electricity isn’t the only thing that makes air conditioners a problem. They also contain refrigerants—known as F-gases, because they contain fluorine—that leak out little by little over time when the unit ages and breaks down, as you’ve no doubt noticed if you’ve ever had to replace the coolant in your car’s air conditioner. F-gases are extremely powerful contributors to climate change: Over the course of a century, they cause thousands of times more warming than an equivalent amount of carbon dioxide. If you don’t hear much about them, it’s because they’re not a huge percentage of greenhouse gases; in the United States, they represent about 3 percent of emissions. 
+
+^308667912
+
+##### ^308667913
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2401  
+
+###### ^308667913q
+
+furnaces and water heaters account for a third of all emissions that come from the world’s buildings. 
+
+^308667913
+
+##### ^308667914
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2415  
+
+###### ^308667914q
+
+You already have a heat pump in your home, and it’s probably operating right now. It’s called a refrigerator. The warm air that you feel blowing from the bottom of your fridge is what carries the heat away from your food and keeps it cool. 
+
+^308667914
+
+##### ^308667915
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2508  
+
+###### ^308667915q
+
+smart glass, which automatically turns darker when the room needs to be cooler and lighter when it needs to be warmer. 
+
+^308667915
+
+### CHAPTER 9 ADAPTING TO A WARMER WORLD
+##### ^308667917
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2604  
+
+###### ^308667917q
+
+The best way we can help the poor adapt to climate change is to make sure they’re healthy enough to survive it. And to thrive despite it.” 
+
+^308667917
+
+##### ^308667918
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2637  
+
+###### ^308667918q
+
+CGIAR isn’t just focused on new seeds. Its scientists have also created a smartphone app that allows farmers to use the camera on their phones to identify specific pests and diseases attacking cassava, an important cash crop in Africa. It’s also created programs for using drones and ground sensors to help farmers determine how much water and fertilizer their crops need. 
+
+^308667918
+
+##### ^308667919
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2644  
+
+###### ^308667919q
+
+Every dollar invested in CGIAR’s research generates about $6 in benefits. 
+
+^308667919
+
+##### ^308667920
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2688  
+
+###### ^308667920q
+
+Today, many city leaders in the developing world don’t have even basic maps to indicate which areas of town are most prone to floods.) 
+
+^308667920
+
+##### ^308667921
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2699  
+
+###### ^308667921q
+
+We should shore up our natural defenses. Forests store and regulate water. Wetlands prevent floods and provide water for farmers and cities. Coral reefs are home to the fish that coastal communities depend on for food. But these and other natural defenses against climate change are rapidly disappearing. 
+
+^308667921
+
+##### ^308667922
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2703  
+
+###### ^308667922q
+
+the world’s largest cities could save $890 million a year by restoring forests and watersheds. 
+
+^308667922
+
+##### ^308667923
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2721  
+
+###### ^308667923q
+
+With enough cheap, clean energy, we can make all the potable water we’ll ever need.) 
+
+^308667923
+
+##### ^308667924
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2741  
+
+###### ^308667924q
+
+There’s no way to put a price tag on everything the world needs to do to adapt to climate change. But the commission I’m involved with priced out spending in five key areas (creating early-warning systems, building climate-resilient infrastructure, raising crop yields, managing water, and protecting mangroves) and found that investing $1.8 trillion between 2020 and 2030 would return more than $7 trillion in benefits. 
+
+^308667924
+
+##### ^308667925
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2765  
+
+###### ^308667925q
+
+Most approaches to geoengineering are based on the idea that to compensate for all the warming caused by greenhouse gases we’ve added to the atmosphere, we need to reduce the amount of sunlight hitting the earth by around 1 percent. 
+
+^308667925
+
+### CHAPTER 10 WHY GOVERNMENT POLICIES MATTER
+##### ^308667927
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2855  
+
+###### ^308667927q
+
+National leaders around the world will need to articulate a vision for how the global economy will make the transition to zero carbon. That vision can, in turn, guide the actions of people and businesses around the world. 
+
+^308667927
+
+##### ^308667928
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3045  
+
+###### ^308667928q
+
+Science tells us that in order to avoid a climate catastrophe, rich countries should reach net-zero emissions by 2050. 
+
+^308667928
+
+##### ^308667929
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3049  
+
+###### ^308667929q
+
+What we can do—and need to do—in the next 10 years is adopt the policies that will put us on a path to deep decarbonization by 2050. 
+
+^308667929
+

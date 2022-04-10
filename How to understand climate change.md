@@ -18,7 +18,7 @@ tags: created/2022/04/08, review, node/evergreen/question
 
 ##### Understand misinformation around climate change
 
-Climate predictions have usually been accurate, and when they haven't bee it is because there have been outside factors
+Climate predictions have usually been accurate, and when they haven't bee it is because there have been outside    
 
 > [!cite]- [[video_Why have climate change predictions been so WRONG]]
 >

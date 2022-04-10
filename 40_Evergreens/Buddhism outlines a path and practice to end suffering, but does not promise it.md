@@ -41,5 +41,11 @@ These are similar to the [[Yama]] of [[Raja Yoga]]
 **Topics**:: [[Buddhism]], [[religion]], [[social justice]], [[progress]], [[human advancement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: ![[articleAn Introduction to Bhuddism#path]]
-[^2]: [[ADHD is not a lack of attention it is a misplacement of attention#^9fc829]]
+[[articleAn Introduction to Bhuddism#path]]
+
+
+> ![[books_Sapiens#^308819730]]
+> ![[books_Sapiens#^308819732]]
+
+> ![[books_Sapiens#^308819733]]
+

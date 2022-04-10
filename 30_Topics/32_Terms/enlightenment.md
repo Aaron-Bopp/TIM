@@ -27,3 +27,9 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
+
+
+
+> ![[books_Sapiens#^308819728]]
+
+> ![[books_Sapiens#^308819729]]

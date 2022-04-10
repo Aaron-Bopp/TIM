@@ -16,12 +16,18 @@ sr-ease: 268
 
 What are your answers?
 
+Said another way:
+1. [[What is the origin of life]]?
+2. [[What happens after we die]]?
+3. [[What is the meaning of life]]
+
 Related:
 - [[Purpose is derived from within, duty is derived from without]]
 - [[Be the change you want to see in the world]]
 - [[Growing up is being able to articulate the hope more than the hopelessness]]
 
 ### <hr class="footnote"/>
+
 **Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
