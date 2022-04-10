@@ -41,3 +41,6 @@ Even if you are [[suffering]], [[hope]] is the only path forward:
 > "Kaba states, “I always tell people, for me, [[hope]] doesn’t preclude feeling sadness or frustration or anger or any other emotion that makes total sense. Hope isn’t an emotion, you know? Hope is not optimism” 
 >
 > [[articles_Summary, part 1 & 2 We Do This 'Til We Free Us Study Guide — Radical in Progress#^nhhdke | radicalinprogress.org]]
+
+
+> ![[tweets_It’s Hard to Explain Jus...#^269132050]]

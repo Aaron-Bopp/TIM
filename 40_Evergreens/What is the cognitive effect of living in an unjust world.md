@@ -13,7 +13,12 @@ sr-ease: 177
 
 #### [[What is the cognitive effect of living in an unjust world]] 
 
+> ![[books_The Anthropocene Reviewed#^288175131]]
+> 
+> <cite>[[John Green]] talking about his last night as a hospital chaplain.</cite>
+
 > ![[books_The Dawn of Everything#261572339q]]
+
 %% #TO/DO/FIND story, Need to establish that the world is unjust%%
 
 %%There is more that one answer, how should they be represented? #TO/PONDER/ME %%

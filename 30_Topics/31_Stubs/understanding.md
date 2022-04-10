@@ -10,6 +10,8 @@ tags: created/2022/01/02, node/topic/outline
 
 #### <s class="topic-title">[[understanding]]</s>
 
+> ![[books_The Fabric of Reality#^287471883]]
+
 > [!wikipedia] [understanding](https://en.wikipedia.org/wiki/Understanding)
 > 
 > Understanding is a psychological process related to an abstract or physical object, such as a person, situation, or message whereby one is able to use concepts to model that object.

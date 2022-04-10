@@ -50,3 +50,6 @@ because [[Communities are knowledge graphs]].
 
 **Topics**:: [[evergreen notes]], [[second brain]], [[My TIM]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+
+> ![[articles_Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
