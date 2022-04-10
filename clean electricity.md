@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, node/topic/term
-sr-due: 2022-04-08
-sr-interval: 2
+sr-due: 2022-04-17
+sr-interval: 7
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,8 +14,6 @@ sr-ease: 231
 
 Similarly:: [[renewable energy]],
 usually used in associated with [[climate change]] as a distinction of producing [[electricity]] without emitting [[greenhouse gases]] (usually by reducing use of [[fossil fuels]]).
-
-
 
 ##### ^dataviews
 

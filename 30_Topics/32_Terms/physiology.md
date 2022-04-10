@@ -3,8 +3,8 @@ created: 2022-01-06T00:21:19
 aliases:
   - physiological
 tags: created/2022/01/06, node/topic/term
-sr-due: 2022-04-08
-sr-interval: 12
+sr-due: 2022-05-17
+sr-interval: 37
 sr-ease: 276
 ---
 > [!infobox]

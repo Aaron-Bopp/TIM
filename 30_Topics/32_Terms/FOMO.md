@@ -4,8 +4,8 @@ aliases:
   - Fear Of Missing Out
   - Fear Of Missing Out (FOMO)
 tags: created/2022/03/29, node/topic/term
-sr-due: 2022-04-08
-sr-interval: 7
+sr-due: 2022-04-30
+sr-interval: 20
 sr-ease: 231
 ---
 > [!infobox]

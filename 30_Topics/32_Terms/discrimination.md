@@ -1,8 +1,8 @@
 ---
 created: 2021-10-17
 tags: created/2021/10/17, node/topic/term
-sr-due: 2022-04-09
-sr-interval: 2
+sr-due: 2022-04-15
+sr-interval: 5
 sr-ease: 241
 ---
 > [!infobox]

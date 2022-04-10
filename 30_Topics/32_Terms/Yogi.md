@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - Yogis
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-09
-sr-interval: 2
+sr-due: 2022-04-15
+sr-interval: 5
 sr-ease: 239
 ---
 > [!infobox]

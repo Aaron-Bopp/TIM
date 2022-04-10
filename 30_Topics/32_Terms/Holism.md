@@ -3,8 +3,8 @@ created: 2022-03-13T15:21:35
 aliases:
   - null
 tags: created/2022/03/13, node/topic/term
-sr-due: 2022-04-09
-sr-interval: 2
+sr-due: 2022-04-16
+sr-interval: 6
 sr-ease: 241
 ---
 > [!infobox]
@@ -24,16 +24,3 @@ sr-ease: 241
 > ![[books_Darwin's Cathedral#^297089495]]
 
 > ![[books_Darwin's Cathedral#^297089496]]
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%

@@ -21,10 +21,12 @@ sr-ease: 231
 > Its origins are usually traced to 1738, with various theological streams contributing to its foundation.
 > Preeminently, John Wesley and other early Methodists were at the root of sparking this new movement during the [[First Great Awakening]]. Today, evangelicals are found across many Protestant branches, as well as in various denominations not subsumed to a specific branch.
 > 
-> In 2016, there were an estimated 619 million evangelicals in the world, meaning that one in four Christians would be classified as evangelical. The United States has the largest proportion of evangelicals in the world. American evangelicals are a quarter of that nation's population and its single largest religious group. As a trans-denominational coalition, evangelicals can be found in nearly every Protestant denomination and tradition, particularly within the Reformed ([[Calvinism|Calvinist]]), Baptist, Methodist (Wesleyan-Arminian), Moravian, Mennonite, Pentecostal and charismatic churches.
+> In 2016, there were an estimated 619 million evangelicals in the world, meaning that one in four Christians would be classified as evangelical. The United States has the largest proportion of evangelicals in the world. American evangelicals are a quarter of that nation's population and its single largest religious group. As a trans-denominational coalition, evangelicals can be found in nearly every [[Protestantism|Protestant]] denomination and tradition, particularly within the Reformed ([[Calvinism|Calvinist]]), Baptist, Methodist (Wesleyan-Arminian), Moravian, Mennonite, Pentecostal and [[Charistmaticism|charismatic]] churches.
 >
 
-Because of Evangelicalism's close tie with American charismatic's is often used synonymously with [[Charistmaticism]] in opposition to [[Calvinism]]
+Because of Evangelicalism's close tie with American charismatic's is often used synonymously with [[Charistmaticism]] in opposition to [[Calvinism]].
+
+Evangelicalism has been so successful that it's beliefs have spread into non-protestant denominations such as [[Catholicism]].
 
 ##### ^dataviews
 

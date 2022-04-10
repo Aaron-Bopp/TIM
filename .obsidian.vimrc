@@ -4,8 +4,10 @@ nmap U <C-r>
 nmap Y y$
 
 " Have j and k navigate visual lines rather than logical ones
-nmap J gj
-nmap K gk
+nmap j gj
+nmap k gk
+nmap <C-k> {
+nmap <C-j> }
 " I like using H and L for beginning/end of line
 nmap H ^
 nmap L $
@@ -18,10 +20,10 @@ set clipboard=unnamed
 " Go back and forward with Ctrl+O and Ctrl+I
 " (make sure to remove default Obsidian shortcuts for these to work)
 
-exmap back obcommand app:go-back
-nmap <C-o> :back
-exmap forward obcommand app:go-forward
-nmap <C-i> :forward
+"  exmap back obcommand app:go-back
+"  nmap <C-o> :back
+"  exmap forward obcommand app:go-forward
+"  nmap <C-i> :forward
 
 " Surround text with [[ ]] to make a wikilink
 " NOTE: must use 'map' and not 'nmap'
