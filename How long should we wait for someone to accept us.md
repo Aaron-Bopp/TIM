@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/question
+sr-due: 2022-04-12
+sr-interval: 2
+sr-ease: 239
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,5 +20,5 @@ part of:: [[When should you forgive people who don't deserve it]]
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[self-actualization]], [[forgiveness]], [[acceptance]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
