@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - null
 tags: created/2021/11/09, review, node/evergreen/principle
-sr-due: 2022-04-10
-sr-interval: 3
+sr-due: 2022-04-18
+sr-interval: 8
 sr-ease: 237
 ---
 > [!infobox]

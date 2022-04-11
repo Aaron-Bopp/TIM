@@ -3,8 +3,8 @@ created: 2022-03-21T17:20:42
 aliases:
   - null
 tags: created/2022/03/21, review, node/evergreen/question
-sr-due: 2022-04-09
-sr-interval: 6
+sr-due: 2022-04-25
+sr-interval: 15
 sr-ease: 210
 ---
 > [!infobox]

@@ -3,8 +3,8 @@ created: 2022-03-26T12:53:16
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/claim
-sr-due: 2022-04-09
-sr-interval: 8
+sr-due: 2022-04-29
+sr-interval: 19
 sr-ease: 205
 ---
 > [!infobox]
@@ -23,7 +23,7 @@ or good fortune in battle,
 religion can be seen as a rational attempt to do this.
 This is also unique because it is a explanation of [[religion]] that some believers would agree with.
 While they would usually not say that they only believe for this reward,
-they would definitely cite it as something they are looking forward to or are thankful for.
+they would definitely cite it as source of [[hope]] and thankfulness.
 
 [[Darwin's Cathedral by David Sloan Wilson]] points out that this view of religion is not adaptive, as the reward is never actually delivered because of [[belief]],
 but as a byproduct. While this is a valid explanation, and supported by evidence like [[Belief can motivate adaptation]],

@@ -3,8 +3,8 @@ created: 2022-02-19T08:21:25
 aliases:
   - null
 tags: created/2022/02/19, review, node/evergreen/example/fun
-sr-due: 2022-04-10
-sr-interval: 30
+sr-due: 2022-06-17
+sr-interval: 68
 sr-ease: 230
 ---
 > [!infobox]

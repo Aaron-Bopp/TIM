@@ -3,9 +3,9 @@ created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: created/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-04-10
-sr-interval: 2
-sr-ease: 222
+sr-due: 2022-04-29
+sr-interval: 19
+sr-ease: 242
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

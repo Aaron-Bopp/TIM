@@ -3,8 +3,8 @@ created: 2022-03-19T13:17:23
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/question
-sr-due: 2022-04-10
-sr-interval: 13
+sr-due: 2022-05-10
+sr-interval: 30
 sr-ease: 230
 ---
 > [!infobox]
@@ -15,7 +15,6 @@ sr-ease: 230
 First we have to ask how this
 ties into:: [[What maintains our social order]],
 so that we can understand what causes change and what prevents change.
-
 
 Individual action may be a part of this i.e. [[Be the change you want to see in the world]],
 but [[Greater cooperation and communication has lead to the success of humans as a species]].

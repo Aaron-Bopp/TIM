@@ -3,9 +3,9 @@ created: 2022-02-19T09:44:28
 aliases:
   - null
 tags: created/2022/02/19, review, node/evergreen/technique
-sr-due: 2022-04-09
-sr-interval: 29
-sr-ease: 230
+sr-due: 2022-04-26
+sr-interval: 16
+sr-ease: 210
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

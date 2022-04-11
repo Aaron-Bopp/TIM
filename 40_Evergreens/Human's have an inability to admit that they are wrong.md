@@ -1,8 +1,8 @@
 ---
 created: 2021-06-12
 tags: created/2021/06/12, review, node/evergreen/behavior
-sr-due: 2022-04-10
-sr-interval: 36
+sr-due: 2022-06-08
+sr-interval: 59
 sr-ease: 159
 ---
 > [!infobox]

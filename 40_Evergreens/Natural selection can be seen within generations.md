@@ -3,8 +3,8 @@ created: 2022-03-27T18:16:56
 aliases:
   - null
 tags: created/2022/03/27, review, node/evergreen/claim
-sr-due: 2022-04-09
-sr-interval: 8
+sr-due: 2022-05-03
+sr-interval: 23
 sr-ease: 249
 ---
 > [!infobox]
@@ -12,9 +12,7 @@ sr-ease: 249
 
 #### [[Natural selection can be seen within generations]] 
 
-
 > ![[books_Darwin's Cathedral#^297089502]]
-
 
 ### <hr class="footnote"/>
 

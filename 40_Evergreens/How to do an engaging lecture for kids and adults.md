@@ -3,8 +3,8 @@ created: 2022-03-12T14:46:41
 aliases:
   - null
 tags: created/2022/03/12, review, node/evergreen/technique
-sr-due: 2022-04-10
-sr-interval: 18
+sr-due: 2022-05-22
+sr-interval: 42
 sr-ease: 230
 ---
 > [!infobox]

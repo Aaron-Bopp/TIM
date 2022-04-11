@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/question
-sr-due: 2022-04-10
-sr-interval: 2
+sr-due: 2022-04-16
+sr-interval: 6
 sr-ease: 234
 ---
 > [!infobox]
@@ -17,7 +17,6 @@ There are ways that a [[second brain]] is better than our first brain and worse.
 
 The easiest way that we can surpass the first brain is *permanency.* Data can sit for 20 years on a hard drive and still be accessible, but unlike in our first brain, data will not grow over time:
 [[The fragility of information in knowledge management]]
-
 
 ### <hr class="footnote"/>
 
