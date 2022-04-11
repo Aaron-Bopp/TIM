@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/example/stupid
+sr-due: 2022-04-12
+sr-interval: 2
+sr-ease: 244
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +19,7 @@ example of:: [[Experts are often far too confident in the effectiveness of their
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Thomas Edison]], [[concrete]]

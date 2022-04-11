@@ -3,7 +3,10 @@ created: 2022-04-09T00:04:34
 edited: 
 aliases:
   - null
-tags: created/2022/04/09, review, node/evergreen/example/fun
+tags: created/2022/04/09, review, node/evergreen/distinction
+sr-due: 2022-04-12
+sr-interval: 2
+sr-ease: 243
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
