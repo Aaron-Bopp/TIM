@@ -1,3 +1,5 @@
+[tldraw](https://www.tldraw.com/)
+[An Academic Workflow: Zotero & Obsidian | by Alexandra Phelan | Apr, 2022 | Medium](https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab)
 [[source notes]] are what other people know
 [[topic notes]] are what I know about what other people know
 [[evergreen notes]] are what I know about what I know
