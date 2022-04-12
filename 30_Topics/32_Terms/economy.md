@@ -3,8 +3,8 @@ created: 2021-10-06
 aliases:
   - null
 tags: created/2021/10/06, node/topic/term
-sr-due: 2022-04-11
-sr-interval: 10
+sr-due: 2022-05-07
+sr-interval: 25
 sr-ease: 239
 ---
 > [!infobox]
@@ -20,14 +20,21 @@ sr-ease: 239
 > A [[market-based economy]] is one where goods and services are produced and exchanged according to demand and supply between participants (economic agents) by barter or a medium of exchange with a credit or debit value accepted within the network, such as a unit of currency. A command-based economy is one where political agents directly control what is produced and how it is sold and distributed. A green economy is low-carbon, resource efficient and socially inclusive. In a green economy, growth in income and employment is driven by public and private investments that reduce carbon emissions and pollution, enhance energy and resource efficiency, and prevent the loss of biodiversity and ecosystem services. A gig economy is one in which short-term jobs are assigned or chosen via online platforms. New economy is a term that referred to the whole emerging ecosystem where new standards and practices were introduced, usually as a result of technological innovations. The global economy refers to humanity's economic system or systems overall.
 >
 
-
-**See**:: 
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

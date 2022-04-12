@@ -3,9 +3,9 @@ created: 2022-02-05T05:57:59
 aliases:
   - null
 tags: created/2022/02/05, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 31
-sr-ease: 210
+sr-due: 2022-04-29
+sr-interval: 17
+sr-ease: 190
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -29,11 +29,13 @@ Depending on the complexity of your problem you may also have to consider
 12. Political structure
 13. Economic structure 
 
+%%
 #TO/TEND/PRUNE 
 Obviously this is stretching the definition of [[technology]] in the modern sense, but before the age of the internet and anonymity, dealing with the needs and politics of others was necessary to use powerful technology. 
-In modern [[Software Development]], one of the primary goals of the business is to delegate as many of these possible. Allow their engineers to just write code, their DBA's to just organize data, their IT departments to just manage technology, and their product owners to just communicate business needs. 
-However this has not been the trend in recent years, as the software development [[community]] as a whole has started to prioritize being a "Full-stack developer."
-This trend has come the evolution of agile programming, where quick [[communication]] between these people is used to develop better software faster. 
+%%
+In the early days of [[Software Development]], one of the primary goals of the business is to delegate as many of these possible. Allow their engineers to just write code, their DBA's to just organize data, their IT departments to just manage technology, and their product owners to just communicate business needs. 
+However this has not been the trend in recent years, as the software development [[community]] as a whole has started to prioritize being a "full-stack developer."
+This trend has come with the evolution of agile programming, where quick [[communication]] between these people is used to develop better software faster. 
 %% Do these sentences contradict each other? #TO/TEND/PRUNE%%
 However, as the speed of development has been prioritized, the ability to focus on one part of development has become less desired, as the more specialists you have, the more communication links you have to deal with.
 Instead of delegating the fulfilment of needs, companies have moved to delegating the communication of needs.

@@ -28,8 +28,8 @@ nmap <Space>E Ea
 nmap <Space>b bi
 nmap <Space>B Bi
 
-nmap <Space>w wi
-nmap <Space>W Wi
+nmap <Space>w lwi
+nmap <Space>W lWi
 " Yank to system clipboard
 set clipboard=unnamed
 

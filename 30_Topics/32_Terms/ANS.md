@@ -4,8 +4,8 @@ aliases:
   - Autonomic Nervous System (ANS)
   - Autonomic Nervous System 
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-12
-sr-interval: 9
+sr-due: 2022-05-03
+sr-interval: 21
 sr-ease: 226
 ---
 > [!infobox]

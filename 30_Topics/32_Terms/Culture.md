@@ -3,8 +3,8 @@ created: 2022-03-28T18:24:07
 aliases:
   - null
 tags: created/2022/03/28, node/topic/term
-sr-due: 2022-04-12
-sr-interval: 11
+sr-due: 2022-06-12
+sr-interval: 61
 sr-ease: 231
 ---
 > [!infobox]
@@ -18,8 +18,6 @@ Culture is a much debated term and it's definition often depends on the perspect
 > ![[books_Behave#^304866734]]
 
 > ![[books_Behave#^304866745]]
-
-
 
 [[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]] and our shared [[understanding]].
 
@@ -38,7 +36,6 @@ If we have these two things with someone, then we share a culture.
 > 
 > Thus in military culture, valor is counted a typical behavior for an individual and duty, honor, and loyalty to the social group are counted as virtues or functional responses in the continuum of conflict. In the practice of religion, analogous attributes can be identified in a social group.
 >
-
 
 ##### ^dataviews
 

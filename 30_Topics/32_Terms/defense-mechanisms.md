@@ -4,14 +4,13 @@ edited:
 aliases:
   - defense-mechanism
 tags: created/2022/04/05, node/topic/term
-sr-due: 2022-04-11
-sr-interval: 6
+sr-due: 2022-04-29
+sr-interval: 17
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[defense-mechanisms]]</s>
-
 
 > [!wikipedia] [Defense mechanism](https://en.wikipedia.org/wiki/Defense%20mechanism)
 > 
@@ -27,8 +26,6 @@ sr-ease: 231
 > 
 > 
 >
-
-
 
 ##### ^dataviews
 

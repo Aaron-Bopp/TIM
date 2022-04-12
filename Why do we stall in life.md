@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
-sr-ease: 223
+sr-due: 2022-04-27
+sr-interval: 15
+sr-ease: 243
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,6 +19,12 @@ part of:: [[How to pursue the positive things in life]]
 ^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
 >
 > <cite>[[Dr. K]]</cite> 
+
+> [!note]
+> This is a questions we can ask ourselves and others.
+> For ourselves it is important to acknowledge [[Sometimes we can't grow until we change our environment]] and for others [[You can't blame people for failing to rise above their circumstances]].
+
+It often feels like we are stalled because we haven't found the right answer yet.
 
 Statistically it seems likely that
 [[The most reliable path to success is repeatedly trying to succeed]]
@@ -37,10 +43,13 @@ Maybe the solution is to give up on [[optimism]] and rely on [[hope]]. [[Hope is
 
 Perhaps there is nothing that you can do because [[We are confined to the tools of our time]].
 In this case wait and hope for the epiphany that [[Happiness is enlightenment and sadness is delusion]] 
-and that they need to [[Be the change you want to see in the world]].`
+and that they need to [[Be the change you want to see in the world]].
+
+In the end:: [[Do what you can for who you can]] including yourself
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[self-improvement]]

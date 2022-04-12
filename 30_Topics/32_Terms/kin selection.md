@@ -3,8 +3,8 @@ created: 2021-12-02
 aliases:
   - inclusive fitness
 tags: created/2021/12/02, node/topic/term
-sr-due: 2022-04-12
-sr-interval: 5
+sr-due: 2022-05-19
+sr-interval: 37
 sr-ease: 233
 ---
 > [!infobox]

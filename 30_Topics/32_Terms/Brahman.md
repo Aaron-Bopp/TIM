@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - cosmic consciousness
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-26
+sr-interval: 14
 sr-ease: 238
 ---
 > [!infobox]

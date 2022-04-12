@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-17
+sr-interval: 5
 sr-ease: 241
 ---
 > [!infobox]
@@ -13,7 +13,7 @@ sr-ease: 241
 
 #### [[How can something be adaptive and net bad]]
 
-while in theory [[natural selection]] optimizes for anything that increases survival often this just means more. More genes, more offspring, more influence. We can see that this often leads to something being selected not because it actually makes people's live better, but because it optimizes for more genes in the gene pool.
+While in theory [[natural selection]] optimizes for anything that increases survival, often this just means more. More genes, more offspring, more influence. We can see that this often leads to something being selected not because it actually makes people's live better, but because it optimizes for more genes in the gene pool.
 We can see this in [[human evolution]] in [[Farming outcompeted foraging by allowing for higher populations]]. Farming actually lowered people's quality of life quite a bit, but because there were so many more people in won out of [[foraging]] ([[Foraging was a very sustainable lifestyle]])
 
 Another example is in primates, killing the young of other males in the group.

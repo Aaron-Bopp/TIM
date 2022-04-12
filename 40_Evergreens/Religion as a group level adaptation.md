@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/04, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 5
+sr-due: 2022-04-24
+sr-interval: 12
 sr-ease: 226
 ---
 > [!infobox]
@@ -21,8 +21,8 @@ sr-ease: 226
 Argued in:: [[Darwin's Cathedral by David Sloan Wilson]]
 The ability to believe in a God is a trait reinforced by [[group selection]] and molded by [[Cultural Evolution]].
 
-- [[Religion creates social order through group membership and ritual]]
-- [[Religion promotes high social control]]
+- includes:: [[Religion creates social order through group membership and ritual]]
+- includes:: [[Religion promotes high social control]]
 
 ### <hr class="footnote"/>
 

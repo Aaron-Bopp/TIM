@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-18
+sr-interval: 6
 sr-ease: 241
 ---
 > [!infobox]
@@ -19,9 +19,8 @@ This includes when a trait would be selected for,
 where the trait is adaptive,
 and what traits it is in competition with.
 While this is important [[Evolutionary Biology]]
-it is even more important for [[Evolutionary Psychology]],
-making it 
-part of:: [[Evolutionary Psychology is just a framework not a prescription of behavior]].
+this also
+explains:: Evolutionary Psychology is just a framework not a prescription of behavior.
 
 
 ### <hr class="footnote"/>

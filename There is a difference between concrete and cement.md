@@ -4,20 +4,20 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/distinction
-sr-due: 2022-04-12
-sr-interval: 2
-sr-ease: 243
+sr-due: 2022-04-21
+sr-interval: 9
+sr-ease: 263
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[There is a difference between concrete and cement]]
 
-[[Concrete]] is the combination of [[cement]] and *coarse* aggregates aka sand gravel, while cement is a binder that can also be used to make [[mortar]] (when combined with *fine* aggregate).
+[[Concrete]] is the combination of [[cement]] and *coarse* aggregates aka sand and gravel, while cement is a binder that can also be used to make [[mortar]] (when combined with *fine* aggregate).
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[manufacturing]], [[concrete]], [[cement]]

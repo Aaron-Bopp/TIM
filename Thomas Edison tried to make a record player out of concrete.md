@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/example/stupid
-sr-due: 2022-04-12
-sr-interval: 2
-sr-ease: 244
+sr-due: 2022-04-21
+sr-interval: 9
+sr-ease: 264
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,6 +16,8 @@ sr-ease: 244
 > ![[books_How to Avoid a Climate Disaster#^308344248]]
 
 example of:: [[Experts are often far too confident in the effectiveness of their theories]]
+
+#TO/EXPLORE/RESEARCH was it a record player out of [[cement]] and some fine aggregates or was it actual concrete like [[cement]] + sand + gravel because that is way more embarrassing
 
 ### <hr class="footnote"/>
 

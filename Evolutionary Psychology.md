@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, node/topic/term
-sr-due: 2022-04-11
-sr-interval: 1
+sr-due: 2022-04-15
+sr-interval: 3
 sr-ease: 211
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -25,8 +25,10 @@ sr-ease: 211
 > Criticism of evolutionary psychology involves questions of testability, cognitive and evolutionary assumptions (such as modular functioning of the brain, and large uncertainty about the ancestral environment), importance of non-genetic and non-adaptive explanations, as well as political and ethical issues due to interpretations of research results.
 >
 
-Like any other theory, Evolutionary Psychology needs to be used reasonably as [[Experts are often far too confident in the effectiveness of their theories]].
-This is reflected in [[Evolutionary Psychology is just a framework not a prescription of behavior]].
+Like any other theory, Evolutionary Psychology needs to be used reasonably, 
+as [[Experts are often far too confident in the effectiveness of their theories]].
+This is reflected 
+in [[Evolutionary Psychology is just a framework not a prescription of behavior]].
 
 
 ##### ^dataviews

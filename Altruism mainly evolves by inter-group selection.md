@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
-sr-ease: 246
+sr-due: 2022-04-13
+sr-interval: 1
+sr-ease: 226
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,8 +16,6 @@ sr-ease: 246
 Looking at the evolution of [[reciprocal altruism]] through the lense of [[game theory]],
 we can see that it only evolves over selfishness when there are inter-group forces.
 One on one a more selfish individual will win via [[individual selection]], but when we look at [[group selection]] we can see why altruism evolves.
-
-
 
 ### <hr class="footnote"/>
 

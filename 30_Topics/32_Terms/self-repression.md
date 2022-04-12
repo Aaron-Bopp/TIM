@@ -6,8 +6,8 @@ aliases:
   - repressed self
   - repressed
 tags: created/2022/04/05, node/topic/term
-sr-due: 2022-04-11
-sr-interval: 6
+sr-due: 2022-04-27
+sr-interval: 15
 sr-ease: 231
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
