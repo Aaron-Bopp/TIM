@@ -18,26 +18,24 @@ sr-ease: 150
 > <cite>[[Andy Matuschak]]</cite>
 
 [[Andy Matuschak's Evergreen Notes]] define [[evergreen notes]] as both [concept-oriented](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF) and [atomic](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1) but in my vault I have primarily combined these concepts. This is partially because I think that
-[[Conceptual note is a better term than atomic note]], but is primarily because [[Conceptual notes vary in size and scope]].
-I do not think that there is any universal size that you should aim for in [[note writing]]. 
+[[Conceptual note is a better term than atomic note]], but is primarily because [[Concepts are the fundamental unit of knowledge]].
+%%
+I do not think that there is any universal size that you should aim for in [[note writing]], but I do think that limiting notes to one central idea naturally makes them fairly small.
+^[That being said I do keep all of my notes around the same size as Andy, which is because I think that generally concepts are around the same size when properly using [[Note titles should be abstractions of the note content]] as Andy does]
+[[Conceptual notes vary in size and scope]]
+%%
 
-I have evolved this to include
+Far more important than size is how our notes should reflect the [[learning]] process. I think this is best exemplified in:
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[Evergreen notes should be constantly integrating new knowledge]]
 
 > [!note]
 > 
-> I don't claim to have created a system that is distinct enough to be considered a derivative of [[evergreen notes]], but there are places that I find myself thinking differently that it would seem Andy does. 
+> I don't claim to have created a system that is distinct enough to be considered a variation of [[evergreen notes]], but there are places that I find myself thinking differently that it would seem Andy does. 
 > I want to understand those differences to better understand how best to learn and grow using [[My TIM]].
 
-[[Conceptual notes]] is an aspect of [[evergreen notes]], but they aren't synonyms. #TO/PONDER/ME 
-
 %% 
-
-[[conceptual notes]] help you get the full extent of your brain power #TO/PONDER/IDEA maybe when only combined with good systems [[Friction is a hindrance to learning]]
-
-
-[[Term notes]] can be narrowed down to a short definition, but topic notes cannot. You can go back to a source of truth for a theory or word, but not a topic. That isn't to say that the definitions or terms will never change, but that we are searching to define them. Topics cannot be defined because they hold so many definitions and are capturing a breadth of content. [[topic notes]] are useful in their lack of edges, while [[Term notes]] are useful only inside thier edges.
+[[Term notes]] can be narrowed down to a short definition, but topic notes cannot. You can go back to a source of truth for a theory or word, but not a topic. That isn't to say that the definitions or terms will never change, but that we are searching to define them. Topics cannot be defined because they hold so many definitions and are capturing a breadth of content. [[topic notes]] are useful in their lack of edges, while [[Term notes]] are useful only inside their edges.
 %%
 ### <hr class="footnote"/>
 
