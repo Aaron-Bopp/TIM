@@ -3,8 +3,8 @@ created: 2022-03-26T15:51:45
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/question
-sr-due: 2022-04-11
-sr-interval: 6
+sr-due: 2022-04-26
+sr-interval: 15
 sr-ease: 242
 ---
 > [!infobox]
@@ -23,7 +23,7 @@ that since [[Our biology has not significantly changed for thousands of years]] 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[hunter-gatherers]], [[human advancement]]

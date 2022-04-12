@@ -19,7 +19,8 @@ tags: created/2022/03/20, node/topic/term
 conformity with rules or standards; "the judge recognized the fairness of my claim"  
 
 In modern use, equity is likely seen more along the lines of [[justice]] for the systemic [[marginalization]] of [[minority groups]] i.e
-![[The-difference-between-the-terms-equality-equity-and-liberation-illustrated-C.png]]
+
+![[The-difference-between-the-terms-equality-equity-and-liberation-illustrated-C.png]] ^0c8738
 
 **See**:: [[equality]], [[liberation]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

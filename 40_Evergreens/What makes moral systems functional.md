@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/question
-sr-due: 2022-04-11
-sr-interval: 4
-sr-ease: 212
+sr-due: 2022-04-23
+sr-interval: 10
+sr-ease: 192
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -32,7 +32,6 @@ Is there a difference between this and [[What is the origin of religion]]
 Answers:
 - [[Human behavior is selective]]
 - [[Social control promotes highly altruistic behavior within groups]] and [[morality]] (or the [[Imagined reality]] of morality) can be this [[social control]]
-- 
 
 ### <hr class="footnote"/>
 

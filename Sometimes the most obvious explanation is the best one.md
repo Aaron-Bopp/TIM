@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-11
-sr-interval: 1
+sr-due: 2022-04-15
+sr-interval: 4
 sr-ease: 222
 ---
 > [!infobox]
@@ -21,14 +21,14 @@ The flip side of this is valuing high complexity explanations over simple explan
 but a self-evident theory may be just as true.
 We may need to take a step back and look at the [[information]] from a different perspective
 ala [[Adaptations are only clear when studied at the correct scale]],
-and then we will see that there is far more information supporting the more simple theory
+and then we will see that there is far more [[information]] supporting the more simple theory
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: 
+**Topics**:: [[science]], [[understanding]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

@@ -3,8 +3,8 @@ created: 2022-02-06T16:40:17
 aliases:
   - null
 tags: created/2022/02/06, review, node/evergreen/claim
-sr-due: 2022-04-11
-sr-interval: 14
+sr-due: 2022-05-07
+sr-interval: 26
 sr-ease: 170
 ---
 > [!infobox]
@@ -16,7 +16,7 @@ sr-ease: 170
 > 
 > <cite>[POV: When you get into Oxford & Cambridge but now "stack shelves" - YouTube](https://www.youtube.com/watch?v=zXGKI9_QzyU)</cite>
 
-#TO/EXPLORE/RESEARCH definitions of [[equity]] and [[equality]]
+![[equity#^0c8738]]
 
 Not everybody has the same starting point in life.
 [[Belief]] in equality of opportunity would state that as long as all these people have access to the same opportunities, then it is ethical.
@@ -28,12 +28,12 @@ we must organize [[society]] such that people have the same access to the opport
 
 There is also a [[neurodiversity]] angle to this #TO/PONDER/IDEA 
 
-- [[Do what you can for who you can]]
+- part of:: [[Do what you can for who you can]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social inequality]], [[social order]], [[social progress]]
+**Topics**:: [[social inequality]], [[social progress]], [[equity]], [[equality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

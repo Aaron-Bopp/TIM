@@ -1,12 +1,5 @@
 [tldraw](https://www.tldraw.com/)
 [An Academic Workflow: Zotero & Obsidian | by Alexandra Phelan | Apr, 2022 | Medium](https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab)
-[[source notes]] are what other people know
-[[topic notes]] are what I know about what other people know
-[[evergreen notes]] are what I know about what I know
-
-![[model2.webp]]
-Refactoring ![[refactoring.webp]]
-
 #TO/DO/READ [Frontiers | “No Way Out Except From External Intervention”: First-Hand Accounts of Autistic Inertia | Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.631596/full)
 > [!tiktok wm-sm] Egg corns
 > 
