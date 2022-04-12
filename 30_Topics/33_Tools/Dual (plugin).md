@@ -29,8 +29,6 @@ Dual Skills
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
-*edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[knowledge management]],  [[AI]], [[Machine Learning]], [[NLP]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

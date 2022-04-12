@@ -12,7 +12,7 @@ sr-ease: 170
 
 #### [[A story will either end where it began, or somewhere else]] 
 
-this is about change and journey in our lives
+This is about change and journey in our lives and 
 
 source:: a video by [[CJ The X]]
 
