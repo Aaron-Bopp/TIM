@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-18
+sr-interval: 6
 sr-ease: 246
 ---
 > [!infobox]
@@ -16,6 +16,7 @@ sr-ease: 246
 Not only is [[clean electricity]] key in replacing the electricity we currently get from burning [[fossil fuels]] it will need to become replace those fuels everywhere there being used--from electric cars, to nuclear powered container ships, to producing steal and plastic.
 
 - includes:: [[Clean electricity could make plastics a carbon sink]]
+- part of:: [[Solving climate change requires changing the world for the better]]
 
 ### <hr class="footnote"/>
 

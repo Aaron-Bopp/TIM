@@ -4,24 +4,24 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-17
+sr-interval: 5
 sr-ease: 248
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Small changes in average global temperature have exponential effects]]
+
 As humans, we can tolerate temporary temperature changes of a few degrees pretty easily, it's only when we have to spend a long time in extremes that we start to struggle to maintain [[homeostasis]].
 The [[earth]] isn't the same.
+
+#TO/TEND/WATER 
 > ![[books_How to Avoid a Climate Disaster#^306644846]]
 
 > ![[books_How to Avoid a Climate Disaster#^306587584]]
 
 > ![[books_How to Avoid a Climate Disaster#^306644845]]
-
-
-
 
 ### <hr class="footnote"/>
 

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-17
+sr-interval: 5
 sr-ease: 233
 ---
 > [!infobox]
@@ -13,9 +13,12 @@ sr-ease: 233
 
 #### [[Life is what you make of it]]
 
-answers:: [[What is the meaning of life]]
+- answers:: [[What is the meaning of life]]
+- includes:: [[Be the change you want to see in the world]]
+- similarly:: [[Do what you can for who you can]]
 
-includes:: [[Be the change you want to see in the world]]
+#TO/TEND/WATER 
+
 
 ### <hr class="footnote"/>
 

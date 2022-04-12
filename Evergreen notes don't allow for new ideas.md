@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2021/12/25, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-18
+sr-interval: 6
 sr-ease: 233
 ---
 > [!infobox]
@@ -37,5 +37,5 @@ Especially if you are following [[Evergreen notes should be constantly integrati
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[knowledge work]], [[understanding]] [[evergreen notes]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -3,8 +3,8 @@ created: 2022-03-19T12:52:33
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 16
+sr-due: 2022-05-20
+sr-interval: 38
 sr-ease: 230
 ---
 > [!infobox]
@@ -14,6 +14,7 @@ sr-ease: 230
 
 #TO/DO/CITE studies and research
 
+#TO/TEND/GRAFT 
 > ![[books_Sapiens#294248533q]]
 
 

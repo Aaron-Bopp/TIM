@@ -3,8 +3,8 @@ created: 2022-03-23T13:16:23
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 11
+sr-due: 2022-05-05
+sr-interval: 23
 sr-ease: 190
 ---
 > [!infobox]
@@ -16,7 +16,7 @@ This
 answers:: [[How to understand what you read]],
 in addition to:: [[You need to remember what you read]]
 
-#TO/TEND/WEED 
+%% #TO/TEND/WEED  %%
 To understand and to remember is to learn, but the book is not teaching you, the author is not teaching you, [[spaced repetition]] is not teaching, you are teaching yourself. You need to be working with the content in order to understand.
 
 Any insight that you can find original or not is vital to your understanding.

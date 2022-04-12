@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/claim
-sr-due: 2022-04-12
-sr-interval: 2
+sr-due: 2022-04-18
+sr-interval: 6
 sr-ease: 241
 ---
 > [!infobox]
@@ -13,7 +13,7 @@ sr-ease: 241
 
 #### [[How did selective hunting lead to domestication of animals]]
 
-While some species like dogs lend themselves easily to domestication, other animals likely needed more time and attention to domesticate.
+While some species like dogs lend themselves easily to [[domestication]], other animals likely needed more time and attention to domesticate.
 This likely involved a combined process of intentional and unintentional selection by early humans.
 
 [[Early hunting techniques lead to domesticating farm animals]]
@@ -34,5 +34,5 @@ The most intentional part of human domestication was castration and violence to 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[domestication]], [[hunter-gatherers]], [[hunting]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
