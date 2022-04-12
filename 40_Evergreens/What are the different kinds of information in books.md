@@ -19,6 +19,7 @@ sr-ease: 210
 
 - part of:: [[How to understand what you read]]
 
+similarly
 
 ### <hr class="footnote"/>
 

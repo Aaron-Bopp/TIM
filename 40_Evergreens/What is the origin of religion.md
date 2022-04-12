@@ -3,8 +3,8 @@ created: 2022-03-26T13:12:51
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/question
-sr-due: 2022-04-11
-sr-interval: 10
+sr-due: 2022-05-02
+sr-interval: 21
 sr-ease: 204
 ---
 > [!infobox]
@@ -41,10 +41,6 @@ The origin of religion must be both psychological and cultural. We need to have 
 > [!qoute]- 
 > ![[books_Darwin's Cathedral#^292537214]]
 
-> ![[books_Darwin's Cathedral#^295490295]]
-
-> ![[books_Darwin's Cathedral#^306962113]]
-
 - [[Social control promotes highly altruistic behavior within groups]]
 - [[Religion promotes high social control]]
 
@@ -55,3 +51,8 @@ The origin of religion must be both psychological and cultural. We need to have 
 
 **Topics**:: [[religion]], [[belief]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+
+> ![[books_Darwin's Cathedral#^295490295]]
+
+> ![[books_Darwin's Cathedral#^306962113]]

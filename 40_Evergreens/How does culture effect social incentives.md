@@ -3,8 +3,8 @@ created: 2022-03-30T14:32:18
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/question
-sr-due: 2022-04-11
-sr-interval: 4
+sr-due: 2022-04-21
+sr-interval: 10
 sr-ease: 199
 ---
 > [!infobox]
@@ -20,6 +20,7 @@ Culture is such an interesting thing to study because the behavioral differences
 although usually it is [[Most cultural differences are rooted in material differences]]
 
 part of:: [[Why is it hard to understand how our environment effects us]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
