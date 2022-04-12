@@ -27,7 +27,7 @@ Goto: https://twitter.com/commaficionado/status/1506578987413385216
 ###### ^302206270q
 
 It seems to me that it is a manifestation of hyperfocus. We expend a lot of time and energy on honing our focus on something and struggle to change focus to something else as a result. E is for Erin drew this 7 years ago and it's a great illustration : /6 
-![](https://pbs.twimg.com/media/FOhxmtvXsAMtFLt.jpg) 
+![](00_Meta/Attachments/FOhxmtvXsAMtFLt.jpg) 
 
 ^302206270
 

@@ -20,6 +20,11 @@ sr-ease: 215
 - works with:: [[Anxiety should be a tool at your disposal not an impedance to your life]]
 - important for:: [[How can parent's best help their children]] #TO/EXPLORE/RESEARCH [[scaffolding]]
 
+this is part of why it's hard for us to switch tasks
+
+> [!example]-
+> ![](00_Meta/Attachments/FOhxmtvXsAMtFLt.jpg) 
+> ^[[[tweets_Tweets From Pete Wharmby]]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED  

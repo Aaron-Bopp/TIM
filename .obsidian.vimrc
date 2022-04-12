@@ -16,6 +16,20 @@ nmap L $
 " Quickly remove search highlights
 nmap <F9> :nohl
 
+unmap <Space>
+" Change navigation to work better for text editing
+"  noremap e E
+"  noremap E e
+nmap <Space>e ea
+nmap <Space>E Ea
+
+"  noremap b B
+"  noremap B b
+nmap <Space>b bi
+nmap <Space>B Bi
+
+nmap <Space>w wi
+nmap <Space>W Wi
 " Yank to system clipboard
 set clipboard=unnamed
 
