@@ -24,13 +24,11 @@ including the reasons for these emotions.
 The actual sources of these [[defense-mechanisms]] are usually the hardest to discover
 and for many it takes years of [[self-actualization|introspection]], [[therapy]], and sometimes a moment of realization.
  
- ##### Cause:: [[self-repression|repressed]] [[identity]]
+##### Cause:: [[self-repression|repressed]] [[identity]]
  
-
-
- [[Identity is your understanding of yourself vs your interaction with the world]], and so it is something that is very malleable during your formative years. 
- Additionally, [[Children make wide assumptions about the world]],
- so any rebuff of a forming identity can cause massive damage.
+[[Identity is your understanding of yourself vs your interaction with the world]], and so it is something that is very malleable during your formative years. 
+Additionally, [[Children make wide assumptions about the world]],
+so any rebuff of a forming identity can cause massive damage.
 This means that our early [[childhood]] is the perfect storm for a core part of your [[identity]] like your sexuality or [[gender]] to become completely repressed.
 
 If your [[identity]] is severely repressed, you will be interacting with the world with a massive blind spot 
@@ -77,9 +75,11 @@ An interesting example of this is people who are extremely mentally handicapped 
 - [[Mental health is a reaction to one's environment]]
 
 ##### What comes from this trait?
+
 - [[We value our biggest insecurities because they protect us from the biggest threats]]
 - [[A repressed self creates a mistrust of self-love and self-esteem]]
 - [[A secure identity is the best defense against social anxiety]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN

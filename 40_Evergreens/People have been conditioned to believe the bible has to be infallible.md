@@ -10,23 +10,23 @@ sr-ease: 150
 
 #### [[People have been conditioned to believe the bible has to be infallible]] 
 
-#TO/TEND/GRAFT 
-- [[The bible is god breathed]]
-- [[Non-faith issues have been co-opted to keep people in the Christian church]]
-- [[The Christian worldview is incompatible with most other worldviews]]
-- [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
-- [[Humans are addicted to believing]]
+- part of:: [[Non-faith issues have been co-opted to keep people in the Christian church]]
 
+%% #TO/TEND/WEED  %%
+This is
+explained by:: how the belief that [[The bible is god breathed]] has become such a key part of [[Evangelicalism]].
+This has placed too much importance on a book that could not hope to give the answers needed to live in a modern [[society]].
+
+This discourages actually working with the doctrine to understand how you should live in the world and instead says that you must adhere to a 2000-year-old book. [[Searching for THE answer is dangerous]], but it is strictly encouraged by [[Christianity]].
 This has been built up as major part in [[Christianity|Christians]] psyches and affects a lot of their [[subconscious]] decision-making.
+This leads to [[What are the blindspots of the Christian worldview]]
 
-This encourages [[Searching for THE answer is dangerous]]
-- [[The biblical Christian God is evil and does not deserve to be worshipped]]
-- [[The actual path to being a good person isn't explored by Evangelicalism]]
-- [[Faith is an abstraction of cognitive dissonance]]
+- works with:: [[Faith is an abstraction of cognitive dissonance]]
+- explains:: [[The Christian worldview is incompatible with most other worldviews]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Psychology]], [[cognitive dissonance]]
