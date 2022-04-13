@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/example/observation
-sr-due: 2022-04-13
-sr-interval: 3
+sr-due: 2022-04-22
+sr-interval: 9
 sr-ease: 252
 ---
 > [!infobox]
@@ -22,7 +22,7 @@ Where does the energy go when it is falling?
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: [[conservation of energy]], [[physics]]
+**Topics**:: [[conservation of energy]], [[physics]], [[weather]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
