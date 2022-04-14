@@ -14,7 +14,7 @@ tags: created/2022/04/13, node/source/video
 
 **Summary**:: 
 
-**Covers**::
+**Covers**:: [[racism]], [[slavery]], [[black codes]], [[convict leasing]], [[debt peonage]], the [[Civil War]], [[U.S History]]
 
 ###### Convict Leasing
 
@@ -27,3 +27,12 @@ tags: created/2022/04/13, node/source/video
 ###### Debt Peonage
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j4kI2h3iotA?start=2758" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+###### Jim crow
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4kI2h3iotA?start=3421" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+###### Involuntary Servitude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j4kI2h3iotA?start=3986" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

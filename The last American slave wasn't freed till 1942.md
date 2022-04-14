@@ -10,7 +10,10 @@ tags: created/2022/04/13, review, node/evergreen/claim
 
 #### [[The last American slave wasn't freed till 1942]]
 
+Slavery was made illegal in the [[13th Amendment]],
+but in practice [[black codes]], [[convict leasing]], and [[debt peonage]] continued to enslave black people long into the 20th century.
 
+This was the case for [[Alfred Irving]]
 
 ### <hr class="footnote"/>
 
@@ -19,3 +22,7 @@ tags: created/2022/04/13, review, node/evergreen/claim
 
 **Topics**:: [[convict leasing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[video_The Part of History You've always skipped neoslavery#Involuntary Servitude]]
