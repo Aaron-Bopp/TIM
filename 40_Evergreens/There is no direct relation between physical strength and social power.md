@@ -16,13 +16,14 @@ Strength and [[violence]] have always been seen as the root of [[Patriarchy]],
 but the evidence behind that [[belief]] is lacking.
 Pound for pound women are behind men, 
 %% #TO/DO/CITE %% 
-but life isn't a weight lifting competition and woman out perform in resistance and endurance than men.
-Indeed, woman have often been the ones engaging hard physical labor such as [[farming]].
+but life isn't a weight lifting competition.
+Women outperform men in resistance and endurance.
+Indeed, women have often been the ones engaging hard physical labor, such as [[farming]].
 
-There are many women that are stronger and faster than many men, 
+There is a proportion of women that are stronger and faster than some men, 
 but the same proportion does not live up for societies with and without [[Patriarchy]].
 
-Therefore this is likely not the
+Therefore, this is likely not the
 answer of:: [[What is the origin of patriarchy]]
 
 ### <hr class="footnote"/>

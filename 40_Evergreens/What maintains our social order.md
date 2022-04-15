@@ -20,10 +20,11 @@ If we believe [[Social order is built off of a shared belief in an imagined real
 [[Yuval Noah Harari]] believes our belief in myths is this connection and that losing these beliefs would shake and change our [[social order]].
 ^[[[books_Sapiens#^297681744]]]
 The problem is that even if we could change the mind of every person on the planet, it would not change the world we live in until we acted.
-While the social order was built through shared imagination, it cannot be changed through imagination, it can only be changed though action.
+While the social order was built through shared imagination, it cannot be changed through imagination, it can only be changed through action.
 
 ##### [[social construct]]
 
+[[Social constructs are material manifestations of shared belief]].
 I would argue that once a [[Imagined reality]] has become a [[social construct]] it will have *non*-imagined (or material) effects on the world. Once this has happened, letting go of that [[belief]] will not affect that [[social construct]], we need to tear it down. ^5d2266
 
 ##### [[violence]]
