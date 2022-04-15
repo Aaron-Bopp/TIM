@@ -10,15 +10,22 @@ sr-ease: 212
 
 #### [[Working through trauma can involve of a lot of letting go]] 
 
+For me, this note is at the intersection between 
+[[Sometimes we can't grow until we change our environment]]
+and 
+[[Accepting responsibility is not only about your actions]]. 
+We need to acknowledge the immense amount of work and responsibility that it can take to work through your [[trauma]]
+and that it can result in both perceived and real losses.
+
 [[Trauma]] becomes part of our very nature through the fact that 
 [[We carry our childhood wounds into adulthood]].
 Even though working through it may involve letting go of things that you thought you couldn't live without,
 you are more than your [[trauma]]:
 [[It's always worth it to work through trauma]].
 
-This note is at the intersection between [[It's always worth it to work through trauma]], [[Fear cannot be a deterrent for deconstructing your faith]], and [[Accepting responsibility is not only about your actions]] for me personally. We need to acknowledge the immense of work that it can take to work through your [[trauma]], that can result in both perceived and real losses. #TO/PONDER/IDEA 
-
 This can also mean forgiving people who don't deserve it. [[When should you forgive people who don't deserve it]]
+
+part of:: [[We are confined to the tools of our time# In self-actualization]]
 
 ### <hr class="footnote"/>
 

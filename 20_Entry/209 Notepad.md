@@ -1,3 +1,15 @@
+%% #TO/TEND/MULCH 
+This naturally leads to a variety of problems,
+including struggling to understand where your [[emotions]] are coming from and why.
+^[[[Overly interrogative parents can lead to alexithymic children]]]
+If you don't understand who you are, you will struggle to understand why certain things make you feel good and certain things make you feel bad.
+This leads to [[social anxiety]] as you will be spending so much time trying to figure out *why* you're feeling so anxious that you won't be able to live in the moment
+^[[[Anxiety prevents us from living in the present]]]
+The reason you can't pinpoint your [[anxiety]] is that
+[[Your anxiety knows your insecurities better than you do]]
+and [[Our brain actively inhibits us from processing repressed emotions]]
+%%
+
 [tldraw](https://www.tldraw.com/)
 [An Academic Workflow: Zotero & Obsidian | by Alexandra Phelan | Apr, 2022 | Medium](https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab)
 #TO/DO/READ [Frontiers | “No Way Out Except From External Intervention”: First-Hand Accounts of Autistic Inertia | Psychology](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.631596/full)

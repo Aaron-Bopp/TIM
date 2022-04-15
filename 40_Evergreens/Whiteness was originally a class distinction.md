@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 11
-sr-ease: 244
+sr-due: 2022-04-22
+sr-interval: 7
+sr-ease: 224
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,7 +18,13 @@ While there were slaves of every skin color,
 because of the [[transatlantic slave trade]]
 in the early America's most slaves were black. 
 At the same time,
-early laws in [[America]] were being founded [[Christianity|Christian]] values,
+early laws in [[America]] were being founded [[Christianity|Christian]] and 
+[[liberal humanism|liberal]] values. 
+Among other things this lead to a desire to have a 
+reason to justify slavery other than [[religion]] 
+(as enslaved people could be converted to Christianity)
+and so they turned to the color of their skin.
+
 - part of:: [[Race is a social construct]]
 - explained by:: [[Most cultural differences are rooted in material differences]]
 
@@ -26,10 +32,10 @@ early laws in [[America]] were being founded [[Christianity|Christian]] values,
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING  
 *edited `=this.file.mtime`*
 
-**Topics**:: [[whiteness]], [[race]], [[class]]
+**Topics**:: [[whiteness]], [[race]], [[class]], [[White supremacy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
@@ -37,3 +43,7 @@ early laws in [[America]] were being founded [[Christianity|Christian]] values,
 > ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487383]]
 
 > ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487384]]
+
+> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487385]]
+
+> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487387]]

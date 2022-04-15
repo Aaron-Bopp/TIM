@@ -30,6 +30,8 @@ nmap <Space>B Bi
 
 nmap <Space>w lwi
 nmap <Space>W lWi
+
+noremap <Space>j J
 " Yank to system clipboard
 set clipboard=unnamed
 

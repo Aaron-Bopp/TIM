@@ -51,6 +51,14 @@ but [[hope]] doesn't guarantee change or even speed it up,
 it just helps us [[endurance|endure]] long enough to see change.
 [[Growing up is being able to articulate the hope more than the hopelessness]]
 
+##### In:: [[self-actualization]]
+
+[[Sometimes we can't grow until we change our environment]] 
+and 
+[[Working through trauma can involve of a lot of letting go]]
+but
+[[It's always worth it to work through trauma]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN  

@@ -12,7 +12,6 @@ sr-ease: 230
 
 ###### What is Ego
 
-#TO/EXPLORE/WATCH https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL
 
 - [00:35](https://www.youtube.com/watch?v=ozu9Jd_Fm-I&list=WL&[[index]]=8#t=35.353769194549564)
 	- [[Ahamkara]] is the "I feeling" which is the false [[self]]

@@ -12,22 +12,21 @@ sr-ease: 130
 
 #### [[Our authority figures curate and reinforce what we are allowed to imitate]] 
 
-From:: [[Parents need to model the ability to deal with emotion to their children]]
-
 In [[Social Learning Theory]], imitation is one of four key mechanism for social [[learning]], 
-and children are more likely to imitate the actions of authority figures, most often [[parents]].
-%%Why? #TO/PONDER/IDEA %%
+and children are more likely to imitate the actions of the people they are most often in contact with, and later on the people who they trust the most.
+Our parents have so much power over how we turn out, whether they realize it or not.
 
-This leads to so many elements of modern society such as [[gender roles]], [[racism]], and [[inter-generational trauma]]. This is
-made worse by:: [[Children will not question what is modeled for them unless they are taught to]]
+This leads to so many elements of modern [[society]], such as [[gender roles]] and [[inter-generational trauma]],
+and can lead to prejudiced beliefs being passed on.
 
 This is true in both synchronous interactions like [[fear]] responses and [[self-soothing]], but also in asynchronous responses like in the [[Gender self-socialization model]]. 
 
 [[Humans long to know what to do]], when behaviors become engrained in our psyche, we will rarely question them:
 [[We carry our childhood wounds into adulthood]]
 
-This is important
-for:: [[How can parent's best help their children]]
+- From:: [[Parents need to model the ability to deal with emotion to their children]]
+- made worse by:: [[Children will not question what is modeled for them unless they are taught to]]
+- important for:: [[How can parent's best help their children]]
 
 ### <hr class="footnote"/>
 
