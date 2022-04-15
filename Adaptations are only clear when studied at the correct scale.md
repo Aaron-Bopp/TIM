@@ -20,7 +20,7 @@ where the trait is adaptive,
 and what traits it is in competition with.
 While this is important [[Evolutionary Biology]]
 this also
-explains:: Evolutionary Psychology is just a framework not a prescription of behavior.
+explains:: [[Evolutionary Psychology is just a framework not a prescription of behavior]].
 
 
 ### <hr class="footnote"/>

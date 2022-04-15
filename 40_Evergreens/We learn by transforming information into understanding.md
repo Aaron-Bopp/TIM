@@ -21,7 +21,6 @@ This would make a teacher lecturing at you for an hour while you dutifully take 
 but in reality we rely on experience just as much for understanding a math equation as we do what it's like to ride a roller coaster.
 Really, what the teacher is doing isn't the most import part of our learning, we are.
 
-
 We can see this exemplified in [[Math is it's own language]]. 
 When mathematicians talk with each other its not just about sharing information, it is about sharing understanding. #TO/TEND/WATER 
 

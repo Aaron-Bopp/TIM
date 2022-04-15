@@ -52,7 +52,7 @@ contrasts:: [[Often the best editing tool is time]], sometimes we do need to jus
 
 > ![[articles_Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]
 
--  ![[Andy Matuschak's Evergreen Notes#^67fb4a]]
+- ![[Andy Matuschak's Evergreen Notes#^67fb4a]]
 	- some people can't think unless they are writing  
 	- This is because [[Humans try really hard to avoid understanding their mistakes]], [[writing]] provides good friction that allows us to address our confusion
 
