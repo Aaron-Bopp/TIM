@@ -12,14 +12,14 @@ sr-ease: 190
 
 #### [[A secure worldview is the best defense against existential dread]] 
 
-#TO/TEND/GRAFT 
-- Counterpart to:: [[A secure identity is the best defense against social anxiety]]
-- [[Anxiety stems from a lack of confidence for the future]]
-- [[Most problems cannot be significantly understood through a single framework]]
+[[Anxiety stems from a lack of confidence for the future]] and not knowing the answer to [[What happens after we die]] can be lead to lots of incurable [[anxiety]] also known as [[existential dread]].
 
-#TO/TEND/GRAFT 
-- [[Belief helps us push through hardship]]
-- [[Faith can be a useful tool for grounding yourself]]
+This kind of dread has been key in human [[history]] and has likely lead to our penchant for [[religion]] because whether it be knowing that we will be worshipped by our descendants, reincarnated, or live eternally with or as a god, these all produce a sense of sureness for our future.
+Making this
+part of:: [[The materialistic view of religions examines why humans invented and clung to religion]].
+
+- explains::[[Belief helps us push through hardship]] as hardship can often reduce us to dread unless we have strong ideals
+- works with:: [[Faith can be a useful tool for grounding yourself]]
 
 ### <hr class="footnote"/>
 

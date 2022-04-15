@@ -12,15 +12,23 @@ sr-ease: 230
 
 #### [[Gas stoves suck]] 
 
-#TO/TEND/WATER 
-- [[video_Problems with gas stovetops - weak, dirty and dangerous]]
-- [[video_It’s Time To Break Up With Our Gas Stoves]]
+From [[climate change]] activists to professional chefs,
+the opinion that gas stoves suck is becoming more and more common.
 
-Even [[@hankgreen on Twitter|Hank Green]] made a video on it [You Don't Want a Gas Stovetop - YouTube](https://www.youtube.com/watch?v=Bcqah8U_uKA)
+Here's a passionate and short video from [[@hankgreen on Twitter|Hank Green]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bcqah8U_uKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Consumerism]], [[capitalism]], [[corporatism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[video_It’s Time To Break Up With Our Gas Stoves#Gas isn't cheaper or cleaner or better than electric anymore]]
+
+![[video_Problems with gas stovetops - weak, dirty and dangerous#Gas stoves are less efficient than electric]]
