@@ -12,29 +12,33 @@ sr-ease: 170
 
 #### [[Writing is a catalyst of understanding]] 
 
-Writing requires you to engage with the content on a higher level by introducing positive [[friction]]:
-[[Good friction causes the brain to engage]]
+> [!summary]
+> 
+> This is 
+> explained by:: [[Good friction causes the brain to engage]].
+> Writing requires you to engage with the content on a higher level by introducing positive [[friction]].
 
 I engage in two major kinds of [[writing]]
 1. Writing to enable idea generation
 2. Writing to clarify my thought process
 
 These are both integral parts of [[understanding]].
-Connections are how we remember things and ideas are usually connections between two ideas. 
-%% #TO/TEND/WEED  %%
-My thought process usually has gaps where I think I know what's coming next. Writing pokes holes where those are and filling them sometimes leads to new insights or at the very least makes these notes more readable.
-[[Writing]] is good [[friction]], pushing myself to write out my thoughts makes me organize them and put them out linearly. This means I have to examine and understand the nature of links between different thoughts.
+Connections are how we remember things,
+and insights are usually connections between ideas. 
+My thought process usually has gaps where I think I know what's coming next. 
+Writing forces me to fill those gaps and usually this leads to new insights.
+Pushing myself to write out my thoughts makes me organize them and put them out linearly.
+This means I have to examine and understand the nature of different thoughts link together.
 
-Writing also enables idea generation by effectively letting you "know" more things. Often when I write stuff down in my notes I already have a pretty good idea of what I think of them, but that I idea might fade. Writing it down, especially (and possibly only) in [[evergreen notes]] lets that idea grow over time.
+Writing also enables idea generation by effectively letting you "know" more things. Often when I write stuff down in my notes, I already have a pretty good idea of what I think of them, but that idea might fade. Writing it down, especially (and possibly only) in [[evergreen notes]] lets that idea grow over time.
 
-- some people can't think unless they are writing 
-  ^[![[Andy Matuschak's Evergreen Notes#^67fb4a]]] 
-	- This is because [[Humans try really hard to avoid understanding their mistakes]], [[writing]] provides good friction that allows us to address our confusion
-- [[Often the best editing tool is time]] 
-	- this is how [[Evergreen notes help us bridge the gap between knowledge and understanding]]
+These are
+how:: [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 
 This is why there is a difference between [[spaced repetition]] and [[incremental writing]] for me, even though I write during both.
-[[incremental writing]] is to push me to write to clarify understanding, and [[spaced repetition]] is to help me write for idea generation.
+[[Incremental writing]] is to push me to write to clarify understanding, and [[spaced repetition]] is to help me write for idea generation.
+This
+contrasts:: [[Often the best editing tool is time]], sometimes we do need to just push through and write.
 
 ### <hr class="footnote"/>
 
@@ -47,3 +51,16 @@ This is why there is a difference between [[spaced repetition]] and [[incrementa
 #### References
 
 > ![[articles_Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]
+
+-  ![[Andy Matuschak's Evergreen Notes#^67fb4a]]
+	- some people can't think unless they are writing  
+	- This is because [[Humans try really hard to avoid understanding their mistakes]], [[writing]] provides good friction that allows us to address our confusion
+
+#TO/EXPLORE/RESEARCH 
+> On a related note, I think the process of realizing what’s relevant for a particular difficult problem is also another way to say “that’s an insight”. I’ve read a bit into the Insight Problem Solving literature, and insight can be thought of as a representational change that leads to solutions, which is maybe a more rigorous way to say that “you suddenly notice what’s relevant to the problem at hand”.
+> 
+> There are two (among several) widely known mechanisms that lead to insights - the kind of insights you can study in labs through nine-dots problems and the like, they are: constraint relaxation and chunk decomposition.
+> 
+> Making notes is, in a sense, externalizing representations, which means you can better detect constraints that are being imposed unnecessarily. Interconnected notes is a way to facilitate chunk decomposition, because an Evergreen note is similar to a chunk in that you can decompose it into other chunks which can help reconfigure your representation - or how you look at a problem. I think that’s how practicing PKM can facilitate the processes that yield insights.
+>
+> -  [What has your PKM actually help you achieve? - #12 by minhthanh3145 - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/what-has-your-pkm-actually-help-you-achieve/30249/12?u=abopp)
