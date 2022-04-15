@@ -12,27 +12,26 @@ sr-ease: 188
 
 Choosing a [[note writing]] system is not about finding the right [[software]] to write in,
 ^[For that see [The best note-taking app of 2021 | Capiche](https://capiche.com/e/best-note-taking-app-2021)]
-it is about choosing [[systems for thought|a system for thought]]. What system you choose depends majorly on what you are trying to accomplish. Are a student or researcher trying to bring all of your knowledge together for new conclusion? Are you a professional trying to map and manage all of your clients and projects? Are you just trying to get a hold of your life and offload some of the mental effort of keeping track of everything? All of these are prestigious goals, and can benefit from a well organized [[note writing]] system. 
+it is about choosing [[systems for thought|a system for thought]]. What system you choose depends entirely on what you are trying to accomplish. Are you a student or researcher trying to bring all of your knowledge together for new conclusions? 
+Are you a professional trying to map and manage all of your clients and projects? 
+Are you just trying to get a hold of your life and offload some of the mental effort of keeping track of everything? 
 
-Unfortunately, we cannot dream up our perfect [[second brain]] and have it at our fingertips, because [[We are confined to the tools of our time]]. Creating a system that works for you can take a lot of work, but if you are committed to the process it can be highly rewarding in the end. 
-Remember to [[Write your notes with a system not within a system]] and to [[Write your notes like you're planting an evergreen forest]]
+All of these are prestigious goals, and can benefit from a well organized [[note writing]] system. 
+Unfortunately, we cannot dream up our perfect [[second brain]] and have it at our fingertips. 
+Creating a system that works for you can take a lot of work, but if you are committed to the process it can be highly rewarding in the end. 
+Additionally,
+[[Learning how systems work can be a gateway to creating thought]].
+Learning about and creating a system may help you clarify what you are trying to do.
 
 So what are your primary concerns?
 
-##### I want to connect and grow my thought
-%% #TO/TEND/GRAFT %%
-- [[Your second brain should be an inspirational hub of creativity]]
-- [[Your second brain should be frictionless access to a curated base of knowledge]]
-- [[Densely linked webs of thought provide intuitive access to knowledge]]
-- [[Evergreen notes organize knowledge so that it can grow]]
+##### I want to connect and grow my [[knowledge]]
 
-##### I want my notes to be infinitely scalable
-%% #TO/TEND/GRAFT %%
-- [[How do we ensure our note systems scale correctly]]
-- [[A totally integrated machine should be infinitely scalable]]
-- [[Evergreen notes should be constantly integrating new knowledge]]
-- [[Organization systems are not mutually exclusive]]
-- [[Webs of thought provide heterarchical structure]]
+This is the most common goal of people seeking out [[knowledge management|knowledge management systems]]. Thankfully, much of the community is centered around it, and you can draw from a number of systems to achieve this goal.
+
+- The basics: [[Densely linked webs of thought provide intuitive access to knowledge]]
+- A major step: [[Prioritize understanding over organization or categorization]]
+- The goal: [[Your second brain should be an inspirational hub of creativity]]
 
 ##### I need to know my notes are safe
 
@@ -40,14 +39,20 @@ So what are your primary concerns?
 
 ##### I need it to be really easy to take notes or else I won't do it 
 
-I fall into this boat. Until I found a note system that suited my brain and a software that allowed to me to reduce [[friction]] I almost never took notes. This has lead to [[My TIM]], which combines the systems mentioned above.
+I fall into this boat. Until I found a note system that suited my brain and a software that allowed to me to reduce [[friction]] I almost never took notes.
+This is why one of the main benefits of [[My TIM]] is that it inspires me to work. 
+^[[[Productivity tools are often most useful in how much work they inspire you to do]]]
 
-%% #TO/TEND/GRAFT %%
-- [[Using spaced repetition for your conceptual notes]]
-- [[Note structures should help curate knowledge]]
-- [[Friction is a hindrance to learning]]
-- [[A second brain should mirror how we think]]
-- [[A totally integrated machine should automate as much of the thinking process as possible]]
+- The problem: [[Friction is a hindrance to learning]]
+- An answer: [[A second brain should mirror how we think]]
+
+##### What if I don't know what I need
+
+Many people know that they want to learn better or understand more, but they don't know what exactly they would use a [[note writing]] system.
+My best advice is to involve yourself in [[note writing]] communities like Obsidian's. These can be incredibly inspiring and educational about what you would want to do with your notes.
+^[[[Communities are knowledge graphs]]]
+
+For people like this, it is most important to [[Write your notes like you're planting an evergreen forest]]
 
 ### <hr class="footnote"/>
 
