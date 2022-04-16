@@ -27,4 +27,4 @@ Schooling and work systems are designed for [[neurotypical]] people, but as neur
 
 #### References
 
-> ![[tweets_Tweets From Pete Wharmby#^302206270]]
+> ![[tweets - Tweets From Pete Wharmby#^302206270]]

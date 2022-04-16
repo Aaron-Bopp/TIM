@@ -23,10 +23,10 @@ example of:: [[molecular genetics]] and [[Experts are often far too confident in
 
 
 #TO/TEND/GRAFT 
-> ![[books_Darwin's Cathedral#^297089498]]
+> ![[books - Darwin's Cathedral#^297089498]]
 
 
-> ![[books_Darwin's Cathedral#^298292972]]
+> ![[books - Darwin's Cathedral#^298292972]]
 
 
 ### <hr class="footnote"/>
@@ -41,8 +41,8 @@ example of:: [[molecular genetics]] and [[Experts are often far too confident in
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books_Darwin's Cathedral#^297089496]]
+> ![[books - Darwin's Cathedral#^297089496]]
 
-> ![[books_Darwin's Cathedral#^297089495]]
+> ![[books - Darwin's Cathedral#^297089495]]
 
-> ![[books_Darwin's Cathedral#^297089494]]
+> ![[books - Darwin's Cathedral#^297089494]]

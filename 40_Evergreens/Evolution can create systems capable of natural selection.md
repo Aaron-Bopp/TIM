@@ -20,13 +20,13 @@ In a way evolutionary systems emerge out from each other, all the way down to so
 This is an 
 example of:: [[emergence]] 
 
-> ![[books_Darwin's Cathedral#^292936698]]
+> ![[books - Darwin's Cathedral#^292936698]]
 
 think of the mind as an [[immune system]]: [[The immune system is adaptive]]
 
-> ![[books_Darwin's Cathedral#^292936692]]
+> ![[books - Darwin's Cathedral#^292936692]]
 
-> ![[books_Darwin's Cathedral#^292936699]]
+> ![[books - Darwin's Cathedral#^292936699]]
 
 ### <hr class="footnote"/>
 

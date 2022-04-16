@@ -12,10 +12,10 @@ sr-ease: 230
 
 #### [[We have been domesticating dogs for 15,000 years]] 
 
-> ![[books_Sapiens#294931433q]]
+> ![[books - Sapiens#294931433q]]
 
 > ![[Pasted image 20220310171812.png]] 
-> ![[books_Sapiens#294931434q]]
+> ![[books - Sapiens#294931434q]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

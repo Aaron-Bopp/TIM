@@ -15,9 +15,9 @@ sr-ease: 190
 If you want to [[Be the change you want to see in the world]], 
 [[How to develop a meditation practice]] could be a way for you to achieve that. 
 [[The history of meditation is a mixture of science and spirituality]], and 
-the [[Yogi|Yogis]] realized that [[motivation]] is just focusing your thoughts on idea until it is achieved.
-^[[[notes_What is achievement]]]
-In a way, meditation has been tried and tested way of influencing the world for thousands of years, and we are just know starting to understand why.
+the [[Yogi|Yogis]] realized that [[motivation]] is just focusing your thoughts on an idea until it is achieved.
+^[[[notes - What is achievement]]]
+In a way, meditation is a tried and tested way of influencing the world, that has been developed for thousands of years, and we are just starting to understand why it is so effective.
 
 ##### On a human level
 

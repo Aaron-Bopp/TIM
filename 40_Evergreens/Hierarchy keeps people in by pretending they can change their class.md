@@ -34,4 +34,4 @@ This can also be seen in [[capitalism]]:
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^299110304]]
+> ![[books - Sapiens#^299110304]]

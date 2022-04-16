@@ -25,4 +25,4 @@ This was the case for [[Alfred Irving]]
 
 #### References
 
-![[video_The Part of History You've always skipped neoslavery#Involuntary Servitude]]
+![[video - The Part of History You've always skipped neoslavery#Involuntary Servitude]]

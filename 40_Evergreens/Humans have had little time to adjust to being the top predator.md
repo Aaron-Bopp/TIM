@@ -37,4 +37,4 @@ explain:: [[Most anxiety isn't irrational it's just overcompensation]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#294248522q]]
+> ![[books - Sapiens#294248522q]]

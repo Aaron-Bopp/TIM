@@ -17,7 +17,7 @@ sr-ease: 190
 Since [[Concepts are the fundamental unit of knowledge]]
 [[conceptual notes]] are the most efficient way to organize your knowledge.
 [[Conceptual notes]] means that any new [[information]] should be easy to integrate
-^[[[Evergreen notes should be constantly integrating new knowledge]]]
+^[[[Evergreen notes should be updated over time]]]
 and connect to past [[knowledge]].
 ^[[[Evergreen notes organize knowledge so that it can grow]]]
 

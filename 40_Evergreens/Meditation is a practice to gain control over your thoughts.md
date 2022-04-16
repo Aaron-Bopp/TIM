@@ -13,7 +13,7 @@ sr-ease: 210
 #### [[Meditation is a practice to gain control over your thoughts]] 
 
 When [[Western philosophy|western]] researcher's started studying the science behind [[meditation]] and [[Yoga]] they tried to distill these practices into one thing:  [[mindfulness]]
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 
 There are many different styles of [[Yoga]], but at the core of all of the them is [[understanding]] and controlling your [[mind]] so that we can better live in the current moment.
 ^[[[Living in the present moment is valuable]]]
@@ -30,7 +30,7 @@ Because [[Mental health is a reaction to one's environment]], a practice that im
 ^[One such example is [[Meditation helps us gain awareness through detachment]] but all [[meditation]] helps this in some way.]
 
 Modern science has shown that these ancient practices have very powerful [[Neuroscience|neurological]] mechanisms in the [[brain]], and the [[meditation]] can have powerful impacts on our [[mental health]]. 
-^[[[notes_Science of Meditation]]]
+^[[[notes - Science of Meditation]]]
 Gaining control over your thoughts does not merely lie in the [[brain]] as there are many [[physiology|physiological]] mechanisms that impact this. 
 [[Meditation improves mental, physical, and emotional health]], but 
 [[Yoga]] combines [[meditation]] with [[discipline]] and practices that are enhanced and can enhance [[meditation]]:

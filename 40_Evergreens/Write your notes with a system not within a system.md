@@ -37,6 +37,6 @@ and [[When in doubt, write what you think]].
 
 #### References 
 
-> ![[articles_No, Luhmann was not about Folgezettel • Zettelkasten Method#^273533420]]
+> ![[articles - No, Luhmann was not about Folgezettel • Zettelkasten Method#^273533420]]
 
-> ![[articles_Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003290]]
+> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003290]]

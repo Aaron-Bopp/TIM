@@ -32,6 +32,6 @@ and then we will see that there is far more [[information]] supporting the more 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[books_Darwin's Cathedral#^306962108]]
+> ![[books - Darwin's Cathedral#^306962108]]
 
-> ![[books_Darwin's Cathedral#^306962122]]
+> ![[books - Darwin's Cathedral#^306962122]]

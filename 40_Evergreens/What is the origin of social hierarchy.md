@@ -40,6 +40,6 @@ but they know that the order is only real as long as we collectively believe it 
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681739]]
+> ![[books - Sapiens#^297681739]]
 
-> ![[books_Sapiens#^297681743]]
+> ![[books - Sapiens#^297681743]]

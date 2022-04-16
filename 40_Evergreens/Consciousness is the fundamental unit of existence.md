@@ -20,7 +20,7 @@ god,
 the [[universe]] was formed from an [[infinite]] sea of [[consciousness]] called [[Brahman]].
 
 This sea coalesced to become [[energy]] which coalesced to become [[matter]].
-^[[[notes_Metaphysics of Meditation]]]
+^[[[notes - Metaphysics of Meditation]]]
 This is how [[Meditation increases our ability to influence the world#On a spiritual level]],
 and is surprisingly similar to the modern theory of [[the Big Bang]].
 

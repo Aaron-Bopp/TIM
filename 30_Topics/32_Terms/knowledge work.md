@@ -27,7 +27,7 @@ sr-ease: 178
 	- Increase our understanding
 		- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 		- [[Most problems cannot be significantly understood through a single framework]]
-		- [[Evergreen notes should be constantly integrating new knowledge]]
+		- [[Evergreen notes should be updated over time]]
 		- [[The way systems work can create cognitive bias]]
 	- Become more efficient
 		- balance good and bad [[friction]]

@@ -31,7 +31,7 @@ Coming from an unloving home makes it hard to take in kindness or understand tha
 **Topics**:: [[human advancement]], [[self-soothing]], [[parents]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: ![[video_Existential Dread#Competence comes from empathic mirroring]]
+[^1]: ![[video - Existential Dread#Competence comes from empathic mirroring]]
 [^2]: [10:52](https://www.youtube.com/watch?v=upAdaOmiRX8#t=652.6708148474121)
 
 #### References

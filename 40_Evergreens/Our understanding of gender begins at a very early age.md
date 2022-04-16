@@ -35,4 +35,4 @@ This studied understanding of gender in children only reinforces the validity of
 **Topics**:: [[gender]], [[childhood]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender#Lifespan development]]
+[^1]: [[textbook - Hyde&Elsequest_pyschology of women and gender#Lifespan development]]

@@ -38,7 +38,7 @@ If our goal is [[equality]] or [[equity]], we need to ask
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681755]]
+> ![[books - Sapiens#^297681755]]
 
 ![[The Dawn of Everything by David Graeber#citation]]
-> ![[books_The Dawn of Everything#^71a788]]
+> ![[books - The Dawn of Everything#^71a788]]

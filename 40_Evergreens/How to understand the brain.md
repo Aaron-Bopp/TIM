@@ -19,12 +19,12 @@ These models are not useless, and can be good scaffolding to help us understand 
 
 > [!cite]- [[Behave by Robert M. Sapolsky]]
 > 
-> ![[books_Behave#^301731328]]
-> ![[books_Behave#^301731329]]
+> ![[books - Behave#^301731328]]
+> ![[books - Behave#^301731329]]
 
 ##### 5-layer model - [[Vedic Psychology]]
 
-![[notes_Vedic Psychology#^684d3e]]
+![[notes - Vedic Psychology#^684d3e]]
 
 
 

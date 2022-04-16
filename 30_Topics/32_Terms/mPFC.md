@@ -11,7 +11,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[mPFC]]</s> 
 
 Region in the [[brain]] that regulates [[attention]] and [[emotions|emotional]] information processing
-^[[[notes_Neuroscience of Anxiety]]]
+^[[[notes - Neuroscience of Anxiety]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

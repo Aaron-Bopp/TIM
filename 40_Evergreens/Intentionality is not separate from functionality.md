@@ -29,8 +29,8 @@ part of:: [[Human behavior is selective]]
 **Topics**:: [[human behavior]], [[functionalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-> ![[books_Darwin's Cathedral#^298293001]]
+> ![[books - Darwin's Cathedral#^298293001]]
 
-> ![[books_Darwin's Cathedral#^306962115]]
+> ![[books - Darwin's Cathedral#^306962115]]
 
-> ![[books_Darwin's Cathedral#^306962116]]
+> ![[books - Darwin's Cathedral#^306962116]]

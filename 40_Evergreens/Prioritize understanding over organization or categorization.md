@@ -13,7 +13,7 @@ sr-ease: 170
 #### [[Prioritize understanding over organization or categorization]] 
 
 > When you think in categories, you underestimate how different two facts are when they fall in the same category. When you think in categories, you overestimate how different they are when there happens to be a boundary in between them. And when you pay attention to categorical boundaries, you don't see big pictures. 
-> ^[[[course_Human Behavioral Biology]]]
+> ^[[[course - Human Behavioral Biology]]]
 >
 > <cite>[[Robert M. Sapolsky]]</cite>
 

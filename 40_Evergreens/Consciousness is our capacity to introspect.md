@@ -18,7 +18,7 @@ but while humans are the only ones to achieve it,
 just like our capacity to introspect.
 
 The [[Yogi|Yogis]] observed that we can only [[perception|perceive]] things that are separate from us, so because we can perceive our own thought, our [[consciousness]] must be separate from the [[mind]].
-^[[[notes_The Nature of Mind]]]
+^[[[notes - The Nature of Mind]]]
 This would mean that if something is impairing our ability to observe our own thoughts we are less [[consciousness|conscious]], 
 and if we are able to more easily observe our thoughts we are more [[consciousness|conscious]].
 
@@ -45,7 +45,7 @@ heal [[childhood]] wounds,
 overcome our emotional [[rationalizations]],
 ^[[[Meditation helps us gain control over our emotions]] helps with [[Rationalizations are defense-mechanisms against strong emotions]]]
 reach a [[flow state]] of [[friction|frictionless]] concentration,
-^[[[notes_The Nature of Mind]] helps with [[We will evolve when we make learning as easy as thinking]]]
+^[[[notes - The Nature of Mind]] helps with [[We will evolve when we make learning as easy as thinking]]]
 and finally a no-mind state known as [[Dhyana]].
 
 [[Meditation is a practice to develop a stronger consciousness]]

@@ -35,6 +35,6 @@ includes:: [[There is no direct relation between physical strength and social po
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^299523051]]
+> ![[books - Sapiens#^299523051]]
 
-> ![[books_Sapiens#^299572963]]
+> ![[books - Sapiens#^299572963]]

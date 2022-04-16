@@ -33,9 +33,9 @@ explains:: [[Evolutionary Psychology is just a framework not a prescription of b
 
 #### References
 
-> ![[books_Darwin's Cathedral#^303892911]]
+> ![[books - Darwin's Cathedral#^303892911]]
 
 
-> ![[books_Darwin's Cathedral#^302856335]]
+> ![[books - Darwin's Cathedral#^302856335]]
 
-> ![[books_Darwin's Cathedral#^303892933]]
+> ![[books - Darwin's Cathedral#^303892933]]

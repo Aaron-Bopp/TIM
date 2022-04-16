@@ -9,7 +9,7 @@
 		- [[evergreen notes]] 
 			- [[Evergreen notes organize knowledge so that it can grow]]
 			- [[Conceptual note is a better term than atomic note]]
-			- [[Evergreen notes should be constantly integrating new knowledge]]
+			- [[Evergreen notes should be updated over time]]
 	- [[second brain]]
 		- [[Your second brain should be an inspirational hub of creativity]]
 		- [[Your second brain should be frictionless access to a curated base of knowledge]]

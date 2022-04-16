@@ -9,7 +9,7 @@ tags: created/2022/04/08, node/source/reference
 
 **Creator**:: [[Bill Gates]]
  
-**Source**:: [[books_How to Avoid a Climate Disaster]]
+**Source**:: [[books - How to Avoid a Climate Disaster]]
 
 Gates, B. (2021). *How to avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need*
 

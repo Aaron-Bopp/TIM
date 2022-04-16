@@ -25,11 +25,11 @@ tags: created/2022/03/17, node/topic/term
 
 #### The darker side of foraging
 
-> ![[books_Sapiens#^296601915]]
+> ![[books - Sapiens#^296601915]]
 
 ### The end of foraging
 
-> ![[books_Sapiens#^297681720]]
+> ![[books - Sapiens#^297681720]]
 %% DO NOT EDIT BELOW %%
 
 #### Related 

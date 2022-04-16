@@ -24,7 +24,7 @@ The effects are
 - [[Humans yearn for a tool with no blood on it]]
 - [[Is cognitive dissonance the reason for harmful behaviors]]
 
-Example:: Me watching [[video_A brief history of quantom mechanics]]
+Example:: Me watching [[video - A brief history of quantom mechanics]]
 Example:: Me learning about [[The history of meditation is a mixture of science and spirituality]]
 
 ### <hr class="footnote"/>

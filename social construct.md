@@ -51,4 +51,4 @@ a social construct is the value behind ideas of what things are.
 
 #### Discussion
 
-![[video_Social Constructs Philosophy Tube#^video]]
+![[video - Social Constructs Philosophy Tube#^video]]

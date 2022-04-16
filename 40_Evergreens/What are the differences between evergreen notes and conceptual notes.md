@@ -27,7 +27,7 @@ I do not think that there is any universal size that you should aim for in [[not
 
 Far more important than size is how our notes should reflect the [[learning]] process. I think this is best exemplified in:
 - [[Evergreen notes organize knowledge so that it can grow]]
-- [[Evergreen notes should be constantly integrating new knowledge]]
+- [[Evergreen notes should be updated over time]]
 
 > [!note]
 > 

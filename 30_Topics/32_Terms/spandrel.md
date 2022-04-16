@@ -16,7 +16,7 @@ tags: created/2022/02/10, node/topic/term
 
 Used in [[Evolutionary Biology]] to describe traits that are present but haven't been selected for. Coined by Gould and Lewontin.
 
-In:: [[books_Darwin's Cathedral#294293305q|Darwin's Cathedral]]
+In:: [[books - Darwin's Cathedral#294293305q|Darwin's Cathedral]]
 
 **See**:: [[Sticky concepts]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

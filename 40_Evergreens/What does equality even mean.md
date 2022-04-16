@@ -14,7 +14,7 @@ sr-ease: 190
 
 %% first:: [[In what way are human's equal]] %%
 
-> ![[books_The Dawn of Everything#^261572336]]
+> ![[books - The Dawn of Everything#^261572336]]
 
 [[David Graeber]] suggests that it is not equal [[material conditions]] but equal access to contribute to decisions about our [[social order]] that should be our understanding of [[equality]].
 
@@ -30,4 +30,4 @@ sr-ease: 190
 
 ![[The Dawn of Everything by David Graeber#citation]]
 
-> ![[books_The Dawn of Everything#^261572339]]
+> ![[books - The Dawn of Everything#^261572339]]

@@ -13,7 +13,7 @@ sr-ease: 264
 
 #### [[Thomas Edison tried to make a record player out of concrete]]
 
-> ![[books_How to Avoid a Climate Disaster#^308344248]]
+> ![[books - How to Avoid a Climate Disaster#^308344248]]
 
 example of:: [[Experts are often far too confident in the effectiveness of their theories]]
 

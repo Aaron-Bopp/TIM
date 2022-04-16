@@ -36,4 +36,4 @@ part of:: [[Good friction causes the brain to engage]] and [[Your second brain s
 #### References 
 
 [[Zettelkasten]] is often lauded as ultra-efficient productivity tool, but it's greatest power might have just been the work it inspired.
-> ![[articles_The Money Is in the Hubs Johannes Schmidt on Luhmann’s Zettelkasten • Zettelkasten Method#^305244855]]
+> ![[articles - The Money Is in the Hubs Johannes Schmidt on Luhmann’s Zettelkasten • Zettelkasten Method#^305244855]]

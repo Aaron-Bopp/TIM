@@ -37,4 +37,4 @@ a second brain is a system of [[information]] storage that compliments, suppleme
 
 #### Discussion
 
-> ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190330]]
+> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190330]]

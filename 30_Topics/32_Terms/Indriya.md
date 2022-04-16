@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Indriya]]</s>
 
 Translated as sense organs, these are the medium through which our mind receives information from the world.
-^[[[notes_How to achieve]]]
+^[[[notes - How to achieve]]]
 
 Create:: [[Samskara]]
 

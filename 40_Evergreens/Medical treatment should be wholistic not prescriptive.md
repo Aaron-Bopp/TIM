@@ -15,7 +15,7 @@ sr-ease: 210
 This does not mean that we should not be using medication to manage and treat [[mental illness]], but that [[medication]] should just be a tool and not the end all be all.
 
 Most prescription medications like [[SSRI]]'s or [[Mirtazapine]] have side effects that can be just as impactful as their main effects. The job of the doctor is not just to prescribe the [[medication]] but to help the patient find a treatment plan that will most benefit their life.
-^[[[notes_Treatment Principles for Anxiety and Depression]]]
+^[[[notes - Treatment Principles for Anxiety and Depression]]]
 
 Many people including people like [[Dr. K]] have made the observation that [[Drugs may be being overprescribed]].
 This is 

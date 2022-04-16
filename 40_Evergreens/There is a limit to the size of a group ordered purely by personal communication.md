@@ -15,12 +15,12 @@ sr-ease: 230
 #TO/DO/CITE studies and research
 
 #TO/TEND/GRAFT 
-> ![[books_Sapiens#294248533q]]
+> ![[books - Sapiens#294248533q]]
 
 
-> ![[books_Sapiens#^297301077]]
+> ![[books - Sapiens#^297301077]]
 
-> ![[books_Darwin's Cathedral#^304185845]]
+> ![[books - Darwin's Cathedral#^304185845]]
 
 - part of:: [[What is the link between evolution and social behavior]]
 - This is why [[Religion promotes high social control]] is so important.

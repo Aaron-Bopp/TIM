@@ -12,7 +12,7 @@ sr-ease: 230
 
 #### [[When luxury becomes a necessity it is no longer a luxury]] 
 
-> ![[books_Sapiens#^297301087]]
+> ![[books - Sapiens#^297301087]]
 > <Cite>[[Yuval Noah Harari]]</Cite>
 
 - similarly:: [[The injustice of endurance]]

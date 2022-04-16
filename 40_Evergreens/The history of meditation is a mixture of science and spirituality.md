@@ -17,11 +17,11 @@ sr-ease: 190
 yet as we continue to reexamine ancient techniques such as [[Yoga]] and [[meditation]] and beliefs such as [[Buddhism]] and [[karma]] in the light of modern research we see them hold true.
 This could be attributed to [[survivorship bias]], but it could also be attributed to the methods that [[Yogi|Yogis]] used to examine and understand what they were teaching.
 
-#TO/TEND/GRAFT [[notes_Vedic Psychology]]
-- [[notes_History of Meditation]]
-- [[notes_Science of Meditation]]
-- [[notes_Intro to Mantra Practice]]
-- [[notes_Metaphysics of Meditation]]
+#TO/TEND/GRAFT [[notes - Vedic Psychology]]
+- [[notes - History of Meditation]]
+- [[notes - Science of Meditation]]
+- [[notes - Intro to Mantra Practice]]
+- [[notes - Metaphysics of Meditation]]
 
 ### <hr class="footnote"/>
 

@@ -19,7 +19,7 @@ the only real explanation we have for these differences are the opportunities an
 
 > [!example]- Examples from [[Behave by Robert M. Sapolsky]]
 > 
-> ![[books_Behave#^304866746]]
+> ![[books - Behave#^304866746]]
 
 - displayed in:: [[Colonization and slavery lead to generational disparities in black communities]]
 

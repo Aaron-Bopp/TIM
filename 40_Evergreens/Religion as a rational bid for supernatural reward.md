@@ -42,10 +42,10 @@ there may be a better solution such as
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books_Darwin's Cathedral#^294570949]]
+> ![[books - Darwin's Cathedral#^294570949]]
 
-> ![[books_Darwin's Cathedral#^298292989]]
+> ![[books - Darwin's Cathedral#^298292989]]
 
-> ![[books_Darwin's Cathedral#^295428836]]
+> ![[books - Darwin's Cathedral#^295428836]]
 
-> ![[books_Darwin's Cathedral#^295428837]]
+> ![[books - Darwin's Cathedral#^295428837]]

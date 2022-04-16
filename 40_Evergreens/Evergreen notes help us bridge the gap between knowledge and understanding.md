@@ -32,7 +32,7 @@ If we aren't actively working with something, we are going to forget it.
 This is a gift and a curse.
 With our memory we are constantly taking in new information and forgetting unneeded information,
 but with our notes we need to substitute for this with the hard work of 
-[[Evergreen notes should be constantly integrating new knowledge]].
+[[Evergreen notes should be updated over time]].
 Thankfully, [[Productivity tools are often most useful in how much work they inspire you to do]]
 and evergreen notes are usually addictive to work on because
 [[Humans are addicted to understanding]].

@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Dhyana]]</s> 
 
 A no-mind meditative state that typically follows [[dharana]].
-^[[[notes_Different Meditative Styles]]]
+^[[[notes - Different Meditative Styles]]]
 
 **See**:: [[meditation]], [[Dharana]], [[Samadhi]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -10,9 +10,9 @@ sr-ease: 212
 
 #### [[Complex emotions are imperfect understandings of primal urges]] 
 
-> ![[books_Darwin's Cathedral#^294094919]]
+> ![[books - Darwin's Cathedral#^294094919]]
 > 
-> <cite>[[books_Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]]</cite>
+> <cite>[[books - Darwin's Cathedral|Darwin's Cathedral by David Sloan Wilson]]</cite>
 
 Emotional responses are built into our [[biology]] but are seen through the lense of our daily lives.
 This is a logical approach as [[Biological processes can only give context to behavior not predict it]],

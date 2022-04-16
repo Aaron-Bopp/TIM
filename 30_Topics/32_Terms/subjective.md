@@ -12,7 +12,7 @@ sr-ease: 243
 
 #### <s class="topic-title">[[subjective]]</s>
 
-> ![[books_Sapiens#^297681753]]
+> ![[books - Sapiens#^297681753]]
 
 
 **See**:: [[objective]], [[inter-subjective]]

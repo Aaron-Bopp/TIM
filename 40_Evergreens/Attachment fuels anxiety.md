@@ -15,7 +15,7 @@ sr-ease: 190
 [[Emotional attachment]] is a major driver for [[attention]] and thus what we put [[energy]] into.
 If you are attached to some event in the future, 
 your [[brain]] will take advantage of that.
-^[[[The ultimate goal of the mind is to keep thinking]] and [[notes_Learned Anxiety]]]
+^[[[The ultimate goal of the mind is to keep thinking]] and [[notes - Learned Anxiety]]]
 Where [[anxiety]] comes in is when you lack [[confidence]] about that thing you are attached to, see
 [[Anxiety stems from a lack of confidence for the future]]. 
 
@@ -29,7 +29,7 @@ you can prevent the negative effects of
 [[Anxiety tries to make us assume the worst]].
 This is why [[emotional detachment]] is so powerful for reducing [[anxiety]],
 it allows you to gain both of these things and break off your brain's connection to it's food source.
-^[[[notes_Learned Anxiety]]]
+^[[[notes - Learned Anxiety]]]
 
 ### <hr class="footnote"/>
 

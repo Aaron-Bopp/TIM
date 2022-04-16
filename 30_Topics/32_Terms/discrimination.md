@@ -11,7 +11,7 @@ sr-ease: 241
 #### <s class="topic-title">[[discrimination]]</s>
 
 A generalized negative treatment towards a group or a member of group
-^[[[course_Psychology of Race and Gender]]]
+^[[[course - Psychology of Race and Gender]]]
 
 ##### ^dataviews
 

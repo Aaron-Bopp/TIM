@@ -20,5 +20,5 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[notes_OS_Operating Systems]]
+[^1]: [[notes - OS_Operating Systems]]
 

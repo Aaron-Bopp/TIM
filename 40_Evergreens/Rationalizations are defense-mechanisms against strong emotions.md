@@ -17,7 +17,7 @@ If you are unable to feel your [[emotions]],
 it is actually more likely that you are being irrational,
 are your emotions are still likely [[subconscious|subconsciously]] effecting you,
 and you are not accounting for that bias.
-^[[[video_How logical thinking leads to irrationality]]]
+^[[[video - How logical thinking leads to irrationality]]]
 
 part of:: [[Our ego is our subconscious defense of our self]]
 

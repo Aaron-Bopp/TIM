@@ -12,8 +12,8 @@ sr-ease: 230
 
 #### [[Halley didn't discover his comet he just recognized it and predicted it's arrival]] 
 
-> ![[books_The Anthropocene Reviewed#285888565q]]
-> ![[books_The Anthropocene Reviewed#285888566q]]
+> ![[books - The Anthropocene Reviewed#285888565q]]
+> ![[books - The Anthropocene Reviewed#285888566q]]
 
 ### <hr class="footnote"/>
 

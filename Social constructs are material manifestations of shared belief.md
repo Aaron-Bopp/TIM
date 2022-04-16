@@ -30,4 +30,4 @@ explained by:: [[Social order is built off of a shared belief in an imagined rea
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
-![[video_Social Constructs Philosophy Tube#^video]]
+![[video - Social Constructs Philosophy Tube#^video]]

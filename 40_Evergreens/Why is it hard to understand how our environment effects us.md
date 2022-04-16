@@ -12,7 +12,7 @@ sr-ease: 170
 
 #### [[Why is it hard to understand how our environment effects us]] 
 
-> ![[books_How to Avoid a Climate Disaster#^308344233]]
+> ![[books - How to Avoid a Climate Disaster#^308344233]]
 > 
 > <cite>[[David Foster Wallace]]</cite>
 
@@ -31,7 +31,7 @@ Harari's answer is:
 Other possible reasons:
 - We are indoctrinated
 - We can't objectively observe what we are a part of
-- We want to believe ^[[[books_Sapiens#^297681750]]]
+- We want to believe ^[[[books - Sapiens#^297681750]]]
 - We are materially affected by this [[social order]]
 - We want to change this [[social order]]?
 - The fact that it is imagined doesn't change anything about it
@@ -50,11 +50,11 @@ I think that in modern times we have for the most part realized that we live in 
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681749]]
+> ![[books - Sapiens#^297681749]]
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books_Darwin's Cathedral#^298292985]]
+> ![[books - Darwin's Cathedral#^298292985]]
 
-> ![[books_Darwin's Cathedral#^298292987]]
+> ![[books - Darwin's Cathedral#^298292987]]
 

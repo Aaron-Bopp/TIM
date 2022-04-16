@@ -27,6 +27,6 @@ WHERE contains(topics, this.file.link)
 %% DO NOT EDIT ABOVE %%
 
 #### Discussion
-> ![[articles_A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244870]]
+> ![[articles - A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244870]]
 
-> ![[articles_A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244871]]
+> ![[articles - A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244871]]

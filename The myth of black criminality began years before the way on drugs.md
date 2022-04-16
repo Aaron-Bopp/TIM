@@ -23,4 +23,4 @@ White southerners used [[black codes]] to convince White northerners that black 
 
 #### References
 
-![[video_The Part of History You've always skipped neoslavery#Jim crow]]
+![[video - The Part of History You've always skipped neoslavery#Jim crow]]

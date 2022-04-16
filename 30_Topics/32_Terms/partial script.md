@@ -10,7 +10,7 @@ tags: created/2022/03/19, node/topic/term
 #### <s class="topic-title">[[partial script]]</s>
 
 Writing that represents a limited amount of [[information]], usually pertaining to a specific field.
-^[[[books_Sapiens#^298648752]]]
+^[[[books - Sapiens#^298648752]]]
 
 **See**:: [[full script]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

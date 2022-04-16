@@ -27,7 +27,7 @@ Is there a difference between this and [[What is the origin of religion]]
 ##### Why do these work?
 
 
-> ![[books_Darwin's Cathedral#^292550152]]
+> ![[books - Darwin's Cathedral#^292550152]]
 
 Answers:
 - [[Human behavior is selective]]
@@ -42,16 +42,16 @@ Answers:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[books_Darwin's Cathedral#^292550150]]
+> ![[books - Darwin's Cathedral#^292550150]]
 
 > [!cite] [[David Sloan Wilson]]'s view of [[belief systems]]
 > 
-> ![[books_Darwin's Cathedral#^304185847]]
-> ![[books_Darwin's Cathedral#^304185848]]
-> ![[books_Darwin's Cathedral#^304185849]]
-> ![[books_Darwin's Cathedral#^304185850]]
-> ![[books_Darwin's Cathedral#^304185851]]
-> ![[books_Darwin's Cathedral#^304185852]]
+> ![[books - Darwin's Cathedral#^304185847]]
+> ![[books - Darwin's Cathedral#^304185848]]
+> ![[books - Darwin's Cathedral#^304185849]]
+> ![[books - Darwin's Cathedral#^304185850]]
+> ![[books - Darwin's Cathedral#^304185851]]
+> ![[books - Darwin's Cathedral#^304185852]]
 
 
 

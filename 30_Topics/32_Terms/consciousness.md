@@ -34,7 +34,7 @@ In:: [[Yoga|Yogic philosophy]],
 consciousness is the observer of thought, or the ability to observe.
 If something is observing the action of [[mind]], it must be outside the mind. 
 [[Sakshi Bhava]] or [[mindfulness]] is the capacity to observe this objectively
-^[[[notes_The Nature of Mind]]]
+^[[[notes - The Nature of Mind]]]
 We can see this exemplified in [[Vedic Psychology]], which does not include consciousness as part of it's model of the mind.
 
 Other philosophical disciplines may say that the ability to observe ones thoughts is instead [[self-awareness]] or [[qualia]], and that consciousness is an inherent state rather than an ability. Perhaps this is solved by making consciousness and inherent but variable ability: [[Consciousness is our capacity to introspect]]

@@ -13,7 +13,7 @@ sr-ease: 210
 #### [[How memory works]] 
 
 
-> ![[books_Sapiens#^298648743]]
+> ![[books - Sapiens#^298648743]]
 
 Terms:: [[Forgetting Curve]], [[Active Recall]]
 
@@ -21,7 +21,7 @@ Terms:: [[Forgetting Curve]], [[Active Recall]]
 
 [Marty Lobdell - Study Less Study Smart - YouTube](https://youtu.be/IlU-zDU6aQ0) #TO/EXPLORE/WATCH 
 
-- [[notes_Vidya and Jnana]]
+- [[notes - Vidya and Jnana]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 - [[Time is a valuable mode in a second brain]]
 - [[Use spaced repetition as a memory tool for your second brain]]

@@ -18,7 +18,7 @@ A system of [[Yoga]] that focuses on [[meditation]] on the [[Chakra]]s in order 
 - [[Vishuddha Chakra]] - if you are struggling to affect change on the world ([[inter-personal communication]], [[human behavior]])
 - [[Ajna Chakra]] - if you are struggling with intuition and understanding people
 - [[Sahasrara Chakra]] - this is the final step that you achieve when you achieve [[enlightenment]]
-^[[[notes_Different Meditative Styles]]]
+^[[[notes - Different Meditative Styles]]]
 
 **See**:: [[struggle]], [[Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

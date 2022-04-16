@@ -15,9 +15,9 @@ sr-ease: 243
 
 This is why energy from the sun can get to [[Earth]], but then gets trapped inside the atmosphere. This is significant for life, but as we have released more [[greenhouse gases]] we have been messing with the balance between energy being retained and escaping.
 
-> ![[books_How to Avoid a Climate Disaster#^306587590]]
+> ![[books - How to Avoid a Climate Disaster#^306587590]]
 
-> ![[books_How to Avoid a Climate Disaster#^306587595]]
+> ![[books - How to Avoid a Climate Disaster#^306587595]]
 
 ### <hr class="footnote"/>
 
@@ -30,4 +30,4 @@ This is why energy from the sun can get to [[Earth]], but then gets trapped insi
 #### References
 
 [[How to Avoid a Climate Disaster by Bill Gates#^citation]]
-> ![[books_How to Avoid a Climate Disaster#^306587582]]
+> ![[books - How to Avoid a Climate Disaster#^306587582]]

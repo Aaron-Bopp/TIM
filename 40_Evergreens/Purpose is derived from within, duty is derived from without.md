@@ -16,8 +16,8 @@ Purpose is not something that can be given to us, it is something we have to cho
 [[How to discover your purpose in life]]
 
 #TO/TEND/GRAFT 
-- [[notes_Dharma]] [[notes_Karma]] 
-- [[notes_How to achieve]]
+- [[notes - Dharma]] [[notes - Karma]] 
+- [[notes - How to achieve]]
 - [[Humans are drawn to the unknown and repelled by the known]]
 - [[Be the change you want to see in the world]]
 - [[Growing up is being able to articulate the hope more than the hopelessness]]

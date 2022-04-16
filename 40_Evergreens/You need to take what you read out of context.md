@@ -41,4 +41,4 @@ in addition to::[[You need to teach yourself what you read]]
 #### References
 
 Instead of following the path laid out by the author, try to did down into the concepts they are describing.
-> ![[articles_Create Zettel From Reading Notes According to the Principle of Atomicity • Zettelkasten Method#^305310565]]
+> ![[articles - Create Zettel From Reading Notes According to the Principle of Atomicity • Zettelkasten Method#^305310565]]

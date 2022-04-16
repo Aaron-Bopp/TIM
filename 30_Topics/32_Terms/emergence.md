@@ -9,7 +9,7 @@ tags: created/2022/03/13, node/topic/term
 
 #### <s class="topic-title">[[emergence]]</s>
 
- ![[images!xkcd_435.png]]
+ ![[images!xkcd - 435.png]]
 > [!wikipedia] [emergence](https://en.wikipedia.org/wiki/Emergence)
 > 
 > Emergence occurs when an entity is observed to have properties its parts do not have on their own, properties or behaviors which emerge only when the parts interact in a wider whole.
@@ -45,4 +45,4 @@ tags: created/2022/03/13, node/topic/term
 #### Discussion
 
  
-> ![[books_The Fabric of Reality#^287471892]]
+> ![[books - The Fabric of Reality#^287471892]]

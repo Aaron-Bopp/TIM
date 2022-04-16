@@ -13,7 +13,7 @@ sr-ease: 170
 #### [[Social control promotes highly altruistic behavior within groups]] 
 
 
-> ![[books_Darwin's Cathedral#^289554239]]
+> ![[books - Darwin's Cathedral#^289554239]]
 
 Social control reduces the amount of within-group selection by promoting behavior that benefits the group. This allows behaviors that are highly-altruistic or highly-selfless to evolve.
 
@@ -34,7 +34,7 @@ and [[reciprocal altruism]] which would predict that individuals would only act 
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books_Darwin's Cathedral#^291449826]]
-> ![[books_Darwin's Cathedral#^291449823]]
+> ![[books - Darwin's Cathedral#^291449826]]
+> ![[books - Darwin's Cathedral#^291449823]]
 
-> ![[books_Darwin's Cathedral#^291449827]]
+> ![[books - Darwin's Cathedral#^291449827]]

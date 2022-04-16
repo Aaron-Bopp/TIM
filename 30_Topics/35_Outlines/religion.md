@@ -31,4 +31,4 @@ aliases:
 
 #### Discussion
 
-> ![[tweets_Tweets From Marc Andreessen#^301857298]]
+> ![[tweets - Tweets From Marc Andreessen#^301857298]]

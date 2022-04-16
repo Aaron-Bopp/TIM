@@ -28,7 +28,7 @@ This is not to say that [[Yoga]] promises to make us all sorcerers.
 but their practice is culmination of [[Right kinds of thoughts lead to right kinds of actions]]. 
 
 [[Raja Yoga]] focuses on helping you make those right thoughts and actions into a reality with practices that will improve your life and view of the world.
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 - Actions for improving your interaction with the world
 	1. [[Yama]] pure standards; how we observe the world
 	2. [[Niyama]] good morals; how we make our way through the world

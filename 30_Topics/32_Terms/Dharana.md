@@ -10,10 +10,10 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Dharana]]</s> 
 
 A focusing technique that can lead to reach deeper states of [[meditation]].
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 
 Dharana is training to keep your mind focused on one point or thought.
-^[[[notes_Origin of Motivation]]]
+^[[[notes - Origin of Motivation]]]
 
 **See**:: [[meditation]], [[Dhyana]], [[Samadhi]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

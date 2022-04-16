@@ -18,7 +18,7 @@ What are the methods that keep our [[society]] from collapsing (or keep it in a 
 
 If we believe [[Social order is built off of a shared belief in an imagined reality]] then we must believe that there is a connection between our shared [[belief]] and the maintenance of our [[material conditions]].
 [[Yuval Noah Harari]] believes our belief in myths is this connection and that losing these beliefs would shake and change our [[social order]].
-^[[[books_Sapiens#^297681744]]]
+^[[[books - Sapiens#^297681744]]]
 The problem is that even if we could change the mind of every person on the planet, it would not change the world we live in until we acted.
 While the social order was built through shared imagination, it cannot be changed through imagination, it can only be changed through action.
 
@@ -34,8 +34,8 @@ i.e. cynics don't build empires.
 
 > [!cite]- [[Sapiens by Yuval Noah Harari]]
 > 
-> ![[books_Sapiens#^297681745]]
-> ![[books_Sapiens#^297681746]]
+> ![[books - Sapiens#^297681745]]
+> ![[books - Sapiens#^297681746]]
 
 This is part of why [[There is no direct relation between physical strength and social power]] 
 
@@ -45,11 +45,11 @@ This allows you to enforce the [[belief]] and the [[behavior]] in some sort of [
 [[Yuval Noah Harari]] says that one key to maintaining a [[Imagined order]] is
 to never admit the order is imaginary.
 This is important in the way that hierarchies are maintained:
-^[[[books_Sapiens#^299110301]]]
+^[[[books - Sapiens#^299110301]]]
 [[What is the origin of social hierarchy]]
 
-[[David Sloan Wilson]] backs this up in his book [[books_Darwin's Cathedral|Darwin's Cathedral]], citing mutual vigilance and social control as the way we achieve [[social order]].
-^[[[books_Darwin's Cathedral#^295490297]]]
+[[David Sloan Wilson]] backs this up in his book [[books - Darwin's Cathedral|Darwin's Cathedral]], citing mutual vigilance and social control as the way we achieve [[social order]].
+^[[[books - Darwin's Cathedral#^295490297]]]
 
 This also makes this 
 part of:: [[What is the origin of religion]]

@@ -22,7 +22,7 @@ includes:: [[How does culture effect social incentives]]
 
 ##### [[Collectivism|Collectivist]]
 
-> ![[books_Behave#^304866742]]
+> ![[books - Behave#^304866742]]
 
 ### <hr class="footnote"/>
 

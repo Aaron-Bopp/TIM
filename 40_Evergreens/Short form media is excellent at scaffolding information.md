@@ -19,7 +19,7 @@ This is counterintuitive, but is shown by the [[success]] of educational content
 
 - [[Why is evergreen note-taking SO GOOD]]
 
-> ![[articles_Six Kinds of Reading#305789833]]
+> ![[articles - Six Kinds of Reading#305789833]]
 
 ### <hr class="footnote"/>
 

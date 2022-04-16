@@ -11,7 +11,7 @@ tags: created/2021/12/29, node/topic/term
 
 It is an [[eastern philosophy|eastern system]] of [[spirituality]] that focuses on harnesses "Shiva" or cosmic [[consciousness]], and "Shakti" or energy, to manifest something in the world.
 ![[Pasted image 20211229224350.png]]
- ^[[[notes_History of Meditation]]]
+ ^[[[notes - History of Meditation]]]
 
 **See**:: [[Yoga]], [[mantra]], [[Yantra]], [[Yajna]], [[Vajrayana Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

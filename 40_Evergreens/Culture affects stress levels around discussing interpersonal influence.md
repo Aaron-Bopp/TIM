@@ -12,9 +12,9 @@ sr-ease: 246
 
 #### [[Culture affects stress levels around discussing interpersonal influence]] 
 
-> ![[books_Behave#^304866741]]
+> ![[books - Behave#^304866741]]
 
-> ![[books_Behave#^304866738]]
+> ![[books - Behave#^304866738]]
 
 - answers:: [[How does culture effect social incentives]]
 

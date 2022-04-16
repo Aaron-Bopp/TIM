@@ -10,7 +10,7 @@ tags: created/2022/03/19, node/topic/term
 #### <s class="topic-title">[[full script]]</s>
 
 Writing that aims to represent every idea that can be expressed in a given [[language]].
-^[[[books_Sapiens#^298648752]]]
+^[[[books - Sapiens#^298648752]]]
 
 
 **See**:: [[partial script]]

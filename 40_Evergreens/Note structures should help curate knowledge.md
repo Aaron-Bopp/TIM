@@ -34,4 +34,4 @@ This is a big part of how you [[Write your notes like you're planting an evergre
 
 #### References
 
-> ![[articles_Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
+> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]

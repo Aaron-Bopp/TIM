@@ -52,4 +52,4 @@ because [[Communities are knowledge graphs]].
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[articles_Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
+> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]

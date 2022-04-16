@@ -12,7 +12,7 @@ sr-ease: 150
 
 #### [[It is valuable to admit that you might be wrong]] 
 
-> [[Science]] doesn't stop when it comes up with a nice answer. It looks for more data. It comes up with new ideas. It's willing to admit that it might be wrong ^[[[video_From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]]
+> [[Science]] doesn't stop when it comes up with a nice answer. It looks for more data. It comes up with new ideas. It's willing to admit that it might be wrong ^[[[video - From MIT to Specola Vaticana Guy Consolmagno at TEDxViadellaConciliazione]]]
 >
 > <cite>[[Guy Consolmagno]]</cite>
 

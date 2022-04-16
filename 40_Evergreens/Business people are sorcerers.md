@@ -13,8 +13,8 @@ sr-ease: 230
 #### [[Business people are sorcerers]] 
 
 
-> ![[books_Sapiens#^294248535]]
-> ![[books_Sapiens#^294248536]]
+> ![[books - Sapiens#^294248535]]
+> ![[books - Sapiens#^294248536]]
 
 ### <hr class="footnote"/>
 

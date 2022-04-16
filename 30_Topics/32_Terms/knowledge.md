@@ -43,7 +43,7 @@ sr-ease: 244
 
 #### Discussion
 Has been separated into two types by [[Yogi]]s
-^[[[notes_Vidya and Jnana]]]
+^[[[notes - Vidya and Jnana]]]
 - [[Vidya]] == [[information]], [[objective]], transmissible
 - [[Jnana]] == [[understanding]], [[subjective]], non-transmissible 
 

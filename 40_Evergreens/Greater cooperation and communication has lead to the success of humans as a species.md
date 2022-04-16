@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[Greater cooperation and communication has lead to the success of humans as a species]] 
 
-> Ever since the [[Cognitive Revolution]], [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate.  ^[[[books_Sapiens#^294248540]]]
+> Ever since the [[Cognitive Revolution]], [[Homo sapiens]] has been able to revise its [[behavior]] rapidly in accordance with changing needs. This opened a fast lane of [[cultural evolution]], bypassing the traffic jams of genetic [[evolution]]. Speeding down this fast lane, [[Homo sapiens]] soon far outstripped all other human and animal species in its ability to cooperate.  ^[[[books - Sapiens#^294248540]]]
 >
 > <cite>[[Sapiens by Yuval Noah Harari]]</cite>
 
@@ -23,7 +23,7 @@ by tracing back to the very beginning of [[human evolution]]
 we can see that they are what allowed [[homo sapiens]] 
 to slowly overtake and outcompete every of other species of human. 
 
-In [[books_Sapiens|Sapiens by Yuval Noah Harari]], this take over by [[homo sapiens]] is termed the [[Cognitive Revolution]] where our increased ability for cooperation, [[language]], and thought allowed us to outcompete our contemporary humans.
+In [[books - Sapiens|Sapiens by Yuval Noah Harari]], this take over by [[homo sapiens]] is termed the [[Cognitive Revolution]] where our increased ability for cooperation, [[language]], and thought allowed us to outcompete our contemporary humans.
 
 Our increased cognitive abilities allowed us to create an [[imagined reality]] that allowed us to cooperate and adapt at a faster rate.
 This was the very beginning of our [[social order]] that would evolve for the next 300,000 years.
@@ -50,9 +50,9 @@ like [[Humans love to group eachother]].
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^294248540]]
+> ![[books - Sapiens#^294248540]]
 
-> ![[books_Sapiens#294248541q]]
+> ![[books - Sapiens#294248541q]]
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
-> ![[books_Darwin's Cathedral#291449823q]]
+> ![[books - Darwin's Cathedral#291449823q]]

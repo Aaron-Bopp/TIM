@@ -20,7 +20,7 @@ Most of the problems in modern society cannot be understood, let alone solved by
 and yet
 [[Experts are often far too confident in the effectiveness of their theories]].
 
-[[evergreen notes]] try to be wary against this: [[Evergreen notes should be constantly integrating new knowledge]]
+[[evergreen notes]] try to be wary against this: [[Evergreen notes should be updated over time]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

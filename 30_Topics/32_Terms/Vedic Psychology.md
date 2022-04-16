@@ -13,7 +13,7 @@ sr-ease: 241
 #### <s class="topic-title">[[Vedic Psychology]]</s> 
 
 The [[Yoga|Yogic]] model of the [[mind]] and its faculties.
-^[[[notes_Vedic Psychology]]]
+^[[[notes - Vedic Psychology]]]
 
 The five layers of the [[mind]]
 - [[Manas]] - [[emotions]]

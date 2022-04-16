@@ -30,4 +30,4 @@ leads to:: [[Foraging allowed for a diverse diet]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#294248523q]]
+> ![[books - Sapiens#294248523q]]

@@ -20,7 +20,7 @@ sr-ease: 231
 > Methodological individualism is often contrasted with [[methodological holism]] and [[methodological pluralism]].
 >
 
-> ![[books_Darwin's Cathedral#^297089493]]
+> ![[books - Darwin's Cathedral#^297089493]]
 
 
 ##### ^dataviews

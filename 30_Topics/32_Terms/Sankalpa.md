@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Sankalpa]]</s> 
 
 It is an intention or resolve that you can implant deep within your [[mind]] to aid you in attaining your goals.
-^[[[notes_Working with Samskaras]]]
+^[[[notes - Working with Samskaras]]]
 
 **See**:: [[Samskara]], [[emotions]], [[Yoga Nidra]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

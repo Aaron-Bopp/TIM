@@ -12,7 +12,7 @@ sr-ease: 230
 
 #### [[Language shapes our intuition]] 
 
-> ![[books_Sapiens#^299110285]]
+> ![[books - Sapiens#^299110285]]
 > <cite>[[Yuval Noah Harari]]</cite>
 
 #TO/DO/CITE how people who speak in different languages think differently
@@ -21,7 +21,7 @@ sr-ease: 230
 - explains:: [[Names matter because they effect people's perception and understanding]]
 - similarly:: [[Writing is a catalyst of understanding]]
 
-> ![[books_Behave#^301593493]]
+> ![[books - Behave#^301593493]]
 
 ### <hr class="footnote"/>
 

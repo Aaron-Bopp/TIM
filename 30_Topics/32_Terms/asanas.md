@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[asanas]]</s> 
 
 Asanas are [[Yoga]] postures.
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

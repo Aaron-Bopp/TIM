@@ -18,7 +18,7 @@ tags: created/2021/10/11, node/topic/tool
 | af      | visual mode command which selects increasingly large blocks of text. For example, if you had "blah (foo [bar 'ba                          z'])" then it would select 'baz' first. If you pressed af again, it'd then select [bar 'baz'], and if you did it a third time it would select "(foo [bar 'baz'])". |
 | gh      | equivalent to hovering your mouse over wherever the cursor is. Handy for seeing types and error messages without reaching for the mouse!"                                                                                                                                                                    |
 
-<cite>[[articles_VSCodeVimVim Vim for Visual Studio Code|github.com]]</cite>
+<cite>[[articles - VSCodeVimVim Vim for Visual Studio Code|github.com]]</cite>
 
 # A tale as old as Vim
 ![[Pasted image 20211116002504.png|ctr|400]]

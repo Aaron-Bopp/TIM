@@ -17,10 +17,10 @@ However, this new dialect is one created and used primarily on the [[internet]].
 
 The internet gives access to more supporters and more detractors. This means that the average person experiences far more [[scrutiny]] on the internet than off. 
 ^[This might be the link between the [[internet]], [[Increases in scrutiny lead to increases in anxiety]], and [[There has been a decrease in mental health not an increase in mental illness]]]
-[[video_Aesop didn't know about Meta-Irony]] discusses the more negative aspects of this, and how it has lead to a rise in a more ambiguous form of [[irony]], [[meta-irony]].
+[[video - Aesop didn't know about Meta-Irony]] discusses the more negative aspects of this, and how it has lead to a rise in a more ambiguous form of [[irony]], [[meta-irony]].
 
 This ambiguity has also lead to the more absurdist or "random xd" style of humor 
-^[[[video_What makes gen z humor so interesting]]]
+^[[[video - What makes gen z humor so interesting]]]
 
 Meta-irony is used to obfuscate your true meaning, whether for humor or power.
 

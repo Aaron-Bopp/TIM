@@ -12,7 +12,7 @@ sr-ease: 229
 
 #### [[Natural selection is a designing agent]] 
 
-> ![[books_Darwin's Cathedral#^297089499]]
+> ![[books - Darwin's Cathedral#^297089499]]
 
 Despite the simple origins of genetic variation, the process of [[natural selection]] that results from them is not.
 Selection is a complicated process that involves aspects at every level of complexity, from interactions between cells, to between individuals, to between populations.
@@ -34,10 +34,10 @@ Selection is a complicated process that involves aspects at every level of compl
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books_Darwin's Cathedral#^298293000]]
+> ![[books - Darwin's Cathedral#^298293000]]
 
-> ![[books_Darwin's Cathedral#^302856334]]
+> ![[books - Darwin's Cathedral#^302856334]]
 
-> ![[books_Darwin's Cathedral#^306962119]]
+> ![[books - Darwin's Cathedral#^306962119]]
 
-> ![[books_Darwin's Cathedral#^304185872]]
+> ![[books - Darwin's Cathedral#^304185872]]

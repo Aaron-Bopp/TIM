@@ -21,4 +21,4 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[videos_Linear algebra_3Blue1Brown]]
+[^1]: [[videos - Linear algebra_3Blue1Brown]]

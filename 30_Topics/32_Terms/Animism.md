@@ -9,11 +9,11 @@ tags: created/2022/03/16, node/topic/term
 
 #### <s class="topic-title">[[Animism]]</s>
 
-> ![[books_Sapiens#^296601907]]
+> ![[books - Sapiens#^296601907]]
 
-> ![[books_Sapiens#^296601916]]
+> ![[books - Sapiens#^296601916]]
 
-> ![[books_Darwin's Cathedral#^295428839]]
+> ![[books - Darwin's Cathedral#^295428839]]
 
 > [!wikipedia] [Animism](https://en.wikipedia.org/wiki/Animism)
 > 

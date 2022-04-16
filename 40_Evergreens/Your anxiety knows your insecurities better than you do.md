@@ -59,7 +59,7 @@ Material insecurity can create this sensation: [[Insecure material conditions in
 
 %%
 #TO/EXPLORE/RESEARCH is there a threshold where so many of you [[Hierarchy of needs]] are met that you have no choice but to fall into [[existential dread]]
-- [[video_Existential Dread]]
+- [[video - Existential Dread]]
 %%
 
 %% 

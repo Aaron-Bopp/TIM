@@ -13,7 +13,7 @@ sr-ease: 170
 #### [[Anxiety tries to make us assume the worst]] 
 
 [[Anxiety]] creates black and white thinking due to it's [[Neuroscience|neurological]] relation to the [[fight-or-flight response]].
-^[[[notes_Anxiety 101]]]
+^[[[notes - Anxiety 101]]]
 This is part of how [[Our brains are built around survival]],
 but it also causes us to reject nuance in modern social situations.
 
@@ -23,7 +23,7 @@ but while that reassurance is helpful in the moment it doesn't hit at the root o
 As people's [[anxiety]] continues to manifest they will seek more and more reassurance,
 even though the more the receive the less impactful it is. They won't be able to see that asking repeatedly is detrimental,
 and when they stop receiving the continued assurance they will perceive it as rejection.
-^[[[notes_Responses to Anxiety]]]
+^[[[notes - Responses to Anxiety]]]
 
 This becomes very dangerous when combined with
 [[Your anxiety is telling you everything that could go wrong, not what will go wrong]].

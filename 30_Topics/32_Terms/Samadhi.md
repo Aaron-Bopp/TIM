@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Samadhi]]</s> 
 
 It is a temporary state of [[enlightenment]], where you experience your true [[self]].
-^[[[notes_Different Meditative Styles]]]
+^[[[notes - Different Meditative Styles]]]
 
 **See**:: [[meditation]], [[Dhyana]], [[Dharana]], [[Moksha]], [[Raja Yoga]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

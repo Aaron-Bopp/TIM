@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Theravada Buddhism]]</s> 
 
 A major branch of [[Buddhism]] that originates from the Pali canon, which is a set of texts that adhere to the [[Buddha]]'s original teachings very closely.
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 
 **See**:: [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -25,10 +25,10 @@ Many people look to [[Evolution]] to provide the explanations for our [[behavior
 This is because for years [[Evolutionary Psychology]] has been claiming to have found "the gorging gene" or "the aggression gene,"
 but [[Evolutionary Psychology is just a framework not a prescription of behavior]].
 
-[[David Sloan Wilson]] speaks in detail about this in his book [[books_Darwin's Cathedral|Darwin's Cathedral]]
+[[David Sloan Wilson]] speaks in detail about this in his book [[books - Darwin's Cathedral|Darwin's Cathedral]]
 
 > Psychologists should be trying to identify and understand these specialized circuits [that enable us to solve our own problems of survival and reproduction] rather than pretending that [[human behavior]] can be derived from a few law-like mechanistic principles. 
-> ^[[[books_Darwin's Cathedral#292537218q]]]
+> ^[[[books - Darwin's Cathedral#292537218q]]]
 
 We will likely never be able to fully predict behavior based of of individual genes, but it is undeniable that that we can explain some behaviors through [[Neuroscience]] and [[natural selection]]. 
 ^[Keep in mind [[Most problems cannot be significantly understood through a single framework]]. This has been in the downfall of many great scientists because [[Experts are often far too confident in the effectiveness of their theories]]]

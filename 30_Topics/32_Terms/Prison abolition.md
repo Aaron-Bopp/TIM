@@ -13,7 +13,7 @@ sr-ease: 231
 #### <s class="topic-title">[[Prison abolition]]</s>
 
 
-> ![[articles_Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress#212884910q]]
+> ![[articles - Summary, part 1 & 2  We Do This 'Til We Free Us  Study Guide — Radical in Progress#212884910q]]
 
 
 ##### ^dataviews

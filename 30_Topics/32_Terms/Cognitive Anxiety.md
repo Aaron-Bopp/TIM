@@ -13,7 +13,7 @@ sr-ease: 253
 #### <s class="topic-title">[[Cognitive Anxiety]]</s> 
 
 Broadly defined as “negative expectations, worries, and concerns about oneself, the situation at hand, and potential consequences” and “the perception of one's physiological arousal.”
-^[[[notes_Anxiety 101]]]
+^[[[notes - Anxiety 101]]]
 
 **See**:: [[Neuroscience]], [[Psychology]], [[anxiety]], [[Physiologic Anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

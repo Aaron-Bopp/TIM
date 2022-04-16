@@ -14,7 +14,7 @@ tags: created/2022/01/30, node/topic/person
 ### Video courses
 
 - [Sapolsky, Robert. Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D), 25 lectures (Last 2 lectures were not taped / included in the official Stanford playlist but older versions/tapings of those lectures are available [here](https://www.youtube.com/watch?v=4WwAQqWUkpI&list=PLqeYp3nxIYpF7dW7qK8OvLsVomHrnYNjD&index=27)).
-	- [[course_Human Behavioral Biology]]
+	- [[course - Human Behavioral Biology]]
 
 ```dataview
 TABLE 

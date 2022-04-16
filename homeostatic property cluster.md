@@ -13,7 +13,7 @@ sr-ease: 231
 #### <s class="topic-title">[[homeostatic property cluster]]</s>
 
 The properties that make something a "thing" if it has enough of them.
-^[[[video_Social Constructs Philosophy Tube]]]
+^[[[video - Social Constructs Philosophy Tube]]]
 
 > Homeostatic property clusters (HPCs) **occur when mechanisms exist that cause the properties to cluster by ensuring that deviations from the cluster have a low chance of persisting**; the presence of some of the properties in the cluster favors the presence of the others.
 ^[[Natural Kinds (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/natural-kinds)]

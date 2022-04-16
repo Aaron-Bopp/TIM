@@ -14,7 +14,7 @@ Vidya is objective observable information that we can share with others.
 Jnana is our subjective understanding that information, that really can only arise from first-hand experience.
 Two people can agree that a roller coaster is fun to ride and can tell their friends,
 but you can't really understand what they describe until you ride it for yourself.
-^[[[notes_Vidya and Jnana]] and [[notes_Knowledge of the Mind]]]
+^[[[notes - Vidya and Jnana]] and [[notes - Knowledge of the Mind]]]
 We know that this kind of [[information]] exists, 
 but usually we think things math, science, and literature mainly involve [[Vidya]] and that there isn't any subjectivity to our understanding them.
 This would make a teacher lecturing at you for an hour while you dutifully take notes, that peak form of [[learning]],

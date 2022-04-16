@@ -26,7 +26,7 @@ interesting example of escaping the [[alt-right pipeline]]: [i had a ben shapiro
 resources for implementing [[Dewey Decimal System]] https://www.librarything.com/mds https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 
 
-#TO/PROGRAM [[articles_How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
+#TO/PROGRAM [[articles - How To Export Podcast Highlights To Obsidian  Snipd  Medium|How To Export Podcast Highlights To Obsidian | Snipd | Medium]]
 ![[videoLife after a cult#^5626bf]]
 
 self-blame and social deficiency

@@ -30,6 +30,6 @@ contrasts:: [[Farming domesticated humans]] and [[Farming prevented a return to 
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681715]]
+> ![[books - Sapiens#^297681715]]
 
-> ![[books_Sapiens#^297681716]]
+> ![[books - Sapiens#^297681716]]

@@ -17,11 +17,11 @@ As humans, we can tolerate temporary temperature changes of a few degrees pretty
 The [[earth]] isn't the same.
 
 #TO/TEND/WATER 
-> ![[books_How to Avoid a Climate Disaster#^306644846]]
+> ![[books - How to Avoid a Climate Disaster#^306644846]]
 
-> ![[books_How to Avoid a Climate Disaster#^306587584]]
+> ![[books - How to Avoid a Climate Disaster#^306587584]]
 
-> ![[books_How to Avoid a Climate Disaster#^306644845]]
+> ![[books - How to Avoid a Climate Disaster#^306644845]]
 
 ### <hr class="footnote"/>
 

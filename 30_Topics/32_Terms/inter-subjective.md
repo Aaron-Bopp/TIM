@@ -13,7 +13,7 @@ sr-ease: 246
 #### <s class="topic-title">[[inter-subjective]]</s>
 
 
-> ![[books_Sapiens#^297681754]]
+> ![[books - Sapiens#^297681754]]
 
 
 > [!wikipedia] [Intersubjectivity](https://en.wikipedia.org/wiki/Intersubjectivity)

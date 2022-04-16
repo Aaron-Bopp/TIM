@@ -25,5 +25,5 @@ When the human body is put under stress it will produce various chemicals in ord
 **Topics**:: [[human survival]], [[Neuroscience]], [[brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^2]: [[video_Existential Dread#Chemicals that cause the brain to focus]]
+[^2]: [[video - Existential Dread#Chemicals that cause the brain to focus]]
 [^3]: [[Mental health is a reaction to one's environment]]

@@ -12,7 +12,7 @@ sr-ease: 215
 
 #### [[Neurodivergent people cannot stop their brain from solving problems]] 
 
-> ![[tweets_Tweets From Rory - ADHD Autistic OCD#263520467q]]
+> ![[tweets - Tweets From Rory - ADHD Autistic OCD#263520467q]]
 >
 > <cite>[[@roryreckons on Twitter|Rory McCarthy]]</cite>
 
@@ -24,7 +24,7 @@ this is part of why it's hard for us to switch tasks
 
 > [!example]-
 > ![](00_Meta/Attachments/FOhxmtvXsAMtFLt.jpg) 
-> ^[[[tweets_Tweets From Pete Wharmby]]]
+> ^[[[tweets - Tweets From Pete Wharmby]]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED  

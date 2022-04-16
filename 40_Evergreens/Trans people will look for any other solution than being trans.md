@@ -25,7 +25,7 @@ Once you discover and accept yourself as [[Transgender people|trans]], a lot of 
 Despite being a transformational internal [[experience]], it can often be hard to accept yourself as [[Transgender people|trans]]. [^2] This leads [[Transgender people|trans]] people often continue to look into other solutions. This is often due to [[societal trauma | societal stigma]] and can make the life of an out or closeted [[Transgender people|trans]] person even more difficult. 
 
 %%
-- [ ] #TO/PONDER/IDEA Relation to studies from [[course_Psychology of Race and Gender]]%%
+- [ ] #TO/PONDER/IDEA Relation to studies from [[course - Psychology of Race and Gender]]%%
 
 [^1]: [[Your anxiety knows your insecurities better than you do]], [[We value our biggest insecurities because they protect us from the biggest threats]]
 [^2]: [[You're never sure if you're trans]]

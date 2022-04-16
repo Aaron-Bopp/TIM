@@ -24,4 +24,4 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[notes_OS_Operating Systems]]  [04:33](https://www.youtube.com/watch?v=ORLqB_2a1PQ#t=273.99443777493286)
+[^1]: [[notes - OS_Operating Systems]]  [04:33](https://www.youtube.com/watch?v=ORLqB_2a1PQ#t=273.99443777493286)

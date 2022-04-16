@@ -13,7 +13,7 @@ sr-ease: 238
 #### <s class="topic-title">[[Brahman]]</s> 
 
 The sea of formless [[consciousness]], also known as cosmic consciousness, as described in the [[Yoga|Yogic]] system.
-^[[[notes_Metaphysics of Meditation]]]
+^[[[notes - Metaphysics of Meditation]]]
 
 ##### ^dataviews
 

@@ -46,7 +46,7 @@ From the reader's perspective information can be classified into six different t
 
 #### References
 
-> ![[articles_Six Kinds of Reading#^305784497]]
+> ![[articles - Six Kinds of Reading#^305784497]]
 
 > [!caption]
 > 

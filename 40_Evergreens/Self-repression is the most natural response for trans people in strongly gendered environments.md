@@ -16,7 +16,7 @@ sr-ease: 130
 ^[[[Children will not question what is modeled for them unless they are taught to]]]
 This means that trans people could observe, imitate, and limit themselves to gendered behavior for their assigned [[gender]] without ever performing behaviors for their actual gender, and even if they did, punishment for that behavior would reinforce their gender schema. [^2]
 
-[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender]] #TO/DO/CITE 
+[^1]: [[textbook - Hyde&Elsequest_pyschology of women and gender]] #TO/DO/CITE 
 [^2]: especially from strongly gendered authority figures ie [[parents]], [[childhood]] [[trauma]]
 
 This is why thoughts like [[You're never sure if you're trans]] are so difficult to overcome.

@@ -28,4 +28,4 @@ Not only is [[clean electricity]] key in replacing the electricity we currently 
 
 #### References
 
-> ![[books_How to Avoid a Climate Disaster#^307323241]]
+> ![[books - How to Avoid a Climate Disaster#^307323241]]

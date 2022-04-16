@@ -17,11 +17,11 @@ While the production of plastics produces [[CO2]],
 much of it actually ends up within the plastic itself. 
 This carbon would stay in the plastic until the plastic degrades--which takes hundreds of years.
 
-> ![[books_How to Avoid a Climate Disaster#^308344253]]
+> ![[books - How to Avoid a Climate Disaster#^308344253]]
 
 A similar but less efficient process could take place for [[concrete]].
 
-> ![[books_How to Avoid a Climate Disaster#^308344252]]
+> ![[books - How to Avoid a Climate Disaster#^308344252]]
 
 ### <hr class="footnote"/>
 

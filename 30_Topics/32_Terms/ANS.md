@@ -31,4 +31,4 @@ The **Autonomic Nervous System** is the system that regulates the functions of o
 
 #### Discussion 
 
-> ![[books_Behave#^301731157]]
+> ![[books - Behave#^301731157]]

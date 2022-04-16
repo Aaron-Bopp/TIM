@@ -9,7 +9,7 @@ tags: created/2022/03/11, node/topic/term
 
 #### <s class="topic-title">[[human settlement]]</s>
 
-> ![[books_Sapiens#^294931435]]
+> ![[books - Sapiens#^294931435]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

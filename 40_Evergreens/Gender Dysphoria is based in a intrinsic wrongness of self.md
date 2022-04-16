@@ -22,7 +22,7 @@ sr-ease: 172
 This incongruity can create a frustration that is incredibly hard to root out and 
 causes:: [[Trans people will look for any other solution than being trans]]
 
-[[video_TransComingOutStory|Abigail Thorn]] relates the experience of being [[Transgender people]] to being assigned a crappy job at birth and then being told by everyone around you that you could never switch jobs. Not everything about the job is bad, and you even find joy in it, but it ways on you until you break, or give up, and while transitioning doesn't make everything instantly better it makes life so much more easy and bearable that you can finally start to enjoy it.
+[[video - TransComingOutStory|Abigail Thorn]] relates the experience of being [[Transgender people]] to being assigned a crappy job at birth and then being told by everyone around you that you could never switch jobs. Not everything about the job is bad, and you even find joy in it, but it ways on you until you break, or give up, and while transitioning doesn't make everything instantly better it makes life so much more easy and bearable that you can finally start to enjoy it.
 
 ### <hr class="footnote"/>
 

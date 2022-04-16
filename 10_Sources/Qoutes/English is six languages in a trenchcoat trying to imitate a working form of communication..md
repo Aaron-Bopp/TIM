@@ -8,9 +8,9 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Source**:: [[tweets_Tweets From Byzen Stonefist's Witty Title|Tweets From Byzen Stonefist's Witty Title]]
+**Source**:: [[tweets - Tweets From Byzen Stonefist's Witty Title|Tweets From Byzen Stonefist's Witty Title]]
 
-**Creator**:: [[@byzen_stonefist on Twitter]]
+**Creator**:: [[@byzen - stonefist on Twitter]]
 
 **Covers**:: [[English]], [[language]]
 

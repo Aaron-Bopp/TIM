@@ -13,7 +13,7 @@ Hostile sexism reflects overtly negative evaluations and stereotypes about a gen
 ^[[[Ambivalent Sexism]]]
 
 Overtly negative sexist beliefs and actions, usually accompanied with [[mysogyny]]
-^[[[course_Psychology of Race and Gender]]]
+^[[[course - Psychology of Race and Gender]]]
 
 **See**:: [[sexism]], [[Benevolent sexism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

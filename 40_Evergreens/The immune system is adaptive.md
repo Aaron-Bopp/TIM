@@ -14,7 +14,7 @@ sr-ease: 230
 
 This is because it is a highly active microcosm of [[Evolution]]: [[Evolution can create systems capable of natural selection]]
 
-> ![[books_Darwin's Cathedral#292936698q]]
+> ![[books - Darwin's Cathedral#292936698q]]
 
 enabled by::[[Highly integrated social control allows groups to act as adaptive units]]
 ### <hr class="footnote"/>

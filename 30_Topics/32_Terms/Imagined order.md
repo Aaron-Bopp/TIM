@@ -10,11 +10,11 @@ tags: created/2022/03/19, node/topic/term
 #### <s class="topic-title">[[Imagined order]]</s>
 
 
-> ![[books_Sapiens#^297681744]]
+> ![[books - Sapiens#^297681744]]
 
-> ![[books_Sapiens#^297681751]]
+> ![[books - Sapiens#^297681751]]
 
-> ![[books_Sapiens#^298648741]]
+> ![[books - Sapiens#^298648741]]
 
 
 

@@ -19,15 +19,15 @@ A collection of cells near the base of the [[brain]]. There are two, one in each
 >
 
 > [!captions]
-> ![[MRI_Location_Amygdala_up.png]]
+> ![[MRI - Location_Amygdala_up.png]]
 > MRI coronal view of the right amygdala
 
 The right and left portions of the amygdala have independent memory systems, but work together to store, encode, and interpret emotion.
 
 
-> ![[books_Behave#^302856289]]
+> ![[books - Behave#^302856289]]
 
 
 The amygdala in humans is surrounded by the [[BLA]] which helps us learn new reactions to stimuli
 
-> ![[books_Behave#^303474533]]
+> ![[books - Behave#^303474533]]

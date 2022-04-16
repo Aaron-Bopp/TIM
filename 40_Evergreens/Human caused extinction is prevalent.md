@@ -38,6 +38,6 @@ driving [up to one million](https://www.nature.com/articles/d41586-019-01448-4) 
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^299600341]]
+> ![[books - Sapiens#^299600341]]
 
-> ![[books_Sapiens#^297089489]]
+> ![[books - Sapiens#^297089489]]

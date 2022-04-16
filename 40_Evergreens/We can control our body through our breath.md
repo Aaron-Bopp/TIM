@@ -13,7 +13,7 @@ sr-ease: 210
 #### [[We can control our body through our breath]] 
 
 Our breath is the pathway to controlling the biological mechanisms that govern our body. We can use this to affect and control our mood and reduce [[anxiety]],
-^[[[notes_Breath and Mind]]]
+^[[[notes - Breath and Mind]]]
 or we can even use it to override our natural instincts and push our body farther than it could go alone.
 
 [[Pranayama]], [[Qi Gong]], and the [[Wim Hof Method]] are practives that are focused on this, but all methods of [[meditation]]

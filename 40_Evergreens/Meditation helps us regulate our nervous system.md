@@ -13,7 +13,7 @@ sr-ease: 190
 #### [[Meditation helps us regulate our nervous system]] 
 
 [[Meditation]] can regulate the [[ANS]] by activating the [[Sympathetic Nervous System]] or [[Parasympathetic Nervous System]] to keep them in balance.
-^[[[notes_Science of Meditation#Meditation helps us regulate our nervous system]]]
+^[[[notes - Science of Meditation#Meditation helps us regulate our nervous system]]]
 
 Part of this is from [[We can control our body through our breath]], as the breathing techniques of [[meditation]] can impact 
 the entire [[mind-body complex]].

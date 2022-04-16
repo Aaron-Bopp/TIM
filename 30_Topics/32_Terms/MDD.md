@@ -13,7 +13,7 @@ tags: created/2021/12/29, node/topic/term
 *`=this.file.aliases`*
 
 A psychiatric illness that is based on the presence of multiple criteria described by the [[DSM]]-V for a period of two weeks or longer.
-^[[[notes_Diagnosing depression]]]
+^[[[notes - Diagnosing depression]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

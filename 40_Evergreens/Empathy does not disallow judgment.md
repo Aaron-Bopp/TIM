@@ -16,7 +16,7 @@ We can [[sympathy|sympathize]] with why somebody did something without excusing 
 > ...It is possible to [[sympathy|sympathize]] and even forgive while still setting strong boundaries around them. 
 > For me, keeping this view of people to the fore **[[Hope is not optimism it is a practice for producing change|improves my view of the world.]]** Instead...I try to see them as **hurt people lacking [[knowledge]] and self-awareness.** I get that because I am also that. But I don’t let my [[empathy]] blind me to the harm they do. [^1]
 > 
-> <cite> [[tweets_I Don’t Hate TERFs. I Th...|@LilahSturges]] </cite>
+> <cite> [[tweets - I Don’t Hate TERFs. I Th...|@LilahSturges]] </cite>
 
 [[You can't blame people for failing to rise above their circumstances]], and the circumstances of our world are certainly [[transphobia|transphobic]]. I grew up in a [[A inwardly judgmental and outwardly accepting home creates trust issues|judgmental home]], and I have found that these ideals are very important in having [[compassion]] for other people, even my [[parents]]: [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]]. 
 

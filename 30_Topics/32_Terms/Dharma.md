@@ -13,13 +13,13 @@ sr-ease: 236
 #### <s class="topic-title">[[Dharma]]</s>
 
 The [[Sanskrit]] word for [[duty]] or [[responsibility]].
- ^[[[notes_Dharma]]]
+ ^[[[notes - Dharma]]]
 
 **See**:: [[eastern philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 If you believe in [[karma]] then finding your [[Dharma]] is equivalent to finding your [[purpose]] in life. You do this by acknowledging your [[karma]] and discovering your true [[self]] through [[Yoga]] and [[meditation]]
-^[[[notes_Vedic Psychology]]]
+^[[[notes - Vedic Psychology]]]
 
 
 %% DO NOT EDIT BELOW %%

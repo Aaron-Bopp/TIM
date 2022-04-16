@@ -12,7 +12,7 @@ sr-ease: 230
 
 #### [[Sumerians invented writing to store large amounts of data]] 
 
-> ![[books_Sapiens#^298648748]]
+> ![[books - Sapiens#^298648748]]
 > <cite>[[Yuval Noah Harari]]</cite>
 
 Between 3500 and 2500 BC this writing would transform from a [[partial script]] used to for storing and classifying tax and data to the [[full script]] [[cuneiform]] used to represent [[Mesopotamia|Mesopotamian]] [[language]].
@@ -37,8 +37,8 @@ part of:: [[How do we use writing to communicate]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^299110283]]
+> ![[books - Sapiens#^299110283]]
 
-> ![[books_Sapiens#^298648744]]
+> ![[books - Sapiens#^298648744]]
 
-> ![[books_Sapiens#^299110280]]
+> ![[books - Sapiens#^299110280]]

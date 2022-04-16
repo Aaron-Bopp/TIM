@@ -26,4 +26,4 @@ Transformative justice is focused on building support and safety for victims thr
 **Topics**:: [[justice]], [[Civil Rights]], [[social progress]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-[^1]: ![[articles_Summary, part 3 & 4 We Do This 'Til We Free Us Study Guide — Radical in Progress#212893827]]
+[^1]: ![[articles - Summary, part 3 & 4 We Do This 'Til We Free Us Study Guide — Radical in Progress#212893827]]

@@ -12,7 +12,7 @@ tags: created/2021/12/29, node/topic/term
 
 **Cognitive Behavioral Therapy** is a
 form [[psychotherapy]] that focuses on identifying inaccurate or negative thinking, so you can view challenging situations more clearly and respond to them in a more effective way.
- ^[[[notes_The Nature of Mind]]]
+ ^[[[notes - The Nature of Mind]]]
 
 **See**:: [[mindfulness]], [[Psychology]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

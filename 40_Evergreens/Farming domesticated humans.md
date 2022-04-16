@@ -12,8 +12,8 @@ sr-ease: 230
 
 #### [[Farming domesticated humans]] 
 
-> ![[books_Sapiens#^297301089]]
-> ![[books_Sapiens#^297301076]]
+> ![[books - Sapiens#^297301089]]
+> ![[books - Sapiens#^297301076]]
 > 
 > <cite>[[Yuval Noah Harari]]</cite>
 

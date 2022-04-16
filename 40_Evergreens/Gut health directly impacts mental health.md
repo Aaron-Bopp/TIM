@@ -15,7 +15,7 @@ sr-ease: 210
 This phenomena is now being referred to as the [[brain-gut axis]],
 but this has been a practice of [[Ayurveda]] for millennia.
 Our understanding of this is that the [[bacteria]] in our [[gut]] are a vital part of producing [[Neurotransmitter]]'s like [[Serotonin]].
-^[[[notes_Brain Gut Axis]]]
+^[[[notes - Brain Gut Axis]]]
 
 - part of:: [[Mental health is a reaction to one's environment]]
 - works with:: [[Drugs work by effecting your chemical environment]]

@@ -13,7 +13,7 @@ sr-ease: 225
 Mindfulness is the practice of purposely bringing one's attention to experiences occurring in the present moment without [[judgement|judgment]]. [^1] 
 
 In [[eastern philosophy]] this is called [[Sakshi Bhava]] or the ability to observe [[self]]
-^[[[notes_The Nature of Mind]]]
+^[[[notes - The Nature of Mind]]]
 
 **See**:: [[mental health]], [[meditation]]
 

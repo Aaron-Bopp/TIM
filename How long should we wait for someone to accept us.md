@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/question
-sr-due: 2022-04-13
-sr-interval: 1
+sr-due: 2022-04-22
+sr-interval: 6
 sr-ease: 219
 ---
 > [!infobox]
@@ -13,7 +13,8 @@ sr-ease: 219
 
 #### [[How long should we wait for someone to accept us]]
 
-part of:: [[When should you forgive people who don't deserve it]]
+- part of:: [[When should you forgive people who don't deserve it]]
+- leads to:: [[Why representation in media is important]]
 
 ### <hr class="footnote"/>
 

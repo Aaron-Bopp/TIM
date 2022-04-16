@@ -22,7 +22,7 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 - [[Deleting an Obsidian note can have unforeseen consequences]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 
-> ![[articles_The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]
+> ![[articles - The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]
 
 ### <hr class="footnote"/>
 

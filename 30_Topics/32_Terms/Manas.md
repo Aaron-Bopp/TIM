@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Manas]]</s> 
 
 The emotional aspect of our [[mind]].
-^[[[notes_Vedic Psychology]]]
+^[[[notes - Vedic Psychology]]]
 
 **See**:: 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

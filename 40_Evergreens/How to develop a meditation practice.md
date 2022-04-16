@@ -17,7 +17,7 @@ sr-ease: 190
 > [!caption right]
 >  ![[Pasted image 20211229235616.png]]
 > Different styles of [[meditation]] strengthen different aspects of [[consciousness]]
-^[[[notes_Different Meditative Styles]]]
+^[[[notes - Different Meditative Styles]]]
 
 We can try to match our [[meditation]] method with the way in which we struggle to understand ourselves. 
 [[Zen]] helps you develop [[consciousness]] by making you aware of the input from your [[Indriya]].
@@ -28,7 +28,7 @@ The key is to focus on the action not the goal.
 The benefits of [[meditation]] will come but slowly and only if you keep up with it.
 Don't set an abstract goal or focus on the outcomes.
 [[You can't control what happens]], so just focus on what you can control, your actions.
-^[[[notes_How to achieve]]]
+^[[[notes - How to achieve]]]
 
 If this doesn't sound easy this is why a strong [[community]] or [[Sangha]] around you.
 A [[Sangha]] can prompt you to practice, help you learn the principles of [[meditation]] and help you through your struggles.

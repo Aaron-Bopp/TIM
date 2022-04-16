@@ -10,7 +10,7 @@ tags: created/2022/01/18, node/topic/term
 #### <s class="topic-title">[[flat affect]]</s>
 
 Flat affect is when you are not visibly displaying the [[emotions]] you are feeling. Symptom of [[Schizophrenia]]
-^[[[video_How logical thinking leads to irrationality]]]
+^[[[video - How logical thinking leads to irrationality]]]
 
 
 **See**:: [[Alexithymia]]

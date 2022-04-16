@@ -17,10 +17,10 @@ In:: [[society]] and [[social justice]],
 Differing in mental or neurological function from what is considered typical or normal (frequently used with reference to [[autism spectrum]] disorders); not neurotypical.
 
  
-> ![[articles_Semantic Battleground The War of Neurodiversity#^217948693]]
+> ![[articles - Semantic Battleground The War of Neurodiversity#^217948693]]
 
 
-> ![[articles_Semantic Battleground The War of Neurodiversity#^217948696]]
+> ![[articles - Semantic Battleground The War of Neurodiversity#^217948696]]
 
 
 ##### ^dataviews

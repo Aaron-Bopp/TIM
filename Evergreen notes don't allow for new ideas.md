@@ -26,7 +26,7 @@ However, if you had put this stereotype into you [[evergreen notes]] (most likel
 you would have reviewed it as you learned new perspectives, 
 and would have given it up much sooner. 
 In this way I think evergreen notes would be better for allowing new ideas.
-Especially if you are following [[Evergreen notes should be constantly integrating new knowledge]]
+Especially if you are following [[Evergreen notes should be updated over time]]
 
 %%
 #TO/PONDER/IDEA [How Can I Believe You? - YouTube](https://www.youtube.com/watch?v=cVuKitl6qWA)

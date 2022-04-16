@@ -16,7 +16,7 @@ sr-ease: 199
 
 This is a major reason [[Greater cooperation and communication has lead to the success of humans as a species]]
 
-> ![[books_Darwin's Cathedral#293875904q]]
+> ![[books - Darwin's Cathedral#293875904q]]
 
 Possible mechanism behind [[racism]], [[homophobia]], [[partisanship]]
 This could be seen as a result of [[kin selection]] but more likely [[group selection]]:

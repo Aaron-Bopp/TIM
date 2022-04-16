@@ -11,7 +11,7 @@ tags: created/2021/12/29, node/topic/term
 
 Personal observances; the second step in the eightfold path of [[Raja Yoga]].
 
-Has five parts ^[[[notes_Different Meditative Styles]]w]
+Has five parts ^[[[notes - Different Meditative Styles]]w]
 - Shuddha - cleanliness
 - Santosha - [[contentment]]
 - Tapas - [[Austerity]], [[asceticism]] or [[discipline]]

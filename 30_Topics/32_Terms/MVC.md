@@ -9,7 +9,7 @@ tags: created/2021/12/02, node/topic/term
 
 #### <s class="topic-title">[[MVC]]</s>
 An architecture level pattern that gives advice on how to structure an application
-^[[[notes_WebDev FA21]]]
+^[[[notes - WebDev FA21]]]
 
 **See**:: [[Software Development]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

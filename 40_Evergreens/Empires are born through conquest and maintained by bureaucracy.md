@@ -38,6 +38,6 @@ This would be supported by [[The Inca empire was maintained without a full scrip
 #### References
 
 ![[Sapiens by Yuval Noah Harari#citation]]
-> ![[books_Sapiens#^298648742]]
+> ![[books - Sapiens#^298648742]]
 
-> ![[books_Sapiens#^299572961]]
+> ![[books - Sapiens#^299572961]]

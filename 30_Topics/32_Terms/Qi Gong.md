@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Qi Gong]]</s> 
 
 Chinese tradition of coordinated body-posture and movement, breathing, and meditation used for the purposes of health, [[spirituality]], and martial-arts training
-^[[[notes_Breath and Mind]]]
+^[[[notes - Breath and Mind]]]
 
 **See**:: [[Yoga]], [[meditation]], [[Pranayama]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

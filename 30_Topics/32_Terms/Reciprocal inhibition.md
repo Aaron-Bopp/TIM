@@ -10,7 +10,7 @@ tags: created/2022/01/18, node/topic/term
 #### <s class="topic-title">[[Reciprocal inhibition]]</s>
 
 **Reciprocal inhibition** means is that our cortices will suppress our [[emotions]] and our emotions will suppress our [[cortices]] 
-^[[[video_How logical thinking leads to irrationality]]]
+^[[[video - How logical thinking leads to irrationality]]]
 
 
 **See**:: [[Alexithymia]]

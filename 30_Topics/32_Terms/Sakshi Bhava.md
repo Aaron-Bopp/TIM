@@ -13,7 +13,7 @@ sr-ease: 237
 #### <s class="topic-title">[[Sakshi Bhava]]</s> 
 
 The capacity to observe other parts of our [[self]]. Literally translated as the witnessing attitude, also known as [[mindfulness]].
-^[[[notes_The Nature of Mind]]]
+^[[[notes - The Nature of Mind]]]
 
 ##### ^dataviews
 

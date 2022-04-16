@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Karma Fal]]</s> 
 
 The idea that we are not entitled to the fruits of our actions, only our actions.
-^[[[notes_What is achievement]]]
+^[[[notes - What is achievement]]]
 
 **See**:: [[karma]], [[Dharma]], [[Krishna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

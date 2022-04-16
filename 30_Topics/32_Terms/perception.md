@@ -41,4 +41,4 @@ the way in which something is regarded, understood, or interpreted.
 #### Discussion
 
 Quote from [[Richard Feynman]]
-> ![[articles_The Feynman Learning Technique#^303018861]]
+> ![[articles - The Feynman Learning Technique#^303018861]]

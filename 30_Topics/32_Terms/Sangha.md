@@ -13,7 +13,7 @@ sr-ease: 226
 #### <s class="topic-title">[[Sangha]]</s> 
 
 It refers to your [[community]], or orbit, consisting of the people who you spend the most time with.
-^[[[notes_How to achieve#Surround yourself with a community that will motivate you]]]
+^[[[notes - How to achieve#Surround yourself with a community that will motivate you]]]
 
 **See**:: [[meditation]], [[human behavior]], [[inter-personal communication]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

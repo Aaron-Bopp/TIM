@@ -50,13 +50,13 @@ part of:: [[Buddhism outlines a path and practice to end suffering, but does not
 ![[Sapiens by Yuval Noah Harari#citation]]
 
 
-> ![[books_Sapiens#^308819748]]
+> ![[books - Sapiens#^308819748]]
 
-> ![[books_Sapiens#^308819727]]
-
-
+> ![[books - Sapiens#^308819727]]
 
 
-> ![[tweets_Clarifying It Seems Lik...#^247463812]]
 
-> ![[books_Darwin's Cathedral#^288175132]]
+
+> ![[tweets - Clarifying It Seems Lik...#^247463812]]
+
+> ![[books - Darwin's Cathedral#^288175132]]

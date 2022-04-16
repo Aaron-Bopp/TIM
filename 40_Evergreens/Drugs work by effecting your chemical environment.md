@@ -13,8 +13,8 @@ sr-ease: 210
 #### [[Drugs work by effecting your chemical environment]] 
 
 Both pharmaceutical [[drugs]] and [[herb]]s affect us by impacting the [[Neurotransmitter|neurotransmitters]] that transmit [[hormone|hormones]] like [[Dopamine]] and [[Serotonin]]. 
-^[[[notes_Herbs for mental health]]] 
-^[[[notes_Treatment Principles for Anxiety and Depression]]]
+^[[[notes - Herbs for mental health]]] 
+^[[[notes - Treatment Principles for Anxiety and Depression]]]
 
 Another way that our [[body]] can effect our [[mood]] is through our [[brain-gut axis]]: [[Gut health directly impacts mental health]]
 

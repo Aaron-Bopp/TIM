@@ -12,9 +12,9 @@ sr-ease: 230
 
 #### [[Frogs can see individual photons of light]] 
 
-> ![[books_The Fabric of Reality#288838122q]]
-> ![[books_The Fabric of Reality#288838126q]]
-> <cite>[[books_The Fabric of Reality|The Fabric of Reality by David Deutsch]]</cite>
+> ![[books - The Fabric of Reality#288838122q]]
+> ![[books - The Fabric of Reality#288838126q]]
+> <cite>[[books - The Fabric of Reality|The Fabric of Reality by David Deutsch]]</cite>
 
 ### <hr class="footnote"/>
 

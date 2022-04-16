@@ -27,4 +27,4 @@ sr-ease: 207
 
 #### References
 
-![[video_Existential Dread#Our brains design]]
+![[video - Existential Dread#Our brains design]]

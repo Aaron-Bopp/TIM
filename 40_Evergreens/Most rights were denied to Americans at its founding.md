@@ -28,6 +28,6 @@ Many rights that now exist were denied to [[women]], [[black people]], and [[Ind
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^299110290]]
+> ![[books - Sapiens#^299110290]]
 
-> ![[books_Sapiens#^299110289]]
+> ![[books - Sapiens#^299110289]]

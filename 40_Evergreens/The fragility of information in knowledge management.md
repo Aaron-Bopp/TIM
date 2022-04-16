@@ -17,7 +17,7 @@ In our [[memory]], if something is irrelevant it will slowly fade, but in our [[
 [^1]: This is because [[Deleting an Obsidian note can have unforeseen consequences]] and the metadata of nodes connect them to others. Even when you delete a note, the metadata of that note remains explicitly in the vault
 
 This is 
-why:: [[Evergreen notes should be constantly integrating new knowledge]] and [[Evergreen notes help us bridge the gap between knowledge and understanding]] are so important.
+why:: [[Evergreen notes should be updated over time]] and [[Evergreen notes help us bridge the gap between knowledge and understanding]] are so important.
 We may never be able to keep up with every new piece of [[information]], but if we organize conceptually, we can easily integrate new information as it becomes available to us. 
 Additionally, even if our [[knowledge]] becomes stale, our [[understanding]] can grow as we create new and more accurate notes. This understanding will help us update old notes even if we don't have access to new [[information]].
 This is 

@@ -13,7 +13,9 @@ sr-ease: 234
 
 #### [[How do we work with a second brain]]
 
-There are ways that a [[second brain]] is better than our first brain and worse.
+There are ways that a [[second brain]] is better than our first brain and worse. If we want to optimize our workflow we need to craft our [[second brain]] in a way that works for us.
+This 
+includes:: [[Write your notes with a system not within a system]] and [[An experienced note taker knows how to work efficiently]].
 
 The easiest way that we can surpass the first brain is *permanency.* Data can sit for 20 years on a hard drive and still be accessible, but unlike in our first brain, data will not grow over time:
 [[The fragility of information in knowledge management]]

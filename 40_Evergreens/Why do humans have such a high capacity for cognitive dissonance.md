@@ -25,4 +25,4 @@ sr-ease: 190
 **Topics**:: [[cognitive dissonance]], [[human behavior]], [[Psychology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-![[video_Existential Dread#Our brains design]]
+![[video - Existential Dread#Our brains design]]

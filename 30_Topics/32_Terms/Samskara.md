@@ -13,11 +13,11 @@ sr-ease: 228
 #### <s class="topic-title">[[Samskara]]</s>
 
 Ball of undigested [[emotions]] and mental impressions formed due to previous life experiences, that gets triggered and causes [[suffering]] in present day.
-^[[[notes_Vedic Psychology]]]
+^[[[notes - Vedic Psychology]]]
 
 Emotional reactions from the [[Manas]] are stored in [[Samskara]] a
 These [[emotions]] generate [[anxiety]]
-^[[[notes_cognitive Anxiety]]]
+^[[[notes - cognitive Anxiety]]]
 
 ##### ^dataviews
 

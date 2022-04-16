@@ -10,7 +10,7 @@ tags: created/2022/01/03, node/topic/term
 #### <s class="topic-title">[[Ashram]]</s>
 
 The four stages of life 
-^[[[notes_Karma]]]
+^[[[notes - Karma]]]
 
 - [[Brahmacharya Ashram]]
 	- learn a skill that allows you to be independent

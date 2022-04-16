@@ -18,7 +18,7 @@ this is seen as the rising mode of thought in [[science]] and [[knowledge work]]
 > [!cite] [Networked thinking: a quiet cognitive revolution - Ness Labs](https://nesslabs.com/networked-thinking)
 > 
 > 
-> ![[articles_Networked Thinking A Quiet Cognitive Revolution#^301944620]]
+> ![[articles - Networked Thinking A Quiet Cognitive Revolution#^301944620]]
 
 In short,
 networked thinking is based on divergence (branching out from a concept) and [[emergence]] (bringing branches together into a higher level concept).

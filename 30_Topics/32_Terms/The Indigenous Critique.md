@@ -9,9 +9,9 @@ tags: created/2022/03/23, node/topic/term
 
 #### <s class="topic-title">[[The Indigenous Critique]]</s>
 
-As described in [[books_The Dawn of Everything]]
+As described in [[books - The Dawn of Everything]]
 
-> ![[books_The Dawn of Everything#The indigenous critique and the myth of progress]]
+> ![[books - The Dawn of Everything#The indigenous critique and the myth of progress]]
 
 
 ##### ^dataviews

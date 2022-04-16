@@ -40,10 +40,10 @@ and so they turned to the color of their skin.
 
 #### References
 
-> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487383]]
+> ![[articles - The Invention of Whiteness The Long History of a Dangerous Idea#^307487383]]
 
-> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487384]]
+> ![[articles - The Invention of Whiteness The Long History of a Dangerous Idea#^307487384]]
 
-> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487385]]
+> ![[articles - The Invention of Whiteness The Long History of a Dangerous Idea#^307487385]]
 
-> ![[articles_The Invention of Whiteness The Long History of a Dangerous Idea#^307487387]]
+> ![[articles - The Invention of Whiteness The Long History of a Dangerous Idea#^307487387]]

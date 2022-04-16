@@ -16,7 +16,7 @@ sr-ease: 150
 
 This has huge relevance to the [[social justice]] and [[Civil Rights]] movements in [[America]]. We are often so obsessed with finding a tool with no blood on it that we will use no tool, while mass murder tools are being used against us. 
 
-#TO/EXPLORE/READ [[vicky-osterweil-in-defense-of-looting_-a-riotous-history-of-uncivil-action-bold-type-books-2020.pdf]]
+#TO/EXPLORE/READ [[vicky-osterweil-in-defense-of-looting - -a-riotous-history-of-uncivil-action-bold-type-books-2020.pdf]]
 
 #TO/TEND/GRAFT 
 - [[Humans have decided to reject an unjust world]]

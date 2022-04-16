@@ -39,6 +39,6 @@ leads to:: [[You need to take what you read out of context]]
 
 #### References
 
-![[articles_Why Books Don't Work#citation]]
+![[articles - Why Books Don't Work#citation]]
 
-> ![[articles_Why Books Don't Work#^306125202]]
+> ![[articles - Why Books Don't Work#^306125202]]

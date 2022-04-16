@@ -14,7 +14,7 @@ tags: created/2022/02/10, node/topic/term
 > In population genetics, the founder effect is the loss of genetic variation that occurs when a new population is established by a very small number of individuals from a larger [[population]]. As a result of the loss of genetic variation, the new population may be distinctively different, both genotypically and phenotypically, from the parent population from which it is derived. In extreme cases, the founder effect is thought to lead to the speciation and subsequent evolution of new species. 
 
 When combined with [[kin selection]], the increased shared genes in this inbred population can lead to a kind of [[group selection]], where the increased [[reciprocal altruism]] in the ingroup leads to the outcompeting the parent group when they reintegrate.
-^[[[10_Sources/lecture_Behavioral Evolution.md#^igzkks]]]
+^[[[10 - Sources/lecture_Behavioral Evolution.md#^igzkks]]]
 
 **See**:: [[Evolution]], [[natural selection]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

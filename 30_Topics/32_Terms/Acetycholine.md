@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Acetycholine]]</s>
 
 A [[Neurotransmitter]] that plays a major role in the [[parasympathetic nervous system]] for muscle contraction.
-^[[[notes_Herbs for mental health]]]
+^[[[notes - Herbs for mental health]]]
 
 **See**::
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -29,6 +29,6 @@ Here's a passionate and short video from [[@hankgreen on Twitter|Hank Green]]
 
 #### References
 
-![[video_It’s Time To Break Up With Our Gas Stoves#Gas isn't cheaper or cleaner or better than electric anymore]]
+![[video - It’s Time To Break Up With Our Gas Stoves#Gas isn't cheaper or cleaner or better than electric anymore]]
 
-![[video_Problems with gas stovetops - weak, dirty and dangerous#Gas stoves are less efficient than electric]]
+![[video - Problems with gas stovetops - weak, dirty and dangerous#Gas stoves are less efficient than electric]]

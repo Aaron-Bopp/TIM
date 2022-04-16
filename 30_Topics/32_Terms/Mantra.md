@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[mantra]]</s>
 
 A phrase of power, almost like a magical spell, that is chanted to create a particular effect in the world.
- ^[[[notes_Intro to Mantra Practice]]]
+ ^[[[notes - Intro to Mantra Practice]]]
 
 **See**:: [[Yoga]], [[Tantra]], [[Yantra]], [[Yajna]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

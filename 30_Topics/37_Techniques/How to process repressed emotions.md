@@ -12,7 +12,7 @@ sr-ease: 190
 
 #### [[How to process repressed emotions]] 
 
-#TO/TEND/GRAFT [[notes_Working with Samskaras]]
+#TO/TEND/GRAFT [[notes - Working with Samskaras]]
 #TO/TEND/GRAFT 
 - [[We carry our childhood wounds into adulthood]]
 - [[Parents need to model the ability to deal with emotion to their children]]

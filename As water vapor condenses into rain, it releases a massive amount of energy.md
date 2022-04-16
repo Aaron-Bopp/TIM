@@ -29,4 +29,4 @@ Where does the energy go when it is falling?
 
 [[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 
-> ![[books_How to Avoid a Climate Disaster#^306587593]]
+> ![[books - How to Avoid a Climate Disaster#^306587593]]

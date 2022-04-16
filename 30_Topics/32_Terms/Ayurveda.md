@@ -13,7 +13,7 @@ sr-ease: 250
 #### <s class="topic-title">[[Ayurveda]]</s>
 
 the science (ved) of life (ayu), Is a 5000-year old traditional Indian system of [[medicine]], based upon the principle of three humours.
-^[[[notes_Intro to Ayurveda]]]
+^[[[notes - Intro to Ayurveda]]]
 
 The three humours or [[Dosha]]'s are:
 - [[Vata]]

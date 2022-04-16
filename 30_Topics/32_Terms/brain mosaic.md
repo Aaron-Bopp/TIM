@@ -12,4 +12,4 @@ A study of [[brain]] region's size as related to gender. The average size of a r
 
 **Covers**:: [[Psychology]], [[gender]]
 
-[^1]: [[textbook_Hyde&Elsequest_pyschology of women and gender#Chapter 10 Biology and gender]]
+[^1]: [[textbook - Hyde&Elsequest_pyschology of women and gender#Chapter 10 Biology and gender]]

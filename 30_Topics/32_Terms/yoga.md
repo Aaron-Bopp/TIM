@@ -13,13 +13,13 @@ sr-ease: 225
 #### <s class="topic-title">[[Yoga]]</s> 
 
 An [[eastern philosophy|eastern system]] of introspection and self-discovery whose goal is to allow the practitioner to realize their true nature, get rid of [[suffering]], and become blissful by [[nature]].
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 
 **See**:: [[mind-body complex]], [[enlightenment]], [[Buddhism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 There are four ways to connect to the [[infinite]] [[energy]] of the [[universe]]: [[Brahman]]
-^[[[notes_Metaphysics of Meditation]]]
+^[[[notes - Metaphysics of Meditation]]]
 - [[Bhakti Yoga]] religious path
 - [[Karma Yoga]] purification through good deeds
 - [[Jnana Yoga]] brute force way to [[enlightenment]] through intense [[philosophy]]

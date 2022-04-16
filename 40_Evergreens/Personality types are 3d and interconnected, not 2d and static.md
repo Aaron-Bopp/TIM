@@ -17,7 +17,7 @@ Your personality type will change over your life, it may even change on what kin
 [[Enneagram]] does a good job at create personality types that are specific enough to be helpful, but get at the root of peoples personalities. Often times revealing the [[We carry our childhood wounds into adulthood|the wide assumptions we make in early childhood]]. 
 
 In [[Ayurveda]] there is the concept of [[Dosha]] which is a genetically determined [[personality]] type is both physical and mental. Both [[Enneagram]] and [[Dosha]] have a concept of what happens to the [[personality]] when stressed, although [[Ayurveda]] pushes the [[mind-body complex]] much more and actually links certain [[disease]]s to your [[Dosha]]
-^[[[notes_Intro to Ayurveda]]]
+^[[[notes - Intro to Ayurveda]]]
 
 ### <hr class="footnote"/>
 

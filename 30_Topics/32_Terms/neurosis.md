@@ -19,5 +19,5 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[video_Existential Dread]]
+[^1]: [[video - Existential Dread]]
 

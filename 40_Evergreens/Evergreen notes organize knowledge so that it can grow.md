@@ -34,7 +34,7 @@ your deeper understanding.
 > Over time I was able to change sentences into links, and add causes to observations.
 
 - part of:: [[Write your notes like you're planting an evergreen forest]]
-- works with:: [[Evergreen notes should be constantly integrating new knowledge]]
+- works with:: [[Evergreen notes should be updated over time]]
 
 What if our learning works the opposite way, and we actually can't even begin to understand the conclusions until we know the basics?
 Well the process works just as well in the other direction.

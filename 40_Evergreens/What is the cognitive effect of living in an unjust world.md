@@ -13,11 +13,11 @@ sr-ease: 177
 
 #### [[What is the cognitive effect of living in an unjust world]] 
 
-> ![[books_The Anthropocene Reviewed#^288175131]]
+> ![[books - The Anthropocene Reviewed#^288175131]]
 > 
 > <cite>[[John Green]] talking about his last night as a hospital chaplain.</cite>
 
-> ![[books_The Dawn of Everything#261572339q]]
+> ![[books - The Dawn of Everything#261572339q]]
 
 %% #TO/DO/FIND story, Need to establish that the world is unjust%%
 
@@ -42,7 +42,7 @@ Possible Answers:
 
 Over all, [[Humans have decided to reject an unjust world]], but this manifest in many different 
 %%
-- [[negative utilitarianism]] ^[[[articles_My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
+- [[negative utilitarianism]] ^[[[articles - My moral code - Inverted Passion]]] is the belief that we need strive to reduce harm over everything else
     - This assumes that people will act rationally and want to reduce their own [[suffering]], but that isn't always the case: [[Sadness is enlightenment and happiness is delusion]] 
 %%
 %%I don't think this is the answer. Doing good feels more effective than reducing harm, but trying to do good and failing can increase harm. What is the logical end of these beliefs?%%

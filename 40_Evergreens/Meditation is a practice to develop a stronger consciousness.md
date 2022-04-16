@@ -21,7 +21,7 @@ result of::  [[Meditation is a practice to gain control over your thoughts]].
 
 The [[Flow State]], [[emotional detachment|detachment]] from [[suffering]], and [[enlightenment]] are all products of persistent and disciplined [[meditation]].
 We use [[Dharana]] such as [[mantra]] to access thoughts in our [[subconscious]] to clear our mind of thoughts through [[Dhyana]]. 
-^[[[notes_Intro to Mantra Practice#Meditation is a practice to develop a stronger consciousness]]]
+^[[[notes - Intro to Mantra Practice#Meditation is a practice to develop a stronger consciousness]]]
 This is
 how:: [[Meditation increases our ability to influence the world]]
 

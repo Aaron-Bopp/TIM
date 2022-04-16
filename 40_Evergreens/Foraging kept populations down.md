@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[Foraging kept populations down]] 
 
-> ![[books_Sapiens#^297301081]]
+> ![[books - Sapiens#^297301081]]
 
  - part of:: [[Foraging was a very sustainable lifestyle]]
 

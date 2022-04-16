@@ -39,4 +39,4 @@ For me, this process looks like this:
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-[^1]: [[articles_Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer|Nick Seitz]]
+[^1]: [[articles - Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer|Nick Seitz]]

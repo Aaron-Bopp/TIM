@@ -18,16 +18,16 @@ This likely involved a combined process of intentional and unintentional selecti
 
 [[Early hunting techniques lead to domesticating farm animals]]
 First they killed older animals and spared fertile young animals, then they defended the herd against other predators. This lead them to coral the animals into defensible areas. Finally they started killing off the most aggressive and skinny animals, and allowed the docile and fat animals to reproduce.  
-^[[[books_Sapiens#297681715]]]
+^[[[books - Sapiens#297681715]]]
 
 Alternatively, humans may have taken more strait foreword attempt of 'adopting' and feeding animals before slaughtering them.
-^[[[books_Sapiens#^297681716]]]
+^[[[books - Sapiens#^297681716]]]
 Likely, there was a mix of these two techniques, with the second technique being enabled by the first in some cases
 
 The most intentional part of human domestication was castration and violence to push animals to be more docile and ready to work.
-^[[[books_Sapiens#^297681717]]]
+^[[[books - Sapiens#^297681717]]]
 
-> ![[books_Sapiens#^297681718]]`
+> ![[books - Sapiens#^297681718]]`
 
 ### <hr class="footnote"/>
 

@@ -14,7 +14,7 @@ sr-ease: 199
 
 part of:: [[How do different cultures enforce social control]]
 
-> ![[books_Behave#^304866739]]
+> ![[books - Behave#^304866739]]
 
 Culture is such an interesting thing to study because the behavioral differences that it produces could have so many causes, but the cultural nature of them means that there is some level of initial cause,
 although usually it is [[Most cultural differences are rooted in material differences]]

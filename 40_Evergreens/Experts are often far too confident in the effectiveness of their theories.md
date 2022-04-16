@@ -26,11 +26,11 @@ contrasts:: [[Better tools allow us to be less disciplined and more productive]]
 
 > Just because you can understand one incredibly complex thing, does not mean that you will immediately understand some other incredibly complex thing.
 > 
-> <cite>[[video_Line Goes Up]]</cite>
+> <cite>[[video - Line Goes Up]]</cite>
 
 [[Crypto currency]] is an excellent example of this. While understanding the [[Blockchain]] and being able to create a [[Crypto currency]] involves quite a bit of [[knowledge]], none of that knowledge is a solid [[understanding]] of [[economy|Economics]], [[climate change]], or just human nature. The quote above is referring to the unfortunately common trait of computer scientists to assume that they can solve any problem with code.
 
-This idea is also heavily explored in [[course_Human Behavioral Biology|Human Behavioral Biology]], which is a course that explores how many of the hard sciences claim to be able to explain [[human behavior]], but constantly contradict eachother. This trait is behind the creation of [[Lobotomy]], [[Eugenics]], and many other things that we would like to forget.
+This idea is also heavily explored in [[course - Human Behavioral Biology|Human Behavioral Biology]], which is a course that explores how many of the hard sciences claim to be able to explain [[human behavior]], but constantly contradict eachother. This trait is behind the creation of [[Lobotomy]], [[Eugenics]], and many other things that we would like to forget.
 
 Perhaps an acceptance that [[We are confined to the tools of our time]] will help prevent this.
 
@@ -45,4 +45,4 @@ Perhaps an acceptance that [[We are confined to the tools of our time]] will hel
 #### Examples
 
 In [[economics]]::
-> ![[books_Sapiens#^299110287]]
+> ![[books - Sapiens#^299110287]]

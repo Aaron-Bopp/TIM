@@ -27,7 +27,7 @@ We can get past the [[ego]] by calming our [[mind]] using [[meditation]] and dir
 > ![[Pasted image 20211231162422.png]]
 > 
 > Once the mind is calm, we can investigate our internal stressors
-> ^[[[notes_Intro to Mantra Practice]]]
+> ^[[[notes - Intro to Mantra Practice]]]
 >  ![[Pasted image 20211231162555.png]]
 
 This isn't an easy process, as the [[ego]] ([[Ahamkara]]) will be trying it's hardest to protect it's current state by creating and uneasy and defensive emotional state ([[Manas]]).
@@ -36,7 +36,7 @@ It does this by drawing up stored [[emotions]] ([[Samskara]])
 from the [[unconscious]] [[mind]] ([[Citta]])
 that prevent our [[consciousness|conscious]] mind ([[Buddhi]]) 
 from [[understanding]] what is going on.
-^[[[notes_Vedic Psychology]]]
+^[[[notes - Vedic Psychology]]]
 
 If we can calm our emotional state using [[therapy]] or [[meditation]] we can access and heal those negative [[Samskara]]. 
 
@@ -45,7 +45,7 @@ The goal of this process is to better understand the [[self]] that was formed in
 [[We carry our childhood wounds into adulthood]]
 
 [[Mental health is a reaction to one's environment]] so your surroundings can impede this process. [[Raja Yoga]] and [[Shuddhi]] will help you avoid this 
-^[[[notes_How to achieve]]]
+^[[[notes - How to achieve]]]
 
 Remember, [[Our brain will do anything it can to protect itself]]
 and [[Working through trauma can involve of a lot of letting go]],

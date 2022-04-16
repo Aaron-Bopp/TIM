@@ -24,7 +24,7 @@ In order to see what evolves via group selection (or where group selection is th
 2. Compare fitness of individuals within groups
 3. Compare fitness of groups in the total population
 
-In [[books_Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
+In [[books - Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
 The first of these is that not every group is an adaptive unit; If there is not competition between groups, there is not a driving force for [[group selection]] to take advantage of. 
 The second is that groups must be defined for any given trait relative to the context that trait is meaningful in. He claims that every other theory of group selection (one's that rely on [[kin selection]] or [[game theory]]) can be explained using [[group selection]] if you follow these rules. 
 ^e8dce2
@@ -41,7 +41,7 @@ You could say that this follows the rules of [[individual selection]], because t
 [[Group selection]] is can be a very powerful force through it's reinforcement of [[reciprocal altruism]]. When group develops strong levels of cooperation while they are separated from the wider group 
 ^[much as [[homo sapiens]] was separated from [[Homo erectus]] and [[Homo neanderthalis]] in eastern [[Africa]] 150,000 years ago: [[Greater cooperation and communication has lead to the success of humans as a species]]]
 it allows them to out compete that group when they are recombined. In the same species this leads the [[founder effect]] and in separate species in leads to extinction. 
-^[[[lecture_Behavioral Evolution#^igzkks]]]
+^[[[lecture - Behavioral Evolution#^igzkks]]]
 
 Group selection can be a weak force in genetic [[evolution]], but is often the strongest force when it comes to [[Cultural Evolution]].
 This makes discussions around group selection veer much more towards [[Psychology]] than [[Biology]], but [[Biology]] very much has a part to play in discussions of [[group selection]] and [[Cultural Evolution]]. 
@@ -51,7 +51,7 @@ This makes discussions around group selection veer much more towards [[Psycholog
 The history of group selection is an interesting one, but our modern conception reflects ideas that have been around since the hypothesis of [[natural selection]].
 
 >  There can be no doubt that a tribe including many members who, from possessing in a high degree the spirit of patriotism, fidelity, obedience, courage, and sympathy, were always ready to aid one another, and to sacrifice themselves for the common good would be victorious over most other tribes; and this would be [[natural selection]]. 
-> ^[[[books_Darwin's Cathedral#288296631q]]]
+> ^[[[books - Darwin's Cathedral#288296631q]]]
 > 
 > <cite> [[Charles Darwin]] 1871 </cite>
 

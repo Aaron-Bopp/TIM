@@ -26,10 +26,10 @@ Books are paths through evergreen forests: [[What are the different kinds of inf
 but sometimes you need to stray off the path: [[You need to take what you read out of context]]
 
 [[Dan Alloso]] thinks that the paragraph is the fundamental unit.
-^[[[video_Three Basic Elements of Note-taking]]]
+^[[[video - Three Basic Elements of Note-taking]]]
 
 
-> ![[articles_IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190325]]
+> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190325]]
 > 
 
 

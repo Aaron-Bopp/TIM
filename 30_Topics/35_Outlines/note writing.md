@@ -32,7 +32,7 @@ This note is a synthesis of note writing techniques used in systems like [[Zette
 	- Our notes form [[systems for thought]], such as [[My TIM]], [[evergreen notes]], a [[second brain]], and many others, which aid [[productivity]] and [[understanding]].
 - The importance of note writing - what makes notes useful?
 	- [[Evergreen notes organize knowledge so that it can grow]]
-	- [[Evergreen notes should be constantly integrating new knowledge]]
+	- [[Evergreen notes should be updated over time]]
 - The practice of note writing - how do we write smart notes?
 	- [[What are the differences between evergreen notes and conceptual notes]]
 - The implementation of note writing - how do we use [[technology]] to our advantage?

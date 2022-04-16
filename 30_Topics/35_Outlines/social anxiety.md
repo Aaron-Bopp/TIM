@@ -33,7 +33,7 @@ WHERE contains(topics, this.file.link)
 		- [[It's always worth it to work through trauma]]
 - Comorbid
 	- General [[anxiety]]
-	- worsened by [[30_Topics/31_Stubs/OCD]]
+	- worsened by [[30 - Topics/31_Stubs/OCD]]
 	- [[depression]]
 
 

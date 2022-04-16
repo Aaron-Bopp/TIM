@@ -12,8 +12,8 @@ sr-ease: 210
 
 #### [[In what way are human's equal]] 
 
-> ![[books_Sapiens#^297681740]]
-> ![[books_Sapiens#^297681741]]
+> ![[books - Sapiens#^297681740]]
+> ![[books - Sapiens#^297681741]]
 
 Despite modern [[Conservatism|Conservatives]] insistence on the prescience of 
 [[The Founding Fathers]], they acknowledged this, only claiming that all *men* are equal:

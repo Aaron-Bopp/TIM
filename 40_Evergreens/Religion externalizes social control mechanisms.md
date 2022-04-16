@@ -22,12 +22,12 @@ This is
 part of:: [[Religion promotes high social control]].
 
 While there are many other aspect
-> ![[books_Darwin's Cathedral#^289554240]]
+> ![[books - Darwin's Cathedral#^289554240]]
 
 results in:: [[Theology preserves hierarchy through deific blessing]]
 
 > [!cite] God as the moderator of spirited debate from [[Darwin's Cathedral by David Sloan Wilson]]
 > 
-> ![[books_Darwin's Cathedral#^301317595]]
-> ![[books_Darwin's Cathedral#^301114706]]
-> ![[books_Darwin's Cathedral#^294094920]]
+> ![[books - Darwin's Cathedral#^301317595]]
+> ![[books - Darwin's Cathedral#^301114706]]
+> ![[books - Darwin's Cathedral#^294094920]]

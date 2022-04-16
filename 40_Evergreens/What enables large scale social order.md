@@ -30,8 +30,8 @@ it only came to govern our daily lives after [[The Agricultural Revolution]].
 Two solutions are proposed by Harari, [[mythology]] and [[cooperation]].
 
 > [!masonry]
->  > ![[books_Sapiens#^297681731]]
->  > ![[books_Sapiens#^297681732]]
+>  > ![[books - Sapiens#^297681731]]
+>  > ![[books - Sapiens#^297681732]]
 
 He then cites [[Hammurabi's code]] and [[The Founding Fathers]] as examples. 
 These were two revolutionary systems of social organization.
@@ -48,7 +48,7 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 > [!cite]- [[The Dawn of Everything by David Graeber]]
 > 
-> ![[books_The Dawn of Everything#^261572334]]
+> ![[books - The Dawn of Everything#^261572334]]
 
 ### <hr class="footnote"/>
 
@@ -62,8 +62,8 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681739]]
+> ![[books - Sapiens#^297681739]]
 
-> ![[books_Sapiens#^297681757]]
+> ![[books - Sapiens#^297681757]]
 
-> ![[books_Sapiens#^297681730]]
+> ![[books - Sapiens#^297681730]]

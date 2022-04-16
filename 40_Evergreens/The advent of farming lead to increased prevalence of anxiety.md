@@ -30,6 +30,6 @@ part of:: [[Did hunter-gatherers lead better lives than us]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681723]]
+> ![[books - Sapiens#^297681723]]
 
-> ![[books_Sapiens#^297681725]]
+> ![[books - Sapiens#^297681725]]

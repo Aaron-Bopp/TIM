@@ -31,7 +31,7 @@ The [[karma|Karmic]] traditions of [[eastern philosophy]] are primarily focused 
 [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 
 [[Yoga]] states that [[suffering]] comes from our attachment to our expectations, and through [[emotional detachment|detachment]] we can find [[peace]]
-^[[[notes_Dukkha]]]
+^[[[notes - Dukkha]]]
 
 %% DO NOT EDIT BELOW %%
 

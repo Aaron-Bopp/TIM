@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-13
+sr-due: 2022-04-17
 sr-interval: 1
-sr-ease: 226
+sr-ease: 206
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -27,4 +27,4 @@ One on one a more selfish individual will win via [[individual selection]], but 
 
 #### References
 
-> ![[books_Darwin's Cathedral#^304172011]]
+> ![[books - Darwin's Cathedral#^304172011]]

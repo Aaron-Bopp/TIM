@@ -34,4 +34,4 @@ Over time people will start to benefit more and more from the hierarchy and even
 ![[Sapiens by Yuval Noah Harari#citation]]
 
 
-> ![[books_Sapiens#^299110301]]
+> ![[books - Sapiens#^299110301]]

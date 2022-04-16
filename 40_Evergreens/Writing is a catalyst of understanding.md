@@ -50,7 +50,7 @@ contrasts:: [[Often the best editing tool is time]], sometimes we do need to jus
 
 #### References
 
-> ![[articles_Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]
+> ![[articles - Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]
 
 - ![[Andy Matuschak's Evergreen Notes#^67fb4a]]
 	- some people can't think unless they are writing  

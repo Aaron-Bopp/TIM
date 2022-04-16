@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Bhagavad Gita]]</s> 
 
 An ancient text from the [[Hinduism|Hindu]] tradition, in which an incarnation of [[god]], called [[Krishna]], advises a warrior called [[Arjuna]] on how to be free from [[suffering]].
-^[[[notes_What is achievement]]]
+^[[[notes - What is achievement]]]
 
 **See**:: [[religion]], [[faith]], [[Karma Fal]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

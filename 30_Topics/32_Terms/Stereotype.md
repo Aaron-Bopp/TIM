@@ -22,5 +22,5 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[course_Psychology of Race and Gender]]
+[^1]: [[course - Psychology of Race and Gender]]
 

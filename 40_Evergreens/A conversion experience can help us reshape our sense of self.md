@@ -12,7 +12,7 @@ sr-ease: 190
 
 #### [[A conversion experience can help us reshape our sense of self]] 
 
-> ![[books_Darwin's Cathedral#293875897q]]
+> ![[books - Darwin's Cathedral#293875897q]]
 
 - part of:: [[Belief helps us push through hardship]]
 - part of:: [[The Christian worldview is incompatible with most other worldviews]]

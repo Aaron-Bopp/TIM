@@ -12,7 +12,7 @@ sr-ease: 259
 
 > "**Attention** is the cognitive process that weeds out most of the behaviors that are irrelevant to the child and <u>focuses on the few that are most relevant</u>" 
 > 
-> <cite> [[textbook_Hyde&Elsequest_pyschology of women and gender#^shyhhm | Hyde and Else-Quest]] </cite> 
+> <cite> [[textbook - Hyde&Elsequest_pyschology of women and gender#^shyhhm | Hyde and Else-Quest]] </cite> 
 
 ^9fc829
 

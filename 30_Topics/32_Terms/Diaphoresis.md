@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Diaphoresis]]</s> 
 
 Profuse sweating that is unrelated to the usual and normal stimuli. Usually caused by [[Adrenaline]]
-^[[[notes_Physiologic Anxiety]]]
+^[[[notes - Physiologic Anxiety]]]
 
 **See**:: [[Physiologic Anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

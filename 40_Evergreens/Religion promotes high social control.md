@@ -15,7 +15,7 @@ sr-ease: 150
 This allows [[religion]] to create either very positive or very negative behaviors in groups.
 
 Spiritual beliefs can promote [[behavior]] that is positive to the group without requiring [[knowledge]] and adherence to practical reasoning. 
-^[[[books_Darwin's Cathedral#^294094920]]]
+^[[[books - Darwin's Cathedral#^294094920]]]
 
 
 Perhaps religion allows an easier to way to pass on practices without them being questioned, which would mean this
@@ -40,6 +40,6 @@ Explanations:
 
 #### References
 
-> ![[books_Darwin's Cathedral#^298292991]]
+> ![[books - Darwin's Cathedral#^298292991]]
 
-> ![[books_Darwin's Cathedral#^291449835]]
+> ![[books - Darwin's Cathedral#^291449835]]

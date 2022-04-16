@@ -12,12 +12,12 @@ sr-ease: 252
 
 #### [[ADHD is primarily an executive function disorder]] 
 
-> ![[tweets_Many People With ADD Ha...#244104975q]]
+> ![[tweets - Many People With ADD Ha...#244104975q]]
 See [[ADHD is not a lack of attention it is a misplacement of attention]] to understand why lack of attention is not at the core of making ADHD debilitating. The lack of executive function is far more powerful to this affect, and what makes [[ADHD]] a [[mental illness]].
 
 > Many folks with \#ADHD have also experienced some kind of developmental [[trauma]]. We often see neglect and emotional abandonment especially when caregivers are unable (or unwilling) to offer competent support for their [[neurodiversity|neurodivergent]] child.
 > 
-> [[tweets_@samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with#3p7r0d|@samdylanfinch]]
+> [[tweets - @samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with#3p7r0d|@samdylanfinch]]
 
 ### <hr class="footnote"/>
 

@@ -18,14 +18,14 @@ sr-ease: 241
 > 
 
 > [!infobox right]
-> ![[450px-Inca_Quipu.jpg]]
+> ![[450px-Inca - Quipu.jpg]]
 > An example of a _quipu_ from the Inca Empire, currently in the [Larco Museum](https://en.wikipedia.org/wiki/Larco_Museum "Larco Museum") Collection.
 
 > [!wikipedia]
 > A quipu usually consisted of cotton or camelid fiber strings. The Inca people used them for collecting data and keeping records, monitoring tax obligations, properly collecting census records, calendrical information, and for military organization. The cords stored numeric and other values encoded as knots, often in a base ten positional system. A quipu could have only a few or thousands of cords. The configuration of the quipus has been "compared to string mops." Archaeological evidence has also shown the use of finely carved wood as a supplemental, and perhaps sturdier, base to which the color-coded cords would be attached. A relatively small number have survived.
 
 > [!infobox right]
-> ![[450px-Quipo_in_the_Museo_Machu_Picchu,_Casa_Concha,_Cusco.jpg]]
+> ![[450px-Quipo - in_the_Museo_Machu_Picchu,_Casa_Concha,_Cusco.jpg]]
 > Quipu in the Museo Machu Picchu, Casa Concha, Cusco
 
 > [!wikipedia]

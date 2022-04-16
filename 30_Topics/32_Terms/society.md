@@ -48,4 +48,4 @@ Alternatively:: [[social order]].
 
 #### Discussion
 
-> ![[books_Darwin's Cathedral#^292550146]]
+> ![[books - Darwin's Cathedral#^292550146]]

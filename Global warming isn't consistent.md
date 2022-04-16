@@ -15,7 +15,7 @@ sr-ease: 248
 
 Not only is the amount of warming inconsistent (poles are seeing a much large relative change in temperature than tropics) the effects that change has is different.
 
-> ![[books_How to Avoid a Climate Disaster#^306587585]]
+> ![[books - How to Avoid a Climate Disaster#^306587585]]
 
 ### <hr class="footnote"/>
 

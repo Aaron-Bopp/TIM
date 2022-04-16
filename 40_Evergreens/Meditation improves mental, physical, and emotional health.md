@@ -13,7 +13,7 @@ sr-ease: 170
 #### [[Meditation improves mental, physical, and emotional health]] 
 
 [[Mental health is a reaction to one's environment]] and the [[mind-body complex]] is a interconnected web of [[hormone]]s, [[emotions]], [[Neurotransmitter]]s and so much more.
-^[[[notes_Brain Gut Axis]]]
+^[[[notes - Brain Gut Axis]]]
 While many think of [[meditation]] as a practice for the most disciplined and devout of monks, the practice of [[meditation]] has been shown to have powerful effects on [[mental health]] of people from all backgrounds.  
 
 - Mental

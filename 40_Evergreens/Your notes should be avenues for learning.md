@@ -3,8 +3,8 @@ created: 2022-03-25T12:28:12
 aliases:
   - null
 tags: created/2022/03/25, review, node/evergreen/claim
-sr-due: 2022-04-13
-sr-interval: 3
+sr-due: 2022-04-29
+sr-interval: 13
 sr-ease: 260
 ---
 > [!infobox]
@@ -39,7 +39,7 @@ part of:: [[Evergreen notes help us bridge the gap between knowledge and underst
 - #TO/TEND/WATER example of using [[Wikipedia (plugin, obsidian)]] and [[topic notes]] as a way of learning
 - #TO/PONDER/IDEA how tagging [[source notes]] will resurface them years down the line
 - [[Evergreen notes organize knowledge so that it can grow]]
-- [[Evergreen notes should be constantly integrating new knowledge]]
+- [[Evergreen notes should be updated over time]]
 
 ### <hr class="footnote"/>
 

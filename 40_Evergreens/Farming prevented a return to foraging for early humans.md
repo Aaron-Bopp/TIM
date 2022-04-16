@@ -41,4 +41,4 @@ example of:: [[When luxury becomes a necessity it is no longer a luxury]].
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297301085]]
+> ![[books - Sapiens#^297301085]]

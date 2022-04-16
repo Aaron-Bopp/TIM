@@ -32,8 +32,8 @@ Enables:: [[What maintains our social order]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^297681738]]
+> ![[books - Sapiens#^297681738]]
 
-> ![[books_Sapiens#^297681735]]
+> ![[books - Sapiens#^297681735]]
 
-> ![[books_Sapiens#^297681737]]
+> ![[books - Sapiens#^297681737]]

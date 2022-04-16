@@ -20,7 +20,7 @@ If a [[TIM]] is to truly augment our capability [[learning|to learn]], it must b
 - What are the limits
 	- [[We learn by transforming information into understanding]]
 		- [[Evergreen notes organize knowledge so that it can grow]]
-		- [[Evergreen notes should be constantly integrating new knowledge]]
+		- [[Evergreen notes should be updated over time]]
 	- [[There is a limit to how much information you can process at once]]
 		- [[Densely linked webs of thought provide intuitive access to knowledge]]
 		- [[A healthy second brain requires a surplus of entry points]]

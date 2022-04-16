@@ -15,7 +15,7 @@ sr-ease: 190
 [[Anxiety]] is the future focused [[mind]], and if you dwell in your anxiety for too long you are going to stop living in the present and start living in the future.
 
 There are four ways that anxiety takes us out of the current moment 
-^[[[notes_Responses to Anxiety]]]
+^[[[notes - Responses to Anxiety]]]
 1. Distraction - this is pure escapism and is quite effective, but the [[anxiety]] is waiting for you as soon as you runout of distraction. It will be hard, but you need to face your anxiety because [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 2. Avoidance - another way of escape, but one with much realer consequences. [[Anxiety stems from a lack of confidence for the future]] and if you continually avoid it will only worsen your [[confidence]] because [[Confidence is a feedback loop]]
 3. Reassurance - while this is momentarily helpful, it eventually leads to dependence, especially because [[Anxiety tries to make us assume the worst]]

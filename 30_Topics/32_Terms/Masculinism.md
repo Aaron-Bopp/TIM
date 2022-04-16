@@ -19,5 +19,5 @@ LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
-[^1]: [[articles_The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]
+[^1]: [[articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]
 

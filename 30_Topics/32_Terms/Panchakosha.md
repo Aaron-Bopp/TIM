@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Panchakosha]]</s> 
 
 "Pancha" means five, and Kosha means "sheath"; it is the [[Yoga|Yogic]] model for the five layers of our being.
-^[[[notes_Panchakosha Theory]]]
+^[[[notes - Panchakosha Theory]]]
 - [[Annamaya Kosha]] - [[physiology]]
 - [[Pranamaya Kosha]] - [[energy]]
 - [[Manomaya Kosha]] - [[emotions]]

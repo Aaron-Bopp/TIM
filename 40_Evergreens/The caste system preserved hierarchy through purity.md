@@ -33,6 +33,6 @@ enabled by:: [[Religion promotes high social control]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books_Sapiens#^299110294]]
+> ![[books - Sapiens#^299110294]]
 
-> ![[books_Sapiens#^299110307]]
+> ![[books - Sapiens#^299110307]]

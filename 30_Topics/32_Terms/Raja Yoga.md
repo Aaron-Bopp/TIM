@@ -10,7 +10,7 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Raja Yoga]]</s> 
 
 A system of [[Yoga]], also known as the path of Kings, that focuses on gaining [[enlightenment]] through a stepwise process, involving 8 steps.
-^[[[notes_History of Meditation]]]
+^[[[notes - History of Meditation]]]
 1. [[Yama]] pure standards
 2. [[Niyama]] good morals
 3. [[asanas]] [[Yoga]] postures

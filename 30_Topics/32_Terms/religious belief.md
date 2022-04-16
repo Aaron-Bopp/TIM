@@ -40,6 +40,6 @@ Instead [[Emile Durkheim]] proposes that [[Religion creates social order through
 
 #### Discussion
 
-> ![[books_Darwin's Cathedral#^295490284]]
+> ![[books - Darwin's Cathedral#^295490284]]
 
-> ![[books_Darwin's Cathedral#^295490304]]
+> ![[books - Darwin's Cathedral#^295490304]]
