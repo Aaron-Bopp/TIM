@@ -3,7 +3,7 @@
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-<% tp.file.include("[[EVERGREEN - HEADER]]") %>
+<% tp.file.include("[[EVERGREEN_HEADER]]") %>
 
 <% tp.file.cursor(0) %>
 

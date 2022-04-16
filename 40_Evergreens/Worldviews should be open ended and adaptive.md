@@ -24,7 +24,7 @@ As the world continues to change and grow, we see [[Christianity]] starting to c
 ^[[[The church will fail if christians keep aligning themselves with hate instead of love]]]
 While [[eastern philosophy]] like [[meditation]], [[Yoga]], and even [[Buddhism]] become more and more accepted in the west.
 This is because these [[worldview]]s broke down [[humanity]] to it's core elements. As we learn more about how the [[body]] and [[mind]] work, we only see more and more evidence for this viewpoint.
-^[[[notes - Science of Meditation]]]
+^[[[Ancient yogic techniques are applicable to this day]]]
 
 Even if your [[worldview]] is open ended and adaptive, it does not always mean that you will be. [[Human's have an inability to admit that they are wrong]], but this kind of [[worldview]] and consistent practice of [[meditation]] can help you separate from the irrationality of your [[ego]] and keep your [[self]] open to new ideas: [[Karma is an open ended system of belief]]
 

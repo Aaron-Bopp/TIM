@@ -3,8 +3,8 @@ created: 2022-03-23T18:28:02
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-04-16
-sr-interval: 15
+sr-due: 2022-05-23
+sr-interval: 37
 sr-ease: 230
 ---
 > [!infobox]
@@ -19,8 +19,9 @@ but in times of [[war]] and great social upheaval
 some sort of hierarchy is usually put into place.
 Once that hierarchy is in place,
 it will be much harder to remove.
-Over time people will start to benefit more and more from the hierarchy and eventually they will start working against any effort to remove it.
+Over time people will start to benefit more and more from the hierarchy, and eventually they will start working against any effort to remove it.
 
+explains:: [[Oppressors invent reasoning for their oppression]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

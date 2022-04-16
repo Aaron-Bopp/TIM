@@ -3,16 +3,16 @@ created: 2022-02-12T08:52:11
 aliases:
   - null
 tags: created/2022/02/12, review, node/evergreen/claim
-sr-due: 2022-04-16
-sr-interval: 24
-sr-ease: 190
+sr-due: 2022-04-30
+sr-interval: 14
+sr-ease: 170
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[The ultimate goal of the mind is to keep thinking]] 
 
-Otherwise we wouldn't be here. This must be a
+Otherwise, we wouldn't be here. This must be a
 result of:: [[Humans are a product of evolution]]
 
 Leads to::
@@ -26,7 +26,7 @@ keep in mind:: [[Biological processes can only give context to behavior not pred
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human nature]], [[consciousness]], [[mind]]

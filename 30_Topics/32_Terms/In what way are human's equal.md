@@ -3,8 +3,8 @@ created: 2022-03-19T13:47:58
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/question
-sr-due: 2022-04-15
-sr-interval: 14
+sr-due: 2022-05-20
+sr-interval: 34
 sr-ease: 210
 ---
 > [!infobox]
@@ -21,10 +21,10 @@ Despite modern [[Conservatism|Conservatives]] insistence on the prescience of
 They would have claimed that this equivalency (and non-white and non-men's inequivalence) to be a result of the 'natural law'.
 This [[natural law]] imbues so some sort of essence.
 
+- part of:: [[What maintains our social order]]
+- includes:: [[What does equality even mean]]
+- includes:: [[There is no direct relation between physical strength and social power]]
 - [[Oppressors invent reasoning for their oppression]]
-- [[What maintains our social order]]
-- [[What does equality even mean]]
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/WEED 

@@ -3,17 +3,17 @@ created: 2022-01-04T15:56:44
 aliases:
   - null
 tags: created/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-04-16
-sr-interval: 42
-sr-ease: 170
+sr-due: 2022-04-19
+sr-interval: 3
+sr-ease: 210
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Evergreen notes help us bridge the gap between knowledge and understanding]] 
 
-part of:: [[Evergreen notes organize knowledge so that it can grow]] 
-explained by:: [[We learn by transforming information into understanding]]
+- part of:: [[Evergreen notes organize knowledge so that it can grow]] 
+- explained by:: [[We learn by transforming information into understanding]]
 
 There is an initial hump to understanding any concept that makes it hard to passively learn things.
 This has given people the impressions that the only way they can learn is through a structured and purposeful attacking of the problem.
@@ -23,6 +23,7 @@ Understanding helps our knowledge degrade less quickly.
 If we understand how some piece of information is derived,
 when we eventually forget it, we will be able to substitute for it by understanding the process that caused it to happen.
 
+#TO/TEND/GRAFT 
 - [[How to understand what you read]]
 - [[Writing is a catalyst of understanding]]
 

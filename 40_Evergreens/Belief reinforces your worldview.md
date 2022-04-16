@@ -3,8 +3,8 @@ created: 2022-03-22T17:30:26
 aliases:
   - null
 tags: created/2022/03/22, review, node/evergreen/behavior
-sr-due: 2022-04-16
-sr-interval: 9
+sr-due: 2022-05-02
+sr-interval: 16
 sr-ease: 170
 ---
 > [!infobox]
@@ -16,6 +16,7 @@ Depending on your worldview this
 results in:: [[Belief helps us push through hardship]] or [[Sadness is enlightenment and happiness is delusion]].
 We can believe that there is no hope or we can believe that there isn't.
 
+%% #TO/TEND/WEED  %%
 This is 
 part of:: [[Belief can motivate adaptation]].
 If something breaks your [[worldview]] you need to adapt your understanding around it.

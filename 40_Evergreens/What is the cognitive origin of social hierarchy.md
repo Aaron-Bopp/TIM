@@ -3,8 +3,8 @@ created: 2022-03-23T13:01:26
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-04-15
-sr-interval: 14
+sr-due: 2022-05-22
+sr-interval: 36
 sr-ease: 230
 ---
 > [!infobox]
@@ -27,7 +27,7 @@ but only so far as the initial spark.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[social hierarchy]], [[Psychology]], [[Neuroscience]]

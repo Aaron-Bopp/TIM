@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-15
-sr-interval: 4
-sr-ease: 222
+sr-due: 2022-04-18
+sr-interval: 2
+sr-ease: 182
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,7 +15,7 @@ sr-ease: 222
 
 We don't argue that a can opener was designed for anything else than to open cans because that explanation is so obvious.
 In modern [[society]], we have trained ourselves to be skeptical of easy solutions.
-This is often the best strategy as helps us avoid
+This is often the best strategy as it helps us avoid
 [[Experts are often far too confident in the effectiveness of their theories]].
 The flip side of this is valuing high complexity explanations over simple explanations because of the perception of more [[information]],
 but a self-evident theory may be just as true.

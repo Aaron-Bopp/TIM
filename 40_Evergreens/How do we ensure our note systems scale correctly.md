@@ -3,8 +3,8 @@ created: 2022-03-25T12:26:51
 aliases:
   - null
 tags: created/2022/03/25, review, node/evergreen/question
-sr-due: 2022-04-16
-sr-interval: 14
+sr-due: 2022-05-21
+sr-interval: 35
 sr-ease: 230
 ---
 > [!infobox]
@@ -14,8 +14,8 @@ sr-ease: 230
 
 - part of:: [[A totally integrated machine should be infinitely scalable]]
 
-How do we test this theory?
-How do we define [[scalability]]?
+How do we test this theory?  
+How do we define [[scalability]]?  
 
 
 > ![[articles - Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method#^273534378]]

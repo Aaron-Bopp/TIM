@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/claim
-sr-due: 2022-04-15
-sr-interval: 5
+sr-due: 2022-05-01
+sr-interval: 15
 sr-ease: 241
 ---
 > [!infobox]
@@ -13,11 +13,12 @@ sr-ease: 241
 
 #### [[The internet revolutionized communication of and access to information]]
 
+#TO/TEND/WATER 
 - explains:: [[Gen Z uses irony to navigate post internet communication]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[internet]], [[communication]], [[information]]
