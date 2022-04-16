@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/12, review, node/evergreen/claim
-sr-due: 2022-04-14
-sr-interval: 2
+sr-due: 2022-04-24
+sr-interval: 8
 sr-ease: 247
 ---
 > [!infobox]
@@ -13,7 +13,8 @@ sr-ease: 247
 
 #### [[Solving climate change requires changing the world for the better]]
 
-
+- answers:: [[How to understand climate change]]
+- includes:: [[Clean electricity solves a lot of problems]]
 
 ### <hr class="footnote"/>
 

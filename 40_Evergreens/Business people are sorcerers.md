@@ -3,8 +3,8 @@ created: 2022-03-16T18:43:24
 aliases:
   - null
 tags: created/2022/03/16, review, node/evergreen/qoute
-sr-due: 2022-04-14
-sr-interval: 18
+sr-due: 2022-05-30
+sr-interval: 44
 sr-ease: 230
 ---
 > [!infobox]
@@ -12,10 +12,10 @@ sr-ease: 230
 
 #### [[Business people are sorcerers]] 
 
-
 > ![[books - Sapiens#^294248535]]
 > ![[books - Sapiens#^294248536]]
 
+from:: [[Yuval Noah Harari]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

@@ -3,8 +3,8 @@ created: 2022-01-02T08:55:52
 aliases:
   - null
 tags: created/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-04-14
-sr-interval: 48
+sr-due: 2022-07-18
+sr-interval: 93
 sr-ease: 190
 ---
 > [!infobox]
@@ -24,25 +24,26 @@ In a way, meditation is a tried and tested way of influencing the world, that ha
 When people meditate for a long time they feel their [[perception]] of the world change,
 and more easily recognize what they need to do to succeed.
 [[The most reliable path to success is repeatedly trying to succeed]], but we struggle to enact this because we hate that [[You can't control what happens]].
-Meditation helps us detach from this find value in the moment.
-^[[[Living in the present moment is valuable]]]
+Meditation helps us detach from this and [[Living in the present moment is valuable|find the value of the moment.]]
 
 ##### On a scientific level
 
-[[Mental health is a reaction to one's environment]].
-Whether it be repressed [[emotions]] or unbalanced levels of [[stress]], meditation can help.
 [[Meditation regulates your hormones and stress physiology]] and [[Meditation helps us regulate our nervous system]] are both solidly observed phenomena of many [[meditation]] practices.
+[[Mental health is a reaction to one's environment]].
+Whether it be repressed [[emotions]] or unbalanced levels of [[stress]], meditation can help us regulate our [[mental health]].
 
 ##### On a [[spirituality|spiritual]] level
 
 [[Consciousness is the fundamental unit of existence]] and because [[Meditation is a practice to develop a stronger consciousness]].
 Many meditation beliefs focus on this aspect and how meditation can help us it helps us [[manifestation|manifest]] our will upon the world.
 
-This is often a part of your [[Vanaprastha Ashram]], and prepares you for your final stage of life where you purse [[enlightenment]].
+This is often a part of your [[Vanaprastha Ashram]],
+and prepares you for your final stage of life,
+where you pursue [[enlightenment]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[meditation]], [[influence]]

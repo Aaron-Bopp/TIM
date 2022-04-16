@@ -3,8 +3,8 @@ created: 2022-01-20T10:08:09
 aliases:
   - null
 tags: created/2022/01/20, review, node/evergreen/claim
-sr-due: 2022-04-14
-sr-interval: 34
+sr-due: 2022-06-11
+sr-interval: 56
 sr-ease: 170
 ---
 > [!infobox]
@@ -26,7 +26,7 @@ If they believe in science, they believe that there is not enough evidence for g
 If they believe in themselves, they just don't believe they can be wrong.
 ^[symptom of:: [[Our ego defends every belief we hold conscious or subconscious]]]
 
-- [[Strong enough logic becomes belief]]
+- explained by:: [[Strong enough logic becomes belief]]
 
 ### <hr class="footnote"/>
 

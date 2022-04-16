@@ -3,8 +3,8 @@ created: 2022-03-21T09:04:51
 aliases:
   - null
 tags: created/2022/03/21, review, node/evergreen/question
-sr-due: 2022-04-14
-sr-interval: 7
+sr-due: 2022-05-03
+sr-interval: 17
 sr-ease: 210
 ---
 > [!infobox]
@@ -44,5 +44,3 @@ example of:: [[molecular genetics]] and [[Experts are often far too confident in
 > ![[books - Darwin's Cathedral#^297089496]]
 
 > ![[books - Darwin's Cathedral#^297089495]]
-
-> ![[books - Darwin's Cathedral#^297089494]]

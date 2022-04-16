@@ -3,8 +3,8 @@ created: 2021-08-01
 tags: created/2021/08/01, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-04-14
-sr-interval: 89
+sr-due: 2022-11-25
+sr-interval: 223
 sr-ease: 248
 ---
 > [!infobox]
@@ -16,7 +16,7 @@ sr-ease: 248
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED  
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Politics]], [[Conservatism]], [[cognitive dissonance]]

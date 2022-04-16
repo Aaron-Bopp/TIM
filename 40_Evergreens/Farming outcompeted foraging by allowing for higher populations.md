@@ -14,8 +14,9 @@ sr-ease: 210
 
 > ![[books - Sapiens#^297301079]]
 
-#TO/TEND/MULCH 
-As early humans transitioned from [[foraging]] to [[farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]], but mainly because their were never enough people around for their deaths to classify as a plague.
+As early humans transitioned from [[foraging]] to [[farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]],
+%% #TO/TEND/MULCH  %%
+but mainly because their were never enough people around for their deaths to classify as a plague.
 
 In reality farming lead to a variety of problems. Injuries were common as the human body was not adapted to a life of tilling fields and hauling chaff.
 ^[[[books - Sapiens#^297301075]]]

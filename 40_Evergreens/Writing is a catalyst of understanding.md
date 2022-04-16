@@ -37,8 +37,8 @@ how:: [[Evergreen notes help us bridge the gap between knowledge and understandi
 
 This is why there is a difference between [[spaced repetition]] and [[incremental writing]] for me, even though I write during both.
 [[Incremental writing]] is to push me to write to clarify understanding, and [[spaced repetition]] is to help me write for idea generation.
-This
-contrasts:: [[Often the best editing tool is time]], sometimes we do need to just push through and write.
+This reinforces and
+contrasts:: [[Often the best editing tool is time]], sometimes we do need to just push through and write, but sometimes time is all we need.
 
 ### <hr class="footnote"/>
 

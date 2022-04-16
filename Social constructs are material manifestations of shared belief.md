@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/claim
-sr-due: 2022-04-14
-sr-interval: 2
+sr-due: 2022-04-23
+sr-interval: 7
 sr-ease: 193
 ---
 > [!infobox]
@@ -20,7 +20,6 @@ If you took away the shared belief in a [[social construct]], it's physical mani
 
 explained by:: [[Social order is built off of a shared belief in an imagined reality]]
 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
@@ -30,4 +29,5 @@ explained by:: [[Social order is built off of a shared belief in an imagined rea
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
+
 ![[video - Social Constructs Philosophy Tube#^video]]
