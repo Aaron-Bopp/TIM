@@ -3,8 +3,8 @@ created: 2022-03-30T21:28:44
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/saying
-sr-due: 2022-04-13
-sr-interval: 9
+sr-due: 2022-05-11
+sr-interval: 25
 sr-ease: 208
 ---
 > [!infobox]

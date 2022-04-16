@@ -25,6 +25,13 @@ so they can increase the amount of information we can process.
 
 part of:: [[We will evolve when we make learning as easy as thinking]]
 
+> [!example]
+> 
+> When I started my [[second brain]], I made a lot of really specific [[evergreen notes]] and had no methodology for surfacing old notes except by stumbling upon them. They were linked into other notes, but there were so many new notes being created that many fell through the cracks, leading me to duplicate thoughts because I did note remember the relevant note.
+> 
+> When I started to use [[spaced repetition]] for my notes, these "duplicate" notes started coming out through the woodwork and I had to spend time refactoring them and deciding how to incorporate these notes. Now that I have a better grasp if what is in my notes,
+> ^[[[Use spaced repetition as a memory tool for your second brain]]]
+> I won't even go to make those duplicate notes: [[Better tools allow us to be less disciplined and more productive]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
