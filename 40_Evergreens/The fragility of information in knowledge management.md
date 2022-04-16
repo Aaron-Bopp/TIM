@@ -14,7 +14,7 @@ sr-ease: 192
 
 In our [[memory]], if something is irrelevant it will slowly fade, but in our [[second brain]] nothing disappears. Rather, it becomes fragile, cluttering and distracting until it is destroyed. [^1] This is why the second brain needs help from the first, to remove clutter and to provide strong connections. 
 
-[^1]: This is because [[Nodes in the second brain are made up of impermanent data and permanent metadata]] and the metadata of nodes connect them to others. Even when you delete a note, the metadata of that note remains explicitly in the vault
+[^1]: This is because [[Deleting an Obsidian note can have unforeseen consequences]] and the metadata of nodes connect them to others. Even when you delete a note, the metadata of that note remains explicitly in the vault
 
 This is 
 why:: [[Evergreen notes should be constantly integrating new knowledge]] and [[Evergreen notes help us bridge the gap between knowledge and understanding]] are so important.

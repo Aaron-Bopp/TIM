@@ -15,7 +15,7 @@ In [[Obsidian (software)|Obsidian]] tags are a piece of metadata that you can ad
 You can make hierarchies of tags, which allows for groups of similar tags to be placed together. This way, you can group related ideas, without having to push them into one specific category.
 ^[[[Only categorize as much as your data requires]]]
 
-[^1]: [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
+[^1]: [[Deleting an Obsidian note can have unforeseen consequences]]
 
 While the nesting of tags can help to provide structure to what notes are about, I don't like them to describe what the note covers. [[Evergreen notes organize knowledge so that it can grow]], and applying a hierarchical tag structure to them would inhibit this.
 ^[[[Webs of thought provide heterarchical structure]]]

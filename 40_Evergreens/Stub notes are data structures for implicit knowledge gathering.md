@@ -28,7 +28,7 @@ and the unlinked show places where the relation to the stub could be a unique in
 - [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 - [[Evergreen notes organize knowledge so that it can grow]]
 - [[A second brain should mirror how we think]]
-- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
+- [[Deleting an Obsidian note can have unforeseen consequences]]
 
 ### <hr class="footnote"/>
 

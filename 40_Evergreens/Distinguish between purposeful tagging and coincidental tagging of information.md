@@ -19,7 +19,7 @@ This can be seen as a counter-example to [[Friction is a hindrance to learning]]
 
 This is where [[Note structures should help curate knowledge]] comes in. Having a section of the note for purposeful tagging, allows you to have more granularity in the ways that [[topic notes]] are linked. This is why you see a **Topics** field at the bottom of each of my [[evergreen notes]]. 
 
-- [[Nodes in the second brain are made up of impermanent data and permanent metadata]]
+- [[Deleting an Obsidian note can have unforeseen consequences]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 
 > ![[articles_The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]
