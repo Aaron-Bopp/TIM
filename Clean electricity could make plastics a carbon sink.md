@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-15
-sr-interval: 5
+sr-due: 2022-05-01
+sr-interval: 15
 sr-ease: 249
 ---
 > [!infobox]
@@ -17,16 +17,20 @@ While the production of plastics produces [[CO2]],
 much of it actually ends up within the plastic itself. 
 This carbon would stay in the plastic until the plastic degrades--which takes hundreds of years.
 
-> ![[books - How to Avoid a Climate Disaster#^308344253]]
-
 A similar but less efficient process could take place for [[concrete]].
 
 > ![[books - How to Avoid a Climate Disaster#^308344252]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[climate change]], [[clean electricity]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
+
+> ![[books - How to Avoid a Climate Disaster#^308344253]]

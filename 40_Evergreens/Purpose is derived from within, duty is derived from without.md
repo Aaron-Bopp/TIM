@@ -3,8 +3,8 @@ created: 2022-01-04T16:00:57
 aliases:
   - null
 tags: created/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-04-15
-sr-interval: 35
+sr-due: 2022-06-15
+sr-interval: 60
 sr-ease: 170
 ---
 > [!infobox]
@@ -13,14 +13,14 @@ sr-ease: 170
 #### [[Purpose is derived from within, duty is derived from without]] 
 
 Purpose is not something that can be given to us, it is something we have to choose. 
-[[How to discover your purpose in life]]
+answers:: [[How to discover your purpose in life]]
 
 #TO/TEND/GRAFT 
 - [[notes - Dharma]] [[notes - Karma]] 
 - [[notes - How to achieve]]
 - [[Humans are drawn to the unknown and repelled by the known]]
-- [[Be the change you want to see in the world]]
-- [[Growing up is being able to articulate the hope more than the hopelessness]]
+- part of:: [[Be the change you want to see in the world]]
+- why:: [[Growing up is being able to articulate the hope more than the hopelessness]]
 
 ### <hr class="footnote"/>
 
