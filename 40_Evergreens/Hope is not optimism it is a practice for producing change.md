@@ -18,7 +18,7 @@ sr-ease: 210
 
 Some people think that being angry prevents you from being optimistic, but [[Anger fuels change]] and [[True optimism is acknowledging the suffering of the world and defying it anyway]]
 
-If you can find [[hope]] within yourself or within other people its all worth it.
+If you can find [[hope]] within yourself or within other people, it's all worth it.
 
 On a personal level, [[Happiness is enlightenment and sadness is delusion]]. 
 Even if you are [[suffering]], [[hope]] is the only path forward:
@@ -26,7 +26,7 @@ Even if you are [[suffering]], [[hope]] is the only path forward:
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/GREEN
 *edited `=this.file.mtime`*
 
 **Topics**:: [[hope]], [[optimism]], [[anger]], [[social progress]], [[human advancement]]

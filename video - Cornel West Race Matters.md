@@ -8,15 +8,15 @@ tags: created/2022/04/17, node/source/video
 
 ##### [[video - Cornel West Race Matters]]
 
-**Creator**:: 
+**Creator**:: [[Cornel West]]
  
-**Source**:: 
+**Source**:: [Cornel West: Race Matters - YouTube](https://www.youtube.com/watch?v=hs4xtVEtORc)
 
 **Summary**:: 
 
-**Covers**::
+**Covers**:: [[race]], [[racism]], [[social justice]], [[activism]], [[Civil Rights]]
 
-###### Focus on race does not mean we can't acknowledge white people's pain
+###### Confront the most powerful, don't scapegoat the most vulnerable
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hs4xtVEtORc?start=2423" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
