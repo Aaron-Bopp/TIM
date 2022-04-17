@@ -19,6 +19,9 @@ When you start to feel [[friction]], trust that feeling. [[Friction is a hindran
 
 It is easier to cutout sections of large topic notes and create subtopics, than it is to have to recategorize a swath of notes. 
 
+#TO/TEND/WATER 
+
+See [[How do we draw insights from our notes]] for more on how organizing can lead to insight
 
 ### <hr class="footnote"/>
 
