@@ -34,8 +34,7 @@ Even if you are [[suffering]], [[hope]] is the only path forward:
 
 #### References
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hs4xtVEtORc?start=4025" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+![[video - Cornel West Race Matters#Hope is not optimism it is a practice for producing change|no-h]]
 %% #TO/EXPLORE/WATCH the rest of this lecture %%
 
 > "Kaba states, “I always tell people, for me, [[hope]] doesn’t preclude feeling sadness or frustration or anger or any other emotion that makes total sense. Hope isn’t an emotion, you know? Hope is not optimism” 
