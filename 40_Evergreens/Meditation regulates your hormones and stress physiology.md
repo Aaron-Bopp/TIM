@@ -3,16 +3,16 @@ created: 2022-01-02T09:00:06
 aliases:
   - null
 tags: created/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 30
-sr-ease: 150
+sr-due: 2022-06-21
+sr-interval: 65
+sr-ease: 170
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Meditation regulates your hormones and stress physiology]] 
 
-20 minutes of [[meditation]] every day or every other day will impact your [[stress]] physiology through turning off your [[Hypothalamic Pituitary Adrenal (HPA) Axis|Hypothalamic Pituitary Adrenal Axis]] which reduce stress inducing [[hormone]]s like [[Cortisol]]. This has a variety of positive impacts to your [[immune system]] and [[brain]].
+20 minutes of [[meditation]] every day or every other day will impact your [[stress]] physiology through turning off your [[Hypothalamic Pituitary Adrenal (HPA) Axis|Hypothalamic Pituitary Adrenal Axis]] which reduce stress inducing hormones like [[Cortisol]]. This has a variety of positive impacts to your [[immune system]] and [[brain]].
 ^[[[notes - Science of Meditation]]]
 
 Our body will regularly produce [[hormone|hormones]] to produce a higher chance of survival.
@@ -22,7 +22,7 @@ Unfortunately, those [[hormone|hormones]] can lead to unneeded [[anxiety]], and 
 This is how [[meditation]] could also affect [[ADHD]] as [[ADHD]] is largely affected by [[hormone|hormones]] like [[Dopamine]]:
 [[ADHD is not a lack of attention it is a misplacement of attention]]
 
-For more on how [[meditation]] can effect the [[body]] 
+For more on how [[meditation]] can affect the [[body]] 
 see:: [[Meditation helps us regulate our nervous system]]
 
 ### <hr class="footnote"/>

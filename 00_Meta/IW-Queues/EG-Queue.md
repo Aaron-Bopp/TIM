@@ -24,3 +24,5 @@ interval: 1
 | [[Humans are addicted to believing]]                                       |        0 |       |        0 | 2022-03-26 |
 | [[Our ego defends every belief we hold conscious or subconscious]] | | | | |
 | [[Our brain will do anything it can to protect itself]] | | | | |
+| [[Faith is an abstraction of cognitive dissonance]] | | | | |
+| [[Humans long to know what to do]] | | | | |

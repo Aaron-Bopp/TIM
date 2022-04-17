@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 5
+sr-due: 2022-05-01
+sr-interval: 14
 sr-ease: 243
 ---
 > [!infobox]
@@ -13,11 +13,7 @@ sr-ease: 243
 
 #### [[Greenhouse gases absorb only specific wavelengths of energy]]
 
-This is why energy from the sun can get to [[Earth]], but then gets trapped inside the atmosphere. This is significant for life, but as we have released more [[greenhouse gases]] we have been messing with the balance between energy being retained and escaping.
-
-> ![[books - How to Avoid a Climate Disaster#^306587590]]
-
-> ![[books - How to Avoid a Climate Disaster#^306587595]]
+This is why energy from the sun can get to [[Earth]], but then gets trapped inside the atmosphere. This is significant for life, but as we have burned more [[fossil fuels]] we have released more [[greenhouse gases]] and have been messing with the balance between energy being retained and escaping.
 
 ### <hr class="footnote"/>
 
@@ -31,3 +27,7 @@ This is why energy from the sun can get to [[Earth]], but then gets trapped insi
 
 [[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 > ![[books - How to Avoid a Climate Disaster#^306587582]]
+
+> ![[books - How to Avoid a Climate Disaster#^306587595]]
+
+> ![[books - How to Avoid a Climate Disaster#^306587590]]

@@ -12,8 +12,10 @@ sr-ease: 230
 
 #### [[Cooking allowed prehistoric humans to spend less energy on digesting]] 
 
-In order to digest unprocessed plant and animal matter you need to have a long and powerful intestinal tract and spend lots of energy chewing. This is a feature of many species from cows to chimpanzee's, but not of the chimpanzee's close relative, humans. This adaptation may be linked to cooking and and have allowed for larger brains.
-
+In order to digest unprocessed plant and animal matter you need to have a long and powerful intestinal tract and spend lots of energy chewing. This is a feature of many species from cows to chimpanzee's, but not of the chimpanzee's close relatives, humans. 
+By contrast we spend a much shorter time chewing and digesting and thus can put our energy into other things. This adaptation likely allowed for larger brains
+may be linked to cooking.
+Cooking breaks down a lot of the proteins that stomachs have to in other animals.
 Similarly:: [[Cracking bones and eating the marrow may have been human's first niche]]
 
 leads to:: [[Foraging allowed for a diverse diet]]

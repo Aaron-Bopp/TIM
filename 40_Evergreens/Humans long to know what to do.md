@@ -3,8 +3,8 @@ created: 2022-01-04T16:03:12
 aliases:
   - null
 tags: created/2022/01/04, review, node/evergreen/behavior
-sr-due: 2022-04-17
-sr-interval: 14
+sr-due: 2022-05-06
+sr-interval: 19
 sr-ease: 130
 ---
 > [!infobox]
@@ -16,8 +16,9 @@ This is a
 result of:: [[Humans are designed to make certainty out of uncertainty]].
 We would much rather have a path laid out in front of us, 
 no matter how impossible,
-that be faced with an impossible decision.
+than be faced with an impossible decision.
 
+#TO/TEND/WATER 
 - leads to:: [[Human's have an inability to admit that they are wrong]]
 - explains:: [[Humans are addicted to believing]]
 	- [[Belief reinforces your worldview]]

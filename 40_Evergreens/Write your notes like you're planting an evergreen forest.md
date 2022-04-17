@@ -12,19 +12,16 @@ sr-ease: 242
 
 #### [[Write your notes like you're planting an evergreen forest]] 
 
+> [!summary]
+> 
+> Don't focus too hard on whether a piece of information is evergreen or not. Record the insights that seem valuable, and time will tell what is really useful. On the flip side, think about what coming across these notes will be like in months or years. Don't take things for granted just because they are obvious to you now.
+> ^[This is
+> part of:: how [[I don't write my notes for myself]]]
+
 You don't need to know how to cut down a forest when you start spreading seeds.
 It can often be intimidating to start a [[note writing]] practice,
-but the end there are no rules, and you won't find what works for you until you try.
-%% #TO/TEND/MULCH 
-[[Evergreen notes]] can be as small as a few sentences or as expansive as an entire breakdown of an idea.
-If you have a concept, write it down and see what you can link to it.
-Often times an imperative, descriptive title and backlinks are all a note needs to have longevity, other time you may need a sentence or two of context so that you don't forget what you were thinking.
-%%
+but in the end there are no rules, and you won't find what works for you until you try.
 
-%%
-However, if you don't know what an evergreen forest looks like, 
-you won't know which kind of seeds to plant and how to foster them.
-%%
 Having an unattended forest can be very overwhelming,
 but it can also provide the [[knowledge]] and context you need in order to choose the correct system.
 Looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]],
@@ -33,11 +30,10 @@ because [[Learning how systems work can be a gateway to creating thought]].
 You will need to strike a balance between the stress of having an unorganized system 
 and the stress of having to design your system.
 While [[Choosing a note writing system is choosing a system for thought]],
-spending to much time on an elaborate system can distract you from your work.
-^[[[Powerful tools make dangerous toys]]]
+but spending too much time on an elaborate system can distract you from your work.
 As you are building your [[second brain]],
 [[Prioritize understanding over organization or categorization]]
-and to 
+and even more importantly
 [[Write your notes with a system not within a system]].
 Soon you will be drawn into the world and be surprised at how fast you are [[learning]]
 because [[Communities are knowledge graphs]].

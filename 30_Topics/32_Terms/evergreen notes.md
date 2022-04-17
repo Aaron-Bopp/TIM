@@ -18,6 +18,11 @@ sr-ease: 205
 > 
 > <cite>[[Andy Matuschak]]</cite>
 
+
+Evergreen notes can be as small as a few sentences or as expansive as an entire breakdown of an idea.
+If you have a concept, write it down and see what you can link to it.
+Often times an imperative, descriptive title and backlinks are all a note needs to have longevity, other times you may need a sentence or two of context so that you don't forget what you were thinking.
+
 Evergreen notes are the fundamental unit of [[knowledge]] in [[My TIM]]. 
 
 ##### ^dataviews

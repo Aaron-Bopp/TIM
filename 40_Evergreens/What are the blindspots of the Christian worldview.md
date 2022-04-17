@@ -3,8 +3,8 @@ created: 2022-03-27T15:02:13
 aliases:
   - the blindspots in the Christian worldview
 tags: created/2022/03/27, review, node/evergreen/question
-sr-due: 2022-04-17
-sr-interval: 10
+sr-due: 2022-05-12
+sr-interval: 25
 sr-ease: 224
 ---
 > [!infobox]
@@ -28,7 +28,7 @@ While they aren't likely to go back on their support for gay marriage, they will
 
 The question is if there is a version of the Christian worldview that does not have this problem, and if their isn't what is the next blindspot that Christian's will have to deal with.
 
-- includes:: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
+- answered by:: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - from:: [[My worldview is not about conversion it is about acceptance]]
 
 ### <hr class="footnote"/>
