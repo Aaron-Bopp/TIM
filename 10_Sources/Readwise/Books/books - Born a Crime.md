@@ -49,7 +49,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=1584
 
 ###### ^306654920q
 
-When apartheid came, colored people defied easy categorization, so the system used them—quite brilliantly—to sow confusion, hatred, and mistrust. ... Afrikaners used to call them amperbaas: “the almost-boss.” The almost-master. “You’re almost there. You’re so close. You’re this close to being white. Pity your grandfather couldn’t keep his hands off the chocolate, eh? But it’s not your fault you’re colored, so keep trying. Because if you work hard enough you can erase this taint from your bloodline. Keep on marrying lighter and… 
+When apartheid came, colored people defied easy categorization, so the system used them—quite brilliantly—to sow confusion, hatred, and mistrust... Afrikaners used to call them amperbaas: “the almost-boss.” The almost-master. “You’re almost there. You’re so close. You’re this close to being white. Pity your grandfather couldn’t keep his hands off the chocolate, eh? But it’s not your fault you’re colored, so keep trying. Because if you work hard enough you can erase this taint from your bloodline. Keep on marrying lighter and whiter and don’t touch the chocolate and maybe, maybe, someday, if you’re lucky, you can become white.” 
 
 ^306654920
 
@@ -60,7 +60,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=1590
 
 ###### ^306654914q
 
-Every year under apartheid, some colored people would get promoted to white. It wasn’t a myth; it was real. People could submit applications to the government. Your hair might become straight enough, your skin might become light enough, your accent might become polished enough—and you’d be reclassified as white. All you had to do was denounce your… 
+Every year under apartheid, some colored people would get promoted to white. It wasn’t a myth; it was real. People could submit applications to the government. Your hair might become straight enough, your skin might become light enough, your accent might become polished enough—and you’d be reclassified as white. All you had to do was denounce your people, denounce your history, and leave your darker-skinned friends and family behind. 
 
 ^306654914
 
@@ -71,7 +71,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=1594
 
 ###### ^306654921q
 
-The legal definition of a white person under apartheid was “one who in appearance is obviously a white person who is generally not accepted as a coloured person; or is generally accepted as a white person… ... That’s where the government came up with things like the pencil test. If you were applying to be white, the pencil went into your hair. If it fell out, you were white. If it stayed in, you were colored. You were what the government said you were. Sometimes that came down to a lone clerk eyeballing your face and making a snap decision. Depending on how high your cheekbones were or how broad your nose was, he could tick whatever box made sense to him,… 
+The legal definition of a white person under apartheid was “one who in appearance is obviously a white person who is generally not accepted as a coloured person; or is generally accepted as a white person… That’s where the government came up with things like the pencil test. If you were applying to be white, the pencil went into your hair. If it fell out, you were white. If it stayed in, you were colored. You were what the government said you were. Sometimes that came down to a lone clerk eyeballing your face and making a snap decision. Depending on how high your cheekbones were or how broad your nose was, he could tick whatever box made sense to him, thereby deciding where you could live, whom you could marry, what jobs and rights and privileges you were allowed. 
 
 ^306654921
 
@@ -82,7 +82,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=1602
 
 ###### ^306654917q
 
-of course whites could be demoted to colored as well. That was key. Those mixed bloodlines were always lurking, waiting to peek out, and fear of losing their status kept white people in line. If two white parents had a child and the government decided that child was too dark, even if both parents produced documentation proving they were white, the child could be classified as colored, and the family had to make a decision. Do they give up their white status to go and live as colored people in a colored area? Or would… 
+Of course, whites could be demoted to colored as well. That was key. Those mixed bloodlines were always lurking, waiting to peek out, and fear of losing their status kept white people in line. If two white parents had a child and the government decided that child was too dark, even if both parents produced documentation proving they were white, the child could be classified as colored, and the family had to make a decision. Do they give up their white status to go and live as colored people in a colored area? Or would they split up, the mother taking the colored child to live in the ghetto while the father stayed white to make a living to support them? 
 
 ^306654917
 
@@ -93,7 +93,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B01DHWACVY&location=1609
 
 ###### ^306654918q
 
-One of the most sinister things about apartheid was that it taught colored people that it was black people who were holding them back. Apartheid said that the only reason colored people couldn’t have first-class status was because black people might use… 
+One of the most sinister things about apartheid was that it taught colored people that it was black people who were holding them back. Apartheid said that the only reason colored people couldn’t have first-class status was because black people might use coloredness to sneak past the gates to enjoy the benefits of whiteness. 
 
 ^306654918
 

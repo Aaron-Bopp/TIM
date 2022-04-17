@@ -26,7 +26,6 @@
 		- [[Use spaced repetition to weed your digital garden]]
 	- [[Obsidian (software)]]
 		- [[my TO(DO) and EVER(GREEN) structure]]
-		- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
 		- [[Use Obsidian tags as temporal classifiers]]
 		- [[Combine notes instead of deleting them to avoid ghost data in a second brain]]
 	- [[knowledge work]]

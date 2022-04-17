@@ -17,7 +17,8 @@ part of:: [[Prioritize understanding over organization or categorization]]
 [[Organization systems are not mutually exclusive]], so don't confine yourself to one.
 When you start to feel [[friction]], trust that feeling. [[Friction is a hindrance to learning]] and whatever you are trying to organize might not have enough context to be meaningfully organized into
 
-#TO/PONDER/IDEA Cutter classification
+It is easier to cutout sections of large topic notes and create subtopics, than it is to have to recategorize a swath of notes. 
+
 
 ### <hr class="footnote"/>
 

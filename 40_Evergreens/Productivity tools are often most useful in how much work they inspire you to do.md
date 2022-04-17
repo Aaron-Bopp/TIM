@@ -12,8 +12,8 @@ sr-ease: 230
 
 #### [[Productivity tools are often most useful in how much work they inspire you to do]] 
 
-If one tool actually inspires you to the work and another won't, that is the better tool for you, no matter the relative "efficiency" of the tools.
-This does need a caveat that this doesn't mean you should just seek out tools that require more work so you feel more productive, but
+If one tool actually inspires you to work and another won't, that is the better tool for you, no matter the relative "efficiency" of the tools.
+This does need a caveat that this doesn't mean you should just seek out tools that require more work, so you feel more productive, but
 most people are not relying on the increase of [[productivity]] between one tool or another, they are debating whether they will do the work or not.
 
 This is not just a matter of laziness either. 
@@ -37,3 +37,5 @@ part of:: [[Good friction causes the brain to engage]] and [[Your second brain s
 
 [[Zettelkasten]] is often lauded as ultra-efficient productivity tool, but it's greatest power might have just been the work it inspired.
 > ![[articles - The Money Is in the Hubs Johannes Schmidt on Luhmann’s Zettelkasten • Zettelkasten Method#^305244855]]
+
+> ![[articles - General Principles#^270306875]]

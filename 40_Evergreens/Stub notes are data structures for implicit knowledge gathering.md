@@ -14,21 +14,20 @@ sr-ease: 223
 
 For me, making a [[stub notes|stub note]] is just making a small [[observation]] that something could be interesting. 
 I may not look at that stub for months or years, 
-but when I do I can see the day the note was created,
+but when I create that note I can see 
 where the note has been linked,
 and where it hasn't been linked.
 
-The created date is valuable because [[Time is a valuable mode in a second brain]], and the other notes created at that time may give insight to why I created that stub.
-The linked notes are valuable because they show when the note was at the top of my mind
-^[this is reduced when you use autocompletion that doesn't rely on pressing \[\[]
-and the unlinked show places where the relation to the stub could be a unique insight.
+Oftentimes creating a stub will illuminate just how much you mention a term, or will start to pull together notes on a graph, or maybe it will just allow you to use autocomplete. 
 
-#TO/TEND/GRAFT 
-- [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
-- [[Separate stub notes from the rest of your vault so you don't get overwhelmed]]
-- [[Evergreen notes organize knowledge so that it can grow]]
-- [[A second brain should mirror how we think]]
-- [[Deleting an Obsidian note can have unforeseen consequences]]
+Like any data structure in a [[second brain]], stub notes are subject to [[The fragility of information in knowledge management]].
+Overreliance on them can clutter up your vault, and without turning them into [[Term notes]], you may confuse two synonymous words for different concepts.
+It is more important to understand why and how you are using stub notes. 
+See, [[An experienced note taker knows how to work efficiently]].
+
+- works with:: [[Obsidian's graph is useful in the implicit and dynamic relations it can reveal]]
+- explained by:: [[A second brain should mirror how we think]]
+- part of:: [[Densely linked webs of thought provide intuitive access to knowledge]]
 
 ### <hr class="footnote"/>
 
@@ -37,3 +36,8 @@ and the unlinked show places where the relation to the stub could be a unique in
 
 **Topics**:: [[note writing]], [[second brain]], [[My TIM]], [[evergreen notes]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+> ![[articles - General Principles#^270382714]]
+
+Stub notes are the magnets

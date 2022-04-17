@@ -15,4 +15,22 @@ term notes or definition notes are short informational notes about what a term m
 
 In:: [[My TIM]]
 term notes would be considered a distinction of [[topic notes]]
-[1]:
+
+##### ^dataviews
+
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%

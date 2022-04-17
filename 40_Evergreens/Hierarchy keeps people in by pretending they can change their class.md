@@ -2,7 +2,7 @@
 created: 2022-03-19T20:26:11 
 aliases:
   - null
-tags: created/2022/03/19, review, node/evergreen/claim
+tags: created/2022/03/19, review, node/evergreen/observation
 sr-due: 2022-04-24
 sr-interval: 23
 sr-ease: 230
@@ -15,18 +15,11 @@ sr-ease: 230
 This was seen in the Hindu caste system, and especially preyed on the individual's need to remain pure.
 ^[[[The caste system preserved hierarchy through purity]]]
 
-#TO/DO/FIND Example from [[Apartheid]] [[South Africa]], colored (mixed) people could apply to become white
-
-> [!example] [[Trevor Noah]]'s autobiography talks about the way this was used in [[Apartheid]] [[South Africa]]
+> [!example]- [[Trevor Noah]]'s autobiography talks about the way this was used in [[Apartheid]] [[South Africa]]
 > 
 > ![[books - Born a Crime#^306654920]]
 > ![[books - Born a Crime#^306654914]]
 > ![[books - Born a Crime#^306654917]]
-
-
-
-
-
 
 This can also be seen in [[capitalism]]:
 > ![[Capitalism runs on class division#^0c0a41]]

@@ -140,9 +140,9 @@ Goto: https://users.speakeasy.net/~lion/nb/html/doc006.html?__readwiseLocation=0
 
 ###### ^270382714q
 
-When you create a map, as per my system, you have two basic types of ``materials''.
-You have your LINKS, ``Hard content'': That is, your speeds, your POI, your References, your whatever. Even other maps. Every thing you keep in your subject, appears as ``Hard content'' on your map.
-Then you have your MAGNETS. These are words that ``pull'' on the hard content. They build your structure. 
+When you create a map, as per my system, you have two basic types of "materials".
+You have your LINKS, "Hard content": That is, your speeds, your POI, your References, your whatever. Even other maps. Every thing you keep in your subject, appears as "Hard content" on your map.
+Then you have your MAGNETS. These are words that "pull" on the hard content. They build your structure. 
 
 ^270382714
 
