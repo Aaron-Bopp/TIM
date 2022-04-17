@@ -17,6 +17,7 @@ sr-ease: 190
 [[Meditation helps us detach negative attachments]] by getting us past the brain's [[defense-mechanisms]].
 
 - part of:: [[We carry our childhood wounds into adulthood]]
+- part of:: [[How to process repressed emotions]]
 
 ### <hr class="footnote"/>
 

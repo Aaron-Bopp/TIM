@@ -29,10 +29,6 @@ Depending on the complexity of your problem you may also have to consider
 12. Political structure
 13. Economic structure 
 
-%%
-#TO/TEND/PRUNE 
-Obviously this is stretching the definition of [[technology]] in the modern sense, but before the age of the internet and anonymity, dealing with the needs and politics of others was necessary to use powerful technology. 
-%%
 In the early days of [[Software Development]], one of the primary goals of the business is to delegate as many of these possible. Allow their engineers to just write code, their DBA's to just organize data, their IT departments to just manage technology, and their product owners to just communicate business needs. 
 However this has not been the trend in recent years, as the software development [[community]] as a whole has started to prioritize being a "full-stack developer."
 This trend has come with the evolution of agile programming, where quick [[communication]] between these people is used to develop better software faster. 

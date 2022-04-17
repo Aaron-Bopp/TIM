@@ -12,6 +12,7 @@ sr-ease: 170
 
 #### [[Triggers activate stored emotional responses for certain situations]] 
 
+part of:: [[How to process repressed emotions]]
 Certain stimuli will bring you back to a certain moment.
 Even if the moment it brings back to you wasn't specifically traumatic, the dissonance between that moment and your current beliefs may be triggering of other emotional reactions.
 

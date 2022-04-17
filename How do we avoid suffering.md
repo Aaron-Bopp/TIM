@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, review, node/evergreen/question
-sr-due: 2022-04-17
-sr-interval: 5
+sr-due: 2022-04-29
+sr-interval: 12
 sr-ease: 237
 ---
 > [!infobox]
@@ -19,7 +19,7 @@ answered by:: [[Buddhism is the study of happiness through detachment]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human experience]], [[self-actualization]]

@@ -3,8 +3,8 @@ created: 2022-03-27T18:19:20
 aliases:
   - null
 tags: created/2022/03/27, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 7
+sr-due: 2022-05-02
+sr-interval: 15
 sr-ease: 184
 ---
 > [!infobox]
@@ -12,7 +12,6 @@ sr-ease: 184
 
 #### [[Human behavior is selective]] 
 
-explained by:: [[Evolution can create systems capable of natural selection]].
 
 Many people hold human thought in a place above all other behavior in animal or computer kind,
 but [[Intentionality is not separate from functionality]].
@@ -29,7 +28,10 @@ for influences of [[human behavior]].
 > 
 > <cite>[[David Sloan Wilson]]</cite>
 
+This is
+explained by:: [[Evolution can create systems capable of natural selection]].
 In a way human intentionality and decision making is the crown jewel of [[natural selection]], 
+^[[[Natural selection is a designing agent]]]
 working on an iteration of milliseconds vs generations.
 It's evolution was key in [[Greater cooperation and communication has lead to the success of humans as a species]]
 as our increased ability to process thought and select behavior based of it was key in allowing us to outcompete other species.

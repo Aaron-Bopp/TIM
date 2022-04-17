@@ -17,6 +17,17 @@ This was seen in the Hindu caste system, and especially preyed on the individual
 
 #TO/DO/FIND Example from [[Apartheid]] [[South Africa]], colored (mixed) people could apply to become white
 
+> [!example] [[Trevor Noah]]'s autobiography talks about the way this was used in [[Apartheid]] [[South Africa]]
+> 
+> ![[books - Born a Crime#^306654920]]
+> ![[books - Born a Crime#^306654914]]
+> ![[books - Born a Crime#^306654917]]
+
+
+
+
+
+
 This can also be seen in [[capitalism]]:
 > ![[Capitalism runs on class division#^0c0a41]]
 

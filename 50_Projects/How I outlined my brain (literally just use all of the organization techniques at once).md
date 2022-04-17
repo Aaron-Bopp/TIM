@@ -2,8 +2,9 @@
 created: 2021-12-06 
 aliases:
   - null
-tags: created/2021/12/06, node/project
----> [!infobox]
+tags: created/2021/12/06, node/evergreen/project
+---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 # [[How I outlined my brain (literally just use all of the organization techniques at once)]] 
