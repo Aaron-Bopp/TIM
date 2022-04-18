@@ -3,8 +3,8 @@ created: 2022-03-21T11:43:19
 aliases:
   - null
 tags: created/2022/03/21, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 16
+sr-due: 2022-05-27
+sr-interval: 40
 sr-ease: 230
 ---
 > [!infobox]
@@ -19,7 +19,7 @@ sr-ease: 230
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[drugs]], [[mental health]]

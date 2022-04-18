@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/03, review, node/evergreen/example/fun
-sr-due: 2022-04-17
-sr-interval: 10
+sr-due: 2022-05-13
+sr-interval: 26
 sr-ease: 251
 ---
 > [!infobox]
@@ -14,7 +14,7 @@ sr-ease: 251
 #### [[A light year is not a year when you are travelling near the speed of light]] 
 
 Plotting a trip to somewhere 25 [[lightyears]] away at 99% the [[speed of light]].
-> ![[books - What Is Relativity#^300340342]]
+> ![[books - What Is Relativity#^300340342|full]]
 
 ### <hr class="footnote"/>
 

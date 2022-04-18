@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/12, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 1
+sr-due: 2022-04-19
+sr-interval: 2
 sr-ease: 200
 ---
 > [!infobox]
@@ -32,5 +32,5 @@ Space repetition is a catalyst for making this happen not just for the first 100
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[spaced repetition]], [[note writing]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
