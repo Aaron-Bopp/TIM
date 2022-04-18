@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 5
+sr-due: 2022-05-01
+sr-interval: 14
 sr-ease: 248
 ---
 > [!infobox]
@@ -25,7 +25,7 @@ The [[earth]] isn't the same.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[climate change]]

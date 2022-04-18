@@ -20,7 +20,7 @@ When you see something like a chained park table, is your first thought, "There 
 - leads to:: [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]]
 - explains:: [[The Christian worldview is incompatible with most other worldviews]]
 - [[The church will fail if christians keep aligning themselves with hate instead of love]]
-s
+
 
 ### <hr class="footnote"/>
 
