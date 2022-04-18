@@ -4,8 +4,8 @@ aliases:
   - How to actually remember what you learn
   - why are evergreen notes SO GOOD
 tags: created/2022/03/14, review, node/evergreen/project
-sr-due: 2022-04-02
-sr-interval: 12
+sr-due: 2022-06-01
+sr-interval: 45
 sr-ease: 230
 ---
 > [!infobox]

@@ -3,8 +3,8 @@ created: 2021-12-08
 aliases:
   - null
 tags: created/2021/12/08, review, node/evergreen/claim
-sr-due: 2022-04-17
-sr-interval: 9
+sr-due: 2022-05-09
+sr-interval: 22
 sr-ease: 221
 ---
 > [!infobox]
@@ -16,16 +16,15 @@ Once you free yourself of [[guilt]] and [[shame]] it may appear that you lose [[
 
 The problem is that you have been running for your entire life just and now that you are taking a break everybody else looks at you like you are a failure for not keeping up up with your "potential".
 
-- [[neurodiversity]]
 - part of:: [[Neurodiverse people are siloed into systems that work against them]]
 	- [[Neurodiverse people can use their brain to their advantage]] *sustainably* only if they are able to foster [[self-love]]
 	- [[Neurodivergent people cannot stop their brain from solving problems]] often contributes to this. We put our brain's to work people-pleasing instead of prioritizing ourselves.
-- part of:: [[How can parent's best help their children]], set their children up with proper self-love and respect early on
+- part of:: [[How can parent's best help their children]], set their children up with proper [[self-love]] and respect early on
 - part of:: [[How to pursue the positive things in life]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[self-actualization]], [[neurodiversity]], [[disability]]
