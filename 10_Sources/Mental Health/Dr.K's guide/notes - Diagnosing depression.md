@@ -28,7 +28,7 @@ sr-ease: 250
 	- 9 things that you need for [[Clinical Depression]]
 		- three main things
 			- [[Anhedonia]]
-			- [[Negative Self Attitude (NSA)]]
+			- [[Negative Self Attitude (NSA)]] A negative attitude is a disposition, feeling, or manner that is not constructive, cooperative, or optimistic.
 			- early morning awakening with a mind going full speed
 		- low mood
 		- suicidal thoughts

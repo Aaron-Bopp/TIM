@@ -4,8 +4,8 @@ tags: created/2021/07/05, node/topic/term
 aliases:
 - conscious
 - consciously
-sr-due: 2022-04-18
-sr-interval: 15
+sr-due: 2022-07-07
+sr-interval: 79
 sr-ease: 225
 ---
 > [!infobox]

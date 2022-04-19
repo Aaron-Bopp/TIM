@@ -59,7 +59,7 @@ sr-ease: 250
 	- [[panic attacks]] can come up in minutes and last hours
 	- Difference between colloquial [[panic attacks]] and [[Panic Disorder]] panic attacks
 		- symptoms
-			- [[Palpitations]]
+			- [[Palpitations]] Sensation of irregular beating of the [[heart]].
 			- sweating
 			- trembling
 			- shortness of breath
@@ -70,7 +70,7 @@ sr-ease: 250
 			- [[Depersonalization]]
 			- fear of losing control
 				- manifests in [[Agoraphobia]]
-			- increased [[heart rate]] - [[Tachycardia]]
+			- increased [[heart rate]] - [[Tachycardia]] Increased [[heart rate]] over 100 beats per minute
 		- [[panic attacks]] can very in frequency
 - [[Rebound Anxiety]]
 	- [[anxiety]] is symptom not a diagnosis

@@ -72,7 +72,7 @@ sr-ease: 230
 				- cortisol transforms our muscle into fat
 				- mediates skin and gland problems
 				- de-marginalizes white blood cells
-			- [[Reticular Activating Formation (RAF)]]
+			- [[Reticular Activating Formation (RAF)]] Fundamental system which plays a role in regulating arousal and sleep−wake transitions.
 				- sleep and wakefulness
 				- 
 - [[validation]] can help alleviate [[anxiety]] but we become dependent on it, and it came make anxiety worse in the long term

@@ -10,14 +10,4 @@ tags: created/2021/12/29, node/topic/term
 #### <s class="topic-title">[[Anandamaya Kosha]]</s>
 
 It is the "bliss body", also referred to as the [[soul]] in certain cultures.
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
+^[[[notes - Panchakosha Theory]]]

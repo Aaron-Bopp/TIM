@@ -4,6 +4,9 @@ tags: created/2021/07/21, node/topic/term
 aliases:
 - self-care
 - self-validation
+sr-due: 2022-04-21
+sr-interval: 2
+sr-ease: 208
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

@@ -3,6 +3,9 @@ created: 2022-03-17T08:38:57
 aliases:
   - null
 tags: created/2022/03/17, node/topic/term
+sr-due: 2022-04-21
+sr-interval: 2
+sr-ease: 223
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,18 +21,14 @@ tags: created/2022/03/17, node/topic/term
 
 ^e6e97c
 
-
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
 #### The darker side of foraging
 
-> ![[books - Sapiens#^296601915]]
+> ![[books - Sapiens#^296601915|full]]
 
 ### The end of foraging
 
 > ![[books - Sapiens#^297681720]]
+
 %% DO NOT EDIT BELOW %%
 
 #### Related 
