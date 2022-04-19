@@ -3,8 +3,8 @@ created: 2022-01-02T12:12:01
 aliases:
   - null
 tags: created/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 2
+sr-due: 2022-04-22
+sr-interval: 4
 sr-ease: 224
 ---
 > [!infobox]
@@ -15,11 +15,12 @@ sr-ease: 224
 Since ancient times, [[Yogi|Yogis]] have separated knowledge into two parts: [[Jnana]] and [[Vidya]]. 
 ^[If you are wondering why we are looking to people who lived thousands of years ago for advice on learning today, it's because they were excellent at it. [[Ancient yogic techniques are applicable to this day]]]
 [[Vidya]] is objective observable information that we can share with others.
-[[Jnana]] is our subjective understanding that information, that really can only arise from first-hand experience.
+[[Jnana]] is our subjective understanding of that information, that really can only arise from first-hand experience.
+^[[[notes - Vidya and Jnana]] and [[notes - Knowledge of the Mind]]]
+
 Two people can agree that a roller coaster is fun to ride and can tell their friends,
 but you can't really understand what they describe until you ride it for yourself.
-^[[[notes - Vidya and Jnana]] and [[notes - Knowledge of the Mind]]]
-#TO/TEND/WATER 
+%% #TO/TEND/WEED  %%
 We know that this kind of [[information]] exists, 
 but usually we think things like math, science, and grammar mainly involve [[Vidya]] and that there isn't any subjectivity to learning them.
 This would make a teacher lecturing at you for an hour while you dutifully take notes the peak form of [[learning]],
