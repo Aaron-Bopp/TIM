@@ -3,8 +3,8 @@ created: 2022-01-07T22:15:39
 aliases:
   - null
 tags: created/2022/01/07, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 15
+sr-due: 2022-05-10
+sr-interval: 22
 sr-ease: 130
 ---
 > [!infobox]
@@ -22,6 +22,13 @@ This God is simply a boy, the man's son, the man's [[hope]].
 ^[[[books - The Road#^283227484]]]
 > 
 > <cite> [[Cormac McCarthy]] </cite>
+
+We can also see this is messianic narratives such as Jesus in *the Bible*, Kelsier in *Mistborn*, and Paul Atreides in *Dune*.
+Each of these men do not single-handedly save their people,
+but they do provide the thing that is most needed for a downtrodden people, hope.
+
+In this case, to believe is to hope for better days. This understanding of hope is 
+explained by:: [[Hope is not optimism it is a practice for producing change]]
 
 This is 
 part of:: [[The materialistic view of religions examines why humans invented and clung to religion]].

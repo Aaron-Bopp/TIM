@@ -3,8 +3,8 @@ created: 2021-11-21
 aliases:
   - null
 tags: created/2021/11/21, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 37
+sr-due: 2022-06-10
+sr-interval: 53
 sr-ease: 144
 ---
 > [!infobox]
@@ -28,5 +28,5 @@ This could be an [[anxiety]] response #TO/EXPLORE/RESEARCH relation between anxi
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[human experience]]
+**Topics**:: [[human experience]], [[empathy]], [[interpersonal relationships]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

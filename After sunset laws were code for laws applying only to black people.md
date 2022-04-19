@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/13, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 2
+sr-due: 2022-04-24
+sr-interval: 6
 sr-ease: 245
 ---
 > [!infobox]
@@ -17,7 +17,6 @@ These sunset laws were variants of [[black codes]],
 which would take simple things like carrying a razer in your pocket (carrying a concealed weapon), walking down a railroad track (trespassing), and quitting your job (breaking a labor contract).
 Conviction based of these laws became the basis
 for:: [[Slavery became much cheaper after the Civil War]]
-
 
 ### <hr class="footnote"/>
 

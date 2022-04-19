@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 6
+sr-due: 2022-05-02
+sr-interval: 14
 sr-ease: 208
 ---
 > [!infobox]
@@ -14,6 +14,8 @@ sr-ease: 208
 #### [[Calvinism was successful because it's structure was highly functional]]
 
 > ![[books - Darwin's Cathedral#^304449615]]
+> 
+> <cite>[[David Sloan Wilson]]</cite>
 
 This is an
 example of:: [[Religion as a group level adaptation]] and is

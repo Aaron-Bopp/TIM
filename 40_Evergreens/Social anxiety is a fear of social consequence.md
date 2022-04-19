@@ -3,8 +3,8 @@ created: 2022-01-28T15:21:18
 aliases:
   - null
 tags: created/2022/01/28, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 11
+sr-due: 2022-05-04
+sr-interval: 16
 sr-ease: 130
 ---
 > [!infobox]
@@ -28,5 +28,5 @@ sr-ease: 130
 **Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social anxiety]], [[inter-personal communication]], 
+**Topics**:: [[social anxiety]], [[interpersonal relationships]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

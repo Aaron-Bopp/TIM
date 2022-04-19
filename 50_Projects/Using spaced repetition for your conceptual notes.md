@@ -3,6 +3,9 @@ created: 2021-11-27
 aliases:
   - null
 tags: created/2021/11/27, node/evergreen/project
+sr-due: 2022-04-20
+sr-interval: 2
+sr-ease: 225
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -65,6 +68,7 @@ There are benefits and downsides to this approach.
 
 ## What to actually do between opening a note and reviewing it 
 
+#TO/TEND/WATER 
 ![[Pasted image 20220126143341.png]]
 
 

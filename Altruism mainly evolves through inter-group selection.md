@@ -4,14 +4,14 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 1
+sr-due: 2022-04-20
+sr-interval: 2
 sr-ease: 186
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Altruism mainly evolves by inter-group selection]]
+#### [[Altruism mainly evolves through inter-group selection]]
 
 Looking at the evolution of [[reciprocal altruism]] through the lense of [[game theory]],
 we can see that it only evolves over selfishness when there are inter-group forces.

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/13, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 2
+sr-due: 2022-04-23
+sr-interval: 5
 sr-ease: 244
 ---
 > [!infobox]
@@ -14,7 +14,7 @@ sr-ease: 244
 #### [[The myth of black criminality began years before the war on drugs]]
 
 White southerners used [[black codes]] to convince White northerners that black people were violent criminals, uncapable of living in modern society.
-This involved films like #TO/DO/FIND (the one that reintroduced the Ku Klux Klan) and actually imprisoning and enslaving freed black people through
+This involved films like *Birth of a Nation* (the one that reintroduced the Ku Klux Klan) and actually imprisoning and enslaving freed black people through
 [[debt peonage]] and [[convict leasing]].
 
 explained by:: [[Slavery became much cheaper after the Civil War]]

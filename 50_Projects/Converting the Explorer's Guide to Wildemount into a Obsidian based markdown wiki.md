@@ -3,6 +3,9 @@ created: 2021-11-16
 aliases:
   - null
 tags: created/2021/11/16, node/evergreen/project
+sr-due: 2022-04-29
+sr-interval: 11
+sr-ease: 284
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -85,26 +88,26 @@ The final result would look like this:
 
 ### Creating note structure
 
- The [Note Refactor Plugin](https://github.com/lynchjames/note-refactor-obsidian) was pivotal in this as it gives you the `Split note by heading - H[123]`command which will take all headings of a certain size and put them into their file.
- Otherwise, this process was mostly manual.
- I would look through each of the files and finding the headings that I wanted to split and
- split the lowest level heading up the highest so that I could run the commands the least number of times.
- At times, I had to use find and replace to make H4s into H3s so that I could target the with Note refactor is only gives the split note command for `H1`, `H2`, and `H3`.
+The [Note Refactor Plugin](https://github.com/lynchjames/note-refactor-obsidian) was pivotal in this as it gives you the `Split note by heading - H[123]`command which will take all headings of a certain size and put them into their file.
+Otherwise, this process was mostly manual.
+I would look through each of the files and finding the headings that I wanted to split and
+split the lowest level heading up the highest so that I could run the commands the least number of times.
+At times, I had to use find and replace to make H4s into H3s so that I could target the with Note refactor is only gives the split note command for `H1`, `H2`, and `H3`.
  
- Unfortunately, not all sections that I wanted to split had headings. Some were just denoted by **bold** text or others would have even more markdown, i.e `_**Text**_`. This was helpful as it made it easier to match desired lines using Regex, so for these sections I used [[Python]] scripts and created my own Regex statements to create the notes. 
+Unfortunately, not all sections that I wanted to split had headings. Some were just denoted by **bold** text or others would have even more markdown, i.e `_**Text**_`. This was helpful as it made it easier to match desired lines using Regex, so for these sections I used [[Python]] scripts and created my own Regex statements to create the notes. 
  
- ### Finding and creating inline fields
+### Finding and creating inline fields
+
+### Autolinking note titles
+## Obsidian Integration
+### Breadcrumbs
+### Dataview
+### Tags
  
- ### Autolinking note titles
- ## Obsidian Integration
- ### Breadcrumbs
- ### Dataview
- ### Tags
- 
- ## Results
- ### Graph
- ### Dataview queries
- ### New connections
+## Results
+### Graph
+### Dataview queries
+### New connections
  
  
  
