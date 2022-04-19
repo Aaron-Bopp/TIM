@@ -3,6 +3,9 @@ created: 2022-03-20T19:56:47
 aliases:
   - null
 tags: created/2022/03/20, node/topic/term
+sr-due: 2022-04-25
+sr-interval: 6
+sr-ease: 241
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,16 +23,21 @@ tags: created/2022/03/20, node/topic/term
 > Because of the intersection between natural law and natural rights, natural law has been claimed or attributed as a key component in the Declaration of Independence (1776) of the United States, the Declaration of the Rights of Man and of the Citizen (1789) of France, the Universal Declaration of Human Rights (1948) of the United Nations, as well as the European Convention on Human Rights (1953) of the Council of Europe.
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

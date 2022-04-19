@@ -3,6 +3,9 @@ created: 2022-03-26T09:43:14
 aliases:
   - null
 tags: created/2022/03/26, node/topic/term
+sr-due: 2022-04-25
+sr-interval: 6
+sr-ease: 243
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,7 +18,6 @@ tags: created/2022/03/26, node/topic/term
 > 
 > This phenomenon is most effective when combined with [[Active Recall]] as
 > in:: [[spaced repetition]]
-
 
 ##### ^dataviews
 
