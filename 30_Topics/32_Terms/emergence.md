@@ -3,13 +3,16 @@ created: 2022-03-13T13:13:15
 aliases:
   - null
 tags: created/2022/03/13, node/topic/term
+sr-due: 2022-04-21
+sr-interval: 2
+sr-ease: 236
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[emergence]]</s>
 
- ![[images!xkcd - 435.png]]
+ 
 > [!wikipedia] [emergence](https://en.wikipedia.org/wiki/Emergence)
 > 
 > Emergence occurs when an entity is observed to have properties its parts do not have on their own, properties or behaviors which emerge only when the parts interact in a wider whole.
@@ -46,3 +49,5 @@ tags: created/2022/03/13, node/topic/term
 
  
 > ![[books - The Fabric of Reality#^287471892]]
+
+ ![[images!xkcd_435.png]]

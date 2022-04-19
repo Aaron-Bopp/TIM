@@ -3,6 +3,9 @@ created: 2022-03-17T17:46:46
 aliases:
   - null
 tags: created/2022/03/17, node/topic/term
+sr-due: 2022-04-23
+sr-interval: 4
+sr-ease: 243
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,16 +21,21 @@ tags: created/2022/03/17, node/topic/term
 > Skepticism has also inspired a number of contemporary social movements. Religious skepticism advocates for doubt concerning basic religious principles, such as immortality, providence, and revelation. Scientific skepticism advocates for testing beliefs for reliability, by subjecting them to systematic investigation using the scientific method, to discover empirical evidence for them.
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

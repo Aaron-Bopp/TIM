@@ -1,26 +1,19 @@
 ---
 created: 2021-06-25
 tags: created/2021/06/25, node/topic/term
-date modified: Monday, October 4th 2021, 12:40:55 am
+sr-due: 2022-04-23
+sr-interval: 4
+sr-ease: 190
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[social anxiety]]</s>
 
- A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
+A chronic [[mental health]] condition in which social interactions cause irrational [[anxiety]].
 
 **See**:: [[anxiety]], [[mental health]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
-%% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
-%% DO NOT EDIT ABOVE %%
-#### [[social anxiety]] `$=customJS.dv_funcs.topicOutlineHeader(dv, this)`
 
 - Symptoms
 	- lack of [[self-worth]]
@@ -36,18 +29,21 @@ WHERE contains(topics, this.file.link)
 	- worsened by [[30 - Topics/31_Stubs/OCD]]
 	- [[depression]]
 
+##### ^dataviews
 
-### <hr class="dataviews"/>
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
-
-```dataview
-TABLE 
-	length(file.inlinks) as In,
-	length(file.outlinks) as Out,
-	Status, 
-	file.mtime as Edited, 
-	file.ctime as Created
-from [[social anxiety]]
-where !contains(this.file.outlinks, link(file.name))
-```
+%% DO NOT EDIT ABOVE %%

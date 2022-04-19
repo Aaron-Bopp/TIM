@@ -3,7 +3,9 @@ created: 2022-03-17T16:28:31
 aliases:
   - null
 tags: created/2022/03/17, review, node/topic/term
-
+sr-due: 2022-04-23
+sr-interval: 4
+sr-ease: 244
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,16 +23,21 @@ tags: created/2022/03/17, review, node/topic/term
 > The [[perception]] people have about their past or future selves relates to their perception of their current selves. The temporal self-appraisal theory argues that people have a tendency to maintain a positive self-evaluation by distancing themselves from their negative self and paying more attention to their positive one. In addition, people have a tendency to perceive the past self less favourably (e.g. "I'm better than I used to be") and the future self more positively (e.g. "I will be better than I am now").
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

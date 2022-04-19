@@ -1,16 +1,15 @@
 ---
 created: 2021-10-19
 tags: created/2021/10/19, node/topic/term
+sr-due: 2022-04-24
+sr-interval: 5
+sr-ease: 237
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Alexithymia]]</s>
 
-
-No words for [[emotions]] [^1]
-
-**See**:: [[mental health]]
-
-[^1]:  [[video - Emotional Deregulation]]
-
+In:: [[mental health]],
+No words for [[emotions]] 
+^[[[video - Emotional Deregulation]]]

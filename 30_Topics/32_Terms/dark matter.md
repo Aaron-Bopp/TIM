@@ -3,6 +3,9 @@ created: 2022-02-10T17:10:12
 aliases:
   - null
 tags: created/2022/02/10, node/topic/term
+sr-due: 2022-04-29
+sr-interval: 10
+sr-ease: 255
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,16 +23,21 @@ tags: created/2022/02/10, node/topic/term
 > Although the scientific community generally accepts dark matter's existence, some astrophysicists, intrigued by specific observations that are not well-explained by ordinary dark matter, argue for various modifications of the standard laws of [[general relativity]]. These include [[modified Newtonian dynamics]], [[tensor–vector–scalar gravity]], or [[entropic gravity]]. These models attempt to account for all observations without invoking supplemental non-baryonic matter.
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

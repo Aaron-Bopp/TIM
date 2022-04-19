@@ -3,6 +3,9 @@ created: 2022-03-12T21:03:20
 aliases:
   - null
 tags: created/2022/03/12, node/topic/term
+sr-due: 2022-04-26
+sr-interval: 7
+sr-ease: 252
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -22,16 +25,21 @@ tags: created/2022/03/12, node/topic/term
 > H. erectus men and women may have been roughly the same size as each other (i.e. exhibited reduced sexual dimorphism) like modern humans, which could indicate monogamy in line with general trends exhibited in primates. Size, nonetheless, ranged widely from 146–185 cm (4 ft 9 in – 6 ft 1 in) in height and 40–68 kg (88–150 lb) in weight. It is unclear if H. erectus was anatomically capable of speech, though it is postulated they communicated using some proto-language.
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

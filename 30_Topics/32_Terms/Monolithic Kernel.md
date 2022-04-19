@@ -1,12 +1,14 @@
 ---
 created: 2021-10-13
 tags: created/2021/10/13, node/topic/term
+sr-due: 2022-04-26
+sr-interval: 7
+sr-ease: 253
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Monolithic Kernel]]</s>
-
 
 All kernel services ([[Virtual File System| VFS]], schedulers, device drivers) live in [[Kernel Space]] and share memory while communicated through the [[Application Binary Interface | ABI]] [^1]
 
@@ -14,11 +16,12 @@ All kernel services ([[Virtual File System| VFS]], schedulers, device drivers) l
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
 [^1]: [[notes - OS_Operating Systems]]
-

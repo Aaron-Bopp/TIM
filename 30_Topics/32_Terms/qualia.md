@@ -3,6 +3,9 @@ created: 2022-03-25T17:49:12
 aliases:
   - quale
 tags: created/2022/03/25, node/topic/term
+sr-due: 2022-04-24
+sr-interval: 5
+sr-ease: 247
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,8 +24,6 @@ tags: created/2022/03/25, node/topic/term
 > 
 > The nature and existence of various definitions of qualia remain controversial. While some philosophers of mind like Daniel Dennett argue that qualia do not exist and are incompatible with [[neuroscience]] and [[naturalism]], some neuroscientists and neurologists state that qualia exist and that the desire to eliminate them is based on an erroneous interpretation on the part of some philosophers regarding what constitutes science.
 >
-
-
 
 ##### ^dataviews
 

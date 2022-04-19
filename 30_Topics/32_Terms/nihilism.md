@@ -3,6 +3,9 @@ created: 2021-12-08
 aliases:
   - nihilistic
 tags: created/2021/12/08, node/topic/term
+sr-due: 2022-04-25
+sr-interval: 6
+sr-ease: 238
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,14 +23,21 @@ tags: created/2021/12/08, node/topic/term
 > In popular use, the term commonly refers to forms of [[existential nihilism]], according to which life is without intrinsic value, meaning, or purpose. Other prominent positions within nihilism include the rejection of all normative and ethical views (§ Moral nihilism), the rejection of all social and political institutions (§ Political nihilism), the stance that no knowledge can or does exist (§ Epistemological nihilism), and a number of metaphysical positions, which assert that non-abstract objects do not exist (§ Metaphysical nihilism), that composite objects do not exist (§ Mereological nihilism), or even that life itself does not exist.
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

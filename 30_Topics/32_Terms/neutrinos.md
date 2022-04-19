@@ -3,6 +3,9 @@ created: 2022-02-15T16:09:20
 aliases:
   - null
 tags: created/2022/02/15, node/topic/term
+sr-due: 2022-04-29
+sr-interval: 10
+sr-ease: 250
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,15 +19,21 @@ tags: created/2022/02/15, node/topic/term
 > Thus, neutrinos typically pass through normal matter unimpeded and undetected. Weak interactions create neutrinos in one of three leptonic flavors: electron neutrinos (νe), muon neutrinos (νμ), or tau neutrinos (ντ), in association with the corresponding charged lepton. Although neutrinos were long believed to be massless, it is now known that there are three discrete neutrino masses with different tiny values, but the three masses do not uniquely correspond to the three flavors. A neutrino created with a specific flavor is a specific mixture of all three mass states (a quantum superposition). Similar to some other neutral particles, neutrinos oscillate between different flavors in flight as a consequence. For example, an electron neutrino produced in a beta decay reaction may interact in a distant detector as a muon or tau neutrino. Although only differences between squares of the three mass values are known as of 2019, cosmological observations imply that the sum of the three masses (< 2.14 × 10−37 kg) must be less than one millionth that of the electron mass (9.11 × 10−31 kg).For each neutrino, there also exists a corresponding antiparticle, called an antineutrino, which also has spin of 1/2 and no electric charge. Antineutrinos are distinguished from neutrinos by having opposite-signed lepton number and weak isospin, and right-handed instead of left-handed chirality. To conserve total lepton number (in nuclear beta decay), electron neutrinos only appear together with positrons (anti-electrons) or electron-antineutrinos, whereas electron antineutrinos only appear with electrons or electron neutrinos. Neutrinos are created by various radioactive decays; the following list is not exhaustive, but includes some of those processes:
 
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

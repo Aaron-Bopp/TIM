@@ -1,15 +1,16 @@
 ---
 created: 2022-01-02T12:31:28 
-aliases:
-  - null
 tags: created/2022/01/02, node/topic/term
+sr-due: 2022-04-25
+sr-interval: 6
+sr-ease: 241
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[objectivity]]</s>
 
-Divided into [[objective]] and [[subjective]] thought processes
+Divided into objective and [[subjective]] thought processes
 
 **See**:: [[experience]], [[knowledge]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

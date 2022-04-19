@@ -1,20 +1,24 @@
 ---
 created: 2021-10-03
 tags: created/2021/10/03, node/topic/term
+sr-due: 2022-04-23
+sr-interval: 4
+sr-ease: 221
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[gender schema]]</s>
 
-
- schema that processes and organizes gender-linked associations [^1]
+A schema that processes and organizes gender-linked associations [^1]
 
 **See**:: [[gender]], [[human behavior]], [[gender roles]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 %% DO NOT EDIT BELOW %%
+
 #### Related 
+
 ```dataview
 LIST FROM [[#]]
 WHERE contains(topics, this.file.link)
