@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 6
+sr-due: 2022-05-05
+sr-interval: 17
 sr-ease: 248
 ---
 > [!infobox]
@@ -13,9 +13,7 @@ sr-ease: 248
 
 #### [[Global warming isn't consistent]]
 
-Not only is the amount of warming inconsistent (poles are seeing a much large relative change in temperature than tropics) the effects that change has is different.
-
-> ![[books - How to Avoid a Climate Disaster#^306587585]]
+Not only is the amount of warming inconsistent (poles are seeing a much larger relative change in [[temperature]] than tropics) the effects that change has are different.
 
 ### <hr class="footnote"/>
 
@@ -24,3 +22,9 @@ Not only is the amount of warming inconsistent (poles are seeing a much large re
 
 **Topics**:: [[global warming]], [[climate change]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References 
+
+![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
+
+> ![[books - How to Avoid a Climate Disaster#^306587585]]

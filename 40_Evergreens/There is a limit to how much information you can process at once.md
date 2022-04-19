@@ -3,8 +3,8 @@ created: 2022-02-06T23:01:34
 aliases:
   - null
 tags: created/2022/02/06, review, node/evergreen/restriction
-sr-due: 2022-04-18
-sr-interval: 20
+sr-due: 2022-05-26
+sr-interval: 38
 sr-ease: 170
 ---
 > [!infobox]
@@ -12,6 +12,7 @@ sr-ease: 170
 
 #### [[There is a limit to how much information you can process at once]] 
 
+#TO/TEND/WEED 
 [[We learn by transforming information into understanding]], so when we come across a new piece of [[information]] we often feel the urge to save it somehow, in the fear that we we will miss out of this opportunity to learning.
 [[FOMO|Fear Of Missing Out (FOMO)]] can create [[friction]] in [[learning]] and lead to [[The Collector's Fallacy]], which will eventually lead you being overwhelmed.
 [[Productivity tools are often most useful in how much work they inspire you to do]], 

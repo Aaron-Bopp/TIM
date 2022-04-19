@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/16, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 2
-sr-ease: 216
+sr-due: 2022-04-19
+sr-interval: 1
+sr-ease: 196
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -24,7 +24,7 @@ You can safely move a note out of your inbox knowing that [[spaced repetition]] 
 
 
 - explained by:: [[Better tools allow us to be less disciplined and more productive]] because knowing how your brain works makes it a better tool
-- [[The more mistakes you've fixed the more bad decisions you can afford]]
+- similarly:: [[The more mistakes you've fixed the more bad decisions you can afford]]
 - important for:: [[Make your inbox into an entry point by integrating it with your second brain]]
 - need to acknowledge [[There is a limit to how much information you can process at once]]
 - part of:: [[Productivity tools are often most useful in how much work they inspire you to do]]

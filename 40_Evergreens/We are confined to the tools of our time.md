@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - null
 tags: created/2021/11/09, review, node/evergreen/principle
-sr-due: 2022-04-18
-sr-interval: 8
+sr-due: 2022-05-07
+sr-interval: 19
 sr-ease: 237
 ---
 > [!infobox]
@@ -12,10 +12,10 @@ sr-ease: 237
 
 #### [[We are confined to the tools of our time]] 
 
-This is true both in how we [[influence]] other's and how we make [[progress]].
+This is true both in how we [[influence]] other's and how we make [[progress]], making it 
+part of:: [[How do we effect change in society]]
 
-Over the course of human [[history]], we have had to deal with various levels of violence, death, [[fear]] and much more.
-One of the tools that has been the most reliable is religion:[[The materialistic view of religions examines why humans invented and clung to religion]]
+%% #TO/TEND/WATER intro %%
 
 ##### In:: [[technology]]
 
@@ -53,6 +53,7 @@ it just helps us [[endurance|endure]] long enough to see change.
 
 ##### In:: [[self-actualization]]
 
+%% #TO/TEND/WATER  %%
 [[Sometimes we can't grow until we change our environment]] 
 and 
 [[Working through trauma can involve of a lot of letting go]]

@@ -1,8 +1,8 @@
 ---
 created: 2021-05-03
 tags: created/2021/05/03, review, node/evergreen, node/personal
-sr-due: 2022-04-18
-sr-interval: 81
+sr-due: 2022-10-22
+sr-interval: 187
 sr-ease: 231
 ---
 > [!infobox]

@@ -26,7 +26,7 @@ sr-ease: 206
 > 
 >
 
-[[How did selective hunting lead to domestication of animals]]
+[[Selective hunting lead to domestication of animals]]
 
 %% DO NOT EDIT BELOW %%
 

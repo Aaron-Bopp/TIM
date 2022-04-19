@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-04-18
-sr-interval: 6
+sr-due: 2022-05-03
+sr-interval: 15
 sr-ease: 249
 ---
 > [!infobox]
@@ -29,8 +29,8 @@ We also have evidence that this making storms and more intense, causing increasi
 
 > ![[books - How to Avoid a Climate Disaster#^306587591]]
 
-> ![[books - How to Avoid a Climate Disaster#^306587592]]
-
 > ![[books - How to Avoid a Climate Disaster#^306587594]]
+
+> ![[books - How to Avoid a Climate Disaster#^306587592]]
 
 > ![[books - How to Avoid a Climate Disaster#^306644844]]

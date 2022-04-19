@@ -3,8 +3,8 @@ created: 2022-03-19T12:43:36
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/question
-sr-due: 2022-04-18
-sr-interval: 11
+sr-due: 2022-05-08
+sr-interval: 20
 sr-ease: 170
 ---
 > [!infobox]
@@ -31,7 +31,7 @@ Harari's answer is:
 Other possible reasons:
 - We are indoctrinated
 - We can't objectively observe what we are a part of
-- We want to believe ^[[[books - Sapiens#^297681750]]]
+- We want to believe 
 - We are materially affected by this [[social order]]
 - We want to change this [[social order]]?
 - The fact that it is imagined doesn't change anything about it
@@ -52,9 +52,11 @@ I think that in modern times we have for the most part realized that we live in 
 
 > ![[books - Sapiens#^297681749]]
 
+
+> ![[books - Sapiens#^297681750]]
+
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books - Darwin's Cathedral#^298292985]]
 
 > ![[books - Darwin's Cathedral#^298292987]]
-
