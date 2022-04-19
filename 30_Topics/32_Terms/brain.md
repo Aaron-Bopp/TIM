@@ -3,9 +3,9 @@ created: 2022-01-02T12:56:14
 aliases:
   - null
 tags: created/2022/01/02, node/topic/term
-sr-due: 2022-04-15
-sr-interval: 10
-sr-ease: 202
+sr-due: 2022-05-05
+sr-interval: 16
+sr-ease: 182
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

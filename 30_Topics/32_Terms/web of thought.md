@@ -3,8 +3,8 @@ created: 2022-03-22T12:03:45
 aliases:
   - webs of thought
 tags: created/2022/03/22, node/topic/term
-sr-due: 2022-04-13
-sr-interval: 12
+sr-due: 2022-06-25
+sr-interval: 67
 sr-ease: 203
 ---
 > [!infobox]

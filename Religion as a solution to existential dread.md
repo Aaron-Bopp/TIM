@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 2
+sr-due: 2022-04-23
+sr-interval: 4
 sr-ease: 191
 ---
 > [!infobox]
@@ -21,7 +21,7 @@ or it could be what you choose because [[Humans are addicted to believing]].
 
 This was the main aspect of [[religion]] that I missed, 
 and I interpreted it as [[Faith can be a useful tool for grounding yourself]].
-Faith doesn't have to be [[religious belief]],
+[[Faith]] doesn't have to be [[religious belief]],
 but religion is the best at systematizing it and spreading it.
 
 

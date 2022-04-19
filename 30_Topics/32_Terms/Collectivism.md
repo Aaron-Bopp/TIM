@@ -3,8 +3,8 @@ created: 2022-03-30T14:22:44
 aliases:
   - Collectivist
 tags: created/2022/03/30, node/topic/term
-sr-due: 2022-04-14
-sr-interval: 11
+sr-due: 2022-07-01
+sr-interval: 73
 sr-ease: 231
 ---
 > [!infobox]

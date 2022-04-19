@@ -3,8 +3,8 @@ created: 2022-03-05T17:19:08
 aliases:
   - null
 tags: created/2022/03/05, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 18
+sr-due: 2022-05-27
+sr-interval: 38
 sr-ease: 190
 ---
 > [!infobox]
@@ -43,5 +43,5 @@ In [[human behavior]], this is seen as [[Social control promotes highly altruist
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books - Darwin's Cathedral#^288936970]]
 
+> ![[books - Darwin's Cathedral#^310416932]]

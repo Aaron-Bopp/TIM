@@ -3,9 +3,9 @@ created: 2022-01-10T10:42:18
 aliases:
   - null
 tags: created/2022/01/10, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 18
-sr-ease: 190
+sr-due: 2022-04-28
+sr-interval: 9
+sr-ease: 170
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,7 +19,7 @@ This can be seen as a counter-example to [[Friction is a hindrance to learning]]
 
 This is where [[Note structures should help curate knowledge]] comes in. Having a section of the note for purposeful tagging, allows you to have more granularity in the ways that [[topic notes]] are linked. This is why you see a **Topics** field at the bottom of each of my [[evergreen notes]]. 
 
-- [[Deleting an Obsidian note can have unforeseen consequences]]
+- [[Deleting a note in a web of thought can have unforeseen consequences]]
 - [[Evergreen notes help us bridge the gap between knowledge and understanding]]
 
 > ![[articles - The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]

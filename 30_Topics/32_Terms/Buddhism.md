@@ -3,9 +3,9 @@ created: 2021-07-05
 aliases:
   - Buddhist
 tags: created/2021/07/05, node/topic/term
-sr-due: 2022-04-16
-sr-interval: 13
-sr-ease: 232
+sr-due: 2022-05-08
+sr-interval: 19
+sr-ease: 212
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

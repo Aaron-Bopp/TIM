@@ -913,3 +913,136 @@ What we can do—and need to do—in the next 10 years is adopt the policies tha
 
 ^308667929
 
+# New highlights added April 19, 2022 at 2:33 PM
+##### ^311801484
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2574  
+
+###### ^311801484q
+
+The cruel injustice is that even though the world’s poor are doing essentially nothing to cause climate change, they’re going to suffer the most from it. 
+
+^311801484
+
+##### ^311801485
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2576  
+
+###### ^311801485q
+
+As the climate gets warmer, droughts and floods will become more frequent, wiping out harvests more often. Livestock eat less and produce less meat and milk. The air and soil lose moisture, leaving less water available for plants; in South Asia and sub-Saharan Africa, tens of millions of acres of farmland will become substantially drier. Crop-eating pests are already infesting more acreage as they find more hospitable environments to live in. The growing season will also get shorter; at 4 degrees Celsius of warming, most of sub-Saharan Africa could see it shrink by 20 percent or more. 
+
+^311801485
+
+##### ^311801486
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2610  
+
+###### ^311801486q
+
+CGIAR is the world’s largest agricultural research group: In short, it helps create better plants and better animal genetics. 
+
+^311801486
+
+##### ^311801487
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2634  
+
+###### ^311801487q
+
+rice plants respond to flooding by stretching out their leaves to escape the water; if they’re underwater long enough, they expend all their energy trying to escape, and they essentially die of exhaustion. Scuba rice doesn’t have that problem: It’s got a gene called SUB1 that kicks in during a flood, making the plant dormant—so it stops stretching—until the waters recede. 
+
+^311801487
+
+##### ^311801488
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2709  
+
+###### ^311801488q
+
+Mangroves are short trees that grow along coastlines, having adapted to life in salt water; they reduce storm surges, prevent coastal flooding, and protect fish habitats. All told, mangroves help the world avoid some $80 billion a year in losses from floods, 
+
+^311801488
+
+##### ^311801489
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2755  
+
+###### ^311801489q
+
+Climate scientists have identified many tipping points that could dramatically increase the rate at which climate change happens—for instance, if the ice-like crystalline structures containing large amounts of methane on the ocean floor become unstable and erupt. 
+
+^311801489
+
+##### ^311801490
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2832  
+
+###### ^311801490q
+
+“policy” is a vague, dull-sounding word. A big breakthrough like a new type of battery would be sexier than the policies that led some chemist to invent it. But the breakthrough wouldn’t even exist without a government spending tax dollars on research, policies designed to drive that research out of the lab and into the market, and regulations that created markets and made it easy to deploy at scale. 
+
+^311801490
+
+##### ^311801491
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2873  
+
+###### ^311801491q
+
+The first microwave oven hit the market in 1955. It cost, in today’s dollars, nearly $12,000. 
+
+^311801491
+
+##### ^311801492
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2882  
+
+###### ^311801492q
+
+Companies in the energy business spend an average of just 0.3 percent of their revenue on energy R&D. The electronics and pharmaceutical industries, by contrast, spend nearly 10 percent and 13 percent, respectively. 
+
+^311801492
+
+##### ^311801493
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2888  
+
+###### ^311801493q
+
+the government’s role is to invest in R&D when the private sector won’t because it can’t see how it will make a profit. 
+
+^311801493
+
+##### ^311801494
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2909  
+
+###### ^311801494q
+
+The idea isn’t to punish people for their greenhouse gases; it’s to create an incentive for inventors to create competitive carbon-free alternatives. By progressively increasing the price of carbon to reflect its true cost, governments can nudge producers and consumers toward more efficient decisions 
+
+^311801494
+
+##### ^311801495
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=2938  
+
+###### ^311801495q
+
+in communities where extracting coal or natural gas is a big part of the local economy, it’s understandable that people worry about how the transition might make it harder for them to make ends meet. The fact that they voice those worries doesn’t make them climate change deniers. You don’t have to be a political scientist to think that national leaders who champion getting to zero will find more support for their ideas if they understand the concerns of families and communities whose livelihoods will be hit hard and if they take those concerns seriously. 
+
+^311801495
+

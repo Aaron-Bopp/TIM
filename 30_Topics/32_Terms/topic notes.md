@@ -4,8 +4,8 @@ tags: created/2021/05/23, review, node/topic/term
 aliases:
   - topics
   - topic notes
-sr-due: 2022-04-16
-sr-interval: 6
+sr-due: 2022-05-30
+sr-interval: 41
 sr-ease: 227
 ---
 

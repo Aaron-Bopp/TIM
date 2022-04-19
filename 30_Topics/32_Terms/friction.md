@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - frictionless
 tags: created/2021/11/09, node/topic/term
-sr-due: 2022-04-15
-sr-interval: 5
+sr-due: 2022-05-25
+sr-interval: 36
 sr-ease: 208
 ---
 > [!infobox]

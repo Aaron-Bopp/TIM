@@ -6,8 +6,8 @@ aliases:
 - Self-Realization
 - God-Realization
 - nirvikalpa
-sr-due: 2022-04-14
-sr-interval: 7
+sr-due: 2022-06-08
+sr-interval: 50
 sr-ease: 225
 ---
 > [!infobox]

@@ -4,8 +4,8 @@ tags: created/2021/06/07, node/topic/term
 aliases:
 - neurodiverse
 - neurodivergency
-sr-due: 2022-04-16
-sr-interval: 13
+sr-due: 2022-07-26
+sr-interval: 98
 sr-ease: 250
 ---
 > [!infobox]

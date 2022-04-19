@@ -19,7 +19,7 @@
 		- [[The fragility of information in knowledge management]]
 		- [[A second brain should mirror how we think]]
 		- [[Densely linked webs of thought provide intuitive access to knowledge]]
-		- [[Deleting an Obsidian note can have unforeseen consequences]]
+		- [[Deleting a note in a web of thought can have unforeseen consequences]]
 		- [[Stub notes are data structures for implicit knowledge gathering]]
 	- [[spaced repetition]]
 		- [[Use spaced repetition as a memory tool for your second brain]]

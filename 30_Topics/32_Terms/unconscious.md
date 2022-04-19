@@ -4,8 +4,8 @@ aliases:
   - unconsciousness
   - unconscious mind
 tags: created/2022/01/02, node/topic/term
-sr-due: 2022-04-15
-sr-interval: 12
+sr-due: 2022-07-11
+sr-interval: 83
 sr-ease: 239
 ---
 > [!infobox]

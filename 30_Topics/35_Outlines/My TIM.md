@@ -49,7 +49,7 @@ Since March 2021 I have become very interested in the [[knowledge management]] c
 - What are the hurdles?
 	- [[The fragility of information in knowledge management]]
 	- [[We are confined to the tools of our time]]
-	- [[Deleting an Obsidian note can have unforeseen consequences]]
+	- [[Deleting a note in a web of thought can have unforeseen consequences]]
 
 #### ^dataviews
 

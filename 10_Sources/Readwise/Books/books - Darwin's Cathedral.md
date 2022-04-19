@@ -1,13 +1,13 @@
 ---
-created: 2022-04-09
+created: 2022-04-17
 edited:
-tags: created/2022/04/09, node/source/books
+tags: created/2022/04/17, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-04-09
+sr-due: 2022-04-17
 sr-interval: 2
 sr-ease: 230
 ---
@@ -3025,6 +3025,17 @@ furnaces and water heaters account for a third of all emissions that come from t
 
 ^310051190
 
+##### ^311801497
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2408  
+
+###### ^311801497q
+
+the Ten Commandments and the Golden Rule are clearly adaptive at the group level. It is almost embarrassingly obvious that groups who obey these rules will function well as adaptive units, compared to groups that do not. 
+
+^311801497
+
 ##### ^310051191
 
 
@@ -3035,6 +3046,28 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2415
 You already have a heat pump in your home, and it’s probably operating right now. It’s called a refrigerator. The warm air that you feel blowing from the bottom of your fridge is what carries the heat away from your food and keeps it cool. 
 
 ^310051191
+
+##### ^311801502
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2444  
+
+###### ^311801502q
+
+There is a widespread tendency to regard in-group morality as hypocritical, ... After all, isn’t it the ultimate in hypocrisy for a religion to simultaneously preach the Golden Rule and instruct its members to commit genocide? 
+
+^311801502
+
+##### ^311801500
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2451  
+
+###### ^311801500q
+
+Multilevel selection theory accounts for the double standard of the Hebrew Bible rather than merely reacting to it as hypocritical. 
+
+^311801500
 
 ##### ^310051192
 
@@ -3373,4 +3406,15 @@ I feel the only explanation is that the highly functional system of today is sur
 The process of selection that gave rise to the water temple system of Bali is currently less well understood than the functionality of the system itself. 
 
 ^307812354
+
+##### ^311801501
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=4501  
+
+###### ^311801501q
+
+Based on immigration alone, Judaism is at a large disadvantage compared to proselytizing Christian and Islamic religions, which accounts in part for its minority status. Despite its disadvantage with respect to immigration, however, Judaism has persisted on the strength of the other factors that contribute to demographic growth (high birth rate, low death rate, and low emigration). 
+
+^311801501
 

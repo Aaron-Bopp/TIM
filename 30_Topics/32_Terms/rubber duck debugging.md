@@ -3,8 +3,8 @@ created: 2022-03-26T09:26:28
 aliases:
   - null
 tags: created/2022/03/26, node/topic/term/technique
-sr-due: 2022-04-14
-sr-interval: 13
+sr-due: 2022-08-05
+sr-interval: 108
 sr-ease: 252
 ---
 > [!infobox]

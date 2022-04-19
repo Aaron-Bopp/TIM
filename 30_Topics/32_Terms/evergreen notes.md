@@ -4,8 +4,8 @@ tags: created/2021/05/29, node/topic/term
 aliases:
   - evergreens
   - evergreen note
-sr-due: 2022-04-13
-sr-interval: 10
+sr-due: 2022-05-17
+sr-interval: 28
 sr-ease: 205
 ---
 > [!infobox]

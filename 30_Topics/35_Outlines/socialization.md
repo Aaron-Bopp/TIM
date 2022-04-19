@@ -4,8 +4,8 @@ tags: created/2021/07/21, node/topic/term
 aliases:
 - socialize
 - social
-sr-due: 2022-04-14
-sr-interval: 11
+sr-due: 2022-07-01
+sr-interval: 73
 sr-ease: 234
 ---
 > [!infobox]

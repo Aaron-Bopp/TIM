@@ -3,15 +3,14 @@ created: 2022-03-27T18:22:05
 aliases:
   - null
 tags: created/2022/03/27, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 12
+sr-due: 2022-05-15
+sr-interval: 26
 sr-ease: 199
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Intentionality is not separate from functionality]] 
-
 
 A behavior can be unintentional and functional and it can also be intentional and dysfunctional.
 This is an argument and distinction made by [[David Sloan Wilson]] in [[Darwin's Cathedral by David Sloan Wilson#Chapter 2]]. 
@@ -28,6 +27,10 @@ part of:: [[Human behavior is selective]]
 
 **Topics**:: [[human behavior]], [[functionalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 > ![[books - Darwin's Cathedral#^298293001]]
 

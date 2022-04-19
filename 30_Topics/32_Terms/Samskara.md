@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - samskaras
 tags: created/2021/10/19, node/topic/term
-sr-due: 2022-04-16
-sr-interval: 6
+sr-due: 2022-05-28
+sr-interval: 39
 sr-ease: 228
 ---
 > [!infobox]
