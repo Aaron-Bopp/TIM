@@ -3,8 +3,8 @@ created: 2022-03-12T10:25:15
 aliases:
   - null
 tags: created/2022/03/12, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 12
+sr-due: 2022-05-14
+sr-interval: 25
 sr-ease: 190
 ---
 > [!infobox]
@@ -18,7 +18,11 @@ often the cries of child can be solved just by giving them something new to look
 This 
 works with:: [[Humans are drawn to the unknown and repelled by the known]]
 and could 
-explain:: [[Human's will find explanations for inexplainable things]].
+explain:: [[Human's will find explanations for inexplainable things]],
+but the most obvious place we see this is in [[childhood]] [[psychology]]. 
+[[Our authority figures curate and reinforce what we are allowed to imitate]] 
+because our wonder will push us to interact and imitate anything put in front of us. 
+#TO/TEND/WATER 
 
 This can be seen as a 
 result of:: [[Humans are a product of evolution]]
@@ -28,5 +32,5 @@ result of:: [[Humans are a product of evolution]]
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[emotions]], [[human behavior]]
+**Topics**:: [[emotions]], [[human behavior]], [[socialization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

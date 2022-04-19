@@ -3,8 +3,8 @@ created: 2021-11-22
 aliases:
   - null
 tags: created/2021/11/22, review, node/evergreen/question 
-sr-due: 2022-04-19
-sr-interval: 33
+sr-due: 2022-06-11
+sr-interval: 53
 sr-ease: 150
 ---
 > [!infobox]
@@ -12,15 +12,14 @@ sr-ease: 150
 
 #### [[When should you forgive people who don't deserve it]] 
 
-
 [[We are confined to the tools of our time]]. If someone isn't ready to hear what we know they need to hear, sometimes the only thing we can do is wait.
 
-[[It's always worth it to work through trauma]], but there are downsides to having healed [[trauma]] that other people haven't, especially when those people are your siblings or grew up with you. We can [[sympathy|sympathize]] with our siblings in ways that other's can't, because [[We carry our childhood wounds into adulthood]].
-^[Even if you are and your siblings are very different people, there are likely common elements to your stories because of you [[parents]]:
+[[It's always worth it to work through trauma]], but there are downsides to having healed [[trauma]] that other people haven't, especially when those people grew up with you. We can [[sympathy|sympathize]] with our siblings in ways that other's can't, because [[We carry our childhood wounds into adulthood]].
+^[Even if you are and your siblings are very different people, there are likely common elements to your stories because of your [[parents]]:
 [[Our authority figures curate and reinforce what we are allowed to imitate]]]
 But even when we know they're just trying their hardest to move on, those people also have the greatest ability to hurt us when they [[It is valuable to admit that you might be wrong|refuse to admit that they might be wrong]].
 
-#TO/PONDER/IDEA are we supposed to forgive people who aren't ready to [[Accepting responsibility is not only about your actions]] i.e [[Should you forgive people that don't deserve it]]
+%% #TO/PONDER/IDEA are we supposed to forgive people who aren't ready to [[Accepting responsibility is not only about your actions]] i.e [[Should you forgive people that don't deserve it]] %%
 
 There can be great value in getting space or cutting people off because [[Sometimes we can't grow until we change our environment]], but [[Children in traumatic households expect more love than their parents can give]]. 
 Sometimes it's accepting [[responsibility]] for the weight a loving people who don't deserve it:

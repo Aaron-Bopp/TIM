@@ -3,8 +3,8 @@ created: 2021-10-18
 aliases:
   - worldviews that make life seems easy and simple
 tags: created/2021/10/18, review, node/evergreen/claim
-sr-due: 2022-04-19
-sr-interval: 37
+sr-due: 2022-06-24
+sr-interval: 66
 sr-ease: 168
 ---
 > [!infobox]
@@ -18,7 +18,9 @@ The pursuit of [[self-actualization]] is different for every person, but if you 
 
 This is especially seen in [[Individualism|individualistic]] cultures like [[America]], and in worldviews that are focused on salvation and not [[self-improvement]] ([[Christianity]]): [[The actual path to being a good person isn't explored by Evangelicalism]]
 
-leads to:: [[Worldviews should be open ended and adaptive]]
+
+- leads to:: [[Worldviews should be open ended and adaptive]]
+- explains:: [[What are the blindspots of the Christian worldview]]
 
 ### <hr class="footnote"/>
 
