@@ -12,11 +12,14 @@ sr-ease: 190
 
 #### [[What is the link between evolution and social behavior]] 
 
-[[Highly integrated social control allows groups to act as adaptive units]] explores how eukaryotic cells are actually highly integrated groups of [[bacteria]], which hints at the social element of [[Genetic evolution]] 
+[[David Sloan Wilson]] would probably say that link is in [[group selection]]. 
+According to him, [[Group selection solves the fundamental problem of social life]], being that it transfers social fitness into biological fitness through competition between groups. This is not just a theory of [[social behavior]], but also of [[natural selection]]. 
+[[Highly integrated social control allows groups to act as adaptive units]] examines the way that [[social control]] effects fitness from cults to chromosomes, 
+as well as exploring how eukaryotic cells are actually highly integrated groups of [[bacteria]].
+While Wilson acknowledges that are still limits to the application of group selection, 
+he would likely cite a connection between its effect on small scales to the existence of [[social behavior]].
 
-#TO/TEND/WATER 
-- [[Group selection solves the fundamental problem of social life]]
-
+This 
 leads to:: [[Evolution can create systems capable of natural selection]]
 
 This
