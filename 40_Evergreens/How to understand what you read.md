@@ -3,8 +3,8 @@ created: 2021-12-09
 aliases:
   - null
 tags: created/2021/12/09, review, node/evergreen/technique 
-sr-due: 2022-04-20
-sr-interval: 26
+sr-due: 2022-05-24
+sr-interval: 34
 sr-ease: 130
 ---
 > [!infobox]
@@ -21,7 +21,7 @@ reading to understand requires engaging with the medium on much higher level tha
 > 
 > <cite>[[Andy Matuschak]]</cite>
 
-Andy is not saying that books are useless here, he is saying that the onus if we actually want to learn from what we read.
+Andy is not saying that books are useless here, he is saying that the onus is on us if we actually want to learn from what we read.
 
 In order to get everything you can out of what you are reading:
 - [[You need to remember what you read]]
