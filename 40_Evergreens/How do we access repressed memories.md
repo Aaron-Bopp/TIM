@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/17, review, node/evergreen/question
-sr-due: 2022-04-20
-sr-interval: 2
+sr-due: 2022-05-09
+sr-interval: 18
 sr-ease: 243
 ---
 > [!infobox]
@@ -18,6 +18,7 @@ sr-ease: 243
 
 includes:: [[Our ego is our subconscious defense of our self]], [[Our brain will do anything it can to protect itself]]
 
+answered by:: [[Meditation helps us detach negative attachments]]
 
 ### <hr class="footnote"/>
 
