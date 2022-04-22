@@ -3,8 +3,8 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/2021/12/24, review, node/evergreen/claim
-sr-due: 2022-04-21
-sr-interval: 46
+sr-due: 2022-07-08
+sr-interval: 78
 sr-ease: 170
 ---
 > [!infobox]
@@ -12,16 +12,18 @@ sr-ease: 170
 
 #### [[To those with privilege, losing it feels like oppression]] 
 
-- [[Race is a social construct]]
-- [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
- - [[The black identity has evolved past it's political origins]]
+#TO/TEND/WATER 
+- works with:: [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
+
+This is
+why:: you should [[Look for understanding before you look for solutions]], because it may seem like somebody else is being "favored" just because they were disadvantaged compared to you.
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED
 *edited `=this.file.mtime`*
 
-**Topics**:: [[social justice]], [[social inequality]]
+**Topics**:: [[social justice]], [[social inequality]], [[oppression]], [[marginalization]], 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 

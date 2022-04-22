@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/13, review, node/evergreen/claim
-sr-due: 2022-04-21
-sr-interval: 2
+sr-due: 2022-04-25
+sr-interval: 4
 sr-ease: 220
 ---
 > [!infobox]
@@ -20,7 +20,7 @@ After convicting based off of [[black codes]],
 sentencing would involve labor to "cover" arbitrary fines, court fees, and housing costs.
 The main purpose was to keep the southern economy moving with a nearly free labor source.
 There was already a structure in place pre-civil war that would lease slaves from nearby farms. 
-After the war, they would instead coerce to the convicted man into signing a labor contract, and then use force to and the law to kep
+After the war, they would instead coerce the convicted man into signing a labor contract, and then use force and the law to keep them in slavery by another name.
 
 Rather than having to buy and house an enslaved person outright, farmers could now basically rent a slave, work them to the bone, and then give them back to the state.
 

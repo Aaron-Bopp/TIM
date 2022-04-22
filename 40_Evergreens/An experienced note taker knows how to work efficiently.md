@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/16, review, node/evergreen/claim
-sr-due: 2022-04-21
-sr-interval: 2
+sr-due: 2022-04-25
+sr-interval: 4
 sr-ease: 196
 ---
 > [!infobox]
@@ -13,7 +13,11 @@ sr-ease: 196
 
 #### [[An experienced note taker knows how to work efficiently]]
 
+%%
+This means knowing when to delete a note.
+This means knowing when to rely on the systems you have setup in your vault.
 #TO/TEND/WATER 
+%%
 This means knowing when you can offload work to your [[second brain]] and free yourself to do the more important work.
 For me one of the major [[friction]]s of [[note writing|note taking]] is deciding when to do work.
 [[Productivity tools are often most useful in how much work they inspire you to do]] and my [[second brain]] inspires me to do so much work, but sometimes I will put time into a task I know I want to get done, but after putting five or ten minutes into it, I am less happy than I was before. 

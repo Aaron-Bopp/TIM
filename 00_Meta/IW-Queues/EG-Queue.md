@@ -26,3 +26,4 @@ interval: 1
 | [[Our brain will do anything it can to protect itself]] | | | | |
 | [[Faith is an abstraction of cognitive dissonance]] | | | | |
 | [[Humans long to know what to do]] | | | | |
+| [[To those with privilege, losing it feels like oppression]] | | | | |
