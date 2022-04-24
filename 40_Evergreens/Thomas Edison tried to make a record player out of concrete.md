@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/example/stupid
-sr-due: 2022-04-21
-sr-interval: 9
+sr-due: 2022-05-21
+sr-interval: 27
 sr-ease: 264
 ---
 > [!infobox]

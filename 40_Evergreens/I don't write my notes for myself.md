@@ -3,8 +3,8 @@ created: 2022-01-04T16:06:46
 aliases:
   - null
 tags: created/2022/01/04, review, node/evergreen/principle   
-sr-due: 2022-04-22
-sr-interval: 62
+sr-due: 2022-09-16
+sr-interval: 145
 sr-ease: 230
 ---
 > [!infobox]
@@ -29,7 +29,7 @@ Even more importantly I write my notes for my past [[self]], because they desper
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING
+**Status**:: #EVER/GREEN 
 *edited January 25, 2022*
 
 **Topics**:: [[Life principles]], [[note writing]], 

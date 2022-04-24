@@ -3,9 +3,9 @@ created: 2022-03-26T13:24:13
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/claim
-sr-due: 2022-04-22
-sr-interval: 12
-sr-ease: 178
+sr-due: 2022-05-01
+sr-interval: 7
+sr-ease: 158
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

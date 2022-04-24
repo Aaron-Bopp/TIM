@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/distinction
-sr-due: 2022-04-21
-sr-interval: 9
+sr-due: 2022-05-22
+sr-interval: 28
 sr-ease: 263
 ---
 > [!infobox]
