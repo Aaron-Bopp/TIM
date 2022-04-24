@@ -3,8 +3,8 @@ created: 2022-03-13T12:25:49
 aliases:
   - null
 tags: created/2022/03/13, review, node/evergreen/claim
-sr-due: 2022-04-23
-sr-interval: 12
+sr-due: 2022-05-17
+sr-interval: 23
 sr-ease: 170
 ---
 > [!infobox]
@@ -17,7 +17,7 @@ sr-ease: 170
 
 Social control reduces the amount of within-group selection by promoting behavior that benefits the group. This allows behaviors that are highly-altruistic or highly-selfless to evolve.
 
-Group selection -> social control -> self-sacrificial altruism
+[[Group selection]] -> [[social control]] -> self-sacrificial altruism
 
 This is in contrast to [[kin selection]] which would say that individuals would only act for the benefit of closely genetically related relatives,
 and [[reciprocal altruism]] which would predict that individuals would only act for the benefit of those who will return the favor.
