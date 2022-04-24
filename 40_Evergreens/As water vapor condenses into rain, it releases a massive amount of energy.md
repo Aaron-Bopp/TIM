@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/example/observation
-sr-due: 2022-04-22
-sr-interval: 9
+sr-due: 2022-05-18
+sr-interval: 24
 sr-ease: 252
 ---
 > [!infobox]

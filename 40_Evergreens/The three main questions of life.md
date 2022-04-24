@@ -11,14 +11,14 @@ sr-ease: 268
 #### [[The three main questions of life]] 
 
 1. Where did we come from? 
-2. What happens when we die?
+2. Where do we go when we die?
 3. What is our [[purpose]]?
 
 What are your answers?
 
 Said another way:
 1. [[What is the origin of life]]?
-2. [[What happens after we die]]?
+2. [[Is there life after death]]?
 3. [[What is the meaning of life]]
 
 Related:

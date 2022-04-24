@@ -12,7 +12,7 @@ sr-ease: 190
 
 #### [[A secure worldview is the best defense against existential dread]] 
 
-[[Anxiety stems from a lack of confidence for the future]] and not knowing the answer to [[What happens after we die]] can be lead to lots of incurable [[anxiety]] also known as [[existential dread]].
+[[Anxiety stems from a lack of confidence for the future]] and not knowing the answer to [[Is there life after death]] can be lead to lots of incurable [[anxiety]] also known as [[existential dread]].
 
 This kind of dread has been key in human [[history]] and has likely lead to our penchant for [[religion]] because whether it be knowing that we will be worshipped by our descendants, reincarnated, or live eternally with or as a god, these all produce a sense of sureness for our future.
 Making this
