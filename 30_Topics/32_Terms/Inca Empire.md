@@ -4,6 +4,9 @@ aliases:
   - Incan Empire
   - Inka Empire
 tags: created/2022/03/23, node/topic/term
+sr-due: 2022-04-29
+sr-interval: 5
+sr-ease: 242
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -24,7 +27,6 @@ tags: created/2022/03/23, node/topic/term
 > 
 > The Inca Empire functioned largely on the exchange of goods and services was based on reciprocity between individuals and among individuals, groups, and Inca rulers. "Taxes" consisted of a labour obligation of a person to the Empire. The Inca rulers (who theoretically owned all the means of production) reciprocated by granting access to land and goods and providing food and drink in celebratory feasts for their subjects. Many local forms of worship persisted in the empire, most of them concerning local sacred Huacas, but the Inca leadership encouraged the sun worship of Inti – their sun god – and imposed its sovereignty above other cults such as that of Pachamama. The Incas considered their king, the Sapa Inca, to be the "son of the sun."
 > 
-
 
 ##### ^dataviews
 

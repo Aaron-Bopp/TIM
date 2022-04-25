@@ -3,6 +3,9 @@ created: 2022-03-11T20:00:50
 aliases:
   - null
 tags: created/2022/03/11, node/topic/term
+sr-due: 2022-05-02
+sr-interval: 8
+sr-ease: 251
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,16 +21,21 @@ tags: created/2022/03/11, node/topic/term
 > Classical mechanics provides extremely accurate results when studying large objects that are not extremely massive and speeds not approaching the speed of light. When the objects being examined have about the size of an atom diameter, it becomes necessary to introduce the other major sub-field of mechanics: [[quantum mechanics]]. To describe velocities that are not small compared to the speed of light, [[special relativity]] is needed. In cases where objects become extremely massive, [[general relativity]] becomes applicable. 
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

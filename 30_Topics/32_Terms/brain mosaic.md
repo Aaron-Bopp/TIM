@@ -1,6 +1,9 @@
 ---
 created: 2021-10-10
 tags: created/2021/10/10, node/topic/term
+sr-due: 2022-04-30
+sr-interval: 6
+sr-ease: 244
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -8,8 +11,8 @@ tags: created/2021/10/10, node/topic/term
 #### <s class="topic-title">[[brain mosaic]]</s>
 
 
-A study of [[brain]] region's size as related to gender. The average size of a region for each gender gives it the score of leaning one way or the other, and most peoples brains have a mix of feminine, masculine, and neutral regions [^1] ^58d822
-[[textbook - Hyde&Elsequest_pyschology of women and gender#Chapter 10 Biology and gender]]
+A study of [[brain]] region's size as related to gender. The average size of a region for each gender gives it the score of leaning one way or the other, and most peoples brains have a mix of feminine, masculine, and neutral regions ^58d822
+^[[[textbook - Hyde&Elsequest_pyschology of women and gender#Chapter 10 Biology and gender]]]
 
 **Covers**:: [[Psychology]], [[gender]]
 

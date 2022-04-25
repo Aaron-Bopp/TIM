@@ -3,6 +3,9 @@ created: 2022-02-10T17:02:37
 aliases:
   - null
 tags: created/2022/02/10, node/topic/term
+sr-due: 2022-05-04
+sr-interval: 10
+sr-ease: 256
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,15 +22,21 @@ tags: created/2022/02/10, node/topic/term
 > 
 > According to [[quantum field theory]] (QFT) which underlies modern particle [[physics]], empty space is defined by the vacuum state which is a collection of quantum fields. All these quantum fields exhibit fluctuations in their ground state (lowest energy density) arising from the zero-point energy present everywhere in space. These zero-point fluctuations should act as a contribution to the cosmological constant Λ, but when calculations are performed these fluctuations give rise to an enormous [[vacuum]] energy. The discrepancy between theorized vacuum energy from quantum field theory and observed vacuum energy from cosmology is a source of major contention, with the values predicted exceeding observation by some 120 orders of magnitude, a discrepancy that has been called "the worst theoretical prediction in the history of physics". This issue is called the cosmological constant problem and it is one of the greatest mysteries in science with many physicists believing that "the vacuum holds the key to a full understanding of nature".
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

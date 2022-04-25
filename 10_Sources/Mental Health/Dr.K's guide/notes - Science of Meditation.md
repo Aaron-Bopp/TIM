@@ -34,6 +34,7 @@ sr-ease: 230
 		- [[Cortisol]] also affects our [[immune system]] (it wants to get ready to heal)
 		- high stress worsen auto-immune diseases
 	- [[Eustress]] is the perfect amount of [[stress]] to bring out our best stress
+		-  Moderate or normal [[Psychology|psychological]] stress interpreted as being beneficial for the experiencer.
 		- [[flow state]] is the state of optimal activity (good [[hormone|hormonal]] balance)
 #### [[Meditation helps us regulate our nervous system]]
 - [[ANS]]

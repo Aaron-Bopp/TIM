@@ -3,6 +3,9 @@ created: 2022-03-11T19:59:45
 aliases:
   - null
 tags: created/2022/03/11, node/topic/term
+sr-due: 2022-05-04
+sr-interval: 10
+sr-ease: 251
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,16 +23,21 @@ tags: created/2022/03/11, node/topic/term
 > Quantum entanglement has been demonstrated experimentally with [[photons]], [[neutrinos]], [[electrons]], molecules as large as buckyballs, and even small diamonds. The utilization of entanglement in communication, computation and quantum radar is a very active area of research and development.
 >
 
-
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

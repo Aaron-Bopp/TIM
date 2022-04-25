@@ -3,6 +3,9 @@ created: 2022-03-23T08:53:30
 aliases:
   - null
 tags: created/2022/03/23, node/topic/term
+sr-due: 2022-04-30
+sr-interval: 6
+sr-ease: 248
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -12,7 +15,6 @@ tags: created/2022/03/23, node/topic/term
 As described in [[books - The Dawn of Everything]]
 
 > ![[books - The Dawn of Everything#The indigenous critique and the myth of progress]]
-
 
 ##### ^dataviews
 
