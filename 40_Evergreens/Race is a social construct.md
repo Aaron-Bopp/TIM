@@ -12,7 +12,6 @@ sr-ease: 230
 
 #### [[Race is a social construct]] 
 
-- [[Race is a social construct]]
 - [[The black identity has evolved past it's political origins]]
 
 ### <hr class="footnote"/>
