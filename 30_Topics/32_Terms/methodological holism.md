@@ -3,8 +3,8 @@ created: 2022-03-26T14:05:26
 aliases:
   - holism in science
 tags: created/2022/03/26, node/topic/term
-sr-due: 2022-04-21
-sr-interval: 17
+sr-due: 2022-07-31
+sr-interval: 98
 sr-ease: 231
 ---
 > [!infobox]

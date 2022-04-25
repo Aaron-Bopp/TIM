@@ -4,8 +4,8 @@ tags: created/2021/07/21, node/topic/term
 aliases:
 - self-care
 - self-validation
-sr-due: 2022-04-21
-sr-interval: 2
+sr-due: 2022-05-13
+sr-interval: 19
 sr-ease: 208
 ---
 > [!infobox]

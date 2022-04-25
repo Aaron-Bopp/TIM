@@ -3,6 +3,9 @@ created: 2021-11-07
 aliases:
   - stub note
 tags: created/2021/11/07, node/topic/term
+sr-due: 2022-04-29
+sr-interval: 5
+sr-ease: 236
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

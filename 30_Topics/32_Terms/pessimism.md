@@ -1,6 +1,9 @@
 ---
 created: 2021-07-03
 tags: created/2021/07/03, node/topic/term
+sr-due: 2022-04-28
+sr-interval: 4
+sr-ease: 233
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,9 +17,7 @@ tags: created/2021/07/03, node/topic/term
 > Philosophical pessimism is the related idea that views the world in a strictly anti-optimistic fashion. This form of pessimism is not an emotional disposition as the term commonly connotes. Instead, it is a [[philosophy]] or [[worldview]] that assigns a negative value to life and [[existence]]. Philosophical pessimists commonly argue for an empirical prevalence of pains over pleasures, that life is ontologically or intrinsically adverse to living beings, and that existence is fundamentally meaningless or without [[purpose]]. Their responses to this condition, however, are widely varied and can be life-affirming.
 >
 
-
 **See**:: [[human experience]]
-
 
 %% DO NOT EDIT BELOW %%
 > [!dataview] Related unlinked mentions

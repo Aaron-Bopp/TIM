@@ -4,8 +4,8 @@ aliases:
   - black people
   - african american
 tags: created/2021/10/20, node/topic/term
-sr-due: 2022-04-24
-sr-interval: 5
+sr-due: 2022-05-23
+sr-interval: 29
 sr-ease: 239
 ---
 > [!infobox]

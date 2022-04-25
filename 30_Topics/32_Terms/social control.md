@@ -3,8 +3,8 @@ created: 2022-03-05T21:26:13
 aliases:
   - null
 tags: created/2022/03/05, review, node/topic/term
-sr-due: 2022-04-21
-sr-interval: 11
+sr-due: 2022-06-13
+sr-interval: 50
 sr-ease: 184
 ---
 > [!infobox]
@@ -39,12 +39,21 @@ We can see the path here for the [[adaptation]] and [[Evolution]] of social cont
 **See**:: [[religion]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
 
-#### Related 
-
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
 %% DO NOT EDIT ABOVE %%

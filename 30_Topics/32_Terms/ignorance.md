@@ -3,8 +3,8 @@ created: 2021-10-10
 tags: created/2021/10/10, node/topic/term
 aliases:
 - ignorant
-sr-due: 2022-04-24
-sr-interval: 5
+sr-due: 2022-05-31
+sr-interval: 37
 sr-ease: 239
 ---
 > [!infobox]

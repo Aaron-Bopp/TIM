@@ -4,6 +4,9 @@ aliases:
   - Generalized Anxiety Disorder (GAD)
   - Generalized Anxiety Disorder 
 tags: created/2021/12/29, node/topic/term
+sr-due: 2022-04-28
+sr-interval: 4
+sr-ease: 232
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,10 +20,21 @@ People with **generalized [[anxiety]] disorder** (GAD) display excessive [[anxie
 **See**:: [[SAD|Social Anxiety Disorder]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

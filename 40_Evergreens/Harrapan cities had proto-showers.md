@@ -4,18 +4,20 @@ edited:
 aliases:
   - null
 tags: created/2022/04/24, review, node/evergreen/claim
+sr-due: 2022-04-26
+sr-interval: 2
+sr-ease: 246
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Harrapan cities had proto-showers]]
 
+part of:: [[Water, drainage, and bathing held a religious significance Harappan civilization]] 
+
 > [!caption]
 > ![[Pasted image 20220424181858.png]]
 > Built in elevation and drainage allows filth to be easily and quickly washed away
-
-part of:: [[Water, drainage, and bathing held a religious significance Harappan civilization]]
-
 
 ### <hr class="footnote"/>
 

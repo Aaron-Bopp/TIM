@@ -3,8 +3,8 @@ created: 2022-03-25T17:49:12
 aliases:
   - quale
 tags: created/2022/03/25, node/topic/term
-sr-due: 2022-04-24
-sr-interval: 5
+sr-due: 2022-06-02
+sr-interval: 39
 sr-ease: 247
 ---
 > [!infobox]

@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - null
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-21
-sr-interval: 14
+sr-due: 2022-07-01
+sr-interval: 68
 sr-ease: 211
 ---
 > [!infobox]
@@ -19,7 +19,7 @@ A collection of cells near the base of the [[brain]]. There are two, one in each
 >
 
 > [!captions]
-> ![[MRI - Location_Amygdala_up.png]]
+> ![[MRI_Location_Amygdala_up.png]]
 > MRI coronal view of the right amygdala
 
 The right and left portions of the amygdala have independent memory systems, but work together to store, encode, and interpret emotion.

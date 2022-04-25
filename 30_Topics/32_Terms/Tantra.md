@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - Tantric
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-24
-sr-interval: 5
+sr-due: 2022-05-29
+sr-interval: 35
 sr-ease: 240
 ---
 > [!infobox]

@@ -3,8 +3,8 @@ created: 2021-10-19
 tags: created/2021/10/19, node/topic/term
 aliases:
   - gender self-socialization
-sr-due: 2022-04-23
-sr-interval: 4
+sr-due: 2022-05-20
+sr-interval: 26
 sr-ease: 224
 ---
 > [!infobox]

@@ -3,8 +3,8 @@ created: 2022-03-17T17:46:46
 aliases:
   - null
 tags: created/2022/03/17, node/topic/term
-sr-due: 2022-04-23
-sr-interval: 4
+sr-due: 2022-05-27
+sr-interval: 33
 sr-ease: 243
 ---
 > [!infobox]

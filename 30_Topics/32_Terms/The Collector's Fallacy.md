@@ -3,6 +3,9 @@ created: 2021-12-21
 aliases:
   - null
 tags: created/2021/12/21, node/topic/term
+sr-due: 2022-04-28
+sr-interval: 4
+sr-ease: 214
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -24,10 +27,21 @@ One aspect of the Collector's fallacy is collecting notes without context:
 **See**:: [[knowledge work]], [[knowledge management]], [[second brain]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

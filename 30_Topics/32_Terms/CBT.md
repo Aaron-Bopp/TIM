@@ -4,8 +4,8 @@ aliases:
   - CBT (Cognitive Behavioral Therapy)
   - Cognitive Behavioral Therapy
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-24
-sr-interval: 5
+sr-due: 2022-06-02
+sr-interval: 39
 sr-ease: 247
 ---
 > [!infobox]

@@ -3,6 +3,9 @@ created: 2021-10-23
 tags: created/2021/10/23, node/topic/term
 aliases:
   - cisgender
+sr-due: 2022-04-30
+sr-interval: 6
+sr-ease: 245
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

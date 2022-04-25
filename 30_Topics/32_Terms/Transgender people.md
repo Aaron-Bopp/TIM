@@ -4,8 +4,8 @@ tags: created/2021/08/15, node/topic/term
 aliases:
 - trans
 - transgender
-sr-due: 2022-04-22
-sr-interval: 18
+sr-due: 2022-08-18
+sr-interval: 116
 sr-ease: 242
 ---
 > [!infobox]

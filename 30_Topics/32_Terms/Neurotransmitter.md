@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - neurotransmitters
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-22
-sr-interval: 10
+sr-due: 2022-06-14
+sr-interval: 51
 sr-ease: 216
 ---
 > [!infobox]

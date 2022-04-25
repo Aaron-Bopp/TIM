@@ -1,15 +1,14 @@
 ---
 created: 2021-10-19
 tags: created/2021/10/19, node/topic/term
-sr-due: 2022-04-22
-sr-interval: 3
+sr-due: 2022-05-28
+sr-interval: 34
 sr-ease: 253
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Cortisol]]</s>
-
 
 Cortisol will last for 4-24 hours depending on the duration of the encounter and it keeps you aware and ready to act at a moments notice 
 

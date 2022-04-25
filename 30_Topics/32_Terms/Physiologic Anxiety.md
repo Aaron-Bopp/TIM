@@ -3,8 +3,8 @@ created: 2021-12-29
 aliases:
   - null
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-20
-sr-interval: 10
+sr-due: 2022-07-05
+sr-interval: 72
 sr-ease: 253
 ---
 > [!infobox]
@@ -18,11 +18,21 @@ sr-ease: 253
 **See**:: [[Neuroscience]], [[Psychology]], [[Cognitive Anxiety]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-%% DO NOT EDIT BELOW %%
-#### Related 
+##### ^dataviews
 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

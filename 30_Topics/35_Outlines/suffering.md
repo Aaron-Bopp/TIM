@@ -1,9 +1,9 @@
 ---
 created: 2021-07-21
 tags: created/2021/07/21, review, node/topic/term
-sr-due: 2022-04-23
-sr-interval: 70
-sr-ease: 250
+sr-due: 2022-05-29
+sr-interval: 35
+sr-ease: 210
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

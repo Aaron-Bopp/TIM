@@ -1,15 +1,14 @@
 ---
 created: 2021-10-16
 tags: created/2021/10/16, node/topic/term
-sr-due: 2022-04-22
-sr-interval: 3
+sr-due: 2022-05-24
+sr-interval: 30
 sr-ease: 253
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Vector]]</s>
-
 
 a numerical representation of a direction and distance ([[Computer Science|CS]] perspective), or a visual representation of a value of a movement on multiple axis ([[physics]] perspective)
 ^[[[videos - Linear algebra - 3Blue1Brown]]]

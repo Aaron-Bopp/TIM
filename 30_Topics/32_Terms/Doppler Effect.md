@@ -3,13 +3,14 @@ created: 2022-02-16T20:46:25
 aliases:
   - null
 tags: created/2022/02/16, node/topic/term
+sr-due: 2022-05-04
+sr-interval: 10
+sr-ease: 251
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### <s class="topic-title">[[Doppler Effect]]</s>
-
-
 
 > [!wikipedia] [Doppler Effect](https://en.wikipedia.org/wiki/Doppler%20effect)
 > 

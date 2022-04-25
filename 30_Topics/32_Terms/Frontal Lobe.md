@@ -3,6 +3,9 @@ created: 2021-12-29
 aliases:
   - Frontal Lobes
 tags: created/2021/12/29, node/topic/term
+sr-due: 2022-04-30
+sr-interval: 6
+sr-ease: 234
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,13 +16,21 @@ The most anterior (front) part of the [[brain]]. It extends from the area behind
 
 Part of your brain responsible for [[maturity]], [[impulse]] control, & [[executive function]]
 
-**See**::
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+##### ^dataviews
 
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%

@@ -4,8 +4,8 @@ tags: created/2021/06/07, node/topic/term
 aliases:
 - source
 - sources
-sr-due: 2022-04-23
-sr-interval: 4
+sr-due: 2022-05-06
+sr-interval: 12
 sr-ease: 223
 ---
 > [!infobox]
