@@ -3418,3 +3418,59 @@ Based on immigration alone, Judaism is at a large disadvantage compared to prose
 
 ^311801501
 
+# New highlights added April 25, 2022 at 6:33 PM
+##### ^313029660
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2474  
+
+###### ^313029660q
+
+the strictest and strongest versions of Judaism can accurately be described as cultural fortresses that kept outsiders out and insiders in. 
+
+^313029660
+
+##### ^313029661
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2487  
+
+###### ^313029661q
+
+Even a weak flow of genes is sufficient to eliminate genetic differences among groups when compounded over many generations. The fact that Jewish populations around the world are genetically more similar to each other than to the populations among which they reside therefore demonstrates an extraordinary degree of isolation achieved by cultural mechanisms. 
+
+^313029661
+
+##### ^313029662
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2492  
+
+###### ^313029662q
+
+It has always been possible to convert to Judaism (the Hebrew Bible provides numerous examples) but only with great difficulty. In a sense, this is exactly what Iannaccone would predict for a church that wants to remain strong by forcing its new members to demonstrate their commitment. 
+
+^313029662
+
+##### ^313029663
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2500  
+
+###### ^313029663q
+
+Converts ranked below the offspring of illegitimate relatives (mamzerin) and individuals from foreign ethnic groups that lived as servants among the Israelites (Nethinim). These kinds of disincentives to become Jewish, often combined with even stronger disincentives from anti-Semitic gentile communities, make it unsurprising that outsiders usually remained such. 
+
+^313029663
+
+##### ^313029664
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00DQMWSUY&location=2511  
+
+###### ^313029664q
+
+The Protocols of the Elders of Zion, which supposedly outlines a program of world domination, was proven to be a forgery in 1921, but this did not prevent millions of copies from being printed and distributed by anti-Semites ranging from Henry Ford, to Adolf Hitler, to modern Arabic leaders (Cohn 1966; Prager and Telushkin 1983). 
+
+^313029664
+

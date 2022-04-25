@@ -21,7 +21,7 @@ Having a [[sense of impending doom]] is a recognized symptom of medications like
 
 > ![[books - Darwin's Cathedral#294293306q]]
 
-[[Self-awareness]] likely makes humans more prone to existential dread. 
+[[self-awareness]] likely makes humans more prone to existential dread. 
 
 
 - probably

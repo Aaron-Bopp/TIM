@@ -10,6 +10,7 @@ sr-ease: 224
 
 #### [[Knowledge of an unjust world is painful]] 
 
+%% #TO/TEND/WATER  %%
 This 
 answers:: [[What is the cognitive effect of living in an unjust world]],
 in not a behavioral but an observational way.

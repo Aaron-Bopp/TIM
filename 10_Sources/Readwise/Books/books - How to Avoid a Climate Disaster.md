@@ -1046,3 +1046,147 @@ in communities where extracting coal or natural gas is a big part of the local e
 
 ^311801495
 
+# New highlights added April 25, 2022 at 6:33 PM
+##### ^313029675
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3067  
+
+###### ^313029675q
+
+if you want a measuring stick for which countries are making progress on climate change and which ones aren’t, don’t simply look for the ones that are reducing their emissions. Look for the ones that are setting themselves up to get to zero. 
+
+^313029675
+
+##### ^313029676
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3083  
+
+###### ^313029676q
+
+Innovation is not just a matter of inventing a new machine or some new process; it’s also coming up with new approaches to business models, supply chains, markets, and policies that will help new inventions come to life and reach a global scale. 
+
+^313029676
+
+##### ^313029677
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3152  
+
+###### ^313029677q
+
+we need governments to commit to funding mega-scale projects (in the range of hundreds of millions or billions of dollars) that can advance the science of clean energy—especially in the areas I listed above. And they need to commit to funding them for the long haul so that researchers know they’ll have a steady flow of support for years to come. 
+
+^313029677
+
+##### ^313029678
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3155  
+
+###### ^313029678q
+
+There’s a practical distinction between blue-sky research into novel scientific concepts (also called basic research) and efforts to take scientific discoveries and make them useful (what’s known as applied or translational research). 
+
+^313029678
+
+##### ^313029679
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3199  
+
+###### ^313029679q
+
+Governments can play a huge role by adopting zero-carbon policies and shaping the way markets attract money for these projects. A few principles: Government policies should be technology neutral (benefiting any solutions that reduce emissions, rather than a few favored ones), predictable (as opposed to regularly expiring and then getting extended, as happens frequently now), and flexible (so that many different companies and investors can take advantage of them, not just those with large federal tax bills). 
+
+^313029679
+
+##### ^313029680
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3227  
+
+###### ^313029680q
+
+the value of a carbon price is that by raising the cost of fossil fuels, it tells the market that there will be extra costs associated with products that emit greenhouse gas emissions. Where the revenue from this carbon price goes is not as important as the market signal sent by the price itself. Many economists argue that the money can be returned to consumers or businesses to cover the resulting increase in energy prices, though there’s also a strong argument that it should go to R&D and other incentives to help solve climate change. In the longer term, as we get closer to net-zero emissions, the carbon price could be set at the cost of direct air capture, and the revenues could be used to pay for pulling carbon out of the air. 
+
+^313029680
+
+##### ^313029681
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3268  
+
+###### ^313029681q
+
+Local governments play an important role in determining how buildings are constructed and what kinds of energy they use, whether buses and police cars run on electricity, whether there’s a charging infrastructure for electric vehicles, and how waste gets managed. Most state or provincial governments have a central role in regulating electricity, planning infrastructure like roads and bridges, and selecting the materials that go into these projects. National governments generally have authority over activities that cross state or international borders, so they write the rules that shape electricity markets, adopt pollution regulations, and create standards for vehicles and fuels. They also have enormous procurement power, are the primary source of fiscal incentives, and usually fund more public R&D than any other level of government. 
+
+^313029681
+
+##### ^313029682
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3291  
+
+###### ^313029682q
+
+U.S. emissions would be about 8 percent higher if you included all the products that Americans consume but are made elsewhere. Britain’s would be about 40 percent higher.) 
+
+^313029682
+
+##### ^313029683
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3397  
+
+###### ^313029683q
+
+When somebody wants toast for breakfast, we need to make sure there’s a system in place that can deliver the bread, the toaster, and the electricity to run the toaster without adding greenhouse gases to the atmosphere. We aren’t going to solve the climate problem by telling people not to eat toast. 
+
+^313029683
+
+##### ^313029684
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3400  
+
+###### ^313029684q
+
+engaging in the political process is the most important single step that people from every walk of life can take to help avoid a climate disaster. 
+
+^313029684
+
+##### ^313029685
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3473  
+
+###### ^313029685q
+
+Some big companies now impose a carbon tax on each of their divisions. These companies aren’t paying lip service to reducing emissions. They’re helping products get out of the lab and into the market, because the revenue from internal taxes can go directly to activities that reduce the Green Premiums and help create a market for the clean-energy products those firms will need. 
+
+^313029685
+
+##### ^313029686
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3480  
+
+###### ^313029686q
+
+Companies should reprioritize their R&D work, particularly on low-carbon innovations, many of which will require long-term commitments. Larger companies can partner with government researchers to bring practical commercial experience to research efforts. 
+
+^313029686
+
+##### ^313029687
+
+highlight_tags:: [[lastlines]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B07YRY461Y&location=3518  
+
+###### ^313029687q
+
+I’m an optimist because I know what technology can accomplish and because I know what people can accomplish. I’m profoundly inspired by all the passion I see, especially among young people, for solving this problem. If we keep our eye on the big goal—getting to zero—and we make serious plans to achieve that goal, we can avoid a disaster. We can keep the climate bearable for everyone, help hundreds of millions of poor people make the most of their lives, and preserve the planet for generations to come. 
+
+^313029687
+

@@ -3157,3 +3157,70 @@ Throughout the nineteenth and early twentieth centuries, fewer than 5,000 Britis
 ^311259057
 
 ### 16 The Capitalist Creed
+# New highlights added April 25, 2022 at 6:33 PM
+##### ^313029652
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4727  
+
+###### ^313029652q
+
+What enables banks – and the entire economy – to survive and flourish is our trust in the future. This trust is the sole backing for most of the money in the world. 
+
+^313029652
+
+##### ^313029653
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4748  
+
+###### ^313029653q
+
+Credit arrangements of one kind or another have existed in all known human cultures, going back at least to ancient Sumer. The problem in previous eras was not that no one had the idea or knew how to use it. It was that people seldom wanted to extend much credit because they didn’t trust that the future would be better than the present. 
+
+^313029653
+
+##### ^313029659
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4785  
+
+###### ^313029659q
+
+In 1776 the Scottish economist Adam Smith published The Wealth of Nations, ... Smith’s claim that the selfish human urge to increase private profits is the basis for collective wealth is one of the most revolutionary ideas in human history – revolutionary not just from an economic perspective, but even more so from a moral and political perspective. What Smith says is, in fact, that greed is good, and that by becoming richer I benefit everybody, not just myself. Egoism is altruism. 
+
+^313029659
+
+##### ^313029656
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4801  
+
+###### ^313029656q
+
+Smith therefore repeated like a mantra the maxim that ‘When profits increase, the landlord or weaver will employ more assistants’ and not ‘When profits increase, Scrooge will hoard his money in a chest and take it out only to count his coins.’ A crucial part of the modern capitalist economy was the emergence of a new ethic, according to which profits ought to be reinvested in production. 
+
+^313029656
+
+##### ^313029657
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4814  
+
+###### ^313029657q
+
+medieval noblemen espoused an ethic of generosity and conspicuous consumption. They spent their revenues on tournaments, banquets, palaces and wars, and on charity and monumental cathedrals. Few tried to reinvest profits in increasing their manors’ output, developing better kinds of wheat, or looking for new markets. 
+
+^313029657
+
+##### ^313029658
+
+highlight_tags:: [[orange]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4832  
+
+###### ^313029658q
+
+Capitalism began as a theory about how the economy functions. It was both descriptive and prescriptive – it offered an account of how money worked and promoted the idea that reinvesting profits in production leads to fast economic growth. But capitalism gradually became far more than just an economic doctrine. It now encompasses an ethic – a set of teachings about how people should behave, educate their children and even think. Its principal tenet is that economic growth is the supreme good, or at least a proxy for the supreme good, because justice, freedom and even happiness all depend on economic growth. 
+
+^313029658
+
