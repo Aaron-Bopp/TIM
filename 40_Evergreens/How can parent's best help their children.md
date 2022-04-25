@@ -17,7 +17,7 @@ sr-ease: 206
 
 - What do parents need to do
 	- [[Parents need to model the ability to deal with emotion to their children]]
-	- [[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]]
+	- [[Parents will not be able to protect their children from every source of trauma|Parents will not be able to protect their children from every source of trauma]]
 - What are the problems if they don't
 	- [[Children will not question what is modeled for them unless they are taught to]]
 	- [[You can be taught to invalidate your own emotions]]

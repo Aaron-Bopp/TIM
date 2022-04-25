@@ -1,20 +1,14 @@
 ---
 created: 2021-07-05
 tags: created/2021/07/05, review, node/evergreen/claim
-aliases:
-  - Parents will not be able to protect their children from every source of
-    trauma
-sr-due: 2022-04-24
-sr-interval: 17
-sr-ease: 130
+sr-due: 2022-04-25
+sr-interval: 1
+sr-ease: 208
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Children in traumatic households expect more love than their parents can give]] 
-
-#TO/PONDER/IDEA what is a better title for this note. The child doesn't expect more
-How much love does a child expect?
+#### [[Parents will not be able to protect their children from every source of trauma]] 
 
 - [[Children will not question what is modeled for them unless they are taught to]], they don't actually expect more love
 

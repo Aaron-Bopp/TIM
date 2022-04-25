@@ -14,7 +14,7 @@ sr-ease: 210
 
 Parent's need to be aware of how their behaviors can affect their children, 
 because:: [[Our authority figures curate and reinforce what we are allowed to imitate]].
-[[Trauma]] in the home will very much transfer to the child in some way: [[Children in traumatic households expect more love than their parents can give]]
+[[Trauma]] in the home will very much transfer to the child in some way: [[Parents will not be able to protect their children from every source of trauma]]
 
 part of:: [[How can parent's best help their children]]
 

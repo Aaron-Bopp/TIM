@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: created/2021/06/28, review, node/evergreen/claim
-sr-due: 2022-04-24
-sr-interval: 109
+sr-due: 2023-01-18
+sr-interval: 269
 sr-ease: 247
 ---
 > [!infobox]
@@ -11,7 +11,7 @@ sr-ease: 247
 #### [[The church will fail if christians keep aligning themselves with hate instead of love]] 
 
 ![](00_Meta/Attachments/1mlbpqjqyuma9i2skgqowa.png)
-[Source](https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/1mlbpqjqyuma9i2skgqowa.png)
+^[[Source](https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/1mlbpqjqyuma9i2skgqowa.png)]
 
 I honestly think that the only way that the church can continue to exist is through throwing out the sanctity of the bible and cherry-picking it.  Church membership is down 40% in the past 30 years and its only gonna keep going down
 ^[[U.S. Church Membership Falls Below Majority for First Time](https://news.gallup.com/poll/341963/church-membership-falls-below-majority-first-time.aspx)]

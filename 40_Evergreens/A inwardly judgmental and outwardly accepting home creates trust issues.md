@@ -23,7 +23,7 @@ This was very confusing for me, and I developed a lot of [[anxiety]] around not 
 - [[What is the difference between blame and judgement]]
 - [[trauma]] [[childhood]] #TO/TEND/GRAFT 
     - [[Parents need to model the ability to deal with emotion to their children]]
-    - [[Children in traumatic households expect more love than their parents can give]]
+    - [[Parents will not be able to protect their children from every source of trauma]]
     - [[Children will not question what is modeled for them unless they are taught to]]
     - [[Our authority figures curate and reinforce what we are allowed to imitate]]
     - [[Trans children will repress their dysphoria if they have been effectively taught it is unacceptable]]

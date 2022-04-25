@@ -21,7 +21,7 @@ But even when we know they're just trying their hardest to move on, those people
 
 %% #TO/PONDER/IDEA are we supposed to forgive people who aren't ready to [[Accepting responsibility is not only about your actions]] i.e [[Should you forgive people that don't deserve it]] %%
 
-There can be great value in getting space or cutting people off because [[Sometimes we can't grow until we change our environment]], but [[Children in traumatic households expect more love than their parents can give]]. 
+There can be great value in getting space or cutting people off because [[Sometimes we can't grow until we change our environment]], but [[Parents will not be able to protect their children from every source of trauma]]. 
 Sometimes it's accepting [[responsibility]] for the weight a loving people who don't deserve it:
 [[Accepting responsibility is not only about your actions]]
 

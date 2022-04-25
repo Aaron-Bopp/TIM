@@ -3,8 +3,8 @@ created: 2021-12-31
 aliases:
   - null
 tags: created/2021/12/31, review, node/evergreen/behavior
-sr-due: 2022-04-24
-sr-interval: 33
+sr-due: 2022-06-10
+sr-interval: 47
 sr-ease: 130
 ---
 > [!infobox]

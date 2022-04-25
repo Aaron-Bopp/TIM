@@ -12,7 +12,8 @@ tags: created/2022/04/24, review, node/evergreen/claim
 
 > [!caption]
 > ![[Pasted image 20220424181858.png]]
-> Built in elevation and drainage allows filth to be easily 
+> Built in elevation and drainage allows filth to be easily and quickly washed away
+
 
 
 ### <hr class="footnote"/>
@@ -20,5 +21,9 @@ tags: created/2022/04/24, review, node/evergreen/claim
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Harrapan Civilization]], [[human settlement]], [[cities]], [[bathing]], [[prehistory]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+![[video - What was the Indus Valley Civilization#Water drainage and bathing in Harappan civilization]]

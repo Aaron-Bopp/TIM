@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/12, review, node/evergreen/claim
-sr-due: 2022-04-24
-sr-interval: 8
+sr-due: 2022-05-14
+sr-interval: 20
 sr-ease: 247
 ---
 > [!infobox]
@@ -16,6 +16,7 @@ sr-ease: 247
 - answers:: [[How to understand climate change]]
 - includes:: [[Clean electricity solves a lot of problems]]
 
+#TO/TEND/WATER 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

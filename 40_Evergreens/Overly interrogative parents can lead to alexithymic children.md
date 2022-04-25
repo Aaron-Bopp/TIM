@@ -22,7 +22,7 @@ Being able to explain the emotions you are publicly feeling will relieve the [[a
 This couples the reward of moving the attention away from oneself with the reward of "fixing" the emotion, but being able to explain what the emotion was (or lying about what it was[^1]) does not mean we have effectively dealt with the emotion. If this [[feedback loop]] continues, children can develop very strong [[defense-mechanisms]] around sharing their [[emotions]]:
 [[Rationalizations are defense-mechanisms against strong emotions]] or develop strong [[anxiety]]: [[Confidence is a feedback loop]]
 
-[[Children in traumatic households expect more love than their parents can give|Parents will not be able to protect their children from every source of trauma]], but parent's can work to equip their children with the tools to succeed in spite of their shortcomings,
+[[Parents will not be able to protect their children from every source of trauma|Parents will not be able to protect their children from every source of trauma]], but parent's can work to equip their children with the tools to succeed in spite of their shortcomings,
 part of:: [[How can parent's best help their children]]
 
 [[We carry our childhood wounds into adulthood]], but there are ways to retrain the [[brain]]'s response to emotion,

@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/16, review, node/evergreen/claim
-sr-due: 2022-04-24
-sr-interval: 6
+sr-due: 2022-05-08
+sr-interval: 14
 sr-ease: 238
 ---
 > [!infobox]
@@ -21,7 +21,7 @@ part of:: [[The history of meditation is a mixture of science and spirituality]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[meditation]], [[Yoga]], [[eastern philosophy]]

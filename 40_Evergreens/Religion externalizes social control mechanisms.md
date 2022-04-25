@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/claim, ever/sprout
-sr-due: 2022-04-24
-sr-interval: 14
-sr-ease: 225
+sr-due: 2022-05-02
+sr-interval: 8
+sr-ease: 205
 ---
 
 > [!infobox]- 

@@ -1,8 +1,8 @@
 ---
 created: 2021-06-28
 tags: created/2021/06/28, review, node/evergreen/argument
-sr-due: 2022-04-24
-sr-interval: 63
+sr-due: 2022-09-26
+sr-interval: 155
 sr-ease: 246
 ---
 > [!infobox]

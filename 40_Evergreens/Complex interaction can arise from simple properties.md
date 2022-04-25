@@ -3,9 +3,9 @@ created: 2022-03-26T14:17:27
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/example/observation
-sr-due: 2022-04-24
-sr-interval: 16
-sr-ease: 222
+sr-due: 2022-05-04
+sr-interval: 10
+sr-ease: 202
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
