@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/16, review, node/evergreen/claim
-sr-due: 2022-04-25
-sr-interval: 4
+sr-due: 2022-05-05
+sr-interval: 10
 sr-ease: 196
 ---
 > [!infobox]
@@ -31,13 +31,10 @@ You can safely move a note out of your inbox knowing that [[spaced repetition]] 
 - similarly:: [[The more mistakes you've fixed the more bad decisions you can afford]]
 - important for:: [[Make your inbox into an entry point by integrating it with your second brain]]
 - need to acknowledge [[There is a limit to how much information you can process at once]]
-- part of:: [[Productivity tools are often most useful in how much work they inspire you to do]]
-- explains:: [[Note structures should help curate knowledge]]
-- explains:: [[my TO(DO) and EVER(GREEN) structure]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[second brain]], [[knowledge work]], [[note writing]]

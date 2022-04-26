@@ -27,3 +27,4 @@ interval: 1
 | [[Faith is an abstraction of cognitive dissonance]] | | | | |
 | [[Humans long to know what to do]] | | | | |
 | [[To those with privilege, losing it feels like oppression]] | | | | |
+| [[Use philosophies as far they are useful and nothing more]] | | | | |

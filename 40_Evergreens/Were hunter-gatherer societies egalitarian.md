@@ -3,8 +3,8 @@ created: 2022-03-21T17:20:42
 aliases:
   - null
 tags: created/2022/03/21, review, node/evergreen/question
-sr-due: 2022-04-25
-sr-interval: 15
+sr-due: 2022-05-24
+sr-interval: 29
 sr-ease: 210
 ---
 > [!infobox]
@@ -12,21 +12,21 @@ sr-ease: 210
 
 #### [[Were hunter-gatherer societies egalitarian]] 
 
-- from:: [[Did hunter-gatherers lead better lives than us]]
+- part of:: [[Did hunter-gatherers lead better lives than us]]
 - works with:: [[What is the origin of social hierarchy]]
-- part of:: [[What enables large scale social order]]
 
-[[David Sloan Wilson]] believes that [[hunter-gatherers]] were egalitarian through a [[social control]] called reverse dominance which is an element of social [[game theory]]. 
+[[David Sloan Wilson]] believes that [[hunter-gatherers]] were egalitarian through a [[social control]] called reverse dominance, which is an element of social [[game theory]]. 
 This lines up with his belief that [[Social control promotes highly altruistic behavior within groups]]
 - [[hunter-gatherers]] may have also had high levels of [[social control]] from [[religion]]'s like [[Animism]] and that lead to sites like [[Gobekli Tepe]]
 
-- involves:: [[What is the link between evolution and social behavior]]
+#TO/TEND/WATER 
 - [[Hunter-gatherer societies were very diverse]]
 - [[Hunter-gathers were capable of mass cooperation]]
+- involves:: [[What is the link between evolution and social behavior]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[egalitarianism]], [[anthropology]], [[prehistory]], [[hunter-gatherers]]

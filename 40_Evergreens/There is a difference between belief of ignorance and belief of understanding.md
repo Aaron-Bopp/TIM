@@ -4,14 +4,19 @@ edited:
 aliases:
   - null
 tags: created/2022/04/25, review, node/evergreen/claim
+sr-due: 2022-04-26
+sr-interval: 1
+sr-ease: 204
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[There is a difference between belief of ignorance and belief of understanding]]
 
+%%
 - [[Atheists don't lack belief they lack religious belief]]
 - [[Strong enough logic becomes belief]]
+%%
 
 Belief of [[ignorance]] is belief that you do not know everything about anything. This belief should drive a want to understand more and to find out more about the world. It develops into philosophies that make growth and change part of their process. You cannot have a belief of [[ignorance]] without being able to admit that you might be wrong.
 

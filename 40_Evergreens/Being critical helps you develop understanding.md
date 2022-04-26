@@ -3,8 +3,8 @@ created: 2022-03-23T13:26:16
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-04-25
-sr-interval: 9
+sr-due: 2022-05-12
+sr-interval: 17
 sr-ease: 190
 ---
 > [!infobox]
@@ -12,6 +12,7 @@ sr-ease: 190
 
 #### [[Being critical helps you develop understanding]] 
 
+#TO/TEND/WATER 
 - why:: [[Searching for THE answer is dangerous]]
 - part of:: [[Look for understanding before you look for solutions]]
 - contrasts:: [[Constantly working on yourself is a form a self-hatred]]
@@ -21,7 +22,7 @@ sr-ease: 190
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[understanding]], [[critique]]

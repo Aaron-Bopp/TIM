@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/13, review, node/evergreen/claim
-sr-due: 2022-04-25
-sr-interval: 4
+sr-due: 2022-05-06
+sr-interval: 11
 sr-ease: 220
 ---
 > [!infobox]
@@ -29,7 +29,7 @@ Rather than having to buy and house an enslaved person outright, farmers could n
 > It could be lucrative for the states:  in 1898, some 73% of Alabama's entire annual state revenue came from convict leasing.
 > African Americans, mostly adult males, due to "vigorous and selective enforcement of laws and discriminatory sentencing", made up the vast majority—though not all—of the convicts leased.
 
-Be
+works with:: [[Whiteness was originally a class distinction]]
 
 ### <hr class="footnote"/>
 

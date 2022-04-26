@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/25, review, node/evergreen/claim
+sr-due: 2022-04-27
+sr-interval: 2
+sr-ease: 245
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,5 +24,5 @@ A [[philosophical zombie]] is experiencing the world but is not aware of it's ex
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[consciousness]], [[experience]], [[awareness]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

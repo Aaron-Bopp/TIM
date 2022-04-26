@@ -3,8 +3,8 @@ created: 2022-01-04T16:12:39
 aliases:
   - null
 tags: created/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-04-25
-sr-interval: 45
+sr-due: 2022-07-11
+sr-interval: 77
 sr-ease: 170
 ---
 > [!infobox]
@@ -42,7 +42,7 @@ contrasts:: [[Often the best editing tool is time]], sometimes we do need to jus
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[understanding]], [[learning]]

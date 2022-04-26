@@ -3,8 +3,8 @@ created: 2022-03-30T19:04:15
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/claim
-sr-due: 2022-04-25
-sr-interval: 15
+sr-due: 2022-05-25
+sr-interval: 30
 sr-ease: 215
 ---
 > [!infobox]
@@ -20,6 +20,7 @@ the note title should capture the concept that note is about.
 The only way to do this is through [[abstraction]]. 
 Your note title needs to be the most concise way of conveying what the note is about and means without loosing the meaning of the note. 
 
+#TO/TEND/WATER 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN 
