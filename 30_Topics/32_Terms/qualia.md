@@ -43,3 +43,9 @@ sr-ease: 247
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+In relation to [[phenomenology]]
+> ![[books - Being You#^314517220]]
+

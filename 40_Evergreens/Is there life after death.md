@@ -15,7 +15,8 @@ sr-ease: 238
 
 part of:: [[The three main questions of life]]
 
-
+The most common argument in modern science is that there is no life after death. This ties into our understanding of [[consciousness]]. 
+Take the feeling of lost time after [[anesthesia]] and extend it out forever.
 
 ### <hr class="footnote"/>
 
@@ -24,3 +25,8 @@ part of:: [[The three main questions of life]]
 
 **Topics**:: [[human experience]], [[religion]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+> ![[books - Being You#^314506800]]
+
+> ![[books - Being You#^308153746]]

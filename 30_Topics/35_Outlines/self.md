@@ -74,3 +74,8 @@ Human's own conception of their [[self]] is dependent on many things including t
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion
+
+
+> ![[books - Being You#^308344258]]

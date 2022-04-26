@@ -14,6 +14,8 @@ sr-ease: 231
 #### <s class="topic-title">[[phenomenology]]</s>
 
 
+> ![[books - Being You#^314517219]]
+
 > [!wikipedia] [Phenomenology (philosophy)](https://en.wikipedia.org/wiki/Phenomenology%20(philosophy))
 > 
 > Phenomenology is the philosophical study of the structures of [[experience]] and [[consciousness]]. 

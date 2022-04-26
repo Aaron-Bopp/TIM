@@ -19,6 +19,8 @@ See [[ADHD is not a lack of attention it is a misplacement of attention]] to und
 > 
 > [[tweets - @samdylanfinch on Twitter_Let’s Talk About the Core wounds that trauma survivors with ADHD often struggle with#3p7r0d|@samdylanfinch]]
 
+^43faf4
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
