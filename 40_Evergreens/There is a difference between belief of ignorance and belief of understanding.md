@@ -41,3 +41,4 @@ explained by:: [[Human's have an inability to admit that they are wrong]]
 
 #TO/EXPLORE/WATCH and timestamp [[video - The Pope's Astronomer]] 
 #TO/EXPLORE/LISTEN and timestamp [[podcasts - 270 – David Wolpe —  Judaism]] 
+

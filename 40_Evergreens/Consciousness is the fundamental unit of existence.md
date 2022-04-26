@@ -26,7 +26,7 @@ and is surprisingly similar to the modern theory of [[the Big Bang]].
 
 > I think therefore I am
 >
-> <cite>[[Renee Descartes]]</cite>
+> <cite>[[Rene Descartes]]</cite>
 
 %% 
 #TO/TEND/WEED #TO/PONDER #TO/EXPLORE/RESEARCH The only thing we can truly know is real is our [[perception]]. Our [[consciousness]] is the only thing we can guarantee. Yet our [[consciousness|conscious]] is limited by our [[mind-body complex]].

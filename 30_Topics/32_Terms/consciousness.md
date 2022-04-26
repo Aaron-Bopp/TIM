@@ -4,6 +4,7 @@ tags: created/2021/07/05, node/topic/term
 aliases:
 - conscious
 - consciously
+- conscious experience
 sr-due: 2022-07-07
 sr-interval: 79
 sr-ease: 225

@@ -50,6 +50,8 @@ This view of functionalism may better be understood in the [[social sciences]] b
 > Since mental states are identified by a functional role, they are said to be realized on multiple levels; in other words, they are able to be manifested in various systems, even perhaps computers, so long as the system performs the appropriate functions. While a computer's program performs the functions via computations on inputs to give outputs, implemented via its electronic substrate, a brain performs the functions via its biological operation and stimulus responses.
 >
 
+> ![[books - Being You#^314685808]]
+
 ##### ^dataviews
 
 %% DO NOT EDIT BELOW %%

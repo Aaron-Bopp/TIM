@@ -17,10 +17,12 @@ This is the [[religion]] that people are most aware of as it is the belief all m
 
 What is Islam's story #TO/EXPLORE/RESEARCH 
 
+answers:: [[What is the origin of life]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[universe]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
