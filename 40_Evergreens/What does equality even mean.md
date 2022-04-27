@@ -18,6 +18,8 @@ sr-ease: 190
 
 [[David Graeber]] suggests that it is not equal [[material conditions]] but equal access to contribute to decisions about our [[social order]] that should be our understanding of [[equality]].
 
+> ![[books - Sapiens#^299572968]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
