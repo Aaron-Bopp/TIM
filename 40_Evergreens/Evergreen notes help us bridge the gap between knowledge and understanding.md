@@ -3,8 +3,8 @@ created: 2022-01-04T15:56:44
 aliases:
   - null
 tags: created/2022/01/04, review, node/evergreen/claim
-sr-due: 2022-04-26
-sr-interval: 7
+sr-due: 2022-05-15
+sr-interval: 18
 sr-ease: 210
 ---
 > [!infobox]
@@ -12,10 +12,7 @@ sr-ease: 210
 
 #### [[Evergreen notes help us bridge the gap between knowledge and understanding]] 
 
-- part of:: [[Evergreen notes organize knowledge so that it can grow]] 
-- explained by:: [[We learn by transforming information into understanding]]
-
-There is an initial hump to understanding any concept that makes it hard to passively learn things.
+There is an initial hump to [[understanding]] any concept that makes it hard to passively learn things.
 This has given people the impressions that the only way they can learn is through a structured and purposeful attacking of the problem.
 This isn't untrue, but there are ways that we can cross that hump without doing all the work at once.
 
@@ -41,6 +38,9 @@ but in this end there is no substitute for putting time and effort into our note
 Thankfully, [[Productivity tools are often most useful in how much work they inspire you to do]]
 and [[evergreen notes]] are usually addictive to work with. 
 ^[[[Humans are addicted to understanding]]]
+
+- part of:: [[Evergreen notes organize knowledge so that it can grow]] 
+- explained by:: [[We learn by transforming information into understanding]]
 
 ### <hr class="footnote"/>
 

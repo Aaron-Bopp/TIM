@@ -1,7 +1,7 @@
 ---
 created: 2022-01-03T14:27:27 
 aliases:
-  - null
+  - Asrama
 tags: created/2022/01/03, node/topic/term
 sr-due: 2022-04-25
 sr-interval: 6
@@ -12,7 +12,8 @@ sr-ease: 241
 
 #### <s class="topic-title">[[Ashram]]</s>
 
-The four stages of life 
+In:: [[Hinduism]],
+ashram or asrama is the four stages of life 
 ^[[[notes - Karma]]]
 
 - [[Brahmacharya Ashram]]
@@ -24,8 +25,12 @@ The four stages of life
 - [[Sannyasa Ashram]]
 	- give up the material life, to pursue [[enlightenment]] or god
 
-**See**:: [[karma]], [[Dharma]]
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+> [!wikipedia] [Asrama](https://en.wikipedia.org/wiki/%C4%80%C5%9Brama%20(stage))
+> 
+> Āśrama is a system of stages of life discussed in [[Hinduism|Hindu]] texts of the ancient and medieval eras. The four asramas are: Brahmacharya (student), Gṛhastha (householder), Vanaprastha (forest walker/forest dweller), and Sannyasa (renunciate). 
+> The Asrama system is one facet of the [[Dharma]] concept in [[Hinduism]].
+>
 
 ##### ^dataviews
 

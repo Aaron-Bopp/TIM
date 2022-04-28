@@ -3,8 +3,8 @@ created: 2021-11-07
 aliases:
   - null
 tags: created/2021/11/07, review, node/evergreen/claim
-sr-due: 2022-04-26
-sr-interval: 10
+sr-due: 2022-05-19
+sr-interval: 22
 sr-ease: 223
 ---
 > [!infobox]
@@ -12,12 +12,14 @@ sr-ease: 223
 
 #### [[A second brain should mirror how we think]] 
 
-All thoughts are made up of the electrons connecting neurons. The path's between these neurons are strengthened through use and weakened by disuse, and through a [[web of thought]] create a form of digital [[memory]].
-^[By contrasting this with [[How memory works]] we can strengthen our [[second brain]]]
+All thoughts are made through connection of neurons. The path's between these neurons are strengthened through use and weakened by disuse, and through a [[web of thought]] create a form of digital [[memory]].
+^[By contrasting [[knowledge management]] with [[How memory works]] we can strengthen our [[second brain]]]
 The purpose of our [[second brain]] is to compliment and augment this process.
-- [[Concepts are the fundamental unit of knowledge]] guides us in how to organize our knowledge
-- [[Densely linked webs of thought provide intuitive access to knowledge]] guides us in how to access our knowledge
-- [[Evergreen notes should be updated over time]] guides us in how to keep on top of our knowledge
+
+There are three main concepts in [[knowledge management]] that most reflect our brain's thinking:
+- [[Concepts are the fundamental unit of knowledge]] guides us in how to organize our [[knowledge]]
+- [[Densely linked webs of thought provide intuitive access to knowledge]] guides us in how to access our [[knowledge]]
+- [[Evergreen notes should be updated over time]] guides us in how to keep on top of our [[knowledge]]
 
 This is
 part of:: [[How do we work with a second brain]]

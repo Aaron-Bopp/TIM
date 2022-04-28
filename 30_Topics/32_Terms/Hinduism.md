@@ -2,7 +2,7 @@
 created: 2022-04-10T08:21:14 
 edited: 
 aliases:
-  - null
+  - Hindu
 tags: created/2022/04/10, node/topic/term
 sr-due: 2022-04-27
 sr-interval: 8

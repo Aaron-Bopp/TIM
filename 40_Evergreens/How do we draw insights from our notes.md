@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/17, review, node/evergreen/claim
-sr-due: 2022-04-26
-sr-interval: 5
+sr-due: 2022-05-09
+sr-interval: 12
 sr-ease: 230
 ---
 > [!infobox]
@@ -15,6 +15,7 @@ sr-ease: 230
 
 includes:: [[How do we ensure our note systems scale correctly]]
 
+#TO/PONDER/IDEA 
 > ![[articles - General Principles#^270382487]]
 
 

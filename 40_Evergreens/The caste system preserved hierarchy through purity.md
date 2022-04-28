@@ -3,8 +3,8 @@ created: 2022-03-19T13:54:20
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/example/observation
-sr-due: 2022-04-26
-sr-interval: 22
+sr-due: 2022-06-13
+sr-interval: 47
 sr-ease: 210
 ---
 > [!infobox]
@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[The caste system preserved hierarchy through purity]] 
 
-The [[Hinduism|Hindu]] caste system 
+The [[Hinduism|Hindu]] caste system is
 part of:: [[Theology preserves hierarchy through deific blessing]]
 but adds on an additional layer of purity to the deity ordained classes.
 This means that not only are the lowest classes lesser in the eyes of the gods, they are unclean and contagious.

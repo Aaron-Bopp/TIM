@@ -15,9 +15,6 @@ sr-ease: 230
 From [[climate change]] activists to professional chefs,
 the opinion that gas stoves suck is becoming more and more common.
 
-Here's a passionate and short video from [[@hankgreen on Twitter|Hank Green]]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bcqah8U_uKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <hr class="footnote"/>
 
@@ -32,3 +29,7 @@ Here's a passionate and short video from [[@hankgreen on Twitter|Hank Green]]
 ![[video - It’s Time To Break Up With Our Gas Stoves#Gas isn't cheaper or cleaner or better than electric anymore]]
 
 ![[video - Problems with gas stovetops - weak, dirty and dangerous#Gas stoves are less efficient than electric]]
+
+Here's a passionate and short video from [[@hankgreen on Twitter|Hank Green]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bcqah8U_uKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

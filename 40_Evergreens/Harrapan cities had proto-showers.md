@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/24, review, node/evergreen/claim
-sr-due: 2022-04-26
-sr-interval: 2
+sr-due: 2022-05-02
+sr-interval: 5
 sr-ease: 246
 ---
 > [!infobox]
@@ -21,7 +21,7 @@ part of:: [[Water, drainage, and bathing held a religious significance Harappan 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Harrapan Civilization]], [[human settlement]], [[cities]], [[bathing]], [[prehistory]]

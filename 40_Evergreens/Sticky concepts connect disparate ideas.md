@@ -3,8 +3,8 @@ created: 2022-01-05T16:41:14
 aliases:
   - null
 tags: created/2022/01/05, review, node/evergreen/claim
-sr-due: 2022-04-26
-sr-interval: 51
+sr-due: 2022-08-02
+sr-interval: 97
 sr-ease: 190
 ---
 > [!infobox]
@@ -12,22 +12,17 @@ sr-ease: 190
 
 #### [[Sticky concepts connect disparate ideas]] 
 
-[[Sticky concepts]] are terms that can apply to many different processes, and because of that they can connect ideas in unique ways. This causes that to stick in our [[brain]] because of [[How memory works]]
+[[Sticky concepts]] are terms that can apply to many processes, and because of that they can connect ideas in unique ways. This causes that to stick in our [[brain]] because of [[How memory works]]
 
-- [[Evergreen notes help us bridge the gap between knowledge and understanding]]
-- [[Writing is a catalyst of understanding]]
-- [[There is a difference between thinking and creating]]
-- [[A second brain should mirror how we think]]
-- [[Writing is a catalyst of understanding]]
-- [[How memory works]]
- 
+example of:: [[cognitive scaffolding]] and [[priming]]
 
+This is often useful in [[Note titles should be abstractions of the note content]] as [[Sticky concepts]] can help to encapsulate the [[conceptual notes|conceptual note]] more succintly.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[learning]]
+**Topics**:: [[learning]], [[knowledge management]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
