@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/25, review, node/evergreen/claim
-sr-due: 2022-04-26
+sr-due: 2022-04-28
 sr-interval: 1
-sr-ease: 224
+sr-ease: 204
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -17,6 +17,7 @@ sr-ease: 224
 
 > ![[books - Being You#^314517221]]
 
+#TO/PONDER/IDEA 
 Can there be non-subjective experience?
 
 
