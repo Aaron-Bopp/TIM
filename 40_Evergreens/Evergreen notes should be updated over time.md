@@ -3,20 +3,23 @@ created: 2021-12-24
 aliases:
   - null
 tags: created/2021/12/24, review, node/evergreen/claim
-sr-due: 2022-04-27
-sr-interval: 11
-sr-ease: 214
+sr-due: 2022-05-04
+sr-interval: 7
+sr-ease: 194
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Evergreen notes should be updated over time]] 
 
+%% #TO/TEND/MULCH 
 part of:: [[Evergreen notes organize knowledge so that it can grow]]
-
 With [[evergreen notes]],
-you don't need to have a fully formulated idea to start writing, so 
-[[Write your notes like you're planting an evergreen forest]].
+you [[Write your notes like you're planting an evergreen forest]]
+so 
+you don't need to have a fully formulated idea to start writing. 
+#TO/TEND/WATER 
+%%
 As you continue to spend time with your notes you will develop them, not just based on the idea's you had at the time, but on new ideas. As you reread over old notes you will find connections to new notes or old notes that you have new understanding of. In this way,
 [[Evergreen notes organize knowledge so that it can grow]].
 
@@ -33,7 +36,7 @@ answer to:: [[How do we ensure our note systems scale correctly]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/GREEN 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[knowledge work]], [[note writing]], [[second brain]], [[evergreen notes]]
