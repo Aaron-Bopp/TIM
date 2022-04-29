@@ -3157,7 +3157,6 @@ Throughout the nineteenth and early twentieth centuries, fewer than 5,000 Britis
 ^311259057
 
 ### 16 The Capitalist Creed
-# New highlights added April 25, 2022 at 6:33 PM
 ##### ^313029652
 
 highlight_tags:: [[blue]]   
@@ -3223,4 +3222,225 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4832
 Capitalism began as a theory about how the economy functions. It was both descriptive and prescriptive – it offered an account of how money worked and promoted the idea that reinvesting profits in production leads to fast economic growth. But capitalism gradually became far more than just an economic doctrine. It now encompasses an ethic – a set of teachings about how people should behave, educate their children and even think. Its principal tenet is that economic growth is the supreme good, or at least a proxy for the supreme good, because justice, freedom and even happiness all depend on economic growth. 
 
 ^313029658
+
+##### ^315425050
+
+highlight_tags:: [[c2]], [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3226  
+
+###### ^315425050q
+
+In order to unite under its aegis a large expanse of territory inhabited by disparate groups of human beings, a religion must possess two further qualities. First, it must espouse a universal superhuman order that is true always and everywhere. Second, it must insist on spreading this belief to everyone. 
+
+^315425050
+
+##### ^315023005
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4855  
+
+###### ^315023005q
+
+it was European imperialism that created the capitalist credit system in the first place. 
+
+^315023005
+
+##### ^315023006
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4859  
+
+###### ^315023006q
+
+in the sociopolitical systems of China, India and the Muslim world, credit played only a secondary role. Merchants and bankers in the markets of Istanbul, Isfahan, Delhi and Beijing may have thought along capitalist lines, but the kings and generals in the palaces and forts tended to despise merchants and mercantile thinking. 
+
+^315023006
+
+##### ^315023007
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4886  
+
+###### ^315023007q
+
+Europeans turned to limited liability joint-stock companies. Instead of a single investor betting all his money on a single rickety ship, the joint-stock company collected money from a large number of investors, each risking only a small portion of his capital. The risks were thereby curtailed, but no cap was placed on the profits. Even a small investment in the right ship could turn you into a millionaire. 
+
+^315023007
+
+##### ^316098110
+
+highlight_tags:: [[c1]], [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4895  
+
+###### ^316098110q
+
+In 1568 the Dutch, who were mainly Protestant, revolted against their Catholic Spanish overlord. At first the rebels seemed to play the role of Don Quixote, courageously tilting at invincible windmills. Yet within eighty years the Dutch had not only secured their independence from Spain, but had managed to replace the Spaniards and their Portuguese allies as masters of the ocean highways, build a global Dutch empire, and become the richest state in Europe. 
+
+^316098110
+
+##### ^316098111
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4939  
+
+###### ^316098111q
+
+it was the Dutch merchants – not the Dutch state – who built the Dutch Empire. The king of Spain kept on trying to finance and maintain his conquests by raising unpopular taxes from a disgruntled populace. The Dutch merchants financed conquest by getting loans, and increasingly also by selling shares in their companies that entitled their holders to receive a portion of the company’s profits. 
+
+^316098111
+
+##### ^316098112
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4957  
+
+###### ^316098112q
+
+in the early modern age it was common for private companies to hire not only soldiers, but also generals and admirals, cannons and ships, and even entire off-the-shelf armies. The international community took this for granted and didn’t raise an eyebrow when a private company established an empire. 
+
+^316098112
+
+##### ^316098113
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4960  
+
+###### ^316098113q
+
+VOC ruled Indonesia for close to 200 years. Only in 1800 did the Dutch state assume control of Indonesia, making it a Dutch national colony for the following 150 years. 
+
+^316098113
+
+##### ^316098114
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4963  
+
+###### ^316098114q
+
+While VOC operated in the Indian Ocean, the Dutch West Indies Company, or WIC, plied the Atlantic. In order to control trade on the important Hudson River, WIC built a settlement called New Amsterdam on an island at the river’s mouth. The colony was threatened by Native Americans and repeatedly attacked by the British, who eventually captured it in 1664. The British changed its name to New York. The remains of the wall built by WIC to defend its colony against Native Americans and British are today paved over by the world’s most famous street – Wall Street. 
+
+^316098114
+
+##### ^316098115
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4994  
+
+###### ^316098115q
+
+The Mississippi Bubble was one of history’s most spectacular financial crashes. The royal French financial system never recuperated fully from the blow. The way in which the Mississippi Company used its political clout to manipulate share prices and fuel the buying frenzy caused the public to lose faith in the French banking system and in the financial wisdom of the French king. Louis XV found it more and more difficult to raise credit. This became one of the chief reasons that the overseas French Empire fell into British hands. While the British could borrow money easily and at low interest rates, France had difficulties securing loans, and had to pay high interest on them. In order to finance his growing debts, the king of France borrowed more and more money at higher and higher interest rates. Eventually, in the 1780s, Louis XVI, who had ascended to the throne on his grandfather’s death, realised that half his annual budget was tied to servicing the interest on his loans, and that he was heading towards bankruptcy. Reluctantly, in 1789, Louis XVI convened the Estates General, the French parliament that had not met for a century and a half, in order to find a solution to the crisis. Thus began the French Revolution. 
+
+^316098115
+
+##### ^316098116
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=5007  
+
+###### ^316098116q
+
+the British East India Company. This company outperformed even the VOC. From its headquarters in Leadenhall Street, London, it ruled a mighty Indian empire for about a century, maintaining a huge military force of up to 350,000 soldiers, considerably outnumbering the armed forces of the British monarchy. Only in 1858 did the British crown nationalise India along with the company’s private army. 
+
+^316098116
+
+### 20 The End of Homo Sapiens
+##### ^315023009
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6158  
+
+###### ^315023009q
+
+For billions of years, intelligent design was not even an option, because there was no intelligence which could design things. Microorganisms, which until quite recently were the only living things around, are capable of amazing feats. A microorganism belonging to one species can incorporate genetic codes from a completely different species into its cell and thereby gain new capabilities, such as resistance to antibiotics. Yet, as best we know, microorganisms have no consciousness, no aims in life, and no ability to plan ahead. 
+
+^315023009
+
+##### ^315023010
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6174  
+
+###### ^315023010q
+
+Today, the 4-billion-year-old regime of natural selection is facing a completely different challenge. In laboratories throughout the world, scientists are engineering living beings. They break the laws of natural selection with impunity, unbridled even by an organism’s original characteristics. 
+
+^315023010
+
+##### ^315023011
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6181  
+
+###### ^315023011q
+
+the Scientific Revolution might prove itself far greater than a mere historical revolution. It may turn out to be the most important biological revolution since the appearance of life on earth. 
+
+^315023011
+
+##### ^315023012
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6216  
+
+###### ^315023012q
+
+Most of the organisms now being engineered are those with the weakest political lobbies – plants, fungi, bacteria and insects. For example, lines of E. coli, a bacterium that lives symbiotically in the human gut (and which makes headlines when it gets out of the gut and causes deadly infections), have been genetically engineered to produce biofuel.2 E. coli and several species of fungi have also been engineered to produce insulin, thereby lowering the cost of diabetes treatment.3 A gene extracted from an Arctic fish has been inserted into potatoes, making the plants more frost-resistant.4 
+
+^315023012
+
+##### ^315372428
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6277  
+
+###### ^315372428q
+
+In 2006 the US Naval Undersea Warfare Center reported its intention to develop cyborg sharks, declaring, ‘NUWC is developing a fish tag whose goal is behaviour control of host animals via neural implants.’ The developers hope to identify underwater electromagnetic fields made by submarines and mines, by exploiting the natural magnetic detecting capabilities of sharks, which are superior to those of any man-made detectors. 
+
+^315372428
+
+##### ^315372429
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6317  
+
+###### ^315372429q
+
+What might happen to human memory, human consciousness and human identity if the brain has direct access to a collective memory bank? In such a situation, one cyborg could, for example, retrieve the memories of another – not hear about them, not read about them in an autobiography, not imagine them, but directly remember them as if they were his own. 
+
+^315372429
+
+##### ^315372430
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6378  
+
+###### ^315372430q
+
+What is a spaceship compared to an eternally young cyborg who does not breed and has no sexuality, who can share thoughts directly with other beings, whose abilities to focus and remember are a thousand times greater than our own, and who is never angry or sad, but has emotions and desires that we cannot begin to imagine? Science fiction rarely describes such a future, because an accurate description is by definition incomprehensible. 
+
+^315372430
+
+##### ^315489428
+
+highlight_tags:: [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6413  
+
+###### ^315489428q
+
+If the curtain is indeed about to drop on Sapiens history, we members of one of its final generations should devote some time to answering one last question: what do we want to become? This question, sometimes known as the Human Enhancement question, dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. After all, today’s debate between today’s religions, ideologies, nations and classes will in all likelihood disappear along with Homo sapiens. If our successors indeed function on a different level of consciousness (or perhaps possess something beyond consciousness that we cannot even conceive), it seems doubtful that Christianity or Islam will be of interest to them, that their social organisation could be Communist or capitalist, or that their genders could be male or female. 
+
+^315489428
+
+##### ^315489429
+
+highlight_tags:: [[lastlines]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=6432  
+
+###### ^315489429q
+
+since we might soon be able to engineer our desires too, the real question facing us is not ‘What do we want to become?’, but ‘What do we want to want?’ 
+
+^315489429
 

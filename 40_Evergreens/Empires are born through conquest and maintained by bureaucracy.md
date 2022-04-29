@@ -41,3 +41,5 @@ This would be supported by [[The Inca empire was maintained without a full scrip
 > ![[books - Sapiens#^298648742]]
 
 > ![[books - Sapiens#^299572961]]
+
+> ![[books - Sapiens#^299110281]]

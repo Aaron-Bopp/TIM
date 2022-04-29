@@ -36,3 +36,5 @@ explains:: [[Oppressors invent reasoning for their oppression]]
 
 
 > ![[books - Sapiens#^299110301]]
+
+> ![[books - Sapiens#^299523047]]

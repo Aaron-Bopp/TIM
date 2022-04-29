@@ -39,3 +39,6 @@ through various different frameworks.
 
 **Topics**:: [[Culture]], [[material conditions]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+
+> ![[books - Sapiens#^299110300]]

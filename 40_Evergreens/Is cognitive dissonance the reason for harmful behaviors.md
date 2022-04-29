@@ -22,6 +22,9 @@ It is probably more likely that there are many different sources for harmful beh
 - same mechanism:: [[Faith is an abstraction of cognitive dissonance]]
 	- [[The Politicization of the Christian Church]]
 
+
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

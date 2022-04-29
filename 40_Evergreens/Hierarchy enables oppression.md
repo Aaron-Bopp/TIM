@@ -26,3 +26,14 @@ how:: [[Oppressors invent reasoning for their oppression]].
 
 **Topics**:: [[oppression]], [[marginalization]], [[social hierarchy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References 
+
+> ![[books - Sapiens#^299110299]]
+
+In this way,
+hierarchy enables stereotyping
+^[[[Stereotyping has the psychological goal of comprehension and self-enhancement]]]
+and stereotyping can lead to [[discrimination]].
+^[[[Stereotypes are beliefs, prejudices are feelings, and discrimination is treatment towards a group a member of group]]]
+

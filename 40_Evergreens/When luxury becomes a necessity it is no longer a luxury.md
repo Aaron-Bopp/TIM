@@ -25,3 +25,10 @@ sr-ease: 230
 
 **Topics**:: [[human advancement]], [[Sagacious sayings]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[books - Sapiens#^297681718]]
+
+
+> ![[books - Sapiens#^297681727]]

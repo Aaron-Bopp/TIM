@@ -18,9 +18,18 @@ Yet, [[Human's have an inability to admit that they are wrong]].
 We can see how these lead to [[Humans are primarily irrational, illogical, emotional beings]],
 but does that make [[cognitive dissonance]] a fundamental, necessary, or good part of the [[human experience]]?
 
-- [[Is cognitive dissonance the reason for harmful behaviors]]
 - [[What is the cognitive effect of living in an unjust world]]
 
+
+[[Is cognitive dissonance the reason for harmful behaviors]]?
+It seems [[Yuval Noah Harari]] would think not:
+
+> [!cite] [[Sapiens by Yuval Noah Harari]]
+> 
+> ![[books - Sapiens#^299573071]]
+> ![[books - Sapiens#^299572967]]
+
+These contradictions are solved through [[cognitive dissonance]] and fuel change in our [[society]].
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

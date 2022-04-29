@@ -22,7 +22,7 @@ Not only would we not have the infrastructure and technology to feed 8 billion p
 We would not have access to modern corn, rice, wheat, semi-dwarf wheat or any of the other plants that were unedible before domestication. 
 The first 30 days would be a whirlwind of political alliances and between groups following anybody who says they can secure food.
 Initially world leaders would be protected, but without any means of communication they would have little power to get anything done. 
-Many would simply give up and would wait hoping for a miracle before they starve, succumb to elements, or are killed.
+Many would, simply give up and would wait hoping for a miracle before they starve, succumb to elements, or are killed.
 People in rural areas would have the best chances at survival as they would have some chance at securing food resources before be set upon by ravenous city dwellers.
 Despite this within the first month billions would die.
 While some millions of people would find access to food, shelter, and maybe even enough people to form defenses, the next onslaught would be from a biological terror.
@@ -56,3 +56,7 @@ You might be able to convince them to work towards the industry and technology n
 
 **Topics**:: <% tp.file.cursor(1) %>
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### References
+
+> ![[books - Sapiens#^297301078]]

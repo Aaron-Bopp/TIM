@@ -44,3 +44,5 @@ We can see this in:
 ![[Sapiens by Yuval Noah Harari#citation]]
 
 > ![[books - Sapiens#^299110293]]
+
+> ![[books - Sapiens#^299110296]]
