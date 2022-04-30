@@ -16,6 +16,7 @@ tags: created/2022/04/30, review, node/evergreen/claim
 
 > ![[books - Sapiens#^316098113]]
 
+[[The first joint-stock company was founded in 1602]]
 
 
 ### <hr class="footnote"/>
