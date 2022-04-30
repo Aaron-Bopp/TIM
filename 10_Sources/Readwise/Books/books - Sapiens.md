@@ -3038,7 +3038,7 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4335
 
 ###### ^311187089q
 
-France and the United States quickly followed in Britain’s footsteps because the French and Americans already shared the most important British myths and social structures. The Chinese and Persians could not catch up as quickly because they thought and organised their societies differently. 
+France and the United States qeickly followed in Britain’s footsteps because the French and Americans already shared the most important British myths and social structures. The Chinese and Persians could not catch up as quickly because they thought and organised their societies differently. 
 
 ^311187089
 

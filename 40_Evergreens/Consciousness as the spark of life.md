@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/25, review, node/evergreen/claim
-sr-due: 2022-04-30
-sr-interval: 3
+sr-due: 2022-05-08
+sr-interval: 8
 sr-ease: 218
 ---
 > [!infobox]
@@ -13,12 +13,14 @@ sr-ease: 218
 
 #### [[Consciousness as the spark of life]]
 
-This would be the [[religion|religious]] understanding of [[consciousness]] and would relate it to [[free will]].
-We are only capable of experiencing this world because god gave of us the mysterious gift of awareness and will. We are free to do with those as we choose.
-
 answers:: [[What is the origin of life]]
 
-part of:: [[Religion as an explanation of the origin of the universe]]
+This would be the [[religion|religious]] understanding of [[consciousness]] and would relate it to [[free will]], 
+which makes this
+part of:: [[Religion as an explanation of the origin of the universe]].
+We are only capable of experiencing this world because god gave of us the mysterious gift of awareness and will. We are free to do with those as we choose.
+
+This is also reflected in more scientific circles because we are still struggling to understand what [[consciousness]] is.
 
 ### <hr class="footnote"/>
 

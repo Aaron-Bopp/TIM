@@ -30,6 +30,11 @@ but as a byproduct. While this is a valid explanation, and supported by evidence
 there may be a better solution such as 
 [[Religion as a group level adaptation]].
 
+#TO/TEND/GRAFT 
+> ![[books - Sapiens#^308475532]]
+> ![[books - Sapiens#^308819700]]
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

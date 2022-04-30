@@ -14,6 +14,9 @@ sr-ease: 231
 
 At it's core a [[dualism|dualistic]] [[religion]], Zoroastrianism likely contributed to many of the dualistic qualities of [[Christianity]] and [[Islam]].
 
+> ![[books - Sapiens#^308819716]]
+
+
 > [!wikipedia] [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
 > 
 > Zoroastrianism or Mazdayasna is an Iranian religion and one of the world's oldest continuously-practiced organized faiths, based on the teachings of the Iranian-speaking prophet Zoroaster.
@@ -63,3 +66,5 @@ At it's core a [[dualism|dualistic]] [[religion]], Zoroastrianism likely contrib
 > ```
 
 %% DO NOT EDIT ABOVE %%
+
+#### Discussion

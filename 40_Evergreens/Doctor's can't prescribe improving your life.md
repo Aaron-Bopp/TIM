@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/claim
+sr-due: 2022-05-02
+sr-interval: 2
+sr-ease: 232
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -22,26 +25,5 @@ This isn't to say that drugs aren't effective, but drugs have side effects.
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
-*`$=customJS.dv_funcs.outlinedIn(dv, this)`*
----
-created: 2022-04-30T11:19:08 
-edited: 
-aliases:
-  - null
-tags: created/2022/04/30, review, node/evergreen/claim
----
-> [!infobox]
-`$=customJS.dv_funcs.mentionedIn(dv)`
-
-#### [[Doctor's can't prescribe improving your life]]
-
-
-
-### <hr class="footnote"/>
-
-**Status**:: #EVER/SPROUT
-*edited `=this.file.mtime`*
-
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[drugs]], [[pharmaceuticals]], [[medicine]], [[health]], [[self-improvement]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
