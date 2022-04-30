@@ -3,8 +3,8 @@ created: 2021-12-22
 aliases:
   - null
 tags: created/2021/12/22, review, node/evergreen/claim
-sr-due: 2022-04-29
-sr-interval: 49
+sr-due: 2022-07-17
+sr-interval: 78
 sr-ease: 150
 ---
 > [!infobox]
@@ -30,7 +30,7 @@ How something is named effects people's [[perception]] of it.
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[inter-personal communication]], [[influence]], [[self-love|self-care]], [[language]]

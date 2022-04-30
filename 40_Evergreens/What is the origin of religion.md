@@ -12,6 +12,10 @@ sr-ease: 204
 
 #### [[What is the origin of religion]] 
 
+This 
+includes:: [[How religions are formed]],
+but focuses more on the underlying mechanisms for [[religion]] rather than their anthropological development.
+
 Prior to [[Emile Durkheim]] [[Animism]] and [[Naturism]] where the foremost theories of the origin of religion.
 Durkheim's main argument was that these theories were not adaptive enough to be a 
 result of:: [[Humans are a product of evolution]]

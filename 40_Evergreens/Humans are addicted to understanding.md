@@ -3,8 +3,8 @@ created: 2022-03-23T13:20:34
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/argument
-sr-due: 2022-04-28
-sr-interval: 18
+sr-due: 2022-06-06
+sr-interval: 37
 sr-ease: 190
 ---
 > [!infobox]
@@ -26,7 +26,7 @@ We so desperately want to understand something so we pretend we understand it an
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[understanding]], [[wonder]], 

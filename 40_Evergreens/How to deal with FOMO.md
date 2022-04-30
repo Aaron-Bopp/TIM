@@ -3,8 +3,8 @@ created: 2022-02-06T23:02:37
 aliases:
   - null
 tags: created/2022/02/06, review, node/evergreen/question
-sr-due: 2022-04-29
-sr-interval: 43
+sr-due: 2022-07-30
+sr-interval: 91
 sr-ease: 210
 ---
 > [!infobox]
@@ -12,11 +12,12 @@ sr-ease: 210
 
 #### [[How to deal with FOMO]] 
 
-- [[There is a limit to how much information you can process at once]]
+- important for:: [[There is a limit to how much information you can process at once]]
 
-This also 
-relates to:: [[Your anxiety knows your insecurities better than you do]]
-on a more general level. 
+On a general level
+this
+relates to:: [[Your anxiety knows your insecurities better than you do]].
+If you are anxious about something you might just be afraid of missing out even if you don't realize it.
 
 ### <hr class="footnote"/>
 

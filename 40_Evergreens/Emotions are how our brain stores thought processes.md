@@ -3,8 +3,8 @@ created: 2022-03-23T12:55:58
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/claim
-sr-due: 2022-04-28
-sr-interval: 12
+sr-due: 2022-05-22
+sr-interval: 22
 sr-ease: 170
 ---
 > [!infobox]
@@ -12,9 +12,9 @@ sr-ease: 170
 
 #### [[Emotions are how our brain stores thought processes]] 
 
-That gut feeling is a symbolization of past thought.
+That gut feeling is a [[symbolization]] of past thought.
 
-That trigger is a symbolization of all your past fears
+That trigger is a [[abstraction]] of all your past fears
 
 - explains:: [[Triggers activate stored emotional responses for certain situations]]
 	- why::[[Our brain actively inhibits us from processing repressed emotions]]

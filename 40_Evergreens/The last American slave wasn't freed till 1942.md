@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/13, review, node/evergreen/claim
-sr-due: 2022-05-10
-sr-interval: 16
+sr-due: 2022-06-12
+sr-interval: 43
 sr-ease: 243
 ---
 > [!infobox]
@@ -13,18 +13,17 @@ sr-ease: 243
 
 #### [[The last American slave wasn't freed till 1942]]
 
-[[Most rights were denied to Americans at its founding]] is already hard for many to swallow, but most would be even more aghast to learn that chattel slavery did not end at the Emancipation Proclamation, the [[13th Ammendment]] or even Juneteenth.
+[[Most rights were denied to Americans at its founding]] is already hard for many to swallow, but most would be even more aghast to learn that chattel slavery did not end at the Emancipation Proclamation, the [[13th Amendment]], or even Juneteenth.
 
 Slavery was made illegal in the [[13th Amendment]],
 but in practice [[black codes]], [[convict leasing]], and [[debt peonage]] continued to enslave black people long into the 20th century.
-
-This was the case for [[Alfred Irving]]
-
+This is
 explained by:: [[Slavery became much cheaper after the Civil War]]
 
+#TO/DO/FIND newspaper article about Alfred Irving
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[convict leasing]], [[history]]

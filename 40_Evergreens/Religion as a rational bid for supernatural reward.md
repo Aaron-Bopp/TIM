@@ -3,8 +3,8 @@ created: 2022-03-26T12:53:16
 aliases:
   - null
 tags: created/2022/03/26, review, node/evergreen/claim
-sr-due: 2022-04-29
-sr-interval: 19
+sr-due: 2022-06-11
+sr-interval: 42
 sr-ease: 205
 ---
 > [!infobox]
@@ -32,7 +32,7 @@ there may be a better solution such as
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[religion]], [[rational choice theory]], [[belief]], [[human behavior]]

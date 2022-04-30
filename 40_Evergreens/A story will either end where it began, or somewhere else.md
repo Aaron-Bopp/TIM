@@ -3,8 +3,8 @@ created: 2021-11-09
 aliases:
   - null
 tags: created/2021/11/09, review, node/evergreen/qoute
-sr-due: 2022-04-29
-sr-interval: 64
+sr-due: 2022-08-19
+sr-interval: 111
 sr-ease: 170
 ---
 > [!infobox]
@@ -18,8 +18,8 @@ source:: a video by [[CJ The X]]
 
 - part of:: [[We are confined to the tools of our time]] 
 - [[Sometimes we can't grow until we change our environment]]
-- [[An increase in self-love and self-respect may lead to a decrease in productivity]]
-- [[Do what you can for who you can]]
+- [[It's always worth it to work through trauma]]
+- same vibe [[Do what you can for who you can]]
 
 ### <hr class="footnote"/>
 

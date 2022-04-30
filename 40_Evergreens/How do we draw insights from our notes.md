@@ -27,7 +27,7 @@ includes:: [[How do we ensure our note systems scale correctly]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[note writing]], [[knowledge management]], [[second brain]], [[networked thinking]]

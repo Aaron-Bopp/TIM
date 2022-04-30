@@ -15,7 +15,7 @@ Religions are formed in a variety of ways, including
 collections of traditions slowly gathered and passed down over time,
 beliefs laid out by one or a small group of individuals that reflect beliefs of the time.
 
-
+- includes:: [[Christianity has many sources other than the Bible]]
 > ![[books - Sapiens#^308475533]]
 
 

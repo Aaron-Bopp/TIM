@@ -3,8 +3,8 @@ created: 2022-03-25T12:28:12
 aliases:
   - null
 tags: created/2022/03/25, review, node/evergreen/claim
-sr-due: 2022-04-29
-sr-interval: 13
+sr-due: 2022-06-08
+sr-interval: 39
 sr-ease: 260
 ---
 > [!infobox]
@@ -27,7 +27,7 @@ Each of my types of notes exemplifies this in different ways.
 > Having the videos to be [[cognitive scaffolding]] was very helpful in understanding what information was important, and know I have a short summary of these terms that I can review with [[spaced repetition]] and continue to revise. 
 > This proved to be an efficient way to get value out of video content and Wikipedia.
 
-There are three types of [[knowledge]] that are relevant to us.
+There are three types of [[knowledge]] that are relevant to us. ^8c7851
 - What is known
 - What you know about what is known
 - What you know

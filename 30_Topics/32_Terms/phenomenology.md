@@ -13,7 +13,6 @@ sr-ease: 231
 
 #### <s class="topic-title">[[phenomenology]]</s>
 
-
 > ![[books - Being You#^314517219]]
 
 > [!wikipedia] [Phenomenology (philosophy)](https://en.wikipedia.org/wiki/Phenomenology%20(philosophy))
@@ -25,7 +24,6 @@ sr-ease: 231
 > 
 > Husserl's conception of phenomenology has been criticized and developed not only by him, but also by students and colleagues.
 >
-
 
 ##### ^dataviews
 

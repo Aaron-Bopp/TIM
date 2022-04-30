@@ -4,8 +4,8 @@ tags: created/2021/06/11, review, node/evergreen/claim
 aliases:
   - The nature of happiness is not doing what you love its detachment from the
     decisions of the life
-sr-due: 2022-04-29
-sr-interval: 69
+sr-due: 2022-09-21
+sr-interval: 144
 sr-ease: 210
 ---
 > [!infobox]
@@ -39,7 +39,7 @@ part of:: [[Buddhism outlines a path and practice to end suffering, but does not
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Buddhism]], [[happiness]], [[emotional detachment]], [[spirituality]]
@@ -55,8 +55,9 @@ part of:: [[Buddhism outlines a path and practice to end suffering, but does not
 > ![[books - Sapiens#^308819727]]
 
 
-
+[[@visakanv on Twitter|visakanv]]
 
 > ![[tweets - Clarifying It Seems Lik...#^247463812]]
 
+![[Darwin's Cathedral by David Sloan Wilson#citation]]
 > ![[books - Darwin's Cathedral#^288175132]]

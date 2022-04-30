@@ -3,8 +3,8 @@ created: 2022-02-05T05:57:59
 aliases:
   - null
 tags: created/2022/02/05, review, node/evergreen/claim
-sr-due: 2022-04-29
-sr-interval: 17
+sr-due: 2022-06-05
+sr-interval: 36
 sr-ease: 190
 ---
 > [!infobox]
@@ -36,6 +36,7 @@ This trend has come with the evolution of agile programming, where quick [[commu
 However, as the speed of development has been prioritized, the ability to focus on one part of development has become less desired, as the more specialists you have, the more communication links you have to deal with.
 Instead of delegating the fulfilment of needs, companies have moved to delegating the communication of needs.
 
+#TO/TEND/WATER 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/WEED 

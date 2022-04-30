@@ -3,9 +3,9 @@ created: 2022-03-19T11:12:28
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/claim
-sr-due: 2022-04-29
-sr-interval: 25
-sr-ease: 230
+sr-due: 2022-05-13
+sr-interval: 13
+sr-ease: 210
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -23,7 +23,7 @@ In contrast, luxury also allows for [[Culture]]
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SPROUT 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[human advancement]], [[Sagacious sayings]]

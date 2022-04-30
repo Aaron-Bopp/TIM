@@ -3,8 +3,8 @@ created: 2021-06-15
 aliases:
   - "Writing your notes like you're planting an evergreen forest"
 tags: created/2021/06/15, review, node/evergreen/claim
-sr-due: 2022-04-29
-sr-interval: 19
+sr-due: 2022-06-19
+sr-interval: 50
 sr-ease: 242
 ---
 > [!infobox]
@@ -26,6 +26,7 @@ Having an unattended forest can be very overwhelming,
 but it can also provide the [[knowledge]] and context you need in order to choose the correct system.
 Looking to examples and mentors is key in building a [[knowledge management|personal knowledge system]],
 because [[Learning how systems work can be a gateway to creating thought]].
+^[Examples a scattered around the internet and this vault, finding them and learning from them is a skill in and of itself. [[Obsidian (software)#Example Vaults]] and [[note writing#^a17b4a|note writing > Other view on note writing]] are just drops in the bucket]
 
 You will need to strike a balance between the stress of having an unorganized system 
 and the stress of having to design your system.
@@ -38,7 +39,6 @@ and even more importantly
 Soon you will be drawn into the world and be surprised at how fast you are [[learning]]
 because [[Communities are knowledge graphs]].
 
-
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/GREEN
@@ -47,5 +47,3 @@ because [[Communities are knowledge graphs]].
 **Topics**:: [[evergreen notes]], [[second brain]], [[My TIM]], [[note writing]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-
-> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]

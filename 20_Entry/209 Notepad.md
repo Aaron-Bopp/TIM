@@ -1,3 +1,5 @@
+> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
+
 %% #TO/TEND/MULCH 
 This naturally leads to a variety of problems,
 including struggling to understand where your [[emotions]] are coming from and why.

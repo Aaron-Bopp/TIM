@@ -38,7 +38,7 @@ This note is a synthesis of note writing techniques used in systems like [[Zette
 - The implementation of note writing - how do we use [[technology]] to our advantage?
 	- [[Basic tools for working with plaintext]]
 	- [[web of thought|Webs of thought]] are note systems that use interlinking to provide easy access and connections between notes
-- Other views of note writing
+- Other views of note writing ^a17b4a
 	- [[Andy Matuschak]] - [§Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr) and [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 	- [[Tiago Forte]] - [The PARA Method: A Universal System for Organizing Digital Information](https://fortelabs.co/blog/para/)
 	- [[Sonke Ahrens]] - [Write … One Note at at Time](https://takesmartnotes.com/)
