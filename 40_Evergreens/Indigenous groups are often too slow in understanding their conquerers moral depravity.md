@@ -10,6 +10,8 @@ tags: created/2022/04/29, review, node/evergreen/claim
 
 #### [[Indigenous groups are often too slow in understanding their conquerers moral depravity]]
 
+This is not a fact of inferiority of intelligence, rather it is a fact of inexperience. 
+Before the Aztec's and Mayan's even understood what kind of people the European's even were they were being exploited an
 [[Cortes tricked the Aztec empire into falling]]
 
 > ![[books - Sapiens#^300585573]]

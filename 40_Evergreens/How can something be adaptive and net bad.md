@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, review, node/evergreen/claim
-sr-due: 2022-04-30
-sr-interval: 9
-sr-ease: 221
+sr-due: 2022-05-06
+sr-interval: 6
+sr-ease: 201
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -23,7 +23,7 @@ This could bring ire from others in the group either towards you or your offspri
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[group selection]], [[Cultural Evolution]], [[Evolution]], [[natural selection]]

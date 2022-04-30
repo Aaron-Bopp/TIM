@@ -3,8 +3,8 @@ created: 2022-03-22T22:15:17
 aliases:
   - null
 tags: created/2022/03/22, review, node/evergreen/question
-sr-due: 2022-04-30
-sr-interval: 13
+sr-due: 2022-05-22
+sr-interval: 22
 sr-ease: 190
 ---
 > [!infobox]
@@ -15,6 +15,8 @@ sr-ease: 190
 - part of:: [[Is cognitive dissonance fundamental to the human experience]]
 - answer:: [[The ego is the brain's response to the realization that we are just another individual in the world]]
 - answer:: [[Humans are a product of evolution]] if [[Does cognitive dissonance increase your capacity for endurance]] is true
+
+[[Humans are designed to make certainty out of uncertainty]]
 
 ### <hr class="footnote"/>
 

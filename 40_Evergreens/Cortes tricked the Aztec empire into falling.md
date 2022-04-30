@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/example/stupid
+sr-due: 2022-05-09
+sr-interval: 9
+sr-ease: 250
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/24, review, node/evergreen/claim
-sr-due: 2022-04-30
-sr-interval: 6
-sr-ease: 238
+sr-due: 2022-05-03
+sr-interval: 3
+sr-ease: 218
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -15,7 +15,8 @@ sr-ease: 238
 
 part of:: [[The three main questions of life]]
 
-The most common argument in modern science is that there is no life after death. This ties into our understanding of [[consciousness]]. 
+The most common argument in modern science is that there is no life after death. 
+This ties into our understanding of [[consciousness]]. 
 Take the feeling of lost time after [[anesthesia]] and extend it out forever.
 
 ### <hr class="footnote"/>

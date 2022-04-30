@@ -28,3 +28,4 @@ interval: 1
 | [[Humans long to know what to do]] | | | | |
 | [[To those with privilege, losing it feels like oppression]] | | | | |
 | [[Use philosophies as far they are useful and nothing more]] | | | | |
+| [[Life is what you make of it]] | | | | |

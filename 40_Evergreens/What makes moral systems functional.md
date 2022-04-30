@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/02, review, node/evergreen/question
-sr-due: 2022-04-30
-sr-interval: 6
+sr-due: 2022-05-10
+sr-interval: 10
 sr-ease: 172
 ---
 > [!infobox]
@@ -26,7 +26,7 @@ Is there a difference between this and [[What is the origin of religion]]
 
 ##### Why do these work?
 
-
+#TO/TEND/GRAFT 
 > ![[books - Darwin's Cathedral#^292550152]]
 
 Answers:

@@ -3,9 +3,9 @@ created: 2022-03-30T14:32:18
 aliases:
   - null
 tags: created/2022/03/30, review, node/evergreen/question
-sr-due: 2022-04-30
-sr-interval: 6
-sr-ease: 179
+sr-due: 2022-05-03
+sr-interval: 3
+sr-ease: 159
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +16,7 @@ part of:: [[How do different cultures enforce social control]]
 
 > ![[books - Behave#^304866739]]
 
-Culture is such an interesting thing to study because the behavioral differences that it produces could have so many causes, but the cultural nature of them means that there is some level of initial cause,
+[[Culture]] is such an interesting thing to study because the behavioral differences that it produces could have so many causes, but the cultural nature of them means that there is some level of initial cause,
 although usually it is [[Most cultural differences are rooted in material differences]]
 
 part of:: [[Why is it hard to understand how our environment effects us]]
