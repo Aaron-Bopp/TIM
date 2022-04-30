@@ -50,6 +50,14 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 > 
 > ![[books - The Dawn of Everything#^261572334]]
 
+##### [[empires]]
+
+[[Empires are born through conquest and maintained by bureaucracy]]
+
+> ![[books - Sapiens#^308475511]]
+> ![[books - Sapiens#^308475512]]
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

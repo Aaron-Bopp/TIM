@@ -38,3 +38,8 @@ If we can stop this behavior we can overcome our biases and make it easier to le
 
 **Topics**:: [[Evolutionary Psychology]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+
+> ![[books - Sapiens#^300574928]]
+
+> ![[books - Sapiens#^308475516]]

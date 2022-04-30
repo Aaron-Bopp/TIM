@@ -108,3 +108,24 @@ Then stars examine ways that [[Oppressors invent reasoning for their oppression]
 From [[Hammurabi's Code preserved hierarchy through deific justice]],
 to [[The caste system preserved hierarchy through purity]],
 we see that [[Theology preserves hierarchy through deific blessing]].
+
+### Part 3: The Unification of Humankind
+
+As humans connected across the globe they communicated through various means.
+While [[language]] and [[violence]] could rule initial interactions,
+more universal orders ruled more long term interactions.
+First they would trade, then they would conquer, and finally they would convert.
+
+> ![[books - Sapiens#^300574943]]
+
+While they reaction of us vs them will always be strong
+^[[[Humans love to group eachother]]]
+money, power, and religion drove us to form new [[social order]]s between groups.
+
+
+> ![[books - Sapiens#^300574928]]
+
+> ![[books - Sapiens#^300574931]]
+
+[[Indigenous groups are often too slow in understanding their conquerers moral depravity]]
+[[Barter economy is limited by speed of communication]]

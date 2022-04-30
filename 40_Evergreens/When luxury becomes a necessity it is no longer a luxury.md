@@ -18,6 +18,9 @@ sr-ease: 230
 - similarly:: [[The injustice of endurance]]
 - Displayed by:: [[Farming prevented a return to foraging for early humans]]
 
+In contrast, luxury also allows for [[Culture]]
+> ![[books - Sapiens#^308475514]]
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 

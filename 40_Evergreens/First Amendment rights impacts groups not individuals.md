@@ -14,7 +14,7 @@ sr-ease: 210
 
 The five rights provided in the First Amendment are speech, [[religion]], press, assembly, right to petition (protest) the [[government]]. The rights are guaranteed at birth and no citizenship is required. This means that the founders considered these rights to be outside of American Citizenship and thus have little relationship to "being American." 
 
-Unlike first amendment rights, [[Most rights were denied to Americans at its founding]]. I would say that in comparison to many other rights, that First Amendment Rights have little effect on individual people's daily lives. The First Amendment is far more important in the restrictions is places on [[government]] and religious, [[mass media]], [[business]] organizations.
+Unlike first amendment rights, [[Most rights were denied to Americans at its founding]]. I would say that in comparison to many other rights, that First Amendment Rights have little effect on individual people's daily lives. The First Amendment is far more important in the restrictions is places on [[government]] and religious, [[mass media]], [[business]] organizations. ^bd87d5
 
 The most important time that these rights apply is for [[protests]], but that is the time they are the most under attack
 

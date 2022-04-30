@@ -1,14 +1,23 @@
 ---
-created: 2021-07-10
-tags: created/2021/07/10, node/topic/outline
+created: 2022-04-29T18:24:24 
+edited: 
 aliases:
-  - religious
-  - religions
+  - null
+tags: created/2022/04/29, node/topic/term
+sr-due: 2022-04-29
+sr-interval: 2
+sr-ease: 231
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### <s class="topic-title">[[religion]]</s>
+#### <s class="topic-title">[[money]]</s>
+
+
+> ![[books - Sapiens#^308153760]]
+
+> ![[books - Sapiens#^308153770]]
+
 
 ##### ^dataviews
 
@@ -28,11 +37,3 @@ aliases:
 > ```
 
 %% DO NOT EDIT ABOVE %%
-
-#### Discussion
-
-> ![[tweets - Tweets From Marc Andreessen#^301857298]]
-
-> ![[books - Sapiens#^308475527]]
-> ![[books - Sapiens#^308475624]]
-

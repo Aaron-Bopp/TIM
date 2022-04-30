@@ -1,13 +1,13 @@
 ---
-created: 2022-04-16
+created: 2022-04-29
 edited:
-tags: created/2022/04/16, node/source/books
+tags: created/2022/04/29, node/source/books
 type: 
   - books
 deliveredBy: 
   - "readwise"
   - "kindle"
-sr-due: 2022-04-16
+sr-due: 2022-04-29
 sr-interval: 2
 sr-ease: 230
 ---
@@ -2106,6 +2106,17 @@ Religion can thus be defined as a system of human norms and values that is found
 
 ^308475624
 
+##### ^315425050
+
+highlight_tags:: [[c2]], [[blue]]   
+Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3226  
+
+###### ^315425050q
+
+In order to unite under its aegis a large expanse of territory inhabited by disparate groups of human beings, a religion must possess two further qualities. First, it must espouse a universal superhuman order that is true always and everywhere. Second, it must insist on spreading this belief to everyone. 
+
+^315425050
+
 ##### ^308475530
 
 highlight_tags:: [[blue]]   
@@ -2273,7 +2284,7 @@ In theory, once a person believes that the supreme power of the universe has int
 
 ##### ^308819709
 
-
+highlight_tags:: [[favorite]]   
 Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3378  
 
 ###### ^308819709q
@@ -3222,17 +3233,6 @@ Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=4832
 Capitalism began as a theory about how the economy functions. It was both descriptive and prescriptive – it offered an account of how money worked and promoted the idea that reinvesting profits in production leads to fast economic growth. But capitalism gradually became far more than just an economic doctrine. It now encompasses an ethic – a set of teachings about how people should behave, educate their children and even think. Its principal tenet is that economic growth is the supreme good, or at least a proxy for the supreme good, because justice, freedom and even happiness all depend on economic growth. 
 
 ^313029658
-
-##### ^315425050
-
-highlight_tags:: [[c2]], [[blue]]   
-Goto: https://readwise.io/to_kindle?action=open&asin=B00ICN066A&location=3226  
-
-###### ^315425050q
-
-In order to unite under its aegis a large expanse of territory inhabited by disparate groups of human beings, a religion must possess two further qualities. First, it must espouse a universal superhuman order that is true always and everywhere. Second, it must insist on spreading this belief to everyone. 
-
-^315425050
 
 ##### ^315023005
 
