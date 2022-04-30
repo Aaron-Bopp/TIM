@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/claim
-sr-due: 2022-04-28
-sr-interval: 4
+sr-due: 2022-05-11
+sr-interval: 11
 sr-ease: 173
 ---
 > [!infobox]
@@ -30,4 +30,4 @@ explained by:: [[Social order is built off of a shared belief in an imagined rea
 
 #### References
 
-![[video - Social Constructs Philosophy Tube#^video]]
+![[video - Social Constructs Philosophy Tube#Different earths example]]

@@ -3,8 +3,8 @@ created: 2021-12-02
 aliases:
   - null
 tags: created/2021/12/02, review, node/evergreen/principle
-sr-due: 2022-04-28
-sr-interval: 67
+sr-due: 2022-09-05
+sr-interval: 128
 sr-ease: 190
 ---
 > [!infobox]
@@ -27,7 +27,7 @@ Sometimes this means literally writing a note about something that you like.
 Sometimes this means laughing at yourself instead of cursing yourself when you mess up for the third time that day.  
 Sometimes this means finally taking the piece of advise your friend has given to you a million times.  
 
-- answers:: [[How to pursue the positive things in life]]
+- answer to:: [[How to pursue the positive things in life]]
 - similarly:: [[Do what you can for who you can]]
 
 ### <hr class="footnote"/>

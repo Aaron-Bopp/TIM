@@ -3,8 +3,8 @@ created: 2022-02-15T16:54:13
 aliases:
   - null
 tags: created/2022/02/15, review, node/evergreen/principle
-sr-due: 2022-04-28
-sr-interval: 42
+sr-due: 2022-08-07
+sr-interval: 99
 sr-ease: 230
 ---
 > [!infobox]
@@ -17,9 +17,9 @@ Mentioned in passing in [My Most Valuable Books - YouTube](https://www.youtube.c
 Example:
 > ![[books - The Anthropocene Reviewed#287775024q]]
 
-These seems to be a fairly common practice among books concerning [[anthropology]], as [[social order]] is often more adapt for early hunter-gatherer [[society]]. 
+This seems to be a fairly common practice among books concerning [[anthropology]] and [[Psychology]].
 
-- [[Names matter because they effect people's perception and understanding]]
+- explained by:: [[Names matter because they effect people's perception and understanding]]
 
 ### <hr class="footnote"/>
 

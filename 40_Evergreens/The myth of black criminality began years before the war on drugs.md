@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/13, review, node/evergreen/claim
-sr-due: 2022-04-27
-sr-interval: 3
+sr-due: 2022-05-10
+sr-interval: 10
 sr-ease: 224
 ---
 > [!infobox]
@@ -19,6 +19,7 @@ This involved films like *Birth of a Nation* (the one that reintroduced the Ku K
 
 explained by:: [[Slavery became much cheaper after the Civil War]]
 
+similarly:: [[After sunset laws were code for laws applying only to black people]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

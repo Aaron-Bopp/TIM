@@ -41,3 +41,7 @@ Watches:: 1
 	- the point of classify animals is to be able to predict and describe things around them. 
 - we debate social constructs because the are inherently able to change [19:30](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1170.58278) and because they are the foundations of many of our rights [20:18](https://www.youtube.com/watch?v=koud7hgGyQ8#t=1218.0759227711528)
 - when you leave the classroom [[politics]] and [[metaphysics]] combine 
+
+##### Different earths example
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/koud7hgGyQ8?start=268" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

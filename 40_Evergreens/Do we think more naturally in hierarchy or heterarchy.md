@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/10, review, node/evergreen/question
-sr-due: 2022-04-28
-sr-interval: 12
+sr-due: 2022-06-04
+sr-interval: 35
 sr-ease: 263
 ---
 > [!infobox]
@@ -19,9 +19,17 @@ but in society we definitely gravitate towards some kind of [[hierarchy]].
 Even if we do think in [[hierarchy]] it definitely isn't static.
 Can we hold multiple different items as children of the same item?
 
+This is
+important for:: [[What is the cognitive origin of social hierarchy]].
+Even though this is much more applicable to [[knowledge management]], understanding the fundamental theory behind our mind's aptitude can help explain how and why [[social hierarchy]] came about.
+We can also draw inspiration from anthropological understandings of [[social hierarchy]].
+Gravitation towards hierarchy is not universal, and we have observed many [[egalitarian]] societies, but
+[[Once hierarchy is in place vested interests will keep it in place]].
+It seems that once we start thinking in hierarchies it is much easier to continue thinking in them than to not.
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[hierarchy]], [[heterarchy]], [[Neuroscience]]

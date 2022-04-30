@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/25, review, node/evergreen/claim
-sr-due: 2022-04-27
-sr-interval: 2
+sr-due: 2022-05-08
+sr-interval: 8
 sr-ease: 245
 ---
 > [!infobox]
@@ -17,10 +17,15 @@ This is the [[religion]] that people are most aware of as it is the belief all m
 [[Christianity]] points to a creator god that is eternal and omnipresent, and yet human like. This god created the world in seven days and created us in his image.
 
 [[Hinduism]] imagines the origin of the universe as a development out of [[Brahman]] #TO/EXPLORE/RESEARCH 
+Which means this
+includes:: [[Consciousness as the spark of life]] and [[Consciousness is the fundamental unit of existence]]
 
 What is Islam's story #TO/EXPLORE/RESEARCH 
 
 answers:: [[What is the origin of life]]
+
+How does [[dualism]] play into this?
+
 
 ### <hr class="footnote"/>
 
