@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/07, review, node/evergreen/claim
-sr-due: 2022-04-27
-sr-interval: 15
+sr-due: 2022-06-12
+sr-interval: 43
 sr-ease: 243
 ---
 > [!infobox]
@@ -13,18 +13,20 @@ sr-ease: 243
 
 #### [[Why do we stall in life]]
 
-part of:: [[How to pursue the positive things in life]]
-
 > *Sometimes it's easiest to take the chances that has the highest likelihood of failure* 
 ^[[Ludwig and Dr. K's Journey of Death and Consciousness - YouTube](https://youtu.be/CHzOedHm_kM?t=543)]
 >
 > <cite>[[Dr. K]]</cite> 
 
+part of:: [[How to pursue the positive things in life]]
+
 > [!note]
-> This is a questions we can ask ourselves and others.
+> This is a question we can ask ourselves and others, 
+> but it is important to not put moral judgement on being stalled.
 > For ourselves it is important to acknowledge [[Sometimes we can't grow until we change our environment]] and for others [[You can't blame people for failing to rise above their circumstances]].
 
-It often feels like we are stalled because we haven't found the right answer yet.
+The situations and circumstances that can lead to feeling like you can't move forward are different from person to person, but
+it often feels like we are stalled because we haven't found the right answer yet.
 
 Statistically it seems likely that
 [[The most reliable path to success is repeatedly trying to succeed]]
