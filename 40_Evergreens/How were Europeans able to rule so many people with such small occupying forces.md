@@ -13,6 +13,8 @@ tags: created/2022/04/27, review, node/evergreen/question
 
 > ![[books - Sapiens#^311259057]]
 
+> ![[books - Sapiens#^316098116]]
+
 
 ### <hr class="footnote"/>
 
