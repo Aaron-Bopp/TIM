@@ -19,6 +19,7 @@ tools and extract the nutritious bone marrow within.
 This very important as the high nutrition of bone marrow likely allowed us grow larger brains which were a key step in [[human evolution]].
 Similarly:: [[Cooking allowed prehistoric humans to spend less energy on digesting]]
 
+`$=console.log(dv.current())`
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 

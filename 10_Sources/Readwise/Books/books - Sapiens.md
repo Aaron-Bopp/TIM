@@ -19,6 +19,8 @@ sr-ease: 230
 
 **Creator**:: [[Yuval Noah Harari]]
 
+`$=console.log(dv.current())`
+
 # Highlights
 #### Part One The Cognitive Revolution
 ### 1 An Animal of No Significance
