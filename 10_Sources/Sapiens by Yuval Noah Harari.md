@@ -127,5 +127,5 @@ money, power, and religion drove us to form new [[social order]]s between groups
 
 > ![[books - Sapiens#^300574931]]
 
-[[Indigenous groups are often too slow in understanding their conquerers moral depravity]]
+[[Indigenous groups are often too slow in understanding their conquerors moral depravity]]
 [[Barter economy is limited by speed of communication]]

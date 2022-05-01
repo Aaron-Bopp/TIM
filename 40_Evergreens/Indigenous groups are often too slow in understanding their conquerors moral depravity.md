@@ -4,14 +4,18 @@ edited:
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/claim
+sr-due: 2022-05-01
+sr-interval: 1
+sr-ease: 230
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Indigenous groups are often too slow in understanding their conquerers moral depravity]]
+#### [[Indigenous groups are often too slow in understanding their conquerors moral depravity]]
 
 This is not a fact of inferiority of intelligence, rather it is a fact of inexperience. 
-Before the Aztec's and Mayan's even understood what kind of people the European's even were they were being exploited an
+Before the Aztecs and Mayans even understood what kind of people the Europeans even were they were being exploited and killed.
+Example
 [[Cortes tricked the Aztec empire into falling]]
 
 > ![[books - Sapiens#^300585573]]
@@ -23,5 +27,5 @@ Before the Aztec's and Mayan's even understood what kind of people the European'
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[colonization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

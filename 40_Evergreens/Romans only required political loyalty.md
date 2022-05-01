@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/27, review, node/evergreen/claim
+sr-due: 2022-05-02
+sr-interval: 2
+sr-ease: 248
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,7 +21,7 @@ but is often forgotten because [[Roman citizens preserved Roman culture after th
 
 part of:: [[Empires are born through conquest and maintained by bureaucracy]]
 
-
+part of:: [[How do empires form]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

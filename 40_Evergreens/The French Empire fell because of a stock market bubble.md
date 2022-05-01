@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/example/fun
+sr-due: 2022-05-02
+sr-interval: 2
+sr-ease: 246
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -19,5 +22,5 @@ tags: created/2022/04/30, review, node/evergreen/example/fun
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[France]], [[stock market]], [[history]], [[joint-stock company]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
