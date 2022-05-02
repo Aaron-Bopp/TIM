@@ -25,7 +25,7 @@ This is why energy from the sun can get to [[Earth]], but then gets trapped insi
 
 #### References
 
-[[How to Avoid a Climate Disaster by Bill Gates#^citation]]
+![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 > ![[books - How to Avoid a Climate Disaster#^306587582]]
 
 > ![[books - How to Avoid a Climate Disaster#^306587595]]
