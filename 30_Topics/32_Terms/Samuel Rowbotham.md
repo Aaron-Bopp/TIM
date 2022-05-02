@@ -23,6 +23,8 @@ sr-ease: 231
 Rowbotham
 was:: a [[Flat Earthers|Flat Earther]]
 and referred to belief in a flat earth as a form of [[Zeteticism]].
+^[[[video - Flat Earth Science -- Wrong, but not Stupid#History]]]
+
 
 ##### ^dataviews
 
