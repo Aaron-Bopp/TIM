@@ -12,7 +12,7 @@ tags: created/2022/05/02, node/source/video
  
 **Source**:: [Flat Earth "Science" -- Wrong, but not Stupid - YouTube](https://www.youtube.com/watch?v=f8DQSM-b2cc)
 
-**Summary**:: Hossenfelder examines why despite the fact that [[Flat Earthers]] employ scientific reasoning as part of their argument that the earth is flat, there are internal contradictions and inconsistencies in their reasoning. The chief of these is that [[Flat Earthers refuse evidence that science is correct]]. Hossenfelder uses this claim to argue that even if we do not remember the significant math and physics to disprove flat earther's claims, we can use the evidence of science's consistency as an element of disproof. Interestingly, Hossenfelder chooses to mostly ignore the [[conspiracy theory]] side of [[Flat Earthers]]. 
+**Summary**:: Hossenfelder examines why despite the fact that [[Flat Earthers]] employ scientific reasoning as part of their argument that the earth is flat, there are internal contradictions and inconsistencies in their reasoning. The chief of these is that [[Flat Earthers refuse evidence that science is reliable]]. Hossenfelder uses this claim to argue that even if we do not remember the significant math and physics to disprove flat earther's claims, we can use the evidence of science's consistency as an element of disproof. Interestingly, Hossenfelder chooses to mostly ignore the [[conspiracy theory]] side of [[Flat Earthers]]. 
 
 **Covers**:: [[Samuel Rowbotham]], [[Flat Earthers]], [[skepticism]], [[Zeteticism]], 
 

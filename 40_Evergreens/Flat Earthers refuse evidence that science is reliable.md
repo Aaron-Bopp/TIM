@@ -8,7 +8,7 @@ tags: created/2022/05/02, review, node/evergreen/claim
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Flat Earthers refuse evidence that science is correct]]
+#### [[Flat Earthers refuse evidence that science is reliable]]
 
 
 The most charitable interpretation of [[Flat Earthers]] is that they are engaging in an extreme version of [[empiricism]], [[Zeteticism]]. This is a term that was originally created by a flat earther b
