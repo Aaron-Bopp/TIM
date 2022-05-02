@@ -32,7 +32,23 @@ TABLE WITHOUT ID essay, summary, topics WHERE file.name = this.file.name
 	- essay:: [In Search Of A Flat Earth - YouTube](https://www.youtube.com/watch?v=JTfhYyTuT44)
 	- essay:: [The man who almost faked his way to a Nobel Prize - YouTube](https://www.youtube.com/watch?v=nfDoml-Db64)
 	- essay:: [Overanalyzing the Barbie Movies with Queer Marxist Theory - YouTube](https://www.youtube.com/watch?v=ZION_-IsJro)
+	- essay:: [This Wikipedia Article Hides a Sorrowful Secret - YouTube](https://www.youtube.com/watch?v=0Rb10PkjvK4)
 
-### <hr class="dataviews"/>
+##### ^dataviews
 
-`$=customJS.dv_funcs.topicNoteDataviews({dv, that:this})`
+%% DO NOT EDIT BELOW %%
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
+%% DO NOT EDIT ABOVE %%
