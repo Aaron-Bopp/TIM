@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/27, review, node/evergreen/claim
-sr-due: 2022-05-01
-sr-interval: 1
+sr-due: 2022-05-05
+sr-interval: 3
 sr-ease: 230
 ---
 > [!infobox]
@@ -17,7 +17,7 @@ While it is true that
 [[Romans only required political loyalty]],
 this was only a boon for some of Rome's conquests.
 Very few had an option to refuse the Roman's requests and escape death.
-Unless you bowed to the Roman yoke, you would be swiftly destroyed by the Roman army.
+Unless you bowed to the Roman gods, you would be swiftly destroyed by the Roman army.
 
 > [!example] Numantia
 > 

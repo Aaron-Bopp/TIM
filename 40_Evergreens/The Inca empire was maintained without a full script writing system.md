@@ -3,8 +3,8 @@ created: 2022-03-19T14:36:06
 aliases:
   - null
 tags: created/2022/03/19, review, node/evergreen/example/observation
-sr-due: 2022-05-01
-sr-interval: 24
+sr-due: 2022-06-25
+sr-interval: 54
 sr-ease: 210
 ---
 > [!infobox]
@@ -12,8 +12,9 @@ sr-ease: 210
 
 #### [[The Inca empire was maintained without a full script writing system]] 
 
-While the first [[writing]] that we have record of, 
-^[[[Sumerians invented writing to store large amounts of data]]],
+While the first [[writing]] system
+^[[[Sumerians invented writing to store large amounts of data]]]
+that we have record of
 did eventually develop into a [[full script]],
 some cultures have only needed [[partial script]]'s for their entire [[history]].
 

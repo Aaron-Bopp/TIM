@@ -3,8 +3,8 @@ created: 2021-10-18
 aliases:
   - null
 tags: created/2021/10/18, review, node/evergreen/claim
-sr-due: 2022-05-01
-sr-interval: 19
+sr-due: 2022-06-18
+sr-interval: 47
 sr-ease: 230
 ---
 > [!infobox]
@@ -12,9 +12,9 @@ sr-ease: 230
 
 #### [[Democracy is about an open forum of ideas]] 
 
-> Anthropologists have identified forms of proto-democracy that date back to small bands of hunter-gatherers that predate the establishment of agrarian, sedentary societies and still exist virtually unchanged in isolated indigenous groups today. In these groups of generally 50-100 individuals,
+> Anthropologists have identified forms of proto-democracy that date back to small bands of [[hunter-gatherers]] that predate the establishment of agrarian, sedentary societies and still exist virtually unchanged in isolated indigenous groups today. In these groups of generally 50-100 individuals,
 > ^[[[There is a limit to the size of a group ordered purely by personal communication]]]
-> often tied closely by familial bonds, decisions are reached by consensus or majority and many times without the designation of any specific chief
+> often tied closely by familial bonds, decisions are reached by consensus or majority and many times without the designation of any specific chief.
 > ^[[History of democracy - Wikipedia](https://en.wikipedia.org/wiki/History_of_democracy)]
 
 When settler's came to North America they were impressed by the skill and insight with which the [[Indigenous]] Americans were able to debate and dissect the European culture, one which they had not really seen. These discussion lead to many of the books of the [[enlightenment]].

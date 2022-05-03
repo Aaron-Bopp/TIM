@@ -3,8 +3,8 @@ created: 2022-01-02T16:19:33
 aliases:
   - null
 tags: created/2022/01/02, review, node/evergreen/claim
-sr-due: 2022-05-01
-sr-interval: 51
+sr-due: 2022-08-08
+sr-interval: 98
 sr-ease: 190
 ---
 > [!infobox]
@@ -40,7 +40,7 @@ However, as is evidenced by their repeated acceptance that one prediction is wro
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[radicalization]], [[social progress]], [[political strategy]]
