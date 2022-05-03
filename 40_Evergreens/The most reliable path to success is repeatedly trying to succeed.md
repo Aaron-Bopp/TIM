@@ -6,7 +6,8 @@ tags: created/2021/10/23, review, node/evergreen/claim
 sr-due: 2022-05-04
 sr-interval: 102
 sr-ease: 230
----> [!infobox]
+---
+> [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[The most reliable path to success is repeatedly trying to succeed]] 
@@ -25,6 +26,7 @@ Because [[Right kinds of thoughts lead to right kinds of actions]], this means k
 - [[Be the change you want to see in the world]]
 - [[You can't control what happens]]
 - [[Right kinds of thoughts lead to right kinds of actions]] 
+- [[Realism must acknowledge optimism's existence and effectiveness]]
 
 ### <hr class="footnote"/>
 

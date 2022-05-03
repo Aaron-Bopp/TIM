@@ -12,22 +12,14 @@ sr-ease: 207
 
 As you're writing, your note structures shouldn't be constricting your thought,
 they should be encouraging it.
+
+> [!example]
+> The **Topics** field in all of my [[evergreen notes]]. This field is nothing but a place to link [[topic notes]], but having to fill it forces me to think about what a note is actually and about and to differentiate between what is just mentioned in a note and what is covered by it. This is how I [[Distinguish between purposeful tagging and coincidental tagging of information]]
+
 If a structure makes you stop and think, "Ugh, I have nothing to put here" it is introducing needless [[friction]],
 but if it stops and makes you think, "oh right, I need to put this here" it is adding to your process.
 This is why friction can be both a [[Friction is a hindrance to learning|hinderance]] and a [[Good friction causes the brain to engage|boon ]] to your [[knowledge work]]. 
 Over time, these structures will help [[Your second brain should be frictionless access to a curated base of knowledge|your second brain become frictionless access to a curated base of knowledge]], without introducing too much overhead.
-%% #TO/TEND/MULCH 
-because their loosely defined nature makes it easy for your brain to use them
-[[Hard boundaries reduce opportunities for creativity]]
-%%
-
-Examples:
-The **Topics** field in all of my [[evergreen notes]]. This field started out with zero definition or expectation, but other time it developed into a place for me to put some of the larger topics that the note covers. There isn't anything concrete about this field, but I over time I am accumulating what are the largest topics in my vault.
-
-This is a 
-part of:: [[Your second brain should be an inspirational hub of creativity]]
-and 
-works with:: [[Write your notes with a system not within a system]]
 
 ### <hr class="footnote"/>
 

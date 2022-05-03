@@ -15,8 +15,14 @@ sr-ease: 150
 In the same way that we can look at [[Giraffes]] and function of their long necks, 
 we can look at human characteristics and see adaptive functionality.
 [[Human evolution]] has shaped our body and psyche's in numerous ways.
+This understanding has given rise to the field of [[Evolutionary Psychology]] and [[Evolutionary Biology]].
+These fields have been instrumental in understanding
+%% #TO/TEND/MULCH 
 We cannot overstate the influence of [[Evolution]] on [[human behavior]], 
-but we also cannot see it as the only influence.
+^[[[Evolution can create systems capable of natural selection]]]
+but we also see it as the only framework through which to understand our behavior.
+^[[[Evolutionary Psychology is just a framework not a prescription of behavior]]]
+%%
 Remember:: [[Biological processes can only give context to behavior not predict it]].
 
 [[Evolutionary Psychology]] is the study of how evolution enables certain behaviors, but doesn't predict them.
@@ -53,7 +59,7 @@ result of:: [[Natural selection is a designing agent]].
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/WEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Evolutionary Psychology]], [[natural selection]], [[Evolution]]

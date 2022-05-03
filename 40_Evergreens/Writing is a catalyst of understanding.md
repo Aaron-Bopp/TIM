@@ -26,19 +26,17 @@ These are both integral parts of [[understanding]].
 Connections are how we remember things,
 and insights are usually connections between ideas. 
 My thought process usually has gaps where I think I know what's coming next. 
-Writing forces me to fill those gaps and usually this leads to new insights.
-Pushing myself to write out my thoughts makes me organize them and put them out linearly.
-This means I have to examine and understand the nature of different thoughts link together.
+Writing forces me to fill those gaps
+and find the best path to understanding.
 
-Writing also enables idea generation by effectively letting you "know" more things. Often when I write stuff down in my notes, I already have a pretty good idea of what I think of them, but that idea might fade. Writing it down, especially (and possibly only) in [[evergreen notes]] lets that idea grow over time.
-
-These are
-how:: [[Evergreen notes help us bridge the gap between knowledge and understanding]]
+Writing also enables idea generation by effectively letting you "know" more things. Often when I write stuff down in my notes, I already have a pretty good idea of what I think of them, but that idea might fade. Writing it down, especially (and possibly only) in [[evergreen notes]] lets that idea grow over time and provide insights over time.
 
 This is why there is a difference between [[spaced repetition]] and [[incremental writing]] for me, even though I write during both.
-[[Incremental writing]] is to push me to write to clarify understanding, and [[spaced repetition]] is to help me write for idea generation.
-This reinforces and
-contrasts:: [[Often the best editing tool is time]], sometimes we do need to just push through and write, but sometimes time is all we need.
+[[Incremental writing]] is a time to fill holes and clarify understanding,
+but spaced repetition is a time to connect thoughts and generate insights.
+
+This is
+how:: [[Evergreen notes help us bridge the gap between knowledge and understanding]].
 
 ### <hr class="footnote"/>
 

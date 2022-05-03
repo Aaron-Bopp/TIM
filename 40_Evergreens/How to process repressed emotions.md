@@ -12,9 +12,9 @@ sr-ease: 232
 
 #### [[How to process repressed emotions]] 
 
-Repressed emotions are memories that store emotional energy and are generally inaccessible except when brought up by triggers.
-[[Triggers activate stored emotional responses for certain situations]].
-These situations usually have some similarity with the events that first caused the emotional response,
+Repressed [[emotions]] are memories that store emotional energy and are generally inaccessible except when brought up by triggers.
+[[Triggers activate stored emotional responses for certain situations]], and
+these situations usually have some similarity with the events that first caused the emotional response,
 so it is usually difficult to address that repressed memory when it is triggered.
 Unfortunately,
 [[Our brain actively inhibits us from processing repressed emotions]] so it can also be hard to address that repressed memory at any other time.
