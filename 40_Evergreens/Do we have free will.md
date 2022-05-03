@@ -36,3 +36,6 @@ w
 
 **Topics**:: [[self]], [[philosophy]], [[human experience]], [[free will]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
+
+#### Discussion
+[You don't have free will, but don't worry. - YouTube](https://www.youtube.com/watch?v=zpU_e3jh_FY)
