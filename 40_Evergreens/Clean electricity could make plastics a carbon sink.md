@@ -13,7 +13,7 @@ sr-ease: 249
 
 #### [[Clean electricity could make plastics a carbon sink]]
 
-While the production of plastics produces [[CO2]],
+While the production of [[plastics]] produces [[CO2]],
 much of it actually ends up within the plastic itself. 
 This carbon would stay in the plastic until the plastic degrades--which takes hundreds of years.
 
@@ -21,12 +21,15 @@ A similar but less efficient process could take place for [[concrete]].
 
 > ![[books - How to Avoid a Climate Disaster#^308344252]]
 
+> ![[books - How to Avoid a Climate Disaster#^308667892]]
+
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[climate change]], [[clean electricity]]
+**Topics**:: [[climate change]], [[clean electricity]], [[plastics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

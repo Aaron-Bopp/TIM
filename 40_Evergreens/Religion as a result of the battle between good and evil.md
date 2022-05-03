@@ -4,21 +4,21 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/claim
+sr-due: 2022-05-05
+sr-interval: 2
+sr-ease: 237
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
 #### [[Religion as a result of the battle between good and evil]]
 
-
+answers:: [[What is the origin of religion]]
 
 > ![[books - Sapiens#^308819710]]
 > ![[books - Sapiens#^308819711]]
 > ![[books - Sapiens#^308819713]]
 > ![[books - Sapiens#^308819714]]
-
-
-
 
 ### <hr class="footnote"/>
 

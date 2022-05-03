@@ -3,7 +3,10 @@ created: 2022-04-30T13:39:16
 edited: 
 aliases:
   - null
-tags: created/2022/04/30, review, node/evergreen/claim
+tags: created/2022/04/30, review, node/evergreen/question
+sr-due: 2022-05-05
+sr-interval: 2
+sr-ease: 248
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -26,5 +29,5 @@ maybe they absorbed the non monotheistic relgions
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[monotheism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

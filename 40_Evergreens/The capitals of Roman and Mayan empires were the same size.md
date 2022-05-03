@@ -1,9 +1,11 @@
 ---
 created: 2022-04-29T18:08:10 
-edited: 
 aliases:
   - null
-tags: created/2022/04/29, review, node/evergreen/claim
+tags: created/2022/04/29, review, node/evergreen/example/fun
+sr-due: 2022-05-05
+sr-interval: 2
+sr-ease: 248
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

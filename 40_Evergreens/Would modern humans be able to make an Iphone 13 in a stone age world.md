@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/claim
+sr-due: 2022-05-06
+sr-interval: 3
+sr-ease: 263
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -54,7 +57,7 @@ You might be able to convince them to work towards the industry and technology n
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[Thought Experiments]], [[stone age]], [[human evolution]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

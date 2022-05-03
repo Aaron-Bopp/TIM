@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/claim
+sr-due: 2022-05-04
+sr-interval: 1
+sr-ease: 220
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -32,5 +35,5 @@ In a way this bridge the gaps between traditional religions and [[natural-law re
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[religion]], [[enlightenment]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

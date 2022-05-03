@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/26, review, node/evergreen/claim
+sr-due: 2022-05-05
+sr-interval: 2
+sr-ease: 248
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -14,13 +17,11 @@ This may seem obvious, but it is a realization that many make for the first time
 
 Take this passage from the Road
 
-
 > ![[books - The Road#^288838067]]
 
 #TO/DO/FIND movie clip
 
-
-
+- part of:: [[What are the biological origins of empathy]]
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

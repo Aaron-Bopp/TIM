@@ -16,7 +16,6 @@ sr-ease: 224
 part of:: [[Money is something that is easy to imagine]]
 
 > ![[books - Sapiens#^308153759]]
-
 > ![[books - Sapiens#^308153762]]
 
 This allows for

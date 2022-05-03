@@ -1,9 +1,11 @@
 ---
 created: 2022-04-29T17:29:32 
-edited: 
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/example/fun
+sr-due: 2022-05-06
+sr-interval: 3
+sr-ease: 266
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,10 +20,9 @@ they are still relatively new in the grand scheme of things.
 > 
 > ![[books - Sapiens#^300574926]]
 
-
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SEED 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[history]], [[Culture]], [[food]], [[cuisine]]

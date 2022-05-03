@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/claim
+sr-due: 2022-05-04
+sr-interval: 1
+sr-ease: 214
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -13,7 +16,7 @@ tags: created/2022/04/30, review, node/evergreen/claim
 In:: [[The materialistic view of religions examines why humans invented and clung to religion]],
 when [[religion|religions]] are created or "discovered" they immediately try to make some fusion of current religious beliefs and then claim that their specific collection is the most accurate.
 Over time, they will also absorb popular beliefs from other religions as they convert people.
-This shows how [[Worldviews should be open ended and adaptive]] is applicable even in religions that aren't inherently accepting.
+This shows how [[Worldviews should be open ended and adaptive]] is applicable even in religions that aren't inherently accepting. ^8036d0
 
 We can see this 
 displayed in:: [[Christianity has many sources other than the Bible]].

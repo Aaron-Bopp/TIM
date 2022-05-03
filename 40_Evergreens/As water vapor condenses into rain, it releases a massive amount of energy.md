@@ -19,7 +19,7 @@ Where does the energy go when it is falling?
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[conservation of energy]], [[physics]], [[weather]]

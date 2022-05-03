@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/question
+sr-due: 2022-05-04
+sr-interval: 1
+sr-ease: 224
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -37,5 +40,5 @@ While many roman's held onto roman culture, it is nowhere near as powerful as Ch
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[empires]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
