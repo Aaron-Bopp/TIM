@@ -12,7 +12,8 @@ tags: created/2022/05/03, review, node/evergreen/claim
 
 > ![[books - How to Avoid a Climate Disaster#^308667894]]
 
-[[Norman Borlaug]]
+After the post-war baby boom, there was doubt that world would be able to support an ever-growing population.
+[[Norman Borlaug]]'s work in the invention and adoption of [[High-yielding variety]] crops during the [[Green Revolution]] was key in avoiding this future.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT

@@ -15,7 +15,7 @@ tags: created/2022/05/03, review, node/evergreen/claim
 
 > ![[books - How to Avoid a Climate Disaster#^308344237]]
 
-We will also nee more to support industrial processes that can no longer use [[fossil fuels]]
+We will also need more to support industrial processes that can no longer use [[fossil fuels]]
 
 > ![[books - How to Avoid a Climate Disaster#^308667891]]
 

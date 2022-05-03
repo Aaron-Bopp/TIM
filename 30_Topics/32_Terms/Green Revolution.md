@@ -30,9 +30,7 @@ sr-ease: 231
 > 
 > 6) Use of various mechanical machineries.
 > 
-> Both the Ford Foundation and the Rockefeller Foundation were heavily involved in its initial development in Mexico. 
-> 
-> One key leader was agricultural scientist [[Norman Borlaug]], the "Father of the Green Revolution", who received the Nobel Peace Prize in 1970. He is credited with saving over a billion people from starvation. The basic approach was the development of high-yielding varieties of cereal grains, expansion of irrigation infrastructure, modernization of management techniques, distribution of hybridized seeds, synthetic fertilizers, and pesticides to farmers. As the development of new cereal varieties through selective breeding reached their limits, some agricultural scientists turned to the creation of new strains that did not exist in nature, genetically modified organisms (GMOs), a phenomenon sometimes called the Gene Revolution.Studies show that the Green Revolution contributed to widespread reduction of poverty, averted hunger for millions, raised incomes, reduced greenhouse gas emissions, reduced land use for agriculture, and contributed to declines in infant mortality.
+> One key leader was agricultural scientist [[Norman Borlaug]], the "Father of the Green Revolution", who received the Nobel Peace Prize in 1970. He is credited with saving over a billion people from starvation. The basic approach was the development of high-yielding varieties of cereal grains, expansion of irrigation infrastructure, modernization of management techniques, distribution of hybridized seeds, synthetic fertilizers, and pesticides to farmers. 
 >
 
 
