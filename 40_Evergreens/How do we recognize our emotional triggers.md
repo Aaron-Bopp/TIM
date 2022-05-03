@@ -4,9 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/17, review, node/evergreen/question
-sr-due: 2022-05-03
-sr-interval: 9
-sr-ease: 216
+sr-due: 2022-05-07
+sr-interval: 4
+sr-ease: 196
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`

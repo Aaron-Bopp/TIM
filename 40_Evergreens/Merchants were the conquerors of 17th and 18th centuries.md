@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/claim
+sr-due: 2022-05-04
+sr-interval: 1
+sr-ease: 228
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -16,7 +19,7 @@ tags: created/2022/04/30, review, node/evergreen/claim
 
 > ![[books - Sapiens#^316098113]]
 
-[[The first joint-stock company was founded in 1602]]
+enabled by:: [[The first joint-stock company was founded in 1602]]
 
 
 ### <hr class="footnote"/>
@@ -24,5 +27,5 @@ tags: created/2022/04/30, review, node/evergreen/claim
 **Status**:: #EVER/SPROUT
 *edited `=this.file.mtime`*
 
-**Topics**:: <% tp.file.cursor(1) %>
+**Topics**:: [[joint-stock company]], [[mercantalism]], [[colonization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

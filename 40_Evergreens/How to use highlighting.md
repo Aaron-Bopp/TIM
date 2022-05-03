@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/27, review, node/evergreen/question
+sr-due: 2022-05-04
+sr-interval: 1
+sr-ease: 224
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,6 +21,8 @@ If you are going to engage more complicated strategies to work with a text (or a
 highlighting may be more of a hindrance than a help.
 
 includes:: [[Use colors to create visual outlines]]
+
+#TO/TEND/GRAFT [[books - Effective Notetaking]]
 
 ### <hr class="footnote"/>
 

@@ -3,8 +3,8 @@ created: 2022-03-12T16:46:55
 aliases:
   - null
 tags: created/2022/03/12, review, node/evergreen/restriction
-sr-due: 2022-05-03
-sr-interval: 30
+sr-due: 2022-07-09
+sr-interval: 67
 sr-ease: 210
 ---
 > [!infobox]
@@ -26,9 +26,12 @@ We also know that things like, [[exercise]], [[human behavior|socializing]], and
 ^[[[Meditation improves mental, physical, and emotional health]], [[Yoga is a wholistic philosophy of self-improvement]]]
 all holistically improve your [[mental health]].
 
+#TO/TEND/GRAFT 
+- [[Doctor's can't prescribe improving your life]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING  
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[medicine]], [[treatment]], [[mental health]]

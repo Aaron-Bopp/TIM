@@ -4,6 +4,9 @@ edited:
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/claim
+sr-due: 2022-05-04
+sr-interval: 1
+sr-ease: 224
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -28,6 +31,9 @@ This is why counterfeiting is a more serious crime than most forms of deception.
 
 > ![[books - Sapiens#^313029652]]
 
+#TO/TEND/GRAFT 
+- [[Barter economy is limited by speed of communication]]
+	- money is abstracting the time of bartering
 
 ### <hr class="footnote"/>
 
