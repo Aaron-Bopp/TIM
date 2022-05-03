@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/08, review, node/evergreen/claim
-sr-due: 2022-05-01
-sr-interval: 14
+sr-due: 2022-06-11
+sr-interval: 39
 sr-ease: 248
 ---
 > [!infobox]
@@ -29,7 +29,7 @@ The range of temperature between our last ice age and crocodiles in the artic is
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[climate change]]
+**Topics**:: [[climate change]], [[Earth]], [[temperature]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References

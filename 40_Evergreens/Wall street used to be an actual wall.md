@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/30, review, node/evergreen/example/fun
-sr-due: 2022-05-02
-sr-interval: 2
+sr-due: 2022-05-09
+sr-interval: 6
 sr-ease: 246
 ---
 > [!infobox]
@@ -18,7 +18,7 @@ sr-ease: 246
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SAPLING
 *edited `=this.file.mtime`*
 
 **Topics**:: [[history]], [[Dutch East India Company]], [[New York City]]

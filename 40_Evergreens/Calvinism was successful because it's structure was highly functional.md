@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/09, review, node/evergreen/claim
-sr-due: 2022-05-02
-sr-interval: 14
+sr-due: 2022-06-06
+sr-interval: 34
 sr-ease: 208
 ---
 > [!infobox]
@@ -93,6 +93,8 @@ How were these displayed in Calvinism?
 > ![[books - Darwin's Cathedral#^306962102]]
 
 ##### How did Calvinism organize the [[social order]]
+
+#TO/TEND/WATER 
 
 ### <hr class="footnote"/>
 

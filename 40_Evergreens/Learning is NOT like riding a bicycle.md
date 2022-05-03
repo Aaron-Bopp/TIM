@@ -3,8 +3,8 @@ created: 2022-03-23T15:26:22
 aliases:
   - null
 tags: created/2022/03/23, review, node/evergreen/saying
-sr-due: 2022-05-01
-sr-interval: 21
+sr-due: 2022-06-22
+sr-interval: 50
 sr-ease: 210
 ---
 > [!infobox]
@@ -23,7 +23,6 @@ Muscle memory was absolutely vital to our survival for millions of years, so we 
 Then about 300,000 years ago we decided to become conscious and learn things without actually doing them.
 ^[This in of itself is a skill that we teach to our children, i.e. teaching someone how to spell with a pen in hand vs telling them]
 
-
 We did not evolve for 100 million years to learn calculus.
 [[Humans have had little time to adjust to being the top predator]]
 The ability to learn is a **by-product** of [[human evolution]],
@@ -32,10 +31,7 @@ but it is not the main goal.
 and by keep thinking I mean by whatever means possible.
 [[Our brain will do anything it can to protect itself]]
 
-
-
-
-
+#TO/TEND/WATER what note writing notes can be connected to this 
 
 ### <hr class="footnote"/>
 

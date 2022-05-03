@@ -3,8 +3,8 @@ created: 2021-12-28
 aliases:
   - null
 tags: created/2021/12/28, review, node/evergreen/claim
-sr-due: 2022-05-02
-sr-interval: 51
+sr-due: 2022-07-31
+sr-interval: 89
 sr-ease: 170
 ---
 > [!infobox]
@@ -21,7 +21,7 @@ the [[universe]] was formed from an [[infinite]] sea of [[consciousness]] called
 
 This sea coalesced to become [[energy]] which coalesced to become [[matter]].
 ^[[[notes - Metaphysics of Meditation]]]
-This is how [[Meditation increases our ability to influence the world#On a spiritual level]],
+This is how [[Meditation increases our ability to influence the world# On a spiritual level]],
 and is surprisingly similar to the modern theory of [[the Big Bang]].
 
 > I think therefore I am

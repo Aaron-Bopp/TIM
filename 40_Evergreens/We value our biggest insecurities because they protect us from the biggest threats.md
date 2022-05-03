@@ -3,9 +3,9 @@ created: 2021-07-30
 tags: created/2021/07/30, review, node/evergreen/claim
 aliases:
   - null
-sr-due: 2022-05-02
-sr-interval: 65
-sr-ease: 191
+sr-due: 2022-06-08
+sr-interval: 36
+sr-ease: 171
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -20,6 +20,7 @@ This is why things like bullying, our parents invalidation, and especially [[chi
 
 #TO/TEND/WATER anecdote
 
+%% #TO/TEND/WEED para endings %%
 [[Our brain will do anything it can to protect itself]],
 which includes setting up the [[ego]] as a [[defense-mechanisms|defense-mechanism]].
 ^[[[Our ego is our subconscious defense of our self]]]

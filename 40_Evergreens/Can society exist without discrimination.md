@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/29, review, node/evergreen/question
-sr-due: 2022-05-02
-sr-interval: 2
+sr-due: 2022-05-10
+sr-interval: 7
 sr-ease: 244
 ---
 > [!infobox]
@@ -17,9 +17,12 @@ sr-ease: 244
 > ![[books - Sapiens#^299110298]]
 
 
+- includes:: [[There is no direct relation between physical strength and social power]]
+- includes:: [[What is the origin of patriarchy]]
+
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT
+**Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[society]], [[social hierarchy]], [[discrimination]], [[social justice]]

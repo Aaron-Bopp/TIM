@@ -3,8 +3,8 @@ created: 2022-03-13T12:27:41
 aliases:
   - the fundamental problem of social life
 tags: created/2022/03/13, review, node/evergreen/discussion
-sr-due: 2022-05-02
-sr-interval: 16
+sr-due: 2022-06-09
+sr-interval: 37
 sr-ease: 201
 ---
 > [!infobox]
@@ -38,8 +38,8 @@ and finally that
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SPROUT 
+**Status**:: #EVER/SAPLING 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Evolution]], [[group selection]], [[natural selection]], 
+**Topics**:: [[Evolution]], [[group selection]], [[natural selection]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

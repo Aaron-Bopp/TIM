@@ -3,8 +3,8 @@ created: 2022-01-19T12:27:40
 aliases:
   - null
 tags: created/2022/01/19, review, node/evergreen/claim
-sr-due: 2022-05-02
-sr-interval: 31
+sr-due: 2022-06-23
+sr-interval: 51
 sr-ease: 150
 ---
 > [!infobox]
@@ -30,12 +30,13 @@ but that element is more of a predisposition and the actual driver of the sympto
 What is the reason behind this?
 - [[Social media]]
 	- [[Increases in scrutiny lead to increases in anxiety]]
-- [[material conditions]]
-	- [[existential dread]]
+	- [[Mass media promotes the spread of inaccurate information]]
+- [[material conditions]] and [[existential dread]]
 	- [[You can't control what happens]]
 	- [[Insecure material conditions increase cognitive load and reduce outcomes]]
 	- [[Your anxiety is telling you everything that could go wrong, not what will go wrong]]
 - [[Anxiety prevents us from living in the present]]
+	- we aren't able to lead good lives and fall into depression or [[hopelessness]]: [[Depression is past focused, hopelessness is future focused]]
 
 ##### How do we address this?
 

@@ -1,8 +1,8 @@
 ---
 created: 2021-05-31
 tags: created/2021/05/31, review, node/evergreen/claim
-sr-due: 2022-05-03
-sr-interval: 133
+sr-due: 2023-05-24
+sr-interval: 386
 sr-ease: 290
 ---
 > [!infobox]
@@ -10,7 +10,7 @@ sr-ease: 290
 
 #### [[You're never sure if you're trans]] 
 
-> ![[Journal#2021-5-31]]
+> ![[Journal#2021-05-31]]
 >
 
 ### <hr class="footnote"/>

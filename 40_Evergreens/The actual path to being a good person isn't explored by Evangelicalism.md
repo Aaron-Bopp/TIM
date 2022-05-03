@@ -3,8 +3,8 @@ created: 2021-10-19
 aliases:
   - Evangelicalism doesn't explore the path to being a good person
 tags: created/2021/10/19, review, node/evergreen/claim
-sr-due: 2022-05-03
-sr-interval: 29
+sr-due: 2022-06-14
+sr-interval: 42
 sr-ease: 130
 ---
 > [!infobox]
@@ -31,7 +31,7 @@ The Evangelical church didn't teach people how to be good so it is failing (and 
 
 ### <hr class="footnote"/>
 
-**Status**:: #EVER/SAPLING 
+**Status**:: #EVER/GREEN 
 *edited `=this.file.mtime`*
 
 **Topics**:: [[Christianity]], [[Deconstruction (Christianity)]], [[belief systems]]
