@@ -4,8 +4,8 @@ edited:
 aliases:
   - null
 tags: created/2022/04/15, node/topic/term
-sr-due: 2022-04-25
-sr-interval: 6
+sr-due: 2022-06-12
+sr-interval: 40
 sr-ease: 211
 ---
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -18,7 +18,6 @@ sr-ease: 211
 > 
 > In academic usage, particularly in [[critical race theory]] or [[intersectionality]], "white supremacy" can also refer to a social system in which white people enjoy structural advantages (privilege) over other ethnic groups, on both a collective and individual level, despite formal legal equality.
 >
-
 
 ##### ^dataviews
 

@@ -3,9 +3,9 @@ created: 2022-03-05T11:17:17
 aliases:
   - null
 tags: created/2022/03/05, review, node/topic/term
-sr-due: 2022-04-25
-sr-interval: 29
-sr-ease: 259
+sr-due: 2022-08-20
+sr-interval: 109
+sr-ease: 239
 ---
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
@@ -21,7 +21,6 @@ sr-ease: 259
 > 1.  What _is there_?
 > 2.  What is it _like_?
 > 
-
 
 **See**:: [[physics]], [[philosophy]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -4,8 +4,8 @@ aliases:
   - Selective Serotonin Reuptake Inhibitor (SSRI)
   - Selective Serotonin Reuptake Inhibitor 
 tags: created/2021/12/29, node/topic/term
-sr-due: 2022-04-25
-sr-interval: 13
+sr-due: 2022-06-17
+sr-interval: 45
 sr-ease: 246
 ---
 > [!infobox]

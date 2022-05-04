@@ -3,8 +3,8 @@ created: 2022-02-15T16:13:14
 aliases:
   - null
 tags: created/2022/02/15, node/topic/term
-sr-due: 2022-04-25
-sr-interval: 6
+sr-due: 2022-07-04
+sr-interval: 62
 sr-ease: 242
 ---
 > [!infobox]
@@ -15,7 +15,6 @@ sr-ease: 242
 > [!wikipedia] [nature](https://en.wikipedia.org/wiki/Nature)
 > 
 > Nature, in the broadest sense, is the physical world or [[universe]]. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of [[science]]. Although humans are part of nature, human activity is often understood as a separate category from other natural phenomena.
-
 
 ##### ^dataviews
 

@@ -2,8 +2,8 @@
 created: 2021-08-01
 tags: created/2021/08/01, node/topic/term
 aliases:
-sr-due: 2022-04-25
-sr-interval: 22
+sr-due: 2022-06-28
+sr-interval: 56
 sr-ease: 216
 ---
 > [!infobox]
@@ -33,10 +33,21 @@ and can completely eliminate access to people who disagree with us.
 **See**:: [[technology]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
+##### ^dataviews
+
 %% DO NOT EDIT BELOW %%
-#### Related 
-```dataview
-LIST FROM [[#]]
-WHERE contains(topics, this.file.link)
-```
+> [!dataview]+ Related unlinked notes
+> ```dataview
+> LIST FROM [[#]]
+> WHERE contains(topics, this.file.link)
+> and !contains(this.file.outlinks, file.link)
+> ```
+ 
+> [!dataview]- Other unlinked mentions
+> ```dataview
+> LIST FROM [[#]]
+> where !contains(this.file.outlinks, file.link)
+> and !contains(topics, this.file.link)
+> ```
+
 %% DO NOT EDIT ABOVE %%
