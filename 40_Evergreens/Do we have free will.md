@@ -29,6 +29,7 @@ So many parts of our personalities are affected by our circumstances, it is hard
 and yet we do feel like we have agency in the world.
 Perhaps [[What constitutes a decision]] will help us understand this.
 w
+
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SAPLING 
@@ -38,4 +39,5 @@ w
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### Discussion
+
 [You don't have free will, but don't worry. - YouTube](https://www.youtube.com/watch?v=zpU_e3jh_FY)
