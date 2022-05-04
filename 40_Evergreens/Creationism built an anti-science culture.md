@@ -12,19 +12,17 @@ sr-ease: 190
 
 #### [[Creationism built an anti-science culture]] 
 
-#TO/TEND/WATER 
-- [[Rise of Modern Conservatism]]
-- [[Rise of Misinformation in America]]
-- [[The Politicization of the Christian Church]]
-- [[Single issue voters are anti-democratic]]
-- [[Republican voters do not hold their leaders accountable]]
-- [[Rise of Conspiracy Culture]]
-- [[Faith is an abstraction of cognitive dissonance]]
+Creationism and the Young Earth movement were foundational in normalizing ignoring the consensus of the scientific community.
+
+- part of:: [[Rise of Modern Conservatism]]
+- part of:: [[Rise of Misinformation in America]]
+- explained by:: [[The Politicization of the Christian Church]]
+- explained by:: [[Faith is an abstraction of cognitive dissonance]]
 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SEED 
 *edited `=this.file.mtime`*
 
-**Topics**:: [[Politics]], [[Christianity]], [[anti-science]]
+**Topics**:: [[Politics]], [[Christianity]], [[anti-science]], [[Creationism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
