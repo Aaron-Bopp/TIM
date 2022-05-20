@@ -12,9 +12,11 @@ sr-ease: 230
 
 #### [[How to design documentation]] 
 
-Source:: [What nobody tells you about documentation - YouTube](https://www.youtube.com/watch?v=t4vKPhjcMZg)
+Source::[Documentation System](https://documentation.divio.com/)
 
-![[Pasted image 20220302183107.png]]
+[What nobody tells you about documentation - YouTube](https://www.youtube.com/watch?v=t4vKPhjcMZg)
+
+![[overview.png]]
 
 ### <hr class="footnote"/>
 
