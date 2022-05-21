@@ -13,10 +13,7 @@ sr-ease: 231
 My deconstruction started in high school because of a general lack of [[love]] for the church. I didn't really get anything out of it, and I had kind of stopped trying to be a [[Christianity|Christian]] after middle school. Part of the reason was I never had a [[spirituality|spiritual]] experience even though I tried so hard. I basically felt like I deserved it and because I didn't get it I stopped trying. Even if I had gotten one I 100% believe that if you try hard enough and believe hard enough [[The brain is powerful enough to create supernatural experiences]] 
 
 I was disconnected from my [[faith]] enough that
-even before I decided that God wasn't real,
-I was able to stop being a [[Christianity|Christian]].
-I wasn't really afraid of [[Deconstruction (Christianity)| deconstructing]] my [[faith]] because I only valued the church to please my [[parents]].  I still practiced [[Christianity]] (Christian school, going to church, etc.) until I was 19, because I was too scared of my parents reactions. I lied for four years straight, for really no benefit as I forced myself to live a lie for years, and when I did tell them it was still [[religious trauma| traumatic]]:
-[[Fear cannot be a deterrent for deconstructing your faith]]
+even before I decided that God wasn't real, I was able to stop being a [[Christianity|Christian]]. I wasn't really afraid of [[Deconstruction (Christianity)| deconstructing]] my [[faith]] because I only valued the church to please my [[parents]].  I still practiced [[Christianity]] (Christian school, going to church, etc.) until I was 19, because I was too scared of my parents reactions. I lied for four years straight, for really no benefit as I forced myself to live a lie for years, and when I did tell them it was still [[religious trauma| traumatic]]: [[Fear cannot be a deterrent for deconstructing your faith]]
 
 It took me two years of complete separation from the church and my parents on top of four years of not being a [[Christianity|Christian]] before I felt like I could look at [[Christianity]] objectively, because [[Deconstructing your faith is like climbing through a jungle canopy]]. It was only when I was able to reach the top that I made the realizations about God 
 ^[These realizations were mainly that [[The biblical Christian God is evil and does not deserve to be worshipped]], but also about how much [[belief]] in a God shaped my [[worldview]]. These insights lead to my understanding of [[The three main questions of life]], and later [[Faith is an abstraction of cognitive dissonance]]]
@@ -35,11 +32,9 @@ I went through a time of [[depression]], where fell into the fallacy that [[Sadn
 [^2]: [[Knowledge of an unjust world is painful]]
 [^3]: [[Accepting responsibility is not only about your actions]], [[Parents need to model the ability to deal with emotion to their children]]
 
-My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings toward the church has not, and I still believe [[The biblical Christian God is evil and does not deserve to be worshipped]].
-The fact is [[realism must acknowledge optimism's existence and effectiveness]] if we want to create a better world: [[Be the change you want to see in the world]]
+My feelings being a follower of Jesus have somewhat mellowed with time, but my feelings toward the church has not, and I still believe [[The biblical Christian God is evil and does not deserve to be worshipped]]. The fact is [[realism must acknowledge optimism's existence and effectiveness]] if we want to create a better world: [[Be the change you want to see in the world]]
 
-Additionally I believe [[Worldviews should not make life seem easy and simple]] and that [[Christianity]] is one such worldview:
-- [[Faith is an abstraction of cognitive dissonance]]
+Additionally I believe [[Worldviews should not make life seem easy and simple]] and that [[Christianity]] is one such worldview: - [[Faith is an abstraction of cognitive dissonance]]
 - [[You will never be pushed to understand marginalization unless you are part of a marginalized group]]
 - [[Fear of hell is baked into Christianity for vulnerable believers]]
 - [[Christians struggle to feel empathy because they must believe that non-christians are going to hell]] 
@@ -49,8 +44,7 @@ Additionally, I have focused in on the way that [[Evangelicalism]] has perverted
 - [[Evangelicalism has commodified faith for profit]]
 - [[The actual path to being a good person isn't explored by Evangelicalism]]
 
-I have started to look other belief systems to contrast them to [[Christianity]]:
-[[The materialistic view of religions examines why humans invented and clung to religion]], but we still see religions like [[Buddhism]] that do not focus on salvation. [[Buddhism outlines a path and practice to end suffering, but does not promise it]].
+I have started to look other belief systems to contrast them to [[Christianity]]: [[The materialistic view of religions examines why humans invented and clung to religion]], but we still see religions like [[Buddhism]] that do not focus on salvation. [[Buddhism outlines a path and practice to end suffering, but does not promise it]].
 
 While [[learning]] about other [[religion]]s, I have decided to [[Use philosophies as far they are useful and nothing more]], and this is [[Why I only callout Christianity]]
 
@@ -61,4 +55,3 @@ While [[learning]] about other [[religion]]s, I have decided to [[Use philosophi
 
 **Topics**:: [[Christianity]], [[belief systems]], [[worldview]], [[faith]], [[self-love]], [[self-hate]], [[Evangelicalism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
-
