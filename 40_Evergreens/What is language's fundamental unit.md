@@ -29,7 +29,7 @@ but sometimes you need to stray off the path: [[You need to take what you read o
 ^[[[video - Three Basic Elements of Note-taking]]]
 
 
-> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190325]]
+> ![[10_Sources/Readwise/Articles/10_Sources/articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190325]]
 > 
 
 

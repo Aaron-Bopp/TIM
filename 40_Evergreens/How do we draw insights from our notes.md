@@ -16,12 +16,12 @@ sr-ease: 230
 includes:: [[How do we ensure our note systems scale correctly]]
 
 #TO/PONDER/IDEA 
-> ![[articles - General Principles#^270382487]]
+> ![[10_Sources/articles - General Principles#^270382487]]
 
 
-> ![[articles - General Principles#^270313995]]
+> ![[10_Sources/articles - General Principles#^270313995]]
 
-> ![[articles - General Principles#^270382714]]
+> ![[10_Sources/articles - General Principles#^270382714]]
 
 
 

@@ -16,7 +16,7 @@ sr-ease: 242
 This
 contradicts:: [[The bible is god breathed]].
 
-> ![[books - Sapiens#^308819721]]
+> ![[10_Sources/books - Sapiens#^308819721]]
 > 
 > <cite>[[Yuval Noah Harari]]</cite>
 
@@ -36,6 +36,6 @@ are things like [[Conservatism]] and [[Q (conspiracy)]] now new sources for [[Ch
 
 #### References
 
-> ![[books - Sapiens#^308819709]]
+> ![[10_Sources/books - Sapiens#^308819709]]
 
 

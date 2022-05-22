@@ -44,4 +44,4 @@ sr-ease: 231
 Acknowledgement of the hard problem immediately leads to a desire for a solution, such as [[Consciousness as the spark of life]].
 If we will fail to explain the emergence of subjectivity from our [[wetware]], then science is no better than [[religion]].
 
-> ![[books - Being You#^314685831]]
+> ![[10_Sources/books - Being You#^314685831]]

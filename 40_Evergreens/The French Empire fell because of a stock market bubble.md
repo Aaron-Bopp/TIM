@@ -13,7 +13,7 @@ sr-ease: 246
 
 #### [[The French Empire fell because of a stock market bubble]]
 
-> ![[books - Sapiens#^316098115]]
+> ![[10_Sources/books - Sapiens#^316098115]]
 
 ### <hr class="footnote"/>
 

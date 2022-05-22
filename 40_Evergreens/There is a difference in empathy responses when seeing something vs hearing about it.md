@@ -17,7 +17,7 @@ This may seem obvious, but it is a realization that many make for the first time
 
 Take this passage from the Road
 
-> ![[books - The Road#^288838067]]
+> ![[10_Sources/books - The Road#^288838067]]
 
 #TO/DO/FIND movie clip
 

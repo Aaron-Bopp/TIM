@@ -35,6 +35,6 @@ explains:: [[Oppressors invent reasoning for their oppression]]
 ![[Sapiens by Yuval Noah Harari#citation]]
 
 
-> ![[books - Sapiens#^299110301]]
+> ![[10_Sources/books - Sapiens#^299110301]]
 
-> ![[books - Sapiens#^299523047]]
+> ![[10_Sources/books - Sapiens#^299523047]]

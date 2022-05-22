@@ -90,5 +90,5 @@ Knowledge management is seen as a major concern for [[knowledge work]].
 
 [second brain, wiki, note-taking apps boom overview + visualising .md links? : opensource](https://www.reddit.com/r/opensource/comments/gsxeys/second_brain_wiki_notetaking_apps_boom_overview/)
 
-> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190321q]]
-> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190330q]]
+> ![[10_Sources/Readwise/Articles/10_Sources/articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190321q]]
+> ![[10_Sources/Readwise/Articles/10_Sources/articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190330q]]

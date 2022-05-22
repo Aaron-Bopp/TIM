@@ -17,7 +17,7 @@ explained by:: [[Polytheism is inherently more open to other religions]]
 
 but is often forgotten because [[Roman citizens preserved Roman culture after the empire fell]]
 
-> ![[books - Sapiens#^308819702]]
+> ![[10_Sources/books - Sapiens#^308819702]]
 
 part of:: [[Empires are born through conquest and maintained by bureaucracy]]
 

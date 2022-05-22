@@ -32,13 +32,13 @@ part of:: [[Human behavior is selective]]
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books - Darwin's Cathedral#^298293001]]
+> ![[10_Sources/books - Darwin's Cathedral#^298293001]]
 
-> ![[books - Darwin's Cathedral#^306962115]]
+> ![[10_Sources/books - Darwin's Cathedral#^306962115]]
 
-> ![[books - Darwin's Cathedral#^306962116]]
+> ![[10_Sources/books - Darwin's Cathedral#^306962116]]
 
 
 Example from [[Sapiens by Yuval Noah Harari]],
 whether or not [[Farming domesticated humans]] or human's intentionally made their lives harder by turning to farming, the outcome is the same. Any intentionality of ancient human's is lost to the functionality of farming.
-> ![[books - Sapiens#^297681710]]
+> ![[10_Sources/books - Sapiens#^297681710]]

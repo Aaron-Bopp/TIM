@@ -38,6 +38,6 @@ The reason the moon side is at high tide is because it is getting pulled a littl
 
 [[What Is Relativity? by Jeffrey Bennett#^citation]]
 
-> ![[books - What Is Relativity#^300340333]]
+> ![[10_Sources/books - What Is Relativity#^300340333]]
 
-> ![[books - What Is Relativity#^300340334]]
+> ![[10_Sources/books - What Is Relativity#^300340334]]

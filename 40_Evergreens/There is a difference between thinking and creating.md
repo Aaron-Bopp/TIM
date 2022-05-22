@@ -27,4 +27,4 @@ At it's core though, art is detached from the things that influenced it, partial
 **Topics**:: [[knowledge work]],
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-> ![[books - Darwin's Cathedral#^292550148]]
+> ![[10_Sources/books - Darwin's Cathedral#^292550148]]

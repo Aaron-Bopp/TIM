@@ -14,11 +14,11 @@ sr-ease: 227
 #### [[Colonialism was powered by Capitalism]]
 
 
-> ![[books - Sapiens#^313029653]]
+> ![[10_Sources/books - Sapiens#^313029653]]
 
-> ![[books - Sapiens#^315023005]]
+> ![[10_Sources/books - Sapiens#^315023005]]
 > 
-> ![[books - Sapiens#^315023007]]
+> ![[10_Sources/books - Sapiens#^315023007]]
 
 
 #TO/TEND/GRAFT 

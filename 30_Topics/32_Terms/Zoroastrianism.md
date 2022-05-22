@@ -14,7 +14,7 @@ sr-ease: 231
 
 At it's core a [[dualism|dualistic]] [[religion]], Zoroastrianism likely contributed to many of the dualistic qualities of [[Christianity]] and [[Islam]].
 
-> ![[books - Sapiens#^308819716]]
+> ![[10_Sources/books - Sapiens#^308819716]]
 
 
 > [!wikipedia] [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)

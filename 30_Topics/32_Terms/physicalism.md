@@ -13,7 +13,7 @@ sr-ease: 231
 
 #### <s class="topic-title">[[physicalism]]</s>
 
-> ![[books - Being You#^314685805]]
+> ![[10_Sources/books - Being You#^314685805]]
 > 
 > <cite>[[Anil Seth]]</cite>
 

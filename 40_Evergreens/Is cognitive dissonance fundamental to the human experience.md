@@ -26,8 +26,8 @@ It seems [[Yuval Noah Harari]] would think not:
 
 > [!cite] [[Sapiens by Yuval Noah Harari]]
 > 
-> ![[books - Sapiens#^299573071]]
-> ![[books - Sapiens#^299572967]]
+> ![[10_Sources/books - Sapiens#^299573071]]
+> ![[10_Sources/books - Sapiens#^299572967]]
 
 These contradictions are solved through [[cognitive dissonance]] and fuel change in our [[society]].
 ### <hr class="footnote"/>

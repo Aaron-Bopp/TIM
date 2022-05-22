@@ -13,7 +13,7 @@ sr-ease: 193
 
 #### [[Humans are designed to make certainty out of uncertainty]] 
 
-> ![[books - Sapiens#^308819718]]
+> ![[10_Sources/books - Sapiens#^308819718]]
 
 - explains:: [[Human's will find explanations for inexplainable things]]
 - explains:: [[Human's have an inability to admit that they are wrong]]

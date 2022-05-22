@@ -30,6 +30,6 @@ WHERE contains(topics, this.file.link)
 
 
 
-> ![[books - Sapiens#^308819728]]
+> ![[10_Sources/books - Sapiens#^308819728]]
 
-> ![[books - Sapiens#^308819729]]
+> ![[10_Sources/books - Sapiens#^308819729]]

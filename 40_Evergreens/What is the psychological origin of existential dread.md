@@ -19,7 +19,7 @@ Human's are not unfamiliar to feelings and [[emotions]] that they cannot explain
 
 Having a [[sense of impending doom]] is a recognized symptom of medications like [[Adenosine]] and often precedes death. This is a physical version of existential dread though, and what most people experience is mainly intellectual.
 
-> ![[books - Darwin's Cathedral#294293306q]]
+> ![[10_Sources/books - Darwin's Cathedral#294293306q]]
 
 [[self-awareness]] likely makes humans more prone to existential dread. 
 

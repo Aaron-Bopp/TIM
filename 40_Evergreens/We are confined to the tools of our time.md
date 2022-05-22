@@ -40,7 +40,7 @@ but also [[How long should we wait for someone to accept us]].
 
 > it’s funny how sometimes it really does take a decade to [[persuasion|persuade]] someone of something. 
 > at that sort of timescale it’s not even about direct engagement so much as it is about just living your best life in accordance with your principles in a sustainable way, and waiting for them to encounter difficulties their [[worldview]] and context 
-^[[[tweets - It’s Funny How Sometimes...|It’s Funny How Sometimes... by @visakanv on Twitter]]]
+^[[[10_Sources/Readwise/Tweets/10_Sources/tweets - It’s Funny How Sometimes...|It’s Funny How Sometimes... by @visakanv on Twitter]]]
 >
 > <cite>[[@visakanv on Twitter|visakanv]]</cite>
 

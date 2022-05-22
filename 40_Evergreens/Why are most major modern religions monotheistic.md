@@ -14,14 +14,14 @@ sr-ease: 248
 #### [[Why are most major modern religions monotheistic]]
 
 
-> ![[books - Sapiens#^308819707]]
+> ![[10_Sources/books - Sapiens#^308819707]]
 
 
 Maybe they are just the ones that survived
-> ![[books - Sapiens#^308819708]]
+> ![[10_Sources/books - Sapiens#^308819708]]
 
 maybe they absorbed the non monotheistic relgions
-> ![[books - Sapiens#^308819717]]
+> ![[10_Sources/books - Sapiens#^308819717]]
 
 
 ### <hr class="footnote"/>

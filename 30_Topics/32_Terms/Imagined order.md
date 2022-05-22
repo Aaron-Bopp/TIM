@@ -12,11 +12,11 @@ sr-ease: 231
 
 #### <s class="topic-title">[[Imagined order]]</s>
 
-> ![[books - Sapiens#^297681744]]
+> ![[10_Sources/books - Sapiens#^297681744]]
 
-> ![[books - Sapiens#^297681751]]
+> ![[10_Sources/books - Sapiens#^297681751]]
 
-> ![[books - Sapiens#^298648741]]
+> ![[10_Sources/books - Sapiens#^298648741]]
 
 **See**:: [[Imagined reality]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

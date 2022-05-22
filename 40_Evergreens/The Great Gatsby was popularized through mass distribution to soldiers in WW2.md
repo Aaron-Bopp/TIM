@@ -12,8 +12,8 @@ sr-ease: 230
 
 #### [[The Great Gatsby was popularized through mass distribution to soldiers in WW2]] 
 
-> ![[books - The Anthropocene Reviewed#287280359q]]
-> ![[books - The Anthropocene Reviewed#287280358q]]
+> ![[10_Sources/Readwise/Books/10_Sources/books - The Anthropocene Reviewed#287280359q]]
+> ![[10_Sources/Readwise/Books/10_Sources/books - The Anthropocene Reviewed#287280358q]]
 - [[America]]
 
 ### <hr class="footnote"/>

@@ -27,10 +27,10 @@ This is because for years [[Evolutionary Psychology]] has been claiming to have 
 but [[Evolutionary Psychology is just a framework not a prescription of behavior]].
 
 %% #TO/TEND/MULCH 
-[[David Sloan Wilson]] speaks in detail about this in his book [[books - Darwin's Cathedral|Darwin's Cathedral]]
+[[David Sloan Wilson]] speaks in detail about this in his book [[10_Sources/books - Darwin's Cathedral|Darwin's Cathedral]]
 
 > Psychologists should be trying to identify and understand these specialized circuits [that enable us to solve our own problems of survival and reproduction] rather than pretending that [[human behavior]] can be derived from a few law-like mechanistic principles. 
-> ^[[[books - Darwin's Cathedral#292537218q]]]
+> ^[[[10_Sources/books - Darwin's Cathedral#292537218q]]]
 
 %%
 

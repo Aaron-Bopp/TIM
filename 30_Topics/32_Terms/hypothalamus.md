@@ -21,4 +21,4 @@ sr-ease: 191
 
 
 
-> ![[books - Behave#^301731156]]
+> ![[10_Sources/books - Behave#^301731156]]

@@ -21,6 +21,6 @@ System that deals primarily with emotional regulation.
 > With a primordial structure, the limbic system is involved in lower order emotional processing of input from sensory systems and consists of the amygdaloid nuclear complex (amygdala), mammillary bodies, stria medullaris, central gray and dorsal and ventral nuclei of Gudden. This processed information is often relayed to a collection of structures from the telencephalon, diencephalon, and mesencephalon, including the prefrontal cortex, cingulate gyrus, limbic thalamus, hippocampus including the parahippocampal gyrus and subiculum, nucleus accumbens (limbic striatum), anterior hypothalamus, ventral tegmental area, midbrain raphe nuclei, habenular commissure, entorhinal cortex, and olfactory bulbs.
 >
 
-> ![[books - Behave#^301731155]]
+> ![[10_Sources/books - Behave#^301731155]]
 
-> ![[books - Behave#^301731161]]
+> ![[10_Sources/books - Behave#^301731161]]

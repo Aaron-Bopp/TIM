@@ -29,4 +29,4 @@ answers:: [[What is the link between evolution and social behavior]]
 
 #### References
 
-> ![[books - Darwin's Cathedral#^304172011]]
+> ![[10_Sources/books - Darwin's Cathedral#^304172011]]

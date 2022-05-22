@@ -12,7 +12,7 @@ sr-ease: 170
 
 #### [[Why is it hard to understand how our environment effects us]] 
 
-> ![[books - How to Avoid a Climate Disaster#^308344233]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344233]]
 > 
 > <cite>[[David Foster Wallace]]</cite>
 
@@ -50,13 +50,13 @@ I think that in modern times we have for the most part realized that we live in 
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^297681749]]
+> ![[10_Sources/books - Sapiens#^297681749]]
 
 
-> ![[books - Sapiens#^297681750]]
+> ![[10_Sources/books - Sapiens#^297681750]]
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books - Darwin's Cathedral#^298292985]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292985]]
 
-> ![[books - Darwin's Cathedral#^298292987]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292987]]

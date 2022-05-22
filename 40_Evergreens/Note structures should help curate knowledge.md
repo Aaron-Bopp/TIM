@@ -31,4 +31,4 @@ Over time, these structures will help [[Your second brain should be frictionless
 
 #### References
 
-> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
+> ![[10_Sources/articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]

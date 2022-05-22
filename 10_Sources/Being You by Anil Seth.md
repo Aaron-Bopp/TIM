@@ -9,7 +9,7 @@ tags: created/2022/04/25, node/source/reference
 ##### [[Being You by Anil Seth]]
 **Creator**:: [[Anil Seth]]
  
-**Source**:: [[books - Being You]]
+**Source**:: [[10_Sources/Readwise/Books/books - Being You]]
 
 ##### ^citation
 

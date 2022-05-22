@@ -62,4 +62,4 @@ You might be able to convince them to work towards the industry and technology n
 
 #### References
 
-> ![[books - Sapiens#^297301078]]
+> ![[10_Sources/books - Sapiens#^297301078]]

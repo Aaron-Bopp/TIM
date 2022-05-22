@@ -14,10 +14,10 @@ sr-ease: 228
 #### [[Merchants were the conquerors of 17th and 18th centuries]]
 
 
-> ![[books - Sapiens#^316098111]]
-> ![[books - Sapiens#^316098112]]
+> ![[10_Sources/books - Sapiens#^316098111]]
+> ![[10_Sources/books - Sapiens#^316098112]]
 
-> ![[books - Sapiens#^316098113]]
+> ![[10_Sources/books - Sapiens#^316098113]]
 
 enabled by:: [[The first joint-stock company was founded in 1602]]
 

@@ -13,7 +13,7 @@ sr-ease: 230
 #### [[Mark Twain timed his death with Halley's comet]] 
 
 > The American writer [[Mark Twain]], for instance, was born as the [[comets|comet]] blazed above the Missouri sky. Seventy-four years later, he wrote, “I came in with Halley’s Comet in 1835. It is coming again next year, and I expect to go out with it.” And he did, dying in 1910 as Halley reappeared. Twain had a hell of a gift for narrative structure, especially when it came to memoir. 
-^[[[books - The Anthropocene Reviewed#285888564q]]]
+^[[[10_Sources/Readwise/Books/10_Sources/books - The Anthropocene Reviewed#285888564q]]]
 
 [[Halley didn't discover his comet he just recognized it and predicted it's arrival]]
 ### <hr class="footnote"/>

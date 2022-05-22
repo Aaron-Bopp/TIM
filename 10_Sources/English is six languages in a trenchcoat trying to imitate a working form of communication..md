@@ -8,7 +8,7 @@ sr-interval: 2
 sr-ease: 230
 ---
 
-**Source**:: [[tweets - Tweets From Byzen Stonefist's Witty Title|Tweets From Byzen Stonefist's Witty Title]]
+**Source**:: [[10_Sources/tweets - Tweets From Byzen Stonefist's Witty Title|Tweets From Byzen Stonefist's Witty Title]]
 
 **Creator**:: [[@byzen - stonefist on Twitter]]
 

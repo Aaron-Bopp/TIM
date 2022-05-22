@@ -12,7 +12,7 @@ sr-ease: 236
 
 **Creator**:: [[Yuval Noah Harari]]
  
-**Source**:: [[books - Sapiens]]
+**Source**:: [[10_Sources/Readwise/Books/books - Sapiens]]
 
 ###### ^citation
 
@@ -56,9 +56,9 @@ As Harari gets into the weeds of our evolved [[Biology]] and prehistoric behavio
 *A Day in the Life of Adam and Eve* starts to discuss how these ancients facts can affect our modern day [[psychology]]. Harari addresses many common beliefs about prehistoric human's such as the [[gorging gene]], and ideas about ancient family structure and behavior. They refuse to reinforce many of the myths that people try to use to justify their [[behavior]], stating that any attempt to reconstruct ancient human's lives from artifacts is extremely problematic as any foraging societies that have survived into modern times have done so in inhospitable areas and have been influenced by modern cultures. 
 This leads then to discussing [[Hunter-gatherer societies were very diverse]]. 
 
-> ![[books - Sapiens#294931431q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294931431q]]
 
-In the last part of this section [[books - Sapiens#The Curtain of Silence|The Curtain of Silence]], Harari addresses the elephant in the room, how little we are actually able to know about ancient humans. We can guess and theorize all we went, but until we develop [[time travel]] we will have a limited [[understanding]] of ancient human [[society]].
+In the last part of this section [[10_Sources/Readwise/Books/books - Sapiens#The Curtain of Silence|The Curtain of Silence]], Harari addresses the elephant in the room, how little we are actually able to know about ancient humans. We can guess and theorize all we went, but until we develop [[time travel]] we will have a limited [[understanding]] of ancient human [[society]].
 
 The section of part 1, *The Flood* mainly discusses [[Human caused extinction is prevalent]], but also touches on [[homo sapiens]] ingenuity allowed them to conquer [[Siberia]] more than the better adapted [[Homo neanderthalis]] had, allowed them to travel to [[Australia]], and the Americas (and then then annihilate many of the species there).
 
@@ -70,23 +70,23 @@ First, [[Farming prevented a return to foraging for early humans]],
 then, [[Farming outcompeted foraging by allowing for higher populations]],
 and finally [[Farming domesticated humans]]
 
-> ![[books - Sapiens#^297301085]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297301085]]
 
 Harari does touch on some other possibilities for the rise of farming. Citing the likely more involved process of [[domestication|domesticating]] animals, and the previously covered ability for human's to cooperate, it is possible that there were individual human's that compared the life of foraging and farming and rationally chose, but the fact that the farming phenomena was independently born in multiple parts of the world points to the fact that it was an inevitability of human life.
 
 Either way, by 10,000 BC farming was the dominant way of life.
 
-> ![[books - Sapiens#^297681720]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681720]]
 
 Harari then starts to discuss the effect that farming had on the human psyche.
 
-> ![[books - Sapiens#^297681721]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681721]]
 
 [[When luxury becomes a necessity it is no longer a luxury]]
 [[The advent of farming lead to increased prevalence of anxiety]]
 
 Harari credits this increase in anxiety to the advent of his next major concept, [[Imagined order]].
-^[[[books - Sapiens#^297681726]]]
+^[[[10_Sources/Readwise/Books/books - Sapiens#^297681726]]]
 
 First Harari asks, [[What enables large scale social order]],
 then [[What maintains our social order]],
@@ -116,16 +116,16 @@ While [[language]] and [[violence]] could rule initial interactions,
 more universal orders ruled more long term interactions.
 First they would trade, then they would conquer, and finally they would convert.
 
-> ![[books - Sapiens#^300574943]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^300574943]]
 
 While they reaction of us vs them will always be strong
 ^[[[Humans love to group eachother]]]
 money, power, and religion drove us to form new [[social order]]s between groups.
 
 
-> ![[books - Sapiens#^300574928]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^300574928]]
 
-> ![[books - Sapiens#^300574931]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^300574931]]
 
 [[Indigenous groups are often too slow in understanding their conquerors moral depravity]]
 [[Barter economy is limited by speed of communication]]

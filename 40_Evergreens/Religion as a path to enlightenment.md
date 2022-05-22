@@ -14,8 +14,8 @@ sr-ease: 220
 #### [[Religion as a path to enlightenment]]
 
 
-> ![[books - Sapiens#^308819723]]
-> ![[books - Sapiens#^308819724]]
+> ![[10_Sources/books - Sapiens#^308819723]]
+> ![[10_Sources/books - Sapiens#^308819724]]
 
 includes:: [[Buddhism outlines a path and practice to end suffering, but does not promise it]]
 

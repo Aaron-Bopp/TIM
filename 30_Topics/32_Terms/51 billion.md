@@ -13,7 +13,7 @@ sr-ease: 231
 #### <s class="topic-title">[[51 billion]]</s>
 
 As of 2021,
-> ![[books - How to Avoid a Climate Disaster#^308344232]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344232]]
 
 ##### ^dataviews
 

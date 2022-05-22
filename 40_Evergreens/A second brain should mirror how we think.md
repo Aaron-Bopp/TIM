@@ -41,4 +41,4 @@ I latched onto the term [[second brain]] not as any concrete system, but as a lo
 
 #### References
 
-> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190330]]
+> ![[10_Sources/Readwise/Articles/10_Sources/articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#^292190330]]

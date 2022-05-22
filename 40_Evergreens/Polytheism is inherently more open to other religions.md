@@ -26,8 +26,8 @@ part of:: [[The materialistic view of religions examines why humans invented and
 - [[Worldviews should be open ended and adaptive]]
 - [[Religious claims of absolute truth are always insubstantiable]]
 
-> ![[books - Sapiens#^308819695]]
-> ![[books - Sapiens#^308819698]]
+> ![[10_Sources/books - Sapiens#^308819695]]
+> ![[10_Sources/books - Sapiens#^308819698]]
 
 
 ### <hr class="footnote"/>
@@ -42,4 +42,4 @@ part of:: [[The materialistic view of religions examines why humans invented and
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^308819701]]
+> ![[10_Sources/books - Sapiens#^308819701]]

@@ -29,4 +29,4 @@ This is where [[Note structures should help curate knowledge]] comes in. Having 
 
 #### References
 
-> ![[articles - The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]
+> ![[10_Sources/articles - The Difference Between Good and Bad Tags • Zettelkasten Method#^305244868]]

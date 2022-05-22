@@ -15,7 +15,7 @@ sr-ease: 237
 
 answered by:: [[Buddhism is the study of happiness through detachment]]
 
-> ![[books - Sapiens#^308819731]]
+> ![[10_Sources/books - Sapiens#^308819731]]
 
 ### <hr class="footnote"/>
 

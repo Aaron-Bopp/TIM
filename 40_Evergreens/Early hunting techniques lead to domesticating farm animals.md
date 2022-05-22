@@ -34,6 +34,6 @@ Human's seemed to have a much stronger hand in domesticating animals than plants
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^297681715]]
+> ![[10_Sources/books - Sapiens#^297681715]]
 
-> ![[books - Sapiens#^297681716]]
+> ![[10_Sources/books - Sapiens#^297681716]]

@@ -23,11 +23,11 @@ sr-ease: 223
 
 #### The darker side of foraging
 
-> ![[books - Sapiens#^296601915|full]]
+> ![[10_Sources/books - Sapiens#^296601915|full]]
 
 ### The end of foraging
 
-> ![[books - Sapiens#^297681720]]
+> ![[10_Sources/books - Sapiens#^297681720]]
 
 %% DO NOT EDIT BELOW %%
 

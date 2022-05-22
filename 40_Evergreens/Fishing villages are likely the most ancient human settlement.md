@@ -25,4 +25,4 @@ sr-ease: 230
 #### References
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^294931435]]
+> ![[10_Sources/books - Sapiens#^294931435]]

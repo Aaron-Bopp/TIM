@@ -12,8 +12,8 @@ sr-ease: 230
 
 #### [[Business people are sorcerers]] 
 
-> ![[books - Sapiens#^294248535]]
-> ![[books - Sapiens#^294248536]]
+> ![[10_Sources/books - Sapiens#^294248535]]
+> ![[10_Sources/books - Sapiens#^294248536]]
 
 from:: [[Yuval Noah Harari]]
 ### <hr class="footnote"/>

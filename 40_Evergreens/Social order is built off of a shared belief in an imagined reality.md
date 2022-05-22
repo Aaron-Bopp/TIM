@@ -12,7 +12,7 @@ sr-ease: 190
 
 #### [[Social order is built off of a shared belief in an imagined reality]] 
 
-> ![[books - Sapiens#294248534q]]
+> ![[10_Sources/books - Sapiens#294248534q]]
 >
 > <cite>[[Yuval Noah Harari]]</cite>
 
@@ -39,13 +39,13 @@ Perhaps in this case [[Social media]] is maladaptive.
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#294248538q]]
+> ![[10_Sources/books - Sapiens#294248538q]]
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[books - Darwin's Cathedral#294094918q]]
+> ![[10_Sources/books - Darwin's Cathedral#294094918q]]
 
 ![[The Dawn of Everything by David Graeber#citation]]
 
 Even [[morality]] can be seen as a product of this [[Imagined order]].
-> ![[books - The Dawn of Everything#^258309233]]
+> ![[10_Sources/books - The Dawn of Everything#^258309233]]

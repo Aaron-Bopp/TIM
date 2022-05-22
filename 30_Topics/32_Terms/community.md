@@ -10,7 +10,7 @@ sr-ease: 211
 
 #### <s class="topic-title">[[community]]</s>
 
-> ![[books - The Anthropocene Reviewed#287775023q]]
+> ![[10_Sources/Readwise/Books/10_Sources/books - The Anthropocene Reviewed#287775023q]]
 
 **See**:: [[human behavior]], [[inter-personal communication]], [[Sangha]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

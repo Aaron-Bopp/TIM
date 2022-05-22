@@ -17,11 +17,11 @@ sr-ease: 214
 >
 > <cite>[[Christian Tietze]]</cite>
 
-> ![[articles - Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method#273534835q]]
+> ![[10_Sources/articles - Understanding Hierarchy by Translating Folgezettel and Structure Zettel • Zettelkasten Method#273534835q]]
 
 One aspect of the Collector's fallacy is collecting notes without context:
 
-> ![[articles - Introduction to the Zettelkasten Method • Zettelkasten Method#^305244854]]
+> ![[10_Sources/articles - Introduction to the Zettelkasten Method • Zettelkasten Method#^305244854]]
 
 
 **See**:: [[knowledge work]], [[knowledge management]], [[second brain]]

@@ -38,6 +38,6 @@ See, [[An experienced note taker knows how to work efficiently]].
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
-> ![[articles - General Principles#^270382714]]
+> ![[10_Sources/articles - General Principles#^270382714]]
 
 Stub notes are the magnets

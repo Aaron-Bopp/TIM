@@ -28,6 +28,6 @@ The only way to get "sucked" into a black hole is to be travelling a trajectory 
 
 ![[What Is Relativity? by Jeffrey Bennett#^citation]]
 
-> ![[books - What Is Relativity#^299918287]]
+> ![[10_Sources/books - What Is Relativity#^299918287]]
 
-> ![[books - What Is Relativity#^299918288]]
+> ![[10_Sources/books - What Is Relativity#^299918288]]

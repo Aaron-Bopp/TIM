@@ -18,10 +18,10 @@ sr-ease: 230
 > ^[[History of democracy - Wikipedia](https://en.wikipedia.org/wiki/History_of_democracy)]
 
 When settler's came to North America they were impressed by the skill and insight with which the [[Indigenous]] Americans were able to debate and dissect the European culture, one which they had not really seen. These discussion lead to many of the books of the [[enlightenment]].
-#TO/DO/CITE [[books - The Dawn of Everything|The Dawn of Everything]]
-#TO/TEND/CONNECT [[books - Darwin's Cathedral|Darwin's Cathedral]]
+#TO/DO/CITE [[10_Sources/books - The Dawn of Everything|The Dawn of Everything]]
+#TO/TEND/CONNECT [[10_Sources/books - Darwin's Cathedral|Darwin's Cathedral]]
 
-[[tweets - Tweets From Visa Is Stretching|@visakanv on Twitter]] is an example of how effective an open forum of ideas can be. 
+[[10_Sources/tweets - Tweets From Visa Is Stretching|@visakanv on Twitter]] is an example of how effective an open forum of ideas can be. 
 
 - why:: [[Single issue voters are anti-democratic]]
 - part of:: [[Rise of Misinformation in America]]

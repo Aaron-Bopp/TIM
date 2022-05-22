@@ -20,4 +20,4 @@ A division of the [[nervous system]] that functions to produce localized adjustm
 > The sympathetic nervous system's primary process is to stimulate the body's [[fight-or-flight response]]. It is, however, constantly active at a basic level to maintain [[homeostasis]]. 
 >
 
-> ![[books - Behave#^301731158]]
+> ![[10_Sources/books - Behave#^301731158]]

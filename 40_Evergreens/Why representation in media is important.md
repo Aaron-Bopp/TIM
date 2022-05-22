@@ -44,4 +44,4 @@ you don't need to be able to see yourself in everything, but everybody should be
 **Topics**:: [[coming out]], [[Queer people]], [[gender]], [[self-actualization]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-> ![[tweets - Tweets From Dr. Thrasher#^294229792]]
+> ![[10_Sources/tweets - Tweets From Dr. Thrasher#^294229792]]

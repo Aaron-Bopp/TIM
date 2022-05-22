@@ -11,7 +11,7 @@ sr-ease: 245
 #### <s class="topic-title">[[Masculinism]]</s>
 
 Masculinism is an ideology that justifies male domination and upholds the patriarchy. Masculinism is taught intrinsically and as the only option forcing males to position themselves within it.
-^[[[articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]]
+^[[[10_Sources/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]]
 
 ##### ^dataviews
 

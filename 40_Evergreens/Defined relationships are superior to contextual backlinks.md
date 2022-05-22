@@ -16,7 +16,7 @@ sr-ease: 230
 > 1. place any link *manually*.
 > 2. give your future self a *good* reason to follow the link 
 >
->  <cite>[[articles - Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method|Backlinking Is Not Very Useful by sascha]]</cite>
+>  <cite>[[10_Sources/Readwise/Articles/10_Sources/articles - Backlinking Is Not Very Useful -- Often Even Harmful • Zettelkasten Method|Backlinking Is Not Very Useful by sascha]]</cite>
 
 [[Backlinks]] can easily become diluted, and I have found this to be the case in my vault. There are multiple reasons for this. 
 1. **The backlinks panel does not filter out notes that are linked to from the current note.**

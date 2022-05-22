@@ -18,8 +18,8 @@ Before the Aztecs and Mayans even understood what kind of people the Europeans e
 Example
 [[Cortes tricked the Aztec empire into falling]]
 
-> ![[books - Sapiens#^300585573]]
-> ![[books - Sapiens#^300585574]]
+> ![[10_Sources/books - Sapiens#^300585573]]
+> ![[10_Sources/books - Sapiens#^300585574]]
 
 
 ### <hr class="footnote"/>

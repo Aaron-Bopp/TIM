@@ -18,7 +18,7 @@ they are still relatively new in the grand scheme of things.
 
 > [!cite] [[Sapiens by Yuval Noah Harari]]
 > 
-> ![[books - Sapiens#^300574926]]
+> ![[10_Sources/books - Sapiens#^300574926]]
 
 ### <hr class="footnote"/>
 

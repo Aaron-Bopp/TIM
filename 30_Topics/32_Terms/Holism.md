@@ -38,10 +38,10 @@ sr-ease: 241
 
 #### Discussion
 
-> ![[books - Darwin's Cathedral#^297089492]]
+> ![[10_Sources/books - Darwin's Cathedral#^297089492]]
 
-> ![[books - The Fabric of Reality#^288838100]]
+> ![[10_Sources/books - The Fabric of Reality#^288838100]]
 
-> ![[books - Darwin's Cathedral#^297089495]]
+> ![[10_Sources/books - Darwin's Cathedral#^297089495]]
 
-> ![[books - Darwin's Cathedral#^297089496]]
+> ![[10_Sources/books - Darwin's Cathedral#^297089496]]

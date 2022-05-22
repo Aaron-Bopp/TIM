@@ -15,7 +15,7 @@ sr-ease: 230
 enabled by:: [[Sumerians invented writing to store large amounts of data]] 
 example of:: [[Empires are born through conquest and maintained by bureaucracy]]
 
-> ![[books - Sapiens#^298648751]]
+> ![[10_Sources/books - Sapiens#^298648751]]
 
 ### <hr class="footnote"/>
 

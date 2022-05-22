@@ -9,7 +9,7 @@ tags: created/2022/02/27, node/source/notes
 
 **Creator**:: [[David Sloan Wilson]]
  
-**Source**:: [[books - Darwin's Cathedral]]
+**Source**:: [[10_Sources/Readwise/Books/books - Darwin's Cathedral]]
 
 #### ^citation
 
@@ -30,7 +30,7 @@ This book seems to be a rather influential in that it pushed for and re-populari
 
 [[Group selection solves the fundamental problem of social life]]
 
-> ![[books - Darwin's Cathedral#^288457438]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^288457438]]
 
 
 His examination of this problem includes looking at Darwin's solution, the reason it became a problem in later years, and then a thorough discussion of how to solve it.
@@ -55,7 +55,7 @@ He remarks that [[Evolutionary Psychology is just a framework not a prescription
 his main point is that [[Evolutionary Psychology]] is only being partially applied.
 [[Genetic evolution]] does not need to lead to modular traits because
 [[Evolution can create systems capable of natural selection]].
-^[[[books - Darwin's Cathedral#^292936697]]]
+^[[[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292936697]]]
 
 This leads him fully into [[Cultural Evolution]], a process that does not change genes in the slightest and yet is highly adaptive and competitive. He offers four insights from [[group selection]] and then comes back to how human's form into adaptive groups.
 
@@ -79,7 +79,7 @@ The functionalist view of [[What is the origin of religion]] pushes back against
 
 Rational choice theorists such as [[Rodney Stark]] [[E. E. Evans-Pritchard]] and dismiss Durkheim more wholly: 
 
-> ![[books - Darwin's Cathedral#^295490292]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490292]]
 
 This lead to time of complete dismantle of Durkheim's idea, but Wilson says that while many of Durkheim's ideas are antiquated, the general thesis of [[functionalism]] is not and that new ideas like [[Symbolism increases human's capacity for cooperation]] support his work.
 

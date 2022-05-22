@@ -14,7 +14,7 @@ sr-ease: 244
 #### [[Can society exist without discrimination]]
 
 
-> ![[books - Sapiens#^299110298]]
+> ![[10_Sources/books - Sapiens#^299110298]]
 
 
 - includes:: [[There is no direct relation between physical strength and social power]]

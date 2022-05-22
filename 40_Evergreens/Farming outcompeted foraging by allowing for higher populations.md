@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[Farming outcompeted foraging by allowing for higher populations]] 
 
-> ![[books - Sapiens#^297301079]]
+> ![[10_Sources/books - Sapiens#^297301079]]
 
 As early humans transitioned from [[foraging]] to [[farming]], their overall quality of life went down not up. Plague's of infectious [[disease]] and starvation were unheard of in foraging times, partially because [[Foraging kept populations down]] and because [[Foraging allowed for a diverse diet]],
 %% #TO/TEND/MULCH  %%
@@ -43,8 +43,8 @@ part of:: [[Farming domesticated humans]].
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^297301088]]
+> ![[10_Sources/books - Sapiens#^297301088]]
 
-> ![[books - Sapiens#^297301086]]
+> ![[10_Sources/books - Sapiens#^297301086]]
 
-> ![[books - Sapiens#^297301075]]
+> ![[10_Sources/books - Sapiens#^297301075]]

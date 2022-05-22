@@ -13,7 +13,7 @@ sr-ease: 248
 
 #### [[Sumerian math gave us 24 hour days and 360 degree circles]]
 
-> ![[books - Sapiens#^298648745]]
+> ![[10_Sources/books - Sapiens#^298648745]]
 
 ### <hr class="footnote"/>
 

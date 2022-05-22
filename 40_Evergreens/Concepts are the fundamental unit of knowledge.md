@@ -12,8 +12,8 @@ sr-ease: 170
 
 #### [[Concepts are the fundamental unit of knowledge]] 
 
-> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190326q]]
-> ![[articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190332q]]
+> ![[10_Sources/Readwise/Articles/10_Sources/articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190326q]]
+> ![[10_Sources/Readwise/Articles/10_Sources/articles - IA for PKM — Crows, Camels, Concepts, and the Cognitive Divide#292190332q]]
 
 [How to achieve more while studying less - Obsidian & Conceptual Notes](https://www.youtube.com/watch?v=MYJsGksojms)
 

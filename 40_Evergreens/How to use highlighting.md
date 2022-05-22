@@ -22,7 +22,7 @@ highlighting may be more of a hindrance than a help.
 
 includes:: [[Use colors to create visual outlines]]
 
-#TO/TEND/GRAFT [[books - Effective Notetaking]]
+#TO/TEND/GRAFT [[10_Sources/books - Effective Notetaking]]
 
 ### <hr class="footnote"/>
 

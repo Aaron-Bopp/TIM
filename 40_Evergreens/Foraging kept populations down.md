@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[Foraging kept populations down]] 
 
-> ![[books - Sapiens#^297301081]]
+> ![[10_Sources/books - Sapiens#^297301081]]
 
  - part of:: [[Foraging was a very sustainable lifestyle]]
  - explains:: [[Farming outcompeted foraging by allowing for higher populations]]

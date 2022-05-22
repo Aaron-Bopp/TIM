@@ -35,6 +35,6 @@ displayed by:: [[The caste system preserved hierarchy through purity]].
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^299110305]]
+> ![[10_Sources/books - Sapiens#^299110305]]
 
-> ![[books - Sapiens#^299110295]]
+> ![[10_Sources/books - Sapiens#^299110295]]

@@ -38,6 +38,6 @@ explained by:: [[Humans have had little time to adjust to being the top predator
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^299600341]]
+> ![[10_Sources/books - Sapiens#^299600341]]
 
-> ![[books - Sapiens#^297089489]]
+> ![[10_Sources/books - Sapiens#^297089489]]

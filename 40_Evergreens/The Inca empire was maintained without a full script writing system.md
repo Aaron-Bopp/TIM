@@ -37,6 +37,6 @@ works with:: [[Foraging was a very sustainable lifestyle]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[books - Sapiens#^298672195]]
+> ![[10_Sources/books - Sapiens#^298672195]]
 
-> ![[books - Sapiens#^299600342]]
+> ![[10_Sources/books - Sapiens#^299600342]]

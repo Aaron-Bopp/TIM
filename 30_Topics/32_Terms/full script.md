@@ -13,7 +13,7 @@ sr-ease: 241
 #### <s class="topic-title">[[full script]]</s>
 
 Writing that aims to represent every idea that can be expressed in a given [[language]].
-^[[[books - Sapiens#^298648752]]]
+^[[[10_Sources/books - Sapiens#^298648752]]]
 
 **See**:: [[partial script]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -48,7 +48,7 @@ how:: [[Evergreen notes help us bridge the gap between knowledge and understandi
 
 #### References
 
-> ![[articles - Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]
+> ![[10_Sources/articles - Create a Zettelkasten for Your Notes to Improve Thinking and Writing • Zettelkasten Method#^305310566]]
 
 - ![[Andy Matuschak's Evergreen Notes#^67fb4a]]
 	- some people can't think unless they are writing  

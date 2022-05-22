@@ -26,12 +26,12 @@ In:: the history of [[religion]]
 > 
 
 
-> ![[books - Darwin's Cathedral#^303892910]]
+> ![[10_Sources/books - Darwin's Cathedral#^303892910]]
 
-> ![[books - Darwin's Cathedral#^306962114]]
+> ![[10_Sources/books - Darwin's Cathedral#^306962114]]
 
 
-> ![[books - Darwin's Cathedral#^304185842]]
+> ![[10_Sources/books - Darwin's Cathedral#^304185842]]
 
 
 

@@ -10,7 +10,7 @@ tags: created/2022/01/02, node/topic/outline
 
 #### <s class="topic-title">[[understanding]]</s>
 
-> ![[books - The Fabric of Reality#^287471883]]
+> ![[10_Sources/books - The Fabric of Reality#^287471883]]
 
 > [!wikipedia] [understanding](https://en.wikipedia.org/wiki/Understanding)
 > 

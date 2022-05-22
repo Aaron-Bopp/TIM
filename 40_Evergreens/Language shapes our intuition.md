@@ -12,7 +12,7 @@ sr-ease: 230
 
 #### [[Language shapes our intuition]] 
 
-> ![[books - Sapiens#^299110285]]
+> ![[10_Sources/books - Sapiens#^299110285]]
 > <cite>[[Yuval Noah Harari]]</cite>
 
 #TO/DO/CITE how people who speak in different languages think differently
@@ -22,7 +22,7 @@ sr-ease: 230
 - similarly:: [[Writing is a catalyst of understanding]]
 
 > [!example]- 
-> ![[books - Behave#^301593493]]
+> ![[10_Sources/books - Behave#^301593493]]
 
 ### <hr class="footnote"/>
 

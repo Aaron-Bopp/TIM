@@ -15,7 +15,7 @@ sr-ease: 263
 
 part of:: [[Money is something that is easy to imagine]]
 
-> ![[books - Sapiens#^308153761]]
+> ![[10_Sources/books - Sapiens#^308153761]]
 
 This does not make this money less real, and it is in fact they point of having money. While we have at points had physical items that accounted for the "value" of money,
 [[Money is an abstraction of time and trust]].

@@ -12,7 +12,7 @@ sr-ease: 234
 
 #### <s class="topic-title">[[human settlement]]</s>
 
-> ![[books - Sapiens#^294931435]]
+> ![[10_Sources/books - Sapiens#^294931435]]
 
 ##### ^dataviews
 

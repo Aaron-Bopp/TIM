@@ -10,7 +10,7 @@ sr-ease: 212
 
 #### [[Complex emotions are imperfect understandings of primal urges]] 
 
-> ![[books - Darwin's Cathedral#^310416935]]
+> ![[10_Sources/books - Darwin's Cathedral#^310416935]]
 > 
 > <cite>[[Darwin's Cathedral by David Sloan Wilson]]</cite>
 

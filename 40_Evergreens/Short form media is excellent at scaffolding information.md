@@ -18,7 +18,7 @@ This is counterintuitive, but is shown by the [[success]] of educational content
 - similarly:: [[Longform media lets you reach people where they are at, short form media lets you reach people where you are at]]
 - explains:: [[Why is evergreen note-taking SO GOOD]]
 
-> ![[articles - Six Kinds of Reading#305789833]]
+> ![[10_Sources/articles - Six Kinds of Reading#305789833]]
 
 ### <hr class="footnote"/>
 

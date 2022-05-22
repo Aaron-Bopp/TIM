@@ -10,7 +10,7 @@ sr-ease: 230
 
 #### [[Is your self-talk bullying you or bodyguarding you]] 
 
-> [!tool] Practice exercise from [[books - You and Your Gender Identity|You and Your Gender Identity by Dara Hoffman-Fox]]
+> [!tool] Practice exercise from [[10_Sources/books - You and Your Gender Identity|You and Your Gender Identity by Dara Hoffman-Fox]]
 > 
 > With enough practice, you'll be able to tell if your [[self]]-talk is coming from an Internal Bully or from your Bodyguard. The key is to ask yourself: 
 > - Which words are being used in my [[self]]-talk? 

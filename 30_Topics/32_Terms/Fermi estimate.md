@@ -12,7 +12,7 @@ sr-ease: 231
 
 #### <s class="topic-title">[[Fermi estimate]]</s>
 
-> ![[articles - Fermi Estimates and Dyson Designs#^305784496]]
+> ![[10_Sources/articles - Fermi Estimates and Dyson Designs#^305784496]]
 
 ##### ^dataviews
 

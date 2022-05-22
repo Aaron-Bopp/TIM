@@ -26,14 +26,14 @@ sr-ease: 250
 > 
 > The theory originated in the eighteenth century and can be traced back to political economist and philosopher, [[Adam Smith]].
 
-> ![[books - Darwin's Cathedral#^298292994]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292994]]
 
 ##### in [[religion]]
 
 [[Religion as a rational bid for supernatural reward]]
 
 
-> ![[books - Darwin's Cathedral#^298292990]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292990]]
 
 
 ##### ^dataviews
@@ -55,4 +55,4 @@ sr-ease: 250
 
 %% DO NOT EDIT ABOVE %%
 
-> ![[books - Darwin's Cathedral#^298292994]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292994]]

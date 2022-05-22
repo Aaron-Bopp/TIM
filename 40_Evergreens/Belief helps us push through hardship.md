@@ -17,7 +17,7 @@ enabled by:: [[Belief can motivate adaptation]]
 and is 
 part of:: [[A secure worldview is the best defense against existential dread]]
 
-> ![[books - The Anthropocene Reviewed#288175131q]]
+> ![[10_Sources/Readwise/Books/10_Sources/books - The Anthropocene Reviewed#288175131q]]
 
 #TO/TEND/GRAFT 
 - [[Does cognitive dissonance increase your capacity for endurance]]

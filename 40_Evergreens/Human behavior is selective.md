@@ -24,7 +24,7 @@ and not just some hard to define [[qualia]],
 for influences of [[human behavior]].
 
 > [!quote]-
-> ![[books - Darwin's Cathedral#^298292979]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292979]]
 > 
 > <cite>[[David Sloan Wilson]]</cite>
 
@@ -37,13 +37,13 @@ It's evolution was key in [[Greater cooperation and communication has lead to th
 as our increased ability to process thought and select behavior based of it was key in allowing us to outcompete other species.
 
 > [!quote]-
-> ![[books - Darwin's Cathedral#^298292978]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292978]]
 
 We can also apply this [[framework]] to [[unconscious]] thought, and see how this
 explains:: [[Our brain actively inhibits us from processing repressed emotions]] and [[Our ego is our subconscious defense of our self]].
 
 > [!quote]-
-> ![[books - Darwin's Cathedral#^292936687]]
+> ![[10_Sources/books - Darwin's Cathedral#^292936687]]
 
 ### <hr class="footnote"/>
 
@@ -55,10 +55,10 @@ explains:: [[Our brain actively inhibits us from processing repressed emotions]]
 
 #### References
 
-> ![[books - Darwin's Cathedral#^292936692]]
+> ![[10_Sources/books - Darwin's Cathedral#^292936692]]
 
 A "[[Darwin machine]]" being a machine that produces results via rounds of variation, selection, and inheritance. 
 
-> ![[books - Darwin's Cathedral#^298292984]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292984]]
 
-> ![[books - Darwin's Cathedral#^298292974]]
+> ![[10_Sources/books - Darwin's Cathedral#^298292974]]

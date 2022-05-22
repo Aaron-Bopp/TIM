@@ -15,9 +15,9 @@ sr-ease: 231
 Culture is a much debated term and it's definition often depends on the perspective of the person trying to study it.
 "
 
-> ![[books - Behave#^304866734]]
+> ![[10_Sources/books - Behave#^304866734]]
 
-> ![[books - Behave#^304866745]]
+> ![[10_Sources/books - Behave#^304866745]]
 
 [[Culture]] is the synthesis of our collective imagination, or [[Imagined reality]] and our shared [[understanding]].
 

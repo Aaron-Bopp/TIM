@@ -45,4 +45,4 @@ anesthesia is a powerful reminder of the fleetingness of our [[subjective]] [[ex
 
 > [!cite] [[Being You by Anil Seth]]
 > 
-> ![[books - Being You#^308153746]]
+> ![[10_Sources/books - Being You#^308153746]]

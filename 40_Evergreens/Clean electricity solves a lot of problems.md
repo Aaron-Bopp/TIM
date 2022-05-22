@@ -30,4 +30,4 @@ Not only is [[clean electricity]] key in replacing the electricity we currently 
 
 ![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 
-> ![[books - How to Avoid a Climate Disaster#^307323241]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^307323241]]

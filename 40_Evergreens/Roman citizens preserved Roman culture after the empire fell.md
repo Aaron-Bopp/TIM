@@ -13,7 +13,7 @@ sr-ease: 244
 #### [[Roman citizens preserved Roman culture after the empire fell]]
 
 
-> ![[books - Sapiens#^308475521]]
+> ![[10_Sources/books - Sapiens#^308475521]]
 
 The question is, did this happen because [[Romans only required political loyalty]], or because [[Romans erased cultures that would not be conquered]]
 

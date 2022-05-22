@@ -19,8 +19,8 @@ wetware is used to stress that our brains are chemical machines as much as they 
 > [!cite]
 > 
 > 
-> ![[books - Being You#^308153751]]
-> ![[books - Being You#^308153752]]
+> ![[10_Sources/books - Being You#^308153751]]
+> ![[10_Sources/books - Being You#^308153752]]
 
 
 

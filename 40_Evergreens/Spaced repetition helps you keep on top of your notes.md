@@ -21,7 +21,7 @@ I think I have settled on what their true benefit is.
 
 They keep you notes up to date with the your newest best practices for [[note writing|note taking]], and they help you decide what those are by pushing you to constantly revise and compare old notes with new ones.
 
-> ![[articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
+> ![[10_Sources/articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
 
 Space repetition is a catalyst for making this happen not just for the first 100 but forever
 

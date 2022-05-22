@@ -22,7 +22,7 @@ and instead support educating and changing [[society]] to better support autisti
 > Kanner Autism is a neurodevelopmental disorder characterized by challenges with [[social communication]], and by restricted and repetitive behaviors. It is now considered part of the wider [[autism spectrum]].
 > 
 
-> ![[articles - Understanding human collective behaviour  Autistic Collaboration#^287467171]]
+> ![[10_Sources/articles - Understanding human collective behaviour  Autistic Collaboration#^287467171]]
 
 > [!wikipedia]- When does autism present
 > 

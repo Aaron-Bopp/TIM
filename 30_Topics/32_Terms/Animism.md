@@ -12,11 +12,11 @@ sr-ease: 235
 
 #### <s class="topic-title">[[Animism]]</s>
 
-> ![[books - Sapiens#^296601907]]
+> ![[10_Sources/books - Sapiens#^296601907]]
 
-> ![[books - Sapiens#^296601916]]
+> ![[10_Sources/books - Sapiens#^296601916]]
 
-> ![[books - Darwin's Cathedral#^295428839]]
+> ![[10_Sources/books - Darwin's Cathedral#^295428839]]
 
 > [!wikipedia] [Animism](https://en.wikipedia.org/wiki/Animism)
 > 

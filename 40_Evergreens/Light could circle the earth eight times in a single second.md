@@ -13,10 +13,10 @@ sr-ease: 270
 
 #### [[Light could circle the earth eight times in a single second]] 
 
-Source:: [[books - What Is Relativity#^300340325]]
+Source:: [[10_Sources/books - What Is Relativity#^300340325]]
 
 This puts the size of a light **year** in perspective.
-> ![[books - What Is Relativity#^300340326]]
+> ![[10_Sources/books - What Is Relativity#^300340326]]
 
 ### <hr class="footnote"/>
 

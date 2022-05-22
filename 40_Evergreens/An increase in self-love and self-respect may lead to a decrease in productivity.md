@@ -37,11 +37,11 @@ The problem is that you have been running for your entire life just and now that
 > But time and slowness and time and patience and time and reflection and time and therapy have helped me to come to know who I am in the absence of that [[fear]] and [[shame]].
 > This person always existed, it’s just that his goals never mattered. Now they do. 
 > I do things where I will be satisfied by the process of doing them. I’ve rearranged my work life to let me focus on the things I enjoy and am good at, and I am now motivated by achieving goals and delighting others. 
-> ^[[[tweets - Hey Here’s a Discourse....|Hey Here’s a Discourse.... by @mykola on Twitter]]]
+> ^[[[10_Sources/Readwise/Tweets/10_Sources/tweets - Hey Here’s a Discourse....|Hey Here’s a Discourse.... by @mykola on Twitter]]]
 >
 > <cite>[[@mykola on Twitter]]</cite>
 
 > You can get it back with proper fostering of intrinsic motivation...If you disarm the fear and shame responses, you need to do it in tandem with building up [[self-belief]]. This is why I think coaching helps for a lot of people.
-^[[[tweets - Tweets From Rory - ADHD Autistic OCD#271928246q]]]
+^[[[10_Sources/tweets - Tweets From Rory - ADHD Autistic OCD#271928246q]]]
 >
 > <cite>[[@roryreckons on Twitter|Rory McCarthy]]</cite>

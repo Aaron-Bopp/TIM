@@ -12,7 +12,7 @@ sr-ease: 230
 
 #### [[Stone age tools were primarily wooden]] 
 
-> ![[books - Sapiens#294931430q]]
+> ![[10_Sources/books - Sapiens#294931430q]]
 
 ### <hr class="footnote"/>
 

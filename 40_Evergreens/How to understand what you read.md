@@ -17,7 +17,7 @@ how you read to understand, as
 reading to understand requires engaging with the medium on much higher level than books are designed to promote.
 
 > Books don’t work for the same reason that lectures don’t work: neither medium has any explicit theory of how people actually learn things
-> ^[[[articles - Why Books Don't Work#^306125198]]]
+> ^[[[10_Sources/articles - Why Books Don't Work#^306125198]]]
 > 
 > <cite>[[Andy Matuschak]]</cite>
 
@@ -64,4 +64,4 @@ Other views on how to get the most out of your reading:
 
 #### References
 
-> ![[articles - The Barbell Method of Reading • Zettelkasten Method#^305310569]]
+> ![[10_Sources/articles - The Barbell Method of Reading • Zettelkasten Method#^305310569]]

@@ -14,9 +14,9 @@ sr-ease: 230
 #### [[How were Europeans able to rule so many people with such small occupying forces]]
 
 
-> ![[books - Sapiens#^311259057]]
+> ![[10_Sources/books - Sapiens#^311259057]]
 
-> ![[books - Sapiens#^316098116]]
+> ![[10_Sources/books - Sapiens#^316098116]]
 
 
 ### <hr class="footnote"/>

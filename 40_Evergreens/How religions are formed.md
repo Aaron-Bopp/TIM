@@ -19,7 +19,7 @@ collections of traditions slowly gathered and passed down over time,
 beliefs laid out by one or a small group of individuals that reflect beliefs of the time.
 
 - includes:: [[Christianity has many sources other than the Bible]]
-> ![[books - Sapiens#^308475533]]
+> ![[10_Sources/books - Sapiens#^308475533]]
 
 includes:: [[What is the origin of religion]]
 

@@ -12,7 +12,7 @@ sr-ease: 275
 
 #### <s class="topic-title">[[expanding universe]]</s> 
 
-> ![[books - A Short History of Nearly Everything#283957204q]]
+> ![[10_Sources/books - A Short History of Nearly Everything#283957204q]]
 
 > [!wikipedia] [expanding universe](https://en.wikipedia.org/wiki/Expansion%20of%20the%20universe)
 > 

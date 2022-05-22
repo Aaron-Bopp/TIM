@@ -16,7 +16,7 @@ In the early 1400s, the Chinese admiral [[Zheng He]] lead seven armadas totaling
 
 > [!cite]- [[Sapiens by Yuval Noah Harari]]
 > 
-> ![[books - Sapiens#^311187110]]
+> ![[10_Sources/books - Sapiens#^311187110]]
 
 Fast-forward to the late 1700s and Asia was by far the economic superpower, but over the next 200 years they would lose this largely because of European's relentless colonization.
 Though eastern empires were not technologically inferior to European Empires, they did not use their technology to explore, conquer, and exploit the world as European's did in the 18th, 19th, and 20th century. 
@@ -36,6 +36,6 @@ This raises the questions of what about Eastern Culture discouraged colonization
 #### References
 
 
-> ![[books - Sapiens#^311187088]]
+> ![[10_Sources/books - Sapiens#^311187088]]
 
-> ![[books - Sapiens#^311187101]]
+> ![[10_Sources/books - Sapiens#^311187101]]

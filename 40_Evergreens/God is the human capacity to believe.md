@@ -12,14 +12,14 @@ sr-ease: 130
 
 #### [[God is the human capacity to believe]] 
 
-In [[books - The Road|The Road by Cormac McCarthy]], we follow the story of a father and son, travelling through a barren, dangerous post-apocalyptic world. 
+In [[10_Sources/books - The Road|The Road by Cormac McCarthy]], we follow the story of a father and son, travelling through a barren, dangerous post-apocalyptic world. 
 There is little reason for [[hope]] on the road, except for one, God.
 This is not the god of the [[Christianity]], nor any other [[religion]].
 This not the promise of a savior that will come and transform this world into a paradise.
 This God is simply a boy, the man's son, the man's [[hope]].
 
 > He knew only that the child was his warrant. He said: If he is not the word of God, God never spoke.
-^[[[books - The Road#^283227484]]]
+^[[[10_Sources/books - The Road#^283227484]]]
 > 
 > <cite> [[Cormac McCarthy]] </cite>
 

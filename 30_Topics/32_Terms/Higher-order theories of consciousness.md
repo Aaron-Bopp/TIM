@@ -44,4 +44,4 @@ This is most similar to [[Consciousness is our capacity to introspect]]
 #### Discussion
 
 
-> ![[books - Being You#^314517227]]
+> ![[10_Sources/books - Being You#^314517227]]

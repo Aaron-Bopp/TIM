@@ -19,7 +19,7 @@ The [[earth]] isn't the same.
 The range of temperature between our last ice age and crocodiles in the artic is only 10c, and any one degree shift is taking us between 16 and 25% towards a completely different world. For the warmer world we are expecting, this means catastrophic effects for farmers and wildlife.
 
 
-> ![[books - How to Avoid a Climate Disaster#^311801485]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^311801485]]
 > 
 > <cite>[[Bill Gates]]</cite>
 
@@ -36,8 +36,8 @@ The range of temperature between our last ice age and crocodiles in the artic is
 
 ![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 
-> ![[books - How to Avoid a Climate Disaster#^306587584]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^306587584]]
 
-> ![[books - How to Avoid a Climate Disaster#^306644845]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^306644845]]
 
-> ![[books - How to Avoid a Climate Disaster#^306644846]]
+> ![[10_Sources/books - How to Avoid a Climate Disaster#^306644846]]
