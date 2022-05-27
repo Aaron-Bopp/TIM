@@ -7,30 +7,24 @@ My name is Aaron and I have know Patrick for approximately, 1431 days. For those
 -   34,344 hours
 
 That takes us all the way back to freshman year of college, where I met Patrick at our Computer Science orientation.
-%% I was immediately drawn to fact that Patrick had seemingly showered, was wearing clothes that fit him, and was interested in having a conversation. %%
-As we started to chat, I remember thinking to myself that is the kind of person that I could not just get along with
+
+As we started to chat, I remember thinking to myself that this is the kind of person that I could not just get along with
 but someone that I could become very close with.
 
 I'm not sure if it what was that convinced me of this so early on.
 Maybe it was the fact that our similar backgrounds had led shared sense of humor.
-Maybe it was that fact that we both had similar goals for the future.
+Maybe it was the fact that we both had similar goals for the future.
 Or
-Maybe it was just that out of the few that talked, and the fewer that showered, we were the only ones capable of holding a conversation.
+Maybe it was just that out of many computer science students there we were the only ones capable of holding a conversation.
 
 Let me set the stage for freshman year.
 
-For those that don't know, the person sitting to my right is Jarren Jackson and was my roommate and Patrick and I's roommate Sophomore and Junior year.
-%%
-Prior to orientation I had done what any responsible introvert would and had signed up for the Tinderesque roommate app so that I could find roommate I could actually get along with.
-For those that don't know, the person I found is the other unfamiliar face sitting to my right.
-We immediately bonded over the fact that neither of seemed like serial killers,
-were self-aware enough to know we weren't exactly social butterflies,
-and that we were considerate enough to not make the next year a living hell.
-%%
-We quickly bonded over the fact that we were generally happy to ignore each other and do our own thing
+For those that don't know, the person sitting to my right is Jarren Jackson and was my roommate freshman year and Patrick and I's roommate for the rest of college.
+
+Jarren and I quickly bonded over the fact that we were generally happy to ignore each other and do our own thing
 If our freshman year was a sitcom our pitch would be:
-Two introverts living together, adjusting to the strange new environment of college, 
-and their squatter, who stays in their room for no less than 8 hours a day.
+Two introverted roommates adjusting to college life
+and their squatter, who was in their room for no less than 8 hours a day despite not living there.
 
 According to the Bureau of Labor Statistics, we socialize on average only 39 minutes per day.
 For Patrick, I would say the average is about four hours.
@@ -39,16 +33,41 @@ Patrick has a simple way of making friends,
 he's funny, smart, willing to listen and willing to talk, and most important of all he will not leave you alone.
 But despite the fact that if given the choice Jarren or I would often choose solitude, once Patrick is there you don't really want him to leave.
 
+Patrick has been gifted with a personality that is hard to hate and easy to love.
+
 Now you might think from the situation that we are in and what have heard so far that I met and became friend with Kayla through Patrick.
 
+I met Kayla mostly by happenstance, as most college friendships start, two people living in the same dorm, recognizing each other from a game of cards, and sitting together in the cafeteria.
+It was here the Kayla first met Patrick.
+In the same way that I was instantly drawn in by Patrick's wit and charisma, almost as soon as I introduced Patrick and Kayla I could feel the chemistry.
 %%
-I met Patrick again when the year started, and as many were doing went with him and some other to get our books and laptops.
-The conversation was easy and the jokes were plentiful.
-As we get back to the dorm I feel that I have fulfulled my social obligation and go to take a nap.
-no less than two hours later Patrick comes in
+It may not have been obvious in the midst of all the emotions of college life,
+but I don't see a world where Patrick and Kayla don't find each other.
 %%
+Very quickly we started to form a tight friend group,
+bonding over board games and deep conversation.
+But Patrick and Kayla bonded a different way: incessant teasing and competition.
+From stolen shoes to coveted blankets to intense rounds of Catan, the sparks were not just flying, but catching.
+The inevitability of their relationship was obvious to everyone, and when they eventually told me that they were together I quite literally screamed with joy and ran out of the room in excitement.
+
+Funnily enough, I would have known this several hours earlier if Jarren and I hadn't locked Patrick out of our room when he had come to tell us.
+The reason we refused to let him in despite his excitement,
+he had gotten Chick-fil-a without us...
+
+I still think it was justified.
+
+Over the next few years I got to see Patrick and Kaylas relationship grow 
+and also become close with the art department through KaylaKaylaKaylin... and Hannah.
+
+
+
+In addition to PAtri
+Patrick is intensely humble. Despite his repeated success in sports, academics, and professional life he is always willing to admit it when he is wrong and always willing to try to do better in the future.
 
 Kayla is one of the most lovely people I have had the pleasure of knowing. 
-She's ambitious, hard-working, and passionate about her work, but this is all powered by her childlike love for all things precious and beautiful.
+She's ambitious, hard-working, and passionate, and this is all powered by her childlike love for all things precious and beautiful.
 
-Patrick is intensely humble. Despite his repeated success in life he is always willing to admit it when he is wrong and always willing to try to do better in the future
+
+I can say without a doubt that from the very beginning I knew that Patrick and Kayla would go the distance,
+and I can say now that I can't see them stopping.
+
