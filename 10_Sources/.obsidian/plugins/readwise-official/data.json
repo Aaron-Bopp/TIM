@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 3107557,
+  "lastSavedStatusID": 4829758,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -174,7 +174,14 @@
     "Readwise/Podcasts/podcasts_Jordan Peterson Part 2 —  The Moscow Diaries.md": "14372028",
     "Readwise/Podcasts/podcasts_What To Pick Up When I Put It Down.md": "14392623",
     "Readwise/Books/books_Behave.md": "14296826",
-    "Readwise/Books/books_Darwin's Cathedral.md": "13657523"
+    "Readwise/Books/books_Darwin's Cathedral.md": "13657523",
+    "Readwise/Books/books - Debt.md": "14535351",
+    "Readwise/Tweets/tweets - Tweets From Rage Against the Christine.md": "16268838",
+    "Readwise/Tweets/tweets - Tweets From Nina Turner.md": "16292015",
+    "Readwise/Tweets/tweets - Tweets from visakan veerasamy.md": "15447840",
+    "Readwise/Tweets/tweets - Tweets From ArwenAayla ❅.md": "16308602",
+    "Readwise/Tweets/tweets - Tweets From VIERA.md": "16326716",
+    "Readwise/Tweets/tweets - Tweets From Joshua Potash.md": "16386951"
   },
   "reimportShowConfirmation": false
 }

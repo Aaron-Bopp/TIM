@@ -7,12 +7,8 @@
         "id": "6c2e0ab17f2b512d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Readwise/Books/books_Darwin's Cathedral.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Books/books_Darwin's Cathedral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
