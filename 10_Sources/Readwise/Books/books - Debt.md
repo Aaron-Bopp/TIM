@@ -262,3 +262,17 @@ It’s fascinating to note that the assumption that the notion that exchange is 
 
 ^337154906
 
+# New highlights added September 7, 2022 at 10:05 PM
+##### ^376492609
+
+
+Goto: https://readwise.io/to_kindle?action=open&asin=B00Q1HZMCW&location=5751  
+
+Paralel to Melkor whi was the greatest of the Valar  
+
+###### ^376492609q
+
+Fëanor was the greatest of the Eldar in arts and lore, but also the proudest and most selfwilled. 
+
+^376492609
+
