@@ -31,8 +31,8 @@ there may be a better solution such as
 [[Religion as a group level adaptation]].
 
 #TO/TEND/GRAFT 
-> ![[10_Sources/books - Sapiens#^308475532]]
-> ![[10_Sources/books - Sapiens#^308819700]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475532]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819700]]
 
 
 ### <hr class="footnote"/>
@@ -47,10 +47,10 @@ there may be a better solution such as
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^294570949]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^294570949]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^298292989]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^298292989]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295428836]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295428836]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295428837]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295428837]]

@@ -25,4 +25,4 @@ WHERE contains(topics, this.file.link)
 
 #### Discussion
 
-> ![[10_Sources/books - Sapiens#^297681752]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681752]]

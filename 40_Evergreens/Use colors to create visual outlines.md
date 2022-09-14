@@ -38,7 +38,7 @@ When using a [[knowledge graph]], brightness can be used to do this. Coloring th
 #### References
 
 A method for complex texts, not through color, but could easily be ascribed to highly colors
-> ![[10_Sources/articles - Making Proper Marks in Books • Zettelkasten Method#^305310567]]
+> ![[10_Sources/Readwise/Articles/articles - Making Proper Marks in Books • Zettelkasten Method#^305310567]]
 
 Example from an analog system 
-> ![[10_Sources/articles - General Principles#270306743q]]
+> ![[10_Sources/Readwise/Articles/articles - General Principles#270306743q]]

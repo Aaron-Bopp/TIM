@@ -27,4 +27,4 @@ Not only is the amount of warming inconsistent (poles are seeing a much larger r
 
 ![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^306587585]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^306587585]]

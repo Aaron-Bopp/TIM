@@ -12,8 +12,8 @@ sr-ease: 235
 
 
 Masculine traits are simply traits that appear more in men. 
-^[[[10_Sources/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]]
-[[10_Sources/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]
+^[[[10_Sources/Readwise/Articles/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]]
+[[10_Sources/Readwise/Articles/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying|The Bullied Boy: Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying]]
 
 **See**:: [[Patriarchy]], [[gender]], [[Masculinism]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

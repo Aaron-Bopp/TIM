@@ -50,4 +50,4 @@ important for:: correctly understanding [[The Indigenous Critique]] and [[Hunter
 
 ![[The Dawn of Everything by David Graeber#citation]]
 
-> ![[10_Sources/books - The Dawn of Everything#^261572339]]
+> ![[10_Sources/Readwise/Books/books - The Dawn of Everything#^261572339]]

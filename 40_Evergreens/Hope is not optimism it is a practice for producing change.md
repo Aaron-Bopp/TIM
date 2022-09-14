@@ -42,4 +42,4 @@ Even if you are [[suffering]], [[hope]] is the only path forward:
 > [[articles - Summary, part 1 & 2 We Do This 'Til We Free Us Study Guide — Radical in Progress#^nhhdke | radicalinprogress.org]]
 
 
-> ![[10_Sources/tweets - It’s Hard to Explain Jus...#^269132050]]
+> ![[10_Sources/Readwise/Tweets/tweets - It’s Hard to Explain Jus...#^269132050]]

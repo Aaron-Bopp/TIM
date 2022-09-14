@@ -12,7 +12,7 @@ sr-ease: 202
 
 #### [[Complex interaction can arise from simple properties]] 
 
-> ![[10_Sources/books - Darwin's Cathedral#^298292965]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^298292965]]
 
 explains:: [[Evolution can create systems capable of natural selection]]
 

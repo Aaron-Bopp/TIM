@@ -24,6 +24,6 @@ sr-ease: 191
 
 ## relation to [[Amygdala]]
 
-> ![[10_Sources/books - Behave#^302856296]]
+> ![[10_Sources/Readwise/Books/books - Behave#^302856296]]
 
-> ![[10_Sources/books - Behave#^302856310]]
+> ![[10_Sources/Readwise/Books/books - Behave#^302856310]]

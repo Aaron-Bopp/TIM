@@ -44,4 +44,4 @@ In [[human behavior]], this is seen as [[Social control promotes highly altruist
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
 
-> ![[10_Sources/books - Darwin's Cathedral#^310416932]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^310416932]]

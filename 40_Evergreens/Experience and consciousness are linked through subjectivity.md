@@ -15,8 +15,8 @@ sr-ease: 204
 
 [[Subjective]] does not mean unshared. We can share a subjective experience of a color with someone else. Both remarking at the beauty of maroon while being unable to know if we are seeing the same color.
 
-> ![[10_Sources/books - Being You#^314517219]]
-> ![[10_Sources/books - Being You#^314517221]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517219]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517221]]
 
 #TO/PONDER/IDEA 
 Can there be non-subjective experience?

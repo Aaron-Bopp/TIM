@@ -16,7 +16,7 @@ sr-ease: 199
 
 This is a major reason [[Greater cooperation and communication has lead to the success of humans as a species]]
 
-> ![[10_Sources/books - Darwin's Cathedral#293875904q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#293875904q]]
 
 Possible mechanism behind [[racism]], [[homophobia]], [[partisanship]]
 This could be seen as a result of [[kin selection]] but more likely [[group selection]]:
@@ -40,6 +40,6 @@ If we can stop this behavior we can overcome our biases and make it easier to le
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[10_Sources/books - Sapiens#^300574928]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^300574928]]
 
-> ![[10_Sources/books - Sapiens#^308475516]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475516]]

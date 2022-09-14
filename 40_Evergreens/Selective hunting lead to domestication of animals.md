@@ -37,8 +37,8 @@ The most intentional part of human domestication was castration and violence to 
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^297681715]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681715]]
 
-> ![[10_Sources/books - Sapiens#^297681716]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681716]]
 
-> ![[10_Sources/books - Sapiens#^297681717]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681717]]

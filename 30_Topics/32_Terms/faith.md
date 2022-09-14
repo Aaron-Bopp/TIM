@@ -31,4 +31,4 @@ WHERE contains(topics, this.file.link)
 
 #### Discussion
 
-> ![[10_Sources/books - Darwin's Cathedral#^304185857]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^304185857]]

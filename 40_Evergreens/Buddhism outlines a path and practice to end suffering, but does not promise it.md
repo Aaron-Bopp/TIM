@@ -44,8 +44,8 @@ These are similar to the [[Yama]] of [[Raja Yoga]]
 [[articleAn Introduction to Bhuddism#path]]
 
 
-> ![[10_Sources/books - Sapiens#^308819730]]
-> ![[10_Sources/books - Sapiens#^308819732]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819730]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819732]]
 
-> ![[10_Sources/books - Sapiens#^308819733]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819733]]
 

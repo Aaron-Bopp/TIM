@@ -45,4 +45,4 @@ Perhaps an acceptance that [[We are confined to the tools of our time]] will hel
 #### Examples
 
 In [[economics]]::
-> ![[10_Sources/books - Sapiens#^299110287]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299110287]]

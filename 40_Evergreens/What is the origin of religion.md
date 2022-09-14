@@ -43,7 +43,7 @@ Religion as non-adaptive
 The origin of religion must be both psychological and cultural. We need to have a reason to want to believe, and a reason to convince other's that they should believe.
 
 > [!qoute]- 
-> ![[10_Sources/books - Darwin's Cathedral#^292537214]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292537214]]
 
 - [[Social control promotes highly altruistic behavior within groups]]
 - [[Religion promotes high social control]]
@@ -57,6 +57,6 @@ The origin of religion must be both psychological and cultural. We need to have 
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[10_Sources/books - Darwin's Cathedral#^295490295]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490295]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^306962113]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^306962113]]

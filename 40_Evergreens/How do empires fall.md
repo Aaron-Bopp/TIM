@@ -14,7 +14,7 @@ sr-ease: 250
 #### [[How do empires fall]]
 
 
-> ![[10_Sources/books - Sapiens#308475523]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#308475523]]
 
 
 ### <hr class="footnote"/>

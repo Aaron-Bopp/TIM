@@ -12,7 +12,7 @@ sr-ease: 230
 
 #### [[Graves of ancient mammoth-hunters were vastly decorated]] 
 
-> ![[10_Sources/books - Sapiens#^296601917]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^296601917]]
 
 - shows:: [[Hunter-gathers were capable of mass cooperation]]
 - part of:: [[Hunter-gatherer societies were very diverse]]

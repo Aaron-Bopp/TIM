@@ -47,6 +47,6 @@ leads to:: [[You need to take what you read out of context]]
 
 #### References
 
-![[10_Sources/articles - Why Books Don't Work#citation]]
+![[10_Sources/Readwise/Articles/articles - Why Books Don't Work#citation]]
 
-> ![[10_Sources/articles - Why Books Don't Work#^306125202]]
+> ![[10_Sources/Readwise/Articles/articles - Why Books Don't Work#^306125202]]

@@ -35,6 +35,6 @@ In [[note writing]], notes that are used to organize other notes or information,
 %% DO NOT EDIT ABOVE %%
 
 #### Discussion
-> ![[10_Sources/articles - A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244870]]
+> ![[10_Sources/Readwise/Articles/articles - A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244870]]
 
-> ![[10_Sources/articles - A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244871]]
+> ![[10_Sources/Readwise/Articles/articles - A Tale of Complexity – Structural Layers in Note Taking • Zettelkasten Method#^305244871]]

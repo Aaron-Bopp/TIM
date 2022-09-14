@@ -12,7 +12,7 @@ sr-ease: 249
 
 #### [[Natural selection can be seen within generations]] 
 
-> ![[10_Sources/books - Darwin's Cathedral#^297089502]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^297089502]]
 
 ### <hr class="footnote"/>
 

@@ -48,4 +48,4 @@ Alternatively:: [[social order]].
 
 #### Discussion
 
-> ![[10_Sources/books - Darwin's Cathedral#^292550146]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292550146]]

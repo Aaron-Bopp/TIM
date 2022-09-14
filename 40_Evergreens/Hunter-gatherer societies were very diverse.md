@@ -38,10 +38,10 @@ includes:: [[Hunter-gathers were capable of mass cooperation]]
 
 ![[The Dawn of Everything by David Graeber#citation]]
 
-> ![[10_Sources/books - The Dawn of Everything#^258309239]]
+> ![[10_Sources/Readwise/Books/books - The Dawn of Everything#^258309239]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^297089486]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297089486]]
 
-> ![[10_Sources/books - Sapiens#^294248524]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^294248524]]

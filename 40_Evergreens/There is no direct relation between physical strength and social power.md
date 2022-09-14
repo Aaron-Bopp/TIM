@@ -29,7 +29,7 @@ Therefore, this is likely not the
 answer of:: [[What is the origin of patriarchy]]
 
 #TO/TEND/GRAFT 
-> ![[10_Sources/articles - Greater Strength Drives Difference in Power Between Sexes in the Conventional Deadlift Exercise#^310998050]]
+> ![[10_Sources/Readwise/Articles/articles - Greater Strength Drives Difference in Power Between Sexes in the Conventional Deadlift Exercise#^310998050]]
 
 ### <hr class="footnote"/>
 
@@ -43,8 +43,8 @@ answer of:: [[What is the origin of patriarchy]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^299523054]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299523054]]
 
-> ![[10_Sources/books - Sapiens#^299523052]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299523052]]
 
-> ![[10_Sources/books - Sapiens#^299523053]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299523053]]

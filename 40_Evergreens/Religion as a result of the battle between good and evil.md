@@ -15,10 +15,10 @@ sr-ease: 237
 
 answers:: [[What is the origin of religion]]
 
-> ![[10_Sources/books - Sapiens#^308819710]]
-> ![[10_Sources/books - Sapiens#^308819711]]
-> ![[10_Sources/books - Sapiens#^308819713]]
-> ![[10_Sources/books - Sapiens#^308819714]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819710]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819711]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819713]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819714]]
 
 ### <hr class="footnote"/>
 

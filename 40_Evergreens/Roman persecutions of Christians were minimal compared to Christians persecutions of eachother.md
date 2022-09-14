@@ -15,9 +15,9 @@ sr-ease: 230
 
 explained by:: [[Romans only required political loyalty]]
 
-> ![[10_Sources/books - Sapiens#^308819747]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819747]]
 
-> ![[10_Sources/books - Sapiens#^308819705]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819705]]
 
 ### <hr class="footnote"/>
 

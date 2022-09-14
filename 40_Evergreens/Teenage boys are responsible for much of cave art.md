@@ -18,7 +18,7 @@ sr-ease: 210
 Different cave
 > ![[10_Sources/Readwise/Books/10_Sources/books - The Anthropocene Reviewed#287295946q]]
 
-> ![[10_Sources/books - Sapiens#^296601910]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^296601910]]
 
 [Very good cave paintings - YouTube](https://www.youtube.com/watch?v=PE0vmzJq_Cs)
 

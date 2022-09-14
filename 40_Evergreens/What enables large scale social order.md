@@ -30,8 +30,8 @@ it only came to govern our daily lives after [[The Agricultural Revolution]].
 Two solutions are proposed by Harari, [[mythology]] and [[cooperation]].
 
 > [!masonry]
->  > ![[10_Sources/books - Sapiens#^297681731]]
->  > ![[10_Sources/books - Sapiens#^297681732]]
+>  > ![[10_Sources/Readwise/Books/books - Sapiens#^297681731]]
+>  > ![[10_Sources/Readwise/Books/books - Sapiens#^297681732]]
 
 He then cites [[Hammurabi's code]] and [[The Founding Fathers]] as examples. 
 These were two revolutionary systems of social organization.
@@ -48,14 +48,14 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 > [!cite]- [[The Dawn of Everything by David Graeber]]
 > 
-> ![[10_Sources/books - The Dawn of Everything#^261572334]]
+> ![[10_Sources/Readwise/Books/books - The Dawn of Everything#^261572334]]
 
 ##### [[empires]]
 
 [[Empires are born through conquest and maintained by bureaucracy]]
 
-> ![[10_Sources/books - Sapiens#^308475511]]
-> ![[10_Sources/books - Sapiens#^308475512]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475511]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475512]]
 
 
 ### <hr class="footnote"/>
@@ -70,8 +70,8 @@ If the [[social order]] we are talking about is [[capitalism]] then the origin i
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^297681739]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681739]]
 
-> ![[10_Sources/books - Sapiens#^297681757]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681757]]
 
-> ![[10_Sources/books - Sapiens#^297681730]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681730]]

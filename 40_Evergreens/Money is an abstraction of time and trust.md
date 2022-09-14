@@ -15,8 +15,8 @@ sr-ease: 224
 
 part of:: [[Money is something that is easy to imagine]]
 
-> ![[10_Sources/books - Sapiens#^308153759]]
-> ![[10_Sources/books - Sapiens#^308153762]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153759]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153762]]
 
 This allows for
 [[90% of money exists only on computer servers]]
@@ -24,11 +24,11 @@ This allows for
 This is why counterfeiting is a more serious crime than most forms of deception. When you counterfeit, you break the [[inter-subjective]] reality of [[shared belief]] or [[Imagined reality]].
 
 
-> ![[10_Sources/books - Sapiens#^308153771]]
-> ![[10_Sources/books - Sapiens#^308153772]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153771]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153772]]
 
 
-> ![[10_Sources/books - Sapiens#^313029652]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^313029652]]
 
 #TO/TEND/GRAFT 
 - [[Barter economy is limited by speed of communication]]
@@ -43,4 +43,4 @@ This is why counterfeiting is a more serious crime than most forms of deception.
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[10_Sources/books - Sapiens#^308153766]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153766]]

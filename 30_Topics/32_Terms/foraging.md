@@ -43,5 +43,5 @@ But eventually [[Farming outcompeted foraging by allowing for higher populations
 
 #### Foraging was not simply about survival 
 
-> ![[10_Sources/books - Sapiens#^297094622]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297094622]]
 

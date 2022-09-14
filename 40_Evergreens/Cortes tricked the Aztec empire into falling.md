@@ -13,7 +13,7 @@ sr-ease: 250
 
 #### [[Cortes tricked the Aztec empire into falling]]
 
-> ![[10_Sources/books - Sapiens#^311187111]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^311187111]]
 
 ### <hr class="footnote"/>
 

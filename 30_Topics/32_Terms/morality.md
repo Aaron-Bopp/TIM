@@ -18,7 +18,7 @@ sr-ease: 211
 > Morality can be a body of standards or principles derived from a code of conduct from a particular [[philosophy]], [[religion]] or [[culture]], or it can derive from a standard that a person believes should be universal. Morality may also be specifically synonymous with "goodness" or "rightness".
 > 
 
-> ![[10_Sources/articles - Highlights From philosophy.ucsc.edu#^212218154]]
+> ![[10_Sources/Readwise/Articles/articles - Highlights From philosophy.ucsc.edu#^212218154]]
 
 
 ##### ^dataviews

@@ -19,7 +19,7 @@ the only real explanation we have for these differences are the opportunities an
 
 > [!example]- Examples from [[Behave by Robert M. Sapolsky]]
 > 
-> ![[10_Sources/books - Behave#^304866746]]
+> ![[10_Sources/Readwise/Books/books - Behave#^304866746]]
 
 - displayed in:: [[Colonization and slavery lead to generational disparities in black communities]]
 
@@ -41,4 +41,4 @@ through various different frameworks.
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 
-> ![[10_Sources/books - Sapiens#^299110300]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299110300]]

@@ -20,13 +20,13 @@ This is an
 example of:: [[emergence]] 
 because [[Individual selection is an emergent mechanic of group selection]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^292936698]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292936698]]
 
 think of the mind as an [[immune system]]: [[The immune system is adaptive]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^292936692]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292936692]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^292936699]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292936699]]
 
 ### <hr class="footnote"/>
 

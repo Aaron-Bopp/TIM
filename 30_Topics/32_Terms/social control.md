@@ -25,16 +25,16 @@ sr-ease: 184
 
 ### Social control and altruism
 
-> ![[10_Sources/books - Darwin's Cathedral#289554239q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#289554239q]]
 
 We can see the path here for the [[adaptation]] and [[Evolution]] of social control.
 [[reciprocal altruism]] and social control work in a [[feedback loop]].
 
 
 ### Importance of social control
-> ![[10_Sources/books - Darwin's Cathedral#289554240q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#289554240q]]
 #### Example:: social control in [[hunter-gatherers]]
-> ![[10_Sources/books - Darwin's Cathedral#293875904q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#293875904q]]
 
 **See**:: [[religion]], [[human behavior]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

@@ -29,7 +29,7 @@ how:: [[Oppressors invent reasoning for their oppression]].
 
 #### References 
 
-> ![[10_Sources/books - Sapiens#^299110299]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299110299]]
 
 In this way,
 hierarchy enables stereotyping

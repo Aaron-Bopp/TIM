@@ -13,7 +13,7 @@ sr-ease: 206
 #### [[How can parent's best help their children]] 
 
 
-> ![[10_Sources/tweets - People Often Ask Me How...#249709299q]]
+> ![[10_Sources/Readwise/Tweets/tweets - People Often Ask Me How...#249709299q]]
 
 - What do parents need to do
 	- [[Parents need to model the ability to deal with emotion to their children]]

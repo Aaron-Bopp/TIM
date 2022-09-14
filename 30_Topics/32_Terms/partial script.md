@@ -13,7 +13,7 @@ sr-ease: 241
 #### <s class="topic-title">[[partial script]]</s>
 
 Writing that represents a limited amount of [[information]], usually pertaining to a specific field.
-^[[[10_Sources/books - Sapiens#^298648752]]]
+^[[[10_Sources/Readwise/Books/books - Sapiens#^298648752]]]
 
 **See**:: [[full script]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

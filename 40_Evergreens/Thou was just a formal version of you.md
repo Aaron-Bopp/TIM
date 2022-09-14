@@ -12,7 +12,7 @@ sr-ease: 250
 
 #### [[Thou was just a formal version of you]] 
 
-> ![[10_Sources/tweets - Tweets From 🐸 Frog Time 🐸#261542754q]]
+> ![[10_Sources/Readwise/Tweets/tweets - Tweets From 🐸 Frog Time 🐸#261542754q]]
 
 ### <hr class="footnote"/>
 

@@ -21,11 +21,11 @@ Unless you bowed to the Roman gods, you would be swiftly destroyed by the Roman 
 
 > [!example] Numantia
 > 
-> ![[10_Sources/books - Sapiens#^308153777]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153777]]
 
 > [!example] Scotland
 > 
-> ![[10_Sources/books - Sapiens#^308475513]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475513]]
 
 
 ### <hr class="footnote"/>

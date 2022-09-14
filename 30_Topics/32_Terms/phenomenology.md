@@ -13,7 +13,7 @@ sr-ease: 231
 
 #### <s class="topic-title">[[phenomenology]]</s>
 
-> ![[10_Sources/books - Being You#^314517219]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517219]]
 
 > [!wikipedia] [Phenomenology (philosophy)](https://en.wikipedia.org/wiki/Phenomenology%20(philosophy))
 > 

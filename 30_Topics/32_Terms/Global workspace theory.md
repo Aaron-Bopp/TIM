@@ -48,6 +48,6 @@ We can do work in the global workspace, but we may be drawn away.
 #### Discussion
 
 
-> ![[10_Sources/books - Being You#^314517229]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517229]]
 
 This relates [[consciousness]] more to [[attention]] than it does to [[experience]] and does not reflect on the [[subjective]] nature of consciousness or 

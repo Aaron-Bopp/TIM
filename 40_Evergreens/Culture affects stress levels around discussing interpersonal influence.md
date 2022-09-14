@@ -12,7 +12,7 @@ sr-ease: 226
 
 #### [[Culture affects stress levels around discussing interpersonal influence]] 
 
-> ![[10_Sources/books - Behave#^304866741]]
+> ![[10_Sources/Readwise/Books/books - Behave#^304866741]]
 
 This would suggest that American's are more comfortable influencing people, and East Asian's are more comfortable being influenced, but there are many other explanations for these reactions.
 One explanation could be differences in when influence is encouraged.
@@ -20,7 +20,7 @@ This study was likely conducted on college students.
 East Asian culture seems to value age much more than American Culture, and it would seem reasonable that college age students would be much more encouraged to be influenced than to influence.
 Perhaps if this study was conducted on all ages, the differences would be less pronounced.
 
-> ![[10_Sources/books - Behave#^304866738]]
+> ![[10_Sources/Readwise/Books/books - Behave#^304866738]]
 
 - answers:: [[How does culture effect social incentives]]
 

@@ -12,9 +12,9 @@ sr-ease: 248
 
 #### <s class="topic-title">[[The Indigenous Critique]]</s>
 
-As described in [[10_Sources/books - The Dawn of Everything]]
+As described in [[10_Sources/Readwise/Books/books - The Dawn of Everything]]
 
-> ![[10_Sources/books - The Dawn of Everything#The indigenous critique and the myth of progress]]
+> ![[10_Sources/Readwise/Books/books - The Dawn of Everything#The indigenous critique and the myth of progress]]
 
 ##### ^dataviews
 

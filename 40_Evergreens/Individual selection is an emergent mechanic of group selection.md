@@ -13,7 +13,7 @@ sr-ease: 210
 #### [[Individual selection is an emergent mechanic of group selection]] 
 
 
-> ![[10_Sources/books - The Fabric of Reality#^288838107]]
+> ![[10_Sources/Readwise/Books/books - The Fabric of Reality#^288838107]]
 
 [[Highly integrated social control allows groups to act as adaptive units]] 
 and 

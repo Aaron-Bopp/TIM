@@ -12,7 +12,7 @@ sr-ease: 248
 
 #### [[The capitals of Roman and Mayan empires were the same size]]
 
-> ![[10_Sources/books - Sapiens#^300574925]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^300574925]]
 
 ### <hr class="footnote"/>
 

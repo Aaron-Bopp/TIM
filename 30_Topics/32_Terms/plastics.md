@@ -13,7 +13,7 @@ sr-ease: 231
 #### <s class="topic-title">[[plastics]]</s>
 
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344251]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344251]]
 
 
 > [!wikipedia] [plastics](https://en.wikipedia.org/wiki/Plastic)

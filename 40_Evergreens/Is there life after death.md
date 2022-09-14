@@ -28,6 +28,6 @@ Take the feeling of lost time after [[anesthesia]] and extend it out forever.
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
 #### References
-> ![[10_Sources/books - Being You#^314506800]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314506800]]
 
-> ![[10_Sources/books - Being You#^308153746]]
+> ![[10_Sources/Readwise/Books/books - Being You#^308153746]]

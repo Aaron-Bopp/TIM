@@ -25,9 +25,9 @@ A collection of cells near the base of the [[brain]]. There are two, one in each
 The right and left portions of the amygdala have independent memory systems, but work together to store, encode, and interpret emotion.
 
 
-> ![[10_Sources/books - Behave#^302856289]]
+> ![[10_Sources/Readwise/Books/books - Behave#^302856289]]
 
 
 The amygdala in humans is surrounded by the [[BLA]] which helps us learn new reactions to stimuli
 
-> ![[10_Sources/books - Behave#^303474533]]
+> ![[10_Sources/Readwise/Books/books - Behave#^303474533]]

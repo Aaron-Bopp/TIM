@@ -24,9 +24,9 @@ How something is named effects people's [[perception]] of it.
 - [[American's are scared of the word communism not it's meaning]]
  
 
-> ![[10_Sources/books - Behave#^301731327]]
+> ![[10_Sources/Readwise/Books/books - Behave#^301731327]]
 
-> ![[10_Sources/books - Behave#^301731147]]
+> ![[10_Sources/Readwise/Books/books - Behave#^301731147]]
 
 ### <hr class="footnote"/>
 

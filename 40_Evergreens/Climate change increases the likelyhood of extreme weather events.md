@@ -27,10 +27,10 @@ We also have evidence that this making storms and more intense, causing increasi
 
 #### References
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^306587591]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^306587591]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^306587594]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^306587594]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^306587592]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^306587592]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^306644844]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^306644844]]

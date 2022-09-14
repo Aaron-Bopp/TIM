@@ -12,7 +12,7 @@ sr-ease: 150
 
 #### [[The Christian worldview is incompatible with most other worldviews]] 
 
-> ![[10_Sources/books - Darwin's Cathedral#292537212q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#292537212q]]
 
 ```juggl
 workspace: Belief GvB PvS

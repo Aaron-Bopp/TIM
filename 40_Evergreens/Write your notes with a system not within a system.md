@@ -39,4 +39,4 @@ and [[When in doubt, write what you think]].
 
 > ![[10_Sources/Readwise/Articles/10_Sources/articles - No, Luhmann was not about Folgezettel • Zettelkasten Method#^273533420]]
 
-> ![[10_Sources/articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003290]]
+> ![[10_Sources/Readwise/Articles/articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003290]]

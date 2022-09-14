@@ -13,7 +13,7 @@ sr-ease: 210
 #### [[How memory works]] 
 
 
-> ![[10_Sources/books - Sapiens#^298648743]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^298648743]]
 
 Terms:: [[Forgetting Curve]], [[Active Recall]]
 

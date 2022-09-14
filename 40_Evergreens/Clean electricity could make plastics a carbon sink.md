@@ -19,9 +19,9 @@ This carbon would stay in the plastic until the plastic degrades--which takes hu
 
 A similar but less efficient process could take place for [[concrete]].
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344252]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344252]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308667892]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308667892]]
 
 
 ### <hr class="footnote"/>
@@ -36,4 +36,4 @@ A similar but less efficient process could take place for [[concrete]].
 
 ![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344253]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344253]]

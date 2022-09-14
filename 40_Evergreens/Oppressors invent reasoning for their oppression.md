@@ -16,7 +16,7 @@ This is
 because:: [[Hierarchy enables oppression]]
 and oppressors need reasoning to justify and reinforce their [[social hierarchy]].
 
-> ![[10_Sources/books - Sapiens#^297681743]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681743]]
 >
 > <cite>[[Yuval Noah Harari]]</cite>
 
@@ -43,6 +43,6 @@ We can see this in:
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^299110293]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299110293]]
 
-> ![[10_Sources/books - Sapiens#^299110296]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299110296]]

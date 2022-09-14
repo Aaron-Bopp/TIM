@@ -19,7 +19,7 @@ sr-ease: 234
 
 Used in [[Evolutionary Biology]] to describe traits that are present but haven't been selected for. Coined by Gould and Lewontin.
 
-In:: [[10_Sources/books - Darwin's Cathedral#294293305q|Darwin's Cathedral]]
+In:: [[10_Sources/Readwise/Books/books - Darwin's Cathedral#294293305q|Darwin's Cathedral]]
 
 **See**:: [[Sticky concepts]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

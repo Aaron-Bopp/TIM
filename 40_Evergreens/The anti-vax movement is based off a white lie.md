@@ -20,7 +20,7 @@ The original study that started the [[anti-vax]] movement has been rescinded by 
 
 The [[anti-vax]] movement absolutely exploded during the COVID-19 pandemic which only accelerated the [[Rise of Misinformation in America]]. See [What Is The Future For Vaccines (and Trust)? - YouTube](https://www.youtube.com/watch?v=5iABaxRWGxk)
 
-#TO/EXPLORE/RESEARCH other causes of this belief [[10_Sources/articles - COVID-19 and the Other Pandemic|COVID-19 and the Other Pandemic]]
+#TO/EXPLORE/RESEARCH other causes of this belief [[10_Sources/Readwise/Articles/articles - COVID-19 and the Other Pandemic|COVID-19 and the Other Pandemic]]
 
 - [[MAGA is built off nostalgia not facts]]
 - [[Creationism built an anti-science culture]]

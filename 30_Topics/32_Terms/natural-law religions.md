@@ -16,11 +16,11 @@ sr-ease: 231
 
 #TO/TEND/WATER 
 
-> ![[10_Sources/books - Sapiens#^308819736]]
-> ![[10_Sources/books - Sapiens#^308819734]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819736]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819734]]
 
-> ![[10_Sources/books - Sapiens#^308819737]]
-> ![[10_Sources/books - Sapiens#^308819738]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819737]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819738]]
 
 
 

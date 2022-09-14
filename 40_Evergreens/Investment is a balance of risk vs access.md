@@ -29,7 +29,7 @@ The downside of a [[401k]] are that you will pay capital gains tax on the money 
 A [[Roth IRA]] is also a long term fund, but it's benefits are slightly different. Roth IRA's are contributed to post-tax, but you don't have to pay capital gains tax on the money you receive.
 The amount you can contribute is much less, ^[$6000] but the money is slightly more accessible
 
-> ![[10_Sources/articles - Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab#261781435q]]
+> ![[10_Sources/Readwise/Articles/articles - Roth IRA Withdrawal Rules  Withdrawal From Roth IRA  Charles Schwab#261781435q]]
 
  ### <hr class="footnote"/>
 

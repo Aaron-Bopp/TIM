@@ -38,4 +38,4 @@ Inversely:: [[Individualism]]
 
 %% DO NOT EDIT ABOVE %%
 
-> **In** ![[10_Sources/books - Behave#^304866742]]
+> **In** ![[10_Sources/Readwise/Books/books - Behave#^304866742]]

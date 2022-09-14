@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[Neurodiverse people can use their brain to their advantage]] 
 
-![[FFnWMovXMAQs6qm.jpg|med]]   ^[[[10_Sources/tweets - Tweets From Zami Draws ADHD Comics ✨|Tweets From Zami Draws ADHD Comics ✨]]]
+![[FFnWMovXMAQs6qm.jpg|med]]   ^[[[10_Sources/Readwise/Tweets/tweets - Tweets From Zami Draws ADHD Comics ✨|Tweets From Zami Draws ADHD Comics ✨]]]
 
 > if you think "oh gosh I can't slow down, my mind goes a million miles a minute", put that mf to work. write down every word
 > ^[https://twitter.com/visakanv/status/1450289708802605056]

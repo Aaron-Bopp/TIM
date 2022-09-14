@@ -32,8 +32,8 @@ sr-ease: 150
 
 > Those people who speak of masculinity as an essence, as an inborn characteristic, are confusing [[masculinity]] with [[masculinism]], the masculine ideology. Masculinism is the ideology that justifies and naturalizes male domination.
 > 
-> <cite>[[10_Sources/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#240545710|Arthur Brittan]]</cite>
+> <cite>[[10_Sources/Readwise/Articles/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#240545710|Arthur Brittan]]</cite>
 
 > For boys, then, the question is not whether to take on a typical male sex role, but rather how to position themselves according to the masculine discourses available to them.
 > 
-> <cite>[[10_Sources/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#240545710|Paul Horton]]</cite>
+> <cite>[[10_Sources/Readwise/Articles/articles - The Bullied Boy Masculinity, Embodiment, and the Gendered Social-Ecology of Vietnamese School Bullying#240545710|Paul Horton]]</cite>

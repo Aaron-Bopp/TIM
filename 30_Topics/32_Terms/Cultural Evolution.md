@@ -18,11 +18,11 @@ sr-ease: 214
 > 
 > Today, cultural evolution has become the basis for a growing field of scientific research in the social sciences, including [[anthropology]], [[economy|economics]], [[psychology]] and organizational studies. Previously, it was believed that social change resulted from biological adaptations, but anthropologists now commonly accept that social changes arise in consequence of a combination of social, evolutionary and biological influences. 
 
-In [[10_Sources/books - Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] describes four insights into [[Cultural Evolution]] from [[group selection]].
-1. Cultural evolution requires specialized genetic mechanisms to take place ^[[[10_Sources/books - Darwin's Cathedral#292936699q]]]
-2. Many of these mechanisms are [[unconscious]] ^[[[10_Sources/books - Darwin's Cathedral#292936700q]]]
-3. These mechanisms can be distributed among many individuals ^[[[10_Sources/books - Darwin's Cathedral#293875894q]]]
-4. Cultural evolution takes place at the group level ^[[[10_Sources/books - Darwin's Cathedral#293875895q]]] 
+In [[10_Sources/Readwise/Books/books - Darwin's Cathedral|Darwin's Cathedral]] [[David Sloan Wilson]] describes four insights into [[Cultural Evolution]] from [[group selection]].
+1. Cultural evolution requires specialized genetic mechanisms to take place ^[[[10_Sources/Readwise/Books/books - Darwin's Cathedral#292936699q]]]
+2. Many of these mechanisms are [[unconscious]] ^[[[10_Sources/Readwise/Books/books - Darwin's Cathedral#292936700q]]]
+3. These mechanisms can be distributed among many individuals ^[[[10_Sources/Readwise/Books/books - Darwin's Cathedral#293875894q]]]
+4. Cultural evolution takes place at the group level ^[[[10_Sources/Readwise/Books/books - Darwin's Cathedral#293875895q]]] 
 
 ^68bb63
 
@@ -49,4 +49,4 @@ He concludes that [[Cultural evolution is not confined to the slow process of ge
 
 #### Discussion
 
-> ![[10_Sources/books - Sapiens#294931431q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294931431q]]

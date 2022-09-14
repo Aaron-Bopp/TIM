@@ -22,4 +22,4 @@ Counterpart to the [[Sympathetic Nervous System]] in the [[ANS]]. Heavily involv
 >
 
 
-> ![[10_Sources/books - Behave#^301731160]]
+> ![[10_Sources/Readwise/Books/books - Behave#^301731160]]

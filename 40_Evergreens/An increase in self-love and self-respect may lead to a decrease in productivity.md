@@ -42,6 +42,6 @@ The problem is that you have been running for your entire life just and now that
 > <cite>[[@mykola on Twitter]]</cite>
 
 > You can get it back with proper fostering of intrinsic motivation...If you disarm the fear and shame responses, you need to do it in tandem with building up [[self-belief]]. This is why I think coaching helps for a lot of people.
-^[[[10_Sources/tweets - Tweets From Rory - ADHD Autistic OCD#271928246q]]]
+^[[[10_Sources/Readwise/Tweets/tweets - Tweets From Rory - ADHD Autistic OCD#271928246q]]]
 >
 > <cite>[[@roryreckons on Twitter|Rory McCarthy]]</cite>

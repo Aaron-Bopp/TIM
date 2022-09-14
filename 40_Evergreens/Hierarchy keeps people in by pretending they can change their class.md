@@ -17,9 +17,9 @@ This was seen in the Hindu caste system, and especially preyed on the individual
 
 > [!example]- [[Trevor Noah]]'s autobiography talks about the way this was used in [[Apartheid]] [[South Africa]]
 > 
-> ![[10_Sources/books - Born a Crime#^306654920]]
-> ![[10_Sources/books - Born a Crime#^306654914]]
-> ![[10_Sources/books - Born a Crime#^306654917]]
+> ![[10_Sources/Readwise/Books/books - Born a Crime#^306654920]]
+> ![[10_Sources/Readwise/Books/books - Born a Crime#^306654914]]
+> ![[10_Sources/Readwise/Books/books - Born a Crime#^306654917]]
 
 This can also be seen in [[capitalism]]:
 > ![[Capitalism runs on class division#^0c0a41]]
@@ -38,4 +38,4 @@ This can also be seen in [[capitalism]]:
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^299110304]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^299110304]]

@@ -14,9 +14,9 @@ sr-ease: 245
 #### [[Consciousness as awareness of experience]]
 
 A [[philosophical zombie]] is experiencing the world but is not aware of it's experience
-> ![[10_Sources/books - Being You#^314517222]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517222]]
 
-> ![[10_Sources/books - Being You#^314517223]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517223]]
 
 
 ### <hr class="footnote"/>

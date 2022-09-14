@@ -28,8 +28,8 @@ sr-ease: 196
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295428840]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295428840]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^298292999]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^298292999]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^292537212]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^292537212]]

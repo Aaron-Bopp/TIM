@@ -18,7 +18,7 @@ sr-ease: 231
 > Cements used in construction are usually inorganic, often lime or calcium silicate based, which can be characterized as non-hydraulic or hydraulic respectively, depending on the ability of the cement to set in the presence of water.
 > 
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344250]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344250]]
 
 ##### ^dataviews
 

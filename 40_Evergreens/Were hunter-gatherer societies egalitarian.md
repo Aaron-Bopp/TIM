@@ -36,6 +36,6 @@ This lines up with his belief that [[Social control promotes highly altruistic b
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^291449824]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^291449824]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^291449825]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^291449825]]

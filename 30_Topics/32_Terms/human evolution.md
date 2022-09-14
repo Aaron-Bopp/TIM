@@ -49,20 +49,20 @@ Human's mastery of [[language]] is key to our abilities to understand each other
 #### Social cooperation
 
 Our ability to communicate subjective matter's like emotions and feelings allows us to understand eachother socially unlike any other species. This increases our ability to trust and also our ability to know when not to trust.
-^[[[10_Sources/books - Sapiens#294248528q]]]
+^[[[10_Sources/Readwise/Books/books - Sapiens#294248528q]]]
 
 #### [[Symbolism]]
 
 [[Communication]] continues to lead the way as we start to construct symbols to more easily to transfer [[information]] to new generations. 
-^[[[10_Sources/books - Sapiens#294248530q]]]
+^[[[10_Sources/Readwise/Books/books - Sapiens#294248530q]]]
 
 [[Social order is built off of a shared belief in an imagined reality]]
 
 #### [[Social control]]
 
-> ![[10_Sources/books - Sapiens#294248529q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294248529q]]
 
-> ![[10_Sources/books - Sapiens#294618333q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294618333q]]
 
 #### Advancement to today
 

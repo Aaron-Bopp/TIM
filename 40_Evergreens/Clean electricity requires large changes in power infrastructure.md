@@ -10,14 +10,14 @@ tags: created/2022/05/03, review, node/evergreen/claim
 #### [[Clean electricity requires large changes in power infrastructure]]
 
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344236]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344236]]
 
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344237]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344237]]
 
 We will also need more to support industrial processes that can no longer use [[fossil fuels]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308667891]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308667891]]
 
 
 

@@ -12,14 +12,14 @@ sr-ease: 210
 
 #### [[When luxury becomes a necessity it is no longer a luxury]] 
 
-> ![[10_Sources/books - Sapiens#^297301087]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297301087]]
 > <Cite>[[Yuval Noah Harari]]</Cite>
 
 - similarly:: [[The injustice of endurance]]
 - Displayed by:: [[Farming prevented a return to foraging for early humans]]
 
 In contrast, luxury also allows for [[Culture]]
-> ![[10_Sources/books - Sapiens#^308475514]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475514]]
 
 ### <hr class="footnote"/>
 
@@ -31,7 +31,7 @@ In contrast, luxury also allows for [[Culture]]
 
 #### References
 
-> ![[10_Sources/books - Sapiens#^297681718]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681718]]
 
 
-> ![[10_Sources/books - Sapiens#^297681727]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681727]]

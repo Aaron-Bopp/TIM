@@ -34,11 +34,11 @@ Climate predictions have usually been accurate, and when they haven't bee it is 
 
 > [!cite]- How [[Bill Gates]] breaks it down
 > 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344234]]
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344247]]
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344254]]
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344255]]
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^308344256]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344234]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344247]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344254]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344255]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^308344256]]
 
 
 ### <hr class="footnote"/>
@@ -53,6 +53,6 @@ Climate predictions have usually been accurate, and when they haven't bee it is 
 
 ![[How to Avoid a Climate Disaster by Bill Gates#^citation]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^307323240]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^307323240]]
 
-> ![[10_Sources/books - How to Avoid a Climate Disaster#^307323243]]
+> ![[10_Sources/Readwise/Books/books - How to Avoid a Climate Disaster#^307323243]]

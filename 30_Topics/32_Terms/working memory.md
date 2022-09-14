@@ -41,8 +41,8 @@ sr-ease: 252
 
 #### Research
 
-> [!abstract] Abstract: [[10_Sources/articles - Working Memory Underpins Cognitive Development, Learning, and Education]]
+> [!abstract] Abstract: [[10_Sources/Readwise/Articles/articles - Working Memory Underpins Cognitive Development, Learning, and Education]]
 > 
-> ![[10_Sources/articles - Working Memory Underpins Cognitive Development, Learning, and Education#^306125208]]
+> ![[10_Sources/Readwise/Articles/articles - Working Memory Underpins Cognitive Development, Learning, and Education#^306125208]]
 
 

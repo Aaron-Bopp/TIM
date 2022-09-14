@@ -14,7 +14,7 @@ sr-ease: 226
 #### [[How did Indigenous American culture change between first contact with Europeans and full colonization]]
 
 
-> ![[10_Sources/books - Sapiens#^300574927]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^300574927]]
 
 includes:: [[Native Americans died in droves to European diseases]]
 

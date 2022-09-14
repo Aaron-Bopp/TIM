@@ -47,6 +47,6 @@ sr-ease: 236
 #### Discussion
 
  
-> ![[10_Sources/books - The Fabric of Reality#^287471892]]
+> ![[10_Sources/Readwise/Books/books - The Fabric of Reality#^287471892]]
 
  ![[images!xkcd_435.png]]

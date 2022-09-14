@@ -12,7 +12,7 @@ sr-ease: 210
 
 #### [[Evolutionary Psychology is just a framework not a prescription of behavior]] 
 
-> ![[10_Sources/books - Darwin's Cathedral#292550153q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#292550153q]]
 > <cite>[[David Sloan Wilson]]</cite>
 
 [[Evolutionary Psychology]] was never meant to be the end all be all of describing and predicting [[behavior]].
@@ -55,4 +55,4 @@ a starting point.
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^298292995]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^298292995]]

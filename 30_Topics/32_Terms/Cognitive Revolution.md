@@ -12,12 +12,12 @@ sr-ease: 238
 
 #### <s class="topic-title">[[Cognitive Revolution]]</s>
 
-Term from [[10_Sources/books - Sapiens|Sapiens by Yuval Noah Harari]].
-> ![[10_Sources/books - Sapiens#294248527q]]
+Term from [[10_Sources/Readwise/Books/books - Sapiens|Sapiens by Yuval Noah Harari]].
+> ![[10_Sources/Readwise/Books/books - Sapiens#294248527q]]
 
-> ![[10_Sources/books - Sapiens#294248526q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294248526q]]
 
-> ![[10_Sources/books - Sapiens#294248528q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294248528q]]
 
 ##### ^dataviews
 

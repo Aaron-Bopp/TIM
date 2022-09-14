@@ -31,10 +31,10 @@ leads to:: [[Greater cooperation and communication has lead to the success of hu
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295490290]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490290]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295490288]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490288]]
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#^294248528]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^294248528]]

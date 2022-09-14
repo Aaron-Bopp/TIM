@@ -24,7 +24,7 @@ In order to see what evolves via group selection (or where group selection is th
 2. Compare fitness of individuals within groups
 3. Compare fitness of groups in the total population
 
-In [[10_Sources/books - Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
+In [[10_Sources/Readwise/Books/books - Darwin's Cathedral|Darwin's Cathedral]], [[David Sloan Wilson]] outlines two caveats for group selection to apply to any trait. 
 The first of these is that not every group is an adaptive unit; If there is not competition between groups, there is not a driving force for [[group selection]] to take advantage of. 
 The second is that groups must be defined for any given trait relative to the context that trait is meaningful in. He claims that every other theory of group selection (one's that rely on [[kin selection]] or [[game theory]]) can be explained using [[group selection]] if you follow these rules. 
 ^e8dce2
@@ -51,7 +51,7 @@ This makes discussions around group selection veer much more towards [[Psycholog
 The history of group selection is an interesting one, but our modern conception reflects ideas that have been around since the hypothesis of [[natural selection]].
 
 >  There can be no doubt that a tribe including many members who, from possessing in a high degree the spirit of patriotism, fidelity, obedience, courage, and sympathy, were always ready to aid one another, and to sacrifice themselves for the common good would be victorious over most other tribes; and this would be [[natural selection]]. 
-> ^[[[10_Sources/books - Darwin's Cathedral#288296631q]]]
+> ^[[[10_Sources/Readwise/Books/books - Darwin's Cathedral#288296631q]]]
 > 
 > <cite> [[Charles Darwin]] 1871 </cite>
 

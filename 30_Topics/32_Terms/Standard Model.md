@@ -12,7 +12,7 @@ sr-ease: 269
 
 #### <s class="topic-title">[[Standard Model]]</s> 
 
-> ![[10_Sources/books - A Short History of Nearly Everything#283957203q]]
+> ![[10_Sources/Readwise/Books/books - A Short History of Nearly Everything#283957203q]]
 
 > [!wikipedia] [Standard Model](https://en.wikipedia.org/wiki/Standard%20Model)
 > 

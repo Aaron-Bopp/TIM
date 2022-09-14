@@ -13,8 +13,8 @@ sr-ease: 228
 
 #### [[Religion as a cruel joke]]
 
-> ![[10_Sources/books - Sapiens#^308819714]]
-> ![[10_Sources/books - Sapiens#^308819715]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819714]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819715]]
 
 - [[The biblical Christian God is evil and does not deserve to be worshipped]]
 

@@ -25,4 +25,4 @@ WHERE contains(topics, this.file.link)
 ```
 %% DO NOT EDIT ABOVE %%
 
-> ![[10_Sources/articles - Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer#242107395q]]
+> ![[10_Sources/Readwise/Articles/articles - Everything I wish I knew when starting to use Obsidian — Nicholas Seitz Photographer#242107395q]]

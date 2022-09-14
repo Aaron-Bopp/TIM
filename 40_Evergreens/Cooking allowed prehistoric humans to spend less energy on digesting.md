@@ -34,4 +34,4 @@ Together, these traits gave us the energy and the time to pursue [[social behavi
 
 ![[Sapiens by Yuval Noah Harari#citation]]
 
-> ![[10_Sources/books - Sapiens#294248523q]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#294248523q]]

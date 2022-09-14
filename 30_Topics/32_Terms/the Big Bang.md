@@ -16,7 +16,7 @@ The Big Bang theory is the prevailing cosmological model explaining the existenc
 
  > In a single blinding pulse, a moment of glory much too swift and expansive for any form of words, the singularity assumes heavenly dimensions, space beyond conception. 
  > 
-> <cite>[[10_Sources/books - A Short History of Nearly Everything#283957201q|A Short History of Nearly Everything by Bill Bryson]]</cite>
+> <cite>[[10_Sources/Readwise/Books/books - A Short History of Nearly Everything#283957201q|A Short History of Nearly Everything by Bill Bryson]]</cite>
 
 > [!wikipedia] [the Big Bang](https://en.wikipedia.org/wiki/Big%20Bang)
 > 
@@ -32,7 +32,7 @@ The Big Bang theory is the prevailing cosmological model explaining the existenc
 > Neither [[general relativity]] nor [[quantum mechanics]] can currently describe the earliest moments of the Big Bang, but in general, quantum mechanics does not permit particles to inhabit a space smaller than their wavelengths. Leading to questions about the [[Initial singularity]]
 > 
 
-> ![[10_Sources/books - A Short History of Nearly Everything#283957202q]]
+> ![[10_Sources/Readwise/Books/books - A Short History of Nearly Everything#283957202q]]
 
 **See**:: [[physics]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*

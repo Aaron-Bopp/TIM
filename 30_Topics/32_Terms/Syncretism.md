@@ -12,7 +12,7 @@ sr-ease: 211
 
 #### <s class="topic-title">[[Syncretism]]</s>
 
-> ![[10_Sources/books - Sapiens#^308819722]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819722]]
 > 
 > <cite>[[Yuval Noah Harari]]</cite>
 

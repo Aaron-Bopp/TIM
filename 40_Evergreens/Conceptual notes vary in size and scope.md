@@ -18,7 +18,7 @@ sr-ease: 130
 > It's a little like Mozart or symphony music. One symphony sounds pretty much like another symphony, if you don't listen to them a whole lot. "Oh, there's some classical music playing."    
 > But then, as you start to listen, and think about what you are listening to, you'll start to notice distinctions and connections, where you didn't notice them before. And as you do so, you'll see this new structure.  
 > That same exact thing happens with the musical stream of thoughts going through your head.  
-> ^[[[10_Sources/articles - General Principles#270304512]]]
+> ^[[[10_Sources/Readwise/Articles/articles - General Principles#270304512]]]
 > 
 > <cite>[[users.speakeasy.net|Lion Kimbro]]</cite>
 

@@ -13,7 +13,7 @@ sr-ease: 246
 
 #### [[Barter economy is limited by speed of communication]]
 
-> ![[10_Sources/books - Sapiens#^308153758]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153758]]
 > 
 > <cite>[[Yuval Noah Harari]]</cite>
 
@@ -31,4 +31,4 @@ you can trust that the money you receive now will be able to procure goods in th
 **Topics**:: [[economy]], [[barter]], [[communication]], [[money]]
 *`$=customJS.dv_funcs.outlinedIn(dv, this)`*
 
-> ![[10_Sources/books - Sapiens#^308153757]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153757]]

@@ -12,7 +12,7 @@ sr-ease: 225
 
 #### <s class="topic-title">[[self-awareness]]</s>
 
-> ![[10_Sources/books - Darwin's Cathedral#294293306q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#294293306q]]
 
 > [!wikipedia] [self-awareness](https://en.wikipedia.org/wiki/Self-awareness)
 > 

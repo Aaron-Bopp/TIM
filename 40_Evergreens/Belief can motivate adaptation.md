@@ -35,6 +35,6 @@ explains:: [[Belief helps us push through hardship]]
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#294094918q]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#294094918q]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^306962121]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^306962121]]

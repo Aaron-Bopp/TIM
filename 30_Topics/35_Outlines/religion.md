@@ -31,8 +31,8 @@ aliases:
 
 #### Discussion
 
-> ![[10_Sources/tweets - Tweets From Marc Andreessen#^301857298]]
+> ![[10_Sources/Readwise/Tweets/tweets - Tweets From Marc Andreessen#^301857298]]
 
-> ![[10_Sources/books - Sapiens#^308475527]]
-> ![[10_Sources/books - Sapiens#^308475624]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475527]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308475624]]
 

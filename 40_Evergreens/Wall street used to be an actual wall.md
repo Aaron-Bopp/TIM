@@ -14,7 +14,7 @@ sr-ease: 246
 #### [[Wall street used to be an actual wall]]
 
 
-> ![[10_Sources/books - Sapiens#^316098114]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^316098114]]
 
 ### <hr class="footnote"/>
 

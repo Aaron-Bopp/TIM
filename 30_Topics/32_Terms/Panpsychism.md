@@ -14,7 +14,7 @@ sr-ease: 231
 #### <s class="topic-title">[[Panpsychism]]</s>
 
 
-> ![[10_Sources/books - Being You#^314685809]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314685809]]
 
 > [!wikipedia] [Panpsychism](https://en.wikipedia.org/wiki/Panpsychism)
 > 

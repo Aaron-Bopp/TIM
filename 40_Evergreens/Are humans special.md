@@ -19,11 +19,11 @@ belief that human's are special, placed in special place in the universe, was im
 This belief resulted in the murder of Galileo.
 
 
-> ![[10_Sources/books - Sapiens#^308819740]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819740]]
 
 
-> ![[10_Sources/books - Sapiens#^297681740]]
-> ![[10_Sources/books - Sapiens#^308819749]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^297681740]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308819749]]
 
 - [[In what way are human's equal]]
 - Is the sun at the center of the universe

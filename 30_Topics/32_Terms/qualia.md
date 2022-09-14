@@ -47,5 +47,5 @@ sr-ease: 247
 #### Discussion
 
 In relation to [[phenomenology]]
-> ![[10_Sources/books - Being You#^314517220]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314517220]]
 

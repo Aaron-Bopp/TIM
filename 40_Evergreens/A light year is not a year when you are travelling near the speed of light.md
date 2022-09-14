@@ -14,7 +14,7 @@ sr-ease: 251
 #### [[A light year is not a year when you are travelling near the speed of light]] 
 
 Plotting a trip to somewhere 25 [[lightyears]] away at 99% the [[speed of light]].
-> ![[10_Sources/books - What Is Relativity#^300340342|full]]
+> ![[10_Sources/Readwise/Books/books - What Is Relativity#^300340342|full]]
 
 ### <hr class="footnote"/>
 

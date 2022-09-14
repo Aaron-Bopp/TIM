@@ -21,7 +21,7 @@ and would in this way create the group cohesiveness needed for [[social order]].
 
 > [!cite] Example: A ritual around electing a King in [[Gabon]] (1868)
 > 
-> ![[10_Sources/books - Darwin's Cathedral#^295490306]]  
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490306]]  
 
 Durkheim felt that emotional catharsis of emotional rituals such as this one in Gabon would both encourage group membership and increase group cohesion, and those familiar with the culture such as [[Malidoma Patrice Some]] said ritual was an inseparable aspect of maintaining social [[responsibility]].
 
@@ -41,10 +41,10 @@ Durkheim felt that emotional catharsis of emotional rituals such as this one in 
 
 ![[Darwin's Cathedral by David Sloan Wilson#citation]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295490302]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490302]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295490287]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490287]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^295490289]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^295490289]]
 
-> ![[10_Sources/books - Darwin's Cathedral#^303348912]]
+> ![[10_Sources/Readwise/Books/books - Darwin's Cathedral#^303348912]]

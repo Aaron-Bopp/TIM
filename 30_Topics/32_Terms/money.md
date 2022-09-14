@@ -14,9 +14,9 @@ sr-ease: 231
 #### <s class="topic-title">[[money]]</s>
 
 
-> ![[10_Sources/books - Sapiens#^308153760]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153760]]
 
-> ![[10_Sources/books - Sapiens#^308153770]]
+> ![[10_Sources/Readwise/Books/books - Sapiens#^308153770]]
 
 
 ##### ^dataviews

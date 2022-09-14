@@ -48,4 +48,4 @@ sr-ease: 231
 #### Discussion
 
 
-> ![[10_Sources/books - Being You#^314685806]]
+> ![[10_Sources/Readwise/Books/books - Being You#^314685806]]
