@@ -14,7 +14,7 @@ sr-ease: 210
 
 What are the methods that keep our [[society]] from collapsing (or keep it in a state of perpetual collapse)?
 
-#####  shared [[belief]]
+##### shared [[belief]]
 
 If we believe [[Social order is built off of a shared belief in an imagined reality]] then we must believe that there is a connection between our shared [[belief]] and the maintenance of our [[material conditions]].
 [[Yuval Noah Harari]] believes our belief in myths is this connection and that losing these beliefs would shake and change our [[social order]].
