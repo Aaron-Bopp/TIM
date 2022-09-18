@@ -23,7 +23,9 @@ tags: created/2022/09/17, review, node/evergreen/claim
 		- Parallel between Denethor and Aragorn
 			- Ecthelion loved Aragorn, Denethor is jealous. Ecthelion is in bad health and starts to prepare Denethor for stewardship by trying to get him to act like Thorongil. Denethor is resentful
 		- Thengel and Théoden - Thengel spent his youth in Gondor and has a disdain for Rohan that Théoden resents
-		- Thranduil and the Elves of Mirkwood continue to battle orcs and spiders from Dol Guldur 
+		- Give some events of the Long Winter to Thengel instead of Helm. Perhaps he defends against Dunlendings but not Easterlings. This gives Thorongil something to do in Rohan
+		- Thorongil and Adrehil II Lord of Dol Amroth become close fighting of Corsairs. Denethor comes at the last second to help
+		- Thranduil and the Elves of Mirkwood continue to battle orcs and spiders from Dol Guldur w 
 	- 2930/31 - Denethor/Aragorn born
 	- 2933 - Arathorn II slain by hill trolls 
 	- 2939 - Saruman starts to observe Sauron's hunt for the Ring and his return to Mordor
