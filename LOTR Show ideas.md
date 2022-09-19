@@ -44,6 +44,25 @@ tags: created/2022/09/17, review, node/evergreen/claim
 	- Emergence of Gollum and him meeting Shelob
 	- 2957
 	- 3002 - Death of Théodwyn and Éomund, Théoden adopts Éowyn and Éomer
+	
+
+### Season 1
+- Timeline: 2929-2933
+- Main Characters: Ecthelion II and his wife, Arathorn II and Gilraen, Elrond, Elrohir, Elladan, Gandalf, Saruman
+- Plot: 
+	- We get to see the births of Aragorn and Denethor and Denethor's sisters. 
+	- Ecthelion is sent by Turgon to clear Umbar of Corsairs. Ecthelion does this by brokering a treatise with the Haradrim as they have also been dealing with Corsair raids. Saruman is instrumental in this and for his help is given Isengard.
+	- Arathorn is the leader of the Dúnedain and is dealing with orc and troll raids from the North. Arathorn clashes with Elrond as he wishes to make a claim for the throne of Gondor. He thinks that they should provide more soldiers for the North. Elrond obviously opposes this as he has foreseen that Arathorn's son will instead be the future leader. This is resolved by Elrond contributing more elves to the defense of Eriador, including his two sons.
+
+### Season 2
+- Timeline: 2953-2963 with a ten year time jump in the middle
+- Main Characters: Ecthelion and his wife, Denethor, Finduilas, Morwen Steelsheen, Thengel, Aragorn, Gilraen, Elrond, Gandalf
+- Plot:
+	- Thengel is in Gondor and has become close with Denethor. Little bit of a love triangle between Thengel, Denethor, and Finduilas as they are all staying in Dol Amroth.
+	- A plague is making its way through Gondor and Rohan. This is why Thengel and Denethor are in Dol Amroth. Ecthelion is still in Minas Tirith because Turgon's health is already not very good. This plague will take Turgon and Fengel causing Ecthelion and Thengel to take their leadership positions early. Thengel's time in Gondor and his Gondorian wife means that he will seem more Gondorian than Rhohirric. Meanwhile Denethor stays in Dol Amroth, enjoying a peaceful life.
+	- At the start of the season Aragorn will still be unaware of his liniege. Gandalf will push Elrond to reveal it while Elrond is hesitant due to Arathorn's hastiness. Gilraen will also be involved in this matter but for much more personal reasons. This will resolve in Aragorn being told, and going to lead the Rangers in the North for a time.
+	- Here we jump ten years forward. The plague has mostly resolved, but Gondor and especially Rohan's populations will be severely hurt. Easterlings will be preparing to take advantage of this. Gandalf makes Elrond and Aragorn aware of this. It is decided that Aragorn should ride south but under pseudonym. 
+	- In Rohan we see Thengel and his children 
 
 ### <hr class="footnote"/>
 
