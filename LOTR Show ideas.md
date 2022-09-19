@@ -58,8 +58,11 @@ tags: created/2022/09/17, review, node/evergreen/claim
 - Timeline: 2953-2963-65 with a ten year time jump in the middle
 - Main Characters: Ecthelion and his wife, Denethor, Finduilas, Morwen Steelsheen, Thengel, Aragorn, Gilraen, Elrond, Gandalf
 - Plot:
-	- Thengel is in Gondor and has become close with Denethor. Little bit of a love triangle between Thengel, Denethor, and Finduilas as they are all staying in Dol Amroth.
+	- Two years prior Sauron has openly declared himself in Mordor. Turgon has refused to ackowledge this as legitimate, believing it a poser. There is strife between Ecthelion and Turgon over this.
+	- Thengel is in Gondor and has become close with Denethor. Little bit of a love triangle between Thengel, Denethor, and Finduilas as they are all staying in Dol Amroth. 
 	- A plague is making its way through Gondor and Rohan. This is why Thengel and Denethor are in Dol Amroth. Ecthelion is still in Minas Tirith because Turgon's health is already not very good. This plague will take Turgon and Fengel causing Ecthelion and Thengel to take their leadership positions early. Thengel's time in Gondor and his Gondorian wife means that he will seem more Gondorian than Rhohirric. Meanwhile Denethor stays in Dol Amroth, enjoying a peaceful life.
+		- Alternatively Thengel is just in Gondor because he dislikes his father and Turgon sends Denethor there because he is in denial about Sauron's return
+		- It could be fun to match Turgon's death with the eruption of Orodruin
 	- At the start of the season Aragorn will still be unaware of his liniege. Gandalf will push Elrond to reveal it while Elrond is hesitant due to Arathorn's hastiness. Gilraen will also be involved in this matter but for much more personal reasons. This will resolve in Aragorn being told, and going to lead the Rangers in the North for a time.
 	- Here we jump ten years forward. The plague has mostly resolved, but Gondor and especially Rohan's populations will be severely hurt. Easterlings will be preparing to take advantage of this. Gandalf makes Elrond and Aragorn aware of this. It is decided that Aragorn should ride south but under pseudonym. 
 	- In Rohan we see Thengel and his children preparing for war against the Easterlings. Thorongil is a greatly received addition as he is an excellent fighter and an even stronger leader. 
