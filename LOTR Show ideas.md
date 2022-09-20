@@ -70,18 +70,29 @@ tags: created/2022/09/17, review, node/evergreen/claim
 ### Season 3
 - Timeline: 2965
 - Main Characters: Ecthelion, Thorongil, Denetho
-- ]]
-- ]/
-  
--
-/\
-'
-\
-\
-
-- 
-- Plot:+
-	- Thorongil turns south after victory against the Easterlings. He begins to serve under Ecthelion as orcs attacks from Mordor start again. Even''''''''''''''==
+- Plot:
+	- Thorongil turns south after victory against the Easterlings. He begins to serve under Ecthelion as orcs attacks from Mordor start again. 
+	
+### Season 4
+- Timeline: 2970
+- Main Characters: 
+- Plot:
+	- After his victory against the Corsairs, Aragorn turns the east and south and travels for years in these lands "learning the hearts of men." While it said that he travels alone often, it is also said that he forges a strong friendship with Gandalf. 
+		- Ideas for these plots
+			- Encounter dark sorcery
+			- Encounter Avari who never went west from Cuivienen
+			- Learn in the arts of healing
+			- Walk in disguise among the slaves of Nurnen
+			- Encounter and possibly ride and Oliphant
+			- Learn different styles of fighting
+			- Aragorn could save someone who then feels like they owe him a life debt and follows him around for a time
+		- There is a chance that these plots could feel very disconnected to the rest of the show, but I still think it could be done well
+			- Sauron is the obvious point to connect these plots to the main story. He would be extending his influence through the south and east and eventually that could be what pushes Aragorn back.
+			- The other reason they feel disconnected is that Aragorn never really makes reference to them. We would want to add callbacks to this time throughout the rest of the show, as well as possibly having some running storylines with people Aragorn meets. This would also allow us to show the fall of these people, that even though their is good in them they still side with Sauron.
+		- We also want to avoid creating a white savior, or disrespecting Asian and African cultures in the process.
+			- We can avoid this with Aragorn through careful crafting of his story, but the issue also comes up with the macro events of the War of the Ring itself. I think we would want to show that only a small portion of the Haradrim and the Easterlings actually come and fight with Sauron.
+			- We should show that the south and east are vast and diverse cultures, and that if not for Sauron and the Corsairs would have vibrant relations with the West. We could even talk of a silk road type scenario that existed in the past, but was cut off through the actions of the Nazgul and later Sauron in Mordor.
+			- The reason that none of these benevolent rulers in the south would get involved in the War should be due to lack of communication rather than lack of care.
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
