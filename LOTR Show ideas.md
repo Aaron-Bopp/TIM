@@ -69,10 +69,19 @@ tags: created/2022/09/17, review, node/evergreen/claim
 	- In Gondor the corsairs have made a resurgence as due to the plague Gondor has not been able to be as vigilant. This weakens their allyship with Harad, so Ecthelion sends Denethor to repair this. Denethor fails in this as his easy upbringing in Dol Amroth has not prepared him for dealings with the hardened Haradrim.
 ### Season 3
 - Timeline: 2965
-- Main Characters: Ecthelion, Thorongil, Denethor, 
-- Plot:
-	- Thorongil turns south after victory against the Easterlings. He begins to serve under Ecthelion as orcs attacks from Mordor start again. Eventually he 
+- Main Characters: Ecthelion, Thorongil, Denetho
+- ]]
+- ]/
+  
+-
+/\
+'
+\
+\
 
+- 
+- Plot:+
+	- Thorongil turns south after victory against the Easterlings. He begins to serve under Ecthelion as orcs attacks from Mordor start again. Even''''''''''''''==
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
