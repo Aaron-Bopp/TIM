@@ -93,6 +93,11 @@ tags: created/2022/09/17, review, node/evergreen/claim
 			- We can avoid this with Aragorn through careful crafting of his story, but the issue also comes up with the macro events of the War of the Ring itself. I think we would want to show that only a small portion of the Haradrim and the Easterlings actually come and fight with Sauron.
 			- We should show that the south and east are vast and diverse cultures, and that if not for Sauron and the Corsairs would have vibrant relations with the West. We could even talk of a silk road type scenario that existed in the past, but was cut off through the actions of the Nazgul and later Sauron in Mordor.
 			- The reason that none of these benevolent rulers in the south would get involved in the War should be due to lack of communication rather than lack of care.
+			
+
+### Season 5
+- Plots: 
+	- Mouth of Sauron Origin - It would be cool to make the Mouth and Gondorian character that we know and that his first great act for Sauron is betraying Ecthelion. 
 ### <hr class="footnote"/>
 
 **Status**:: #EVER/SPROUT
