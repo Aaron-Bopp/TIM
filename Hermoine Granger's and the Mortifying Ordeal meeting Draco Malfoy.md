@@ -9,7 +9,11 @@ tags: created/2022/10/30, review, node/evergreen/claim
 
 #### [[Hermione Granger's and the Mortifying Ordeal meeting Draco Malfoy]]
 
-The text includes the entirety of the original story, with the only removals being of descriptive text of Hermione's actions that have been replaced by her own internal monologue. Most of the additions have been made around dialogue to explain Hermione's banter in the way that Draco's is. This is without a doubt a worse piece of writing than the original, as Hermione's extremely verbose internal monologue upsets the pacing of the story and is often out of place. The main reason this story exists is because as I read this story I would stop multiple times per chapter to imagine what Hermione was thinking, and personally thought it added to the story. If you thought that Draco's "quashing" was bad wait until you read Hermione's incessant overthinking and rationalization of her emotions.
+##### Blurb
+
+The text includes the entirety of the original story, with the only removals being of descriptive text of Hermione's actions that have been replaced by her own internal monologue. Most of the additions have been made around dialogue to explain Hermione's banter in the way that Draco's is. This is without a doubt a worse piece of writing than the original, as Hermione's extremely verbose internal monologue upsets the pacing of the story and is often out of place. The main reason this story exists is because as I read this story I would stop multiple times per chapter to imagine what Hermione was thinking, and personally thought it added to the story. If you thought that Draco's "quashing" was bad wait until you read Hermione's incessant overthinking and rationalization of her emotions. However I still recommend you read the original first as knowing Hermione's intentions removes a certain level of intrigue in the story, and makes quite of a few of the surprise moments less surprising. 
+
+##### Chapter 13
 
 “_Monsieur_’s dessert selection?”
 
