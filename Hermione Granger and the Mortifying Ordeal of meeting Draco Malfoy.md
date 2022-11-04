@@ -7,7 +7,7 @@ tags: created/2022/10/30, review, node/evergreen/claim
 > [!infobox]
 `$=customJS.dv_funcs.mentionedIn(dv)`
 
-#### [[Hermione Granger's and the Mortifying Ordeal meeting Draco Malfoy]]
+#### [[Hermione Granger and the Mortifying Ordeal of meeting Draco Malfoy]]
 
 ##### Blurb
 
