@@ -1,3 +1,5 @@
+cool writing/hp fanfic resources [jess.lauro | TikTok | Linktree](https://linktr.ee/jess.lauro)
+
 > ![[10_Sources/Readwise/Articles/articles - Why Categories for Your Note Archive Are a Bad Idea • Zettelkasten Method#^300003286]]
 
 %% #TO/TEND/MULCH 
