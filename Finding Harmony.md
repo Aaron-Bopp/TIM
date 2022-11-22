@@ -70,11 +70,11 @@ And Hermione had saved her parents.
 Saved? Right?
 
 
-Hermione woke up absolutely exhausted. After being pushed out her parents minds last night by the pure strength of her own obliviation spell she was drained on ever single level.
+Hermione woke up absolutely exhausted. After being pushed out of her parents minds last night by the pure strength of her own obliviation spell, she was drained on ever single level.
 
 Hermione turned over to look at the other side of the tent, but Harry's cot was empty. In fact, it was perfectly made. Had it even been slept in?
 
-By the time Hermione dragged herself out of bed, showered, and ate it was almost ten and Harry was still nowhere to be seen. She contemplated sending a patronus, something that was always risky in war time, but the fact that they had been interacting with muggles so much recently stayed her hand. Breaking the statute of secrecy may not be as bad as giving information to Death Eaters but it certainly involved more paperwork.
+By the time Hermione dragged herself out of bed, showered, and ate it was almost ten and Harry was still nowhere to be seen. She contemplated sending a patronus, something that was always a bit risky, but the fact that they had been interacting with muggles so much recently stayed her hand. Breaking the statute of secrecy may not be as bad as giving information to Death Eaters or alerting your position to snatchers but it certainly involved more paperwork.
 
 Besides, Harry had been with her last night. He had brought her back to the tent, sat with while she sobbed, held her hand and made her tea. Of course he hadn't gone to bed when she did, she was the emotionally drained failure of a daughter not him.
 
