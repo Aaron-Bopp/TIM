@@ -70,6 +70,55 @@ And Hermione had saved her parents.
 Saved? Right?
 
 
+Hermione woke up absolutely exhausted. After being pushed out her parents minds last night by the pure strength of her own obliviation spell she was drained on ever single level.
+
+Hermione turned over to look at the other side of the tent, but Harry's cot was empty. In fact, it was perfectly made. Had it even been slept in?
+
+By the time Hermione dragged herself out of bed, showered, and ate it was almost ten and Harry was still nowhere to be seen. She contemplated sending a patronus, something that was always risky in war time, but the fact that they had been interacting with muggles so much recently stayed her hand. Breaking the statute of secrecy may not be as bad as giving information to Death Eaters but it certainly involved more paperwork.
+
+Besides, Harry had been with her last night. He had brought her back to the tent, sat with while she sobbed, held her hand and made her tea. Of course he hadn't gone to bed when she did, she was the emotionally drained failure of a daughter not him.
+
+Before Hermione could fall back into her spiral of self-hatred, she heard a whistling from outside the tent, followed by the entrance of extremely chipper looking boy who lived.
+
+"Hey Hermione! How you feeling?"
+
+"Fine, not as good as you I gather."
+
+"Well hopefully that will change soon. Come on let's get the tent."
+
+"Harry we can't just leave after one try!"
+
+"Of course not! Come on we are meeting them at the house in fifteen minutes we need to get going."
+
+"Harry where the hell have you been!" This finally elicited a response as Harry looked at her with a gleam in his eyes. Hermione couldn't remember the last time he had looked like this, actually, had he ever looked this? His whole demeanor was different, shoulders light, body relaxed, walking around the room gathering things like he was walking on clouds. It was the most Dumbledorish thing she had seen since second year and, wait, are his eyes fucking sparkling?!
+
+"Errands." Finally his demeanor seemed to dim, and there was moment of guilt, loss, sadness, that rushed over Hermione. "Sorry, I shouldn't have left you without a note you've probably been worrying all morning. There's nothing to be concerned about. We're not leaving your parents, we're not giving up, I just secured us some more permanent lodgings."
+
+"Now, they are actually meeting us there on the hour and we should get going. Again, don't worry I will explain everything."
+
+With that they were moving, packing and securing with an efficiency only born out of months on the run together. Hermione was momentarily sated, but her mind was rushing with questions. What the hell kind of errands keep you up all night and leave you with a skip in your step? And what did he mean permanent lodgings? And how long was he planning on staying here?!! Obviously last night didn't go well but she was still hoping that they could clear this up relatively quickly. They hadn't even talked about time frames yet. It was still June and any obligation they had even considered was months away, but permanent??
+
+Still there was something else keeping Hermione at bay. Harry hadn't just walked into the tent with cheeriness, it was confidence. Hermione had seen Harry confident before but it was mainly on the Quidditch field and... on the Quidditch field. Hunting horcruxes while the entire country was slowly turned against you was definitely not confidence inducing for any of them, and even after killing Voldemort, the most confident she had probably seen Harry was when he was walking to accept his own death.
+
+As they were pulling out the last of tent pegs and magically folding the tent in on itself Hermione made a decision. Whatever the confidence was coming from it didn't matter. She trusted Harry and knew that he valued her welfare just as much if not more than his own. Besides, confidence looked good on him. 
+
+"Ready?" Harry was offering his hand, the confidence fully returned, and maybe just the tiniest hint of a sparkle.
+
+"Yep!" As Hermione grasped his hand there was an instant pull at her navel. The ride was short, and suddenly they were back in her parents neighborhood, but instead of walking towards her parent's house they passed right by it, walking up the front path of the neighbors. Hermione was practically being pulled, her hand still tightly held by Harry.
+
+As they approached the door opened and out stepped a tan man with sandy blonde hair. He was wearing a loose fitting short sleeve button down with a interesting but subdued pattern, and there was a wand in his hand. "Goodaye, mate! Welcome to your new home."
+
+"What?" Hermione was trying to stay calm but her voice was far more shrieky than she wanted it to be. She was in shock now and her past resolution to keep her questions to herself was failing.
+
+"Oh a surprise for the missus? Lucky gal. Come on in and we'll get the wards transferred over to you and be on our way. The Auror office will send the rest of the paperwork through the flew. "
+
+"Hermione! Stop!" His voice was muffled as he spoke into her curls. His hand around the back of her head, the other holding him close to his chest.
+
+"Why the hell would I not want to help my best friend in the entire world get a second chance to have a life with her parents."
+
+Hermione was crying, sobbing really. Her hands now clutching at the back of Harry's jumper. "It's too much Harry. It's just too much."
+
+"It will never be enough"
 
 ### <hr class="footnote"/>
 
