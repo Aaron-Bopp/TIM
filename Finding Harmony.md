@@ -102,21 +102,57 @@ Still there was something else keeping Hermione at bay. Harry hadn't just walked
 
 As they were pulling out the last of tent pegs and magically folding the tent in on itself Hermione made a decision. Whatever the confidence was coming from it didn't matter. She trusted Harry and knew that he valued her welfare just as much if not more than his own. Besides, confidence looked good on him. 
 
-"Ready?" Harry was offering his hand, the confidence fully returned, and maybe just the tiniest hint of a sparkle.
+"Ready?" Harry was offering his hand, the cheeriness fully returned, and maybe just the tiniest hint of a sparkle.
 
-"Yep!" As Hermione grasped his hand there was an instant pull at her navel. The ride was short, and suddenly they were back in her parents neighborhood, but instead of walking towards her parent's house they passed right by it, walking up the front path of the neighbors. Hermione was practically being pulled, her hand still tightly held by Harry.
+"Yep!" As Hermione grasped his hand there was an instant pull at her navel. The ride was short, and suddenly they were back in her parents neighborhood, but instead of walking towards her parent's house they passed right by it, walking up the front path of the neighbors. Hermione was practically being pulled, her hand still tightly held.
 
-As they approached the door opened and out stepped a tan man with sandy blonde hair. He was wearing a loose fitting short sleeve button down with a interesting but subdued pattern, and there was a wand in his hand. "Goodaye, mate! Welcome to your new home."
+As they approached the door opened and out stepped a tan man with sandy blonde hair. He was wearing a loose fitting short sleeve button down with an interesting but subdued pattern, and there was a wand in his hand. "Goodaye, mate! Welcome to your new home."
 
 "What?" Hermione was trying to stay calm but her voice was far more shrieky than she wanted it to be. She was in shock now and her past resolution to keep her questions to herself was failing.
 
-"Oh a surprise for the missus? Lucky gal. Come on in and we'll get the wards transferred over to you and be on our way. The Auror office will send the rest of the paperwork through the flew. "
+"Oh a surprise for the missus? Lucky gal. Come on in and we'll get the wards transferred over to you and be on our way. The Auror office will send the rest of the paperwork through the flew. Wand?" Harry quickly handed over his wand and the sandy haired man was off to living room. Handing his wand over to a brown haired woman who quickly keyed it into the flew before handing it back.
+
+"Harry, I know you said you'd explain everything but I'm starting to doubt that is even possible. How are we in this house? Don't muggles live here?"
+
+"Yep!" There was a slight hint of amusement in his voice but before Hermione could question it, loudly, he had released her hand and was walking over to sandy-hair. Taking his wand they performed a ward transference, and then they were shaking hands. "Thanks for all your help Phil, I really appreciate."
+
+"Of course Mr. Potter. Happy to help."
+
+"Oh please call me Harry, you've more than earned it."
+
+"Well my kid will love to hear that. By the way tell Shacklebolt that Diggerton sends her regards, and that she has a potion that instantly cures international flew sickness." With a wink he was gone, turning to the flew and calling out the name of the Sydney Auror's office. 
+
+The house was quiet. Hermione was gazing intently at the fireplace still questioning everything that just happened as Harry turned to face her.
+
+"Well I suppose I owe you some explanation." There was that sparkle and was that grin sly or devious? Why was Harry Potter looking at her with a devious grin!
+
+"That could be the underestimation of the century. I don't even know where to start but... why?" Hermione couldn't help but throw up her hands with that. She was more than happy to accept confident Harry, but why did it have to be accompanied by devious and not forthcoming Harry!
+
+"Here let's go to the kitchen I'll start us some tea. I think the why is probably the simplest part. I thought we could use a place to plan that was more comfortable than the tent, and that being close to your parents would offer us some unique chances to observe their behavior. I also took the liberty to request some muggle identities, still British of course but something to help us blend in easier. I think they should hopefully come within the next few d-"
+
+"HARRY!"
+
+"What??" Harry had been animatedly getting the tea going while talking, but was now staring at her startled.
+
+"I'm sorry, but- Harry I know that muggles lived here. Where are they?"
+
+With this his grin was back, and he relaxed again leaning on the counter. "Cruise."
+
+"They just happened to be leaving for a cruise today?"
+
+"Well, I'm sure they were elated to be gifted an all expenses paid summer long worldwide cruise and were eager to get going." Harry was looking a bit sheepish now but her piercing stare and silence he continued. "Hermione I told you there's nothing to worry about, and you should know. Now that I have full control of my parents vaults money isn't an issue so do-"
+
+"Harry how long have you been working on this?"
+
+"This morning."
+
+"This. Morning." Hermione's eyes were hot, tears brimming at their edges. "You got this all done this morning Harry. Do you even realize what you've done. All expenses paid or not I know there's no way you didn't have to confund them to get them out this quickly. Did you even check to see if they had responsibilities to care to. Businesses to run. Family who will check in on them. Did you really think you could just use magic to get a couple of muggles out of your way after everything we've been working on. The whole damn reason we're here! Besides you need permits for this stuff Harry! You can't just confund any damn muggle you want, we could get in massive trouble! I know the Auror was here but did you tell him that you just broke international law so you could-"
 
 "Hermione! Stop!" His voice was muffled as he spoke into her curls. His hand around the back of her head, the other holding him close to his chest.
 
-"Why the hell would I not want to help my best friend in the entire world get a second chance to have a life with her parents."
+"Why the hell would I not want to help my best friend in the entire world get a second chance to have a life with her parents!"
 
-Hermione was crying, sobbing really. Her hands now clutching at the back of Harry's jumper. "It's too much Harry. It's just too much."
+Hermione was crying, sobbing really. Her hands now curled into the back of Harry's jumper. "It's too much Harry. It's just too much."
 
 "It will never be enough"
 
