@@ -90,17 +90,17 @@ Before Hermione could fall back into her spiral of self-hatred, she heard a whis
 
 "Of course not! Come on we are meeting them at the house in fifteen minutes we need to get going."
 
-"Harry where the hell have you been!" This finally elicited a response as Harry looked at her with a gleam in his eyes. Hermione couldn't remember the last time he had looked like this, actually, had he ever looked this? His whole demeanor was different, shoulders light, body relaxed, walking around the room gathering things like he was walking on clouds. It was the most Dumbledorish thing she had seen since second year and, wait, are his eyes fucking sparkling?!
+"Harry where the hell have you been!" This finally elicited a response as Harry looked at her with a gleam in his eyes. Hermione couldn't remember the last time he had looked like this, actually, had he ever looked this? His whole demeanor was different, shoulders light, body relaxed, walking around the room gathering things like he was dancing on clouds. It was the most Dumbledorish thing she had seen since second year and, wait, are his eyes fucking sparkling?!
 
-"Errands." Finally his demeanor seemed to dim, and there was moment of guilt, loss, sadness, that rushed over Hermione. "Sorry, I shouldn't have left you without a note you've probably been worrying all morning. There's nothing to be concerned about. We're not leaving your parents, we're not giving up, I just secured us some more permanent lodgings."
+"Errands," as he said this his demeanor finally seemed to dim, and there was moment of guilt, loss, sadness, that rushed over Hermione. "Sorry, I shouldn't have left you without a note you've probably been worrying all morning. There's nothing to be concerned about. We're not leaving your parents, we're not giving up, I just secured us some more permanent lodgings."
 
 "Now, they are actually meeting us there on the hour and we should get going. Again, don't worry I will explain everything."
 
 With that they were moving, packing and securing with an efficiency only born out of months on the run together. Hermione was momentarily sated, but her mind was rushing with questions. What the hell kind of errands keep you up all night and leave you with a skip in your step? And what did he mean permanent lodgings? And how long was he planning on staying here?!! Obviously last night didn't go well but she was still hoping that they could clear this up relatively quickly. They hadn't even talked about time frames yet. It was still June and any obligation they had even considered was months away, but permanent??
 
-Still there was something else keeping Hermione at bay. Harry hadn't just walked into the tent with cheeriness, it was confidence. Hermione had seen Harry confident before but it was mainly on the Quidditch field and... on the Quidditch field. Hunting horcruxes while the entire country was slowly turned against you was definitely not confidence inducing for any of them, and even after killing Voldemort, the most confident she had probably seen Harry was when he was walking to accept his own death.
+Still there was something else keeping Hermione at bay. Harry hadn't just walked into the tent with cheeriness, it was confidence. Hermione had seen Harry confident before but it was mainly on the Quidditch pitch and... on the Quidditch pitch. Hunting horcruxes while the entire country was slowly turned against you was definitely not confidence inducing for any of them, and even after killing Voldemort, the most confident she had probably seen Harry was when he was walking to accept his own death.
 
-As they were pulling out the last of tent pegs and magically folding the tent in on itself Hermione made a decision. Whatever the confidence was coming from it didn't matter. She trusted Harry and knew that he valued her welfare just as much if not more than his own. Besides, confidence looked good on him. 
+As they were pulling out the last of tent pegs and magically folding the tent in on itself Hermione made a decision. Whatever the confidence was coming from, it didn't matter. She trusted Harry and knew that when he did put the planning side of his brain to work it usually went well. Besides, confidence looked good on him. 
 
 "Ready?" Harry was offering his hand, the cheeriness fully returned, and maybe just the tiniest hint of a sparkle.
 
@@ -110,7 +110,7 @@ As they approached the door opened and out stepped a tan man with sandy blonde h
 
 "What?" Hermione was trying to stay calm but her voice was far more shrieky than she wanted it to be. She was in shock now and her past resolution to keep her questions to herself was failing.
 
-"Oh a surprise for the missus? Lucky gal. Come on in and we'll get the wards transferred over to you and be on our way. The Auror office will send the rest of the paperwork through the flew. Wand?" Harry quickly handed over his wand and the sandy haired man was off to living room. Handing his wand over to a brown haired woman who quickly keyed it into the flew before handing it back.
+"Oh a surprise for the missus? Lucky gal. Come on in and we'll get the wards transferred over to you and be on our way. The Auror office will send the rest of the paperwork through the floo. Wand?" Harry quickly handed over his wand and the sandy haired man was off to the living room. Handing his wand over to a brown haired woman who quickly keyed it into the floo before handing it back.
 
 "Harry, I know you said you'd explain everything but I'm starting to doubt that is even possible. How are we in this house? Don't muggles live here?"
 
@@ -120,13 +120,13 @@ As they approached the door opened and out stepped a tan man with sandy blonde h
 
 "Oh please call me Harry, you've more than earned it."
 
-"Well my kid will love to hear that. By the way tell Shacklebolt that Diggerton sends her regards, and that she has a potion that instantly cures international flew sickness." With a wink he was gone, turning to the flew and calling out the name of the Sydney Auror's office. 
+"Well my kid will love to hear that. By the way tell Shacklebolt that Diggerton sends her regards, and that she has a potion that instantly cures international floo sickness." With a wink he was gone, turning to the floo and calling out the name of the Sydney Auror's office. 
 
 The house was quiet. Hermione was gazing intently at the fireplace still questioning everything that just happened as Harry turned to face her.
 
-"Well I suppose I owe you some explanation." There was that sparkle and was that grin sly or devious? Why was Harry Potter looking at her with a devious grin!
+"Well I suppose I owe you some explanation." There was that sparkle again, and was that grin sly or devious? Why was Harry Potter looking at her with a devious grin!
 
-"That could be the underestimation of the century. I don't even know where to start but... why?" Hermione couldn't help but throw up her hands with that. She was more than happy to accept confident Harry, but why did it have to be accompanied by devious and not forthcoming Harry!
+"That could be the underestimation of the century. I don't even know where to start but...what? how? why?" Hermione couldn't help but throw up her hands and gesticulate wildly. She was more than happy to accept confident Harry, but why did it have to be accompanied by devious and not forthcoming Harry!
 
 "Here let's go to the kitchen I'll start us some tea. I think the why is probably the simplest part. I thought we could use a place to plan that was more comfortable than the tent, and that being close to your parents would offer us some unique chances to observe their behavior. I also took the liberty to request some muggle identities, still British of course but something to help us blend in easier. I think they should hopefully come within the next few d-"
 
@@ -140,13 +140,13 @@ With this his grin was back, and he relaxed again leaning on the counter. "Cruis
 
 "They just happened to be leaving for a cruise today?"
 
-"Well, I'm sure they were elated to be gifted an all expenses paid summer long worldwide cruise and were eager to get going." Harry was looking a bit sheepish now but her piercing stare and silence he continued. "Hermione I told you there's nothing to worry about, and you should know. Now that I have full control of my parents vaults money isn't an issue so do-"
+"Well, I'm sure they were elated to be gifted an all expenses paid summer long worldwide cruise and were eager to get going." Harry was looking a bit sheepish now but at her piercing stare and silence he continued. "Hermione I told you there's nothing to worry about, and you should know. Now that I have full control of my parents vaults money isn't an issue so do-"
 
 "Harry how long have you been working on this?"
 
 "This morning."
 
-"This. Morning." Hermione's eyes were hot, tears brimming at their edges. "You got this all done this morning Harry. Do you even realize what you've done. All expenses paid or not I know there's no way you didn't have to confund them to get them out this quickly. Did you even check to see if they had responsibilities to care to. Businesses to run. Family who will check in on them. Did you really think you could just use magic to get a couple of muggles out of your way after everything we've been working on. The whole damn reason we're here! Besides you need permits for this stuff Harry! You can't just confund any damn muggle you want, we could get in massive trouble! I know the Auror was here but did you tell him that you just broke international law so you could-"
+"This. Morning." Hermione's eyes were hot, tears brimming at their edges. "You got this all done this morning. Harry, do you even realize what you've done? All expenses paid or not I know there's no way you didn't have to confund them to get them out this quickly. Did you even check to see if they had responsibilities to care to? Businesses to run? Family who will check in on them? Did you really think you could just use magic to get a couple of muggles out of your way after everything we've been working on? The whole damn reason we're here! Besides you need permits for this stuff Harry! You can't just confund any muggle you want, we could get in massive trouble! I know the Auror was here but did you tell him that you just broke international law so you could-"
 
 "Hermione! Stop!" His voice was muffled as he spoke into her curls. His hand wrapped around the back of her head, the other holding her close to his chest.
 
