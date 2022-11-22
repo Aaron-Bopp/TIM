@@ -148,11 +148,13 @@ With this his grin was back, and he relaxed again leaning on the counter. "Cruis
 
 "This. Morning." Hermione's eyes were hot, tears brimming at their edges. "You got this all done this morning Harry. Do you even realize what you've done. All expenses paid or not I know there's no way you didn't have to confund them to get them out this quickly. Did you even check to see if they had responsibilities to care to. Businesses to run. Family who will check in on them. Did you really think you could just use magic to get a couple of muggles out of your way after everything we've been working on. The whole damn reason we're here! Besides you need permits for this stuff Harry! You can't just confund any damn muggle you want, we could get in massive trouble! I know the Auror was here but did you tell him that you just broke international law so you could-"
 
-"Hermione! Stop!" His voice was muffled as he spoke into her curls. His hand around the back of her head, the other holding him close to his chest.
+"Hermione! Stop!" His voice was muffled as he spoke into her curls. His hand wrapped around the back of her head, the other holding her close to his chest.
 
-"Why the hell would I not want to help my best friend in the entire world get a second chance to have a life with her parents!"
+He had moved so fast. Grabbing her and holding her before she even had a chance to fully fall apart. 
 
-Hermione was crying, sobbing really. Her hands now curled into the back of Harry's jumper. "It's too much Harry. It's just too much."
+"Why the hell would I not want to help my best friend get a second chance to have a life with her parents?"
+
+Hermione was crying now, sobbing really. Her hands curled into the back of Harry's jumper. "It's too much Harry. You're doing too much." 
 
 "It will never be enough"
 
